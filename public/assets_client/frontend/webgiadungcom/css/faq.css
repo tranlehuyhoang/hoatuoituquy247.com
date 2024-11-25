@@ -1,0 +1,42 @@
+.faqList {
+    background: #fff;
+    display: block;
+    overflow: hidden;
+    padding: 20px 0;
+    width: 100%
+}
+
+.faqList__title {
+    display: block;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    width: 100%
+}
+
+.faqList__item {
+    align-items: center;
+    background-color: #f6f6f6;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    height: 76px;
+    padding: 0 15px
+}
+
+.faqList__item__image {
+    margin-right: 15px
+}
+
+.faqList__item__image img {
+    height: auto;
+    -o-object-fit: contain;
+    object-fit: contain;
+    width: 40px
+}
+
+.faqList__item__title {
+    font-size: 16px;
+    font-weight: 500;
+    word-break: break-word
+}
