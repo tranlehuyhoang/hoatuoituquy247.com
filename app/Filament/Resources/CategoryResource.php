@@ -74,11 +74,6 @@ class CategoryResource extends Resource
                             ->directory('category_banners') // Tùy chỉnh thư mục lưu trữ banner
                             ->helperText('Tải lên hình ảnh banner cho danh mục. Kích thước khuyến nghị: 1200x600 px'),
 
-                        Toggle::make('show_in_header')
-                            ->label('Hiển Thị Trên Header') // Đổi nhãn sang tiếng Việt
-                            ->required()
-                            ->default(true)
-                            ->helperText('Chọn để hiển thị danh mục này trên header của trang.'),
                     ])
             ]);
     }
@@ -101,10 +96,7 @@ class CategoryResource extends Resource
                 TextColumn::make('slug')
                     ->label('Slug') // Đổi nhãn sang tiếng Việt
                     ->searchable(),
-           
-                IconColumn::make('show_in_header')
-                    ->label('Hiển Thị Trên Header') // Đổi nhãn sang tiếng Việt
-                    ->boolean(),
+
 
                 TextColumn::make('product_count')
                     ->label('Số Sản Phẩm')

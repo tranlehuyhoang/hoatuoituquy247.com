@@ -17,11 +17,7 @@ class Subcategory extends Model
     {
         return $this->belongsTo(Category::class);
     }
-    public function products()
-    {
-        return $this->hasMany(Product::class,'subcategory_id');
-    }
-    
+
     // Nếu bạn muốn thêm phương thức để tạo slug
-  
+
 }

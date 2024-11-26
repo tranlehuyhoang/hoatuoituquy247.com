@@ -2,22 +2,23 @@
 
 namespace App\Helpers;
 
+use App\Models\Product;
 use App\Models\ProductVariant;
 use Illuminate\Support\Facades\Cookie;
 
 class CartManagement
 {
     // Add item to the cart
-    static public function addItemToCart($product_variant_id, $quantity)
+    static public function addItemToCart($product_id, $quantity)
     {
-        // dd("". $product_variant_id);
-        // dd("123". $product_variant_id);
+        // dd("". $product_id);
+        // dd("123". $product_id);
         $cart_items = self::getCartItemsFromCookie();
         $existing_item = null;
 
         // Check if the item already exists in the cart
         foreach ($cart_items as $key => $item) {
-            if ($item['product_variant_id'] == $product_variant_id) {
+            if ($item['product_id'] == $product_id) {
                 $existing_item = $key;
                 break;
             }
@@ -30,23 +31,19 @@ class CartManagement
                 $cart_items[$existing_item]['unit_amount'];
         } else {
             // Fetch the product variant details
-            $variant = ProductVariant::with('product:id,name,slug')->where('id', $product_variant_id)->first(['id', 'name', 'sku', 'price', 'discount_price', 'product_id', 'image', 'warranty_days']);
+            $product = Product::where('id', $product_id)->first(['id', 'name', 'code', 'slug', 'price', 'images']);
 
-            if ($variant) {
+            if ($product) {
                 $cart_items[] = [
-                    'product_variant_id' => $variant->id,
-                    'name'               => $variant->name,
-                    'sku'                => $variant->sku,
-                    'price'              => $variant->price,
-                    'discount_price'     => $variant->discount_price,
-                    'product_id'         => $variant->product_id,
-                    'product_name'       => $variant->product->name,  // Add product name
-                    'product_slug'       => $variant->product->slug,  // Add product slug
-                    'image'              => $variant->image , // Handle case where there might not be an image
+                    'product_id' => $product->id,
+                    'name'               => $product->name,
+                    'code'                => $product->code,
+                    'image'              => $product->images[0],
+                    'slug'              => $product->slug,
+                    'price'              => $product->price,
                     'quantity'           => $quantity,
-                    'unit_amount'        => $variant->price,
-                    'total_amount'       => $variant->price * $quantity ,
-                    'warranty_days'      => $variant->warranty_days,
+                    'unit_amount'        => $product->price,
+                    'total_amount'       => $product->price * $quantity ,
                 ];
             }
         }
@@ -56,18 +53,18 @@ class CartManagement
         return count($cart_items);
     }
 
-    // Add cart item to cookie  
+    // Add cart item to cookie
     static public function addCartItemsToCookie($cart_items)
     {
         Cookie::queue('cart_items', json_encode($cart_items), 60 * 24 * 30);
     }
 
     // Remove cart item from cookie
-    static public function removeCartItem($product_variant_id)
+    static public function removeCartItem($product_id)
     {
         $cart_items = self::getCartItemsFromCookie();
         foreach ($cart_items as $key => $item) {
-            if ($item['product_variant_id'] == $product_variant_id) {
+            if ($item['product_id'] == $product_id) {
                 unset($cart_items[$key]);
                 break; // Exit loop after removing the item
             }
@@ -90,11 +87,11 @@ class CartManagement
     }
 
     // Increment item quantity
-    static public function incrementQuantityToCartItem($product_variant_id)
+    static public function incrementQuantityToCartItem($product_id)
     {
         $cart_items = self::getCartItemsFromCookie();
         foreach ($cart_items as $key => $item) {
-            if ($item['product_variant_id'] == $product_variant_id) {
+            if ($item['product_id'] == $product_id) {
                 $cart_items[$key]['quantity']++;
                 $cart_items[$key]['total_amount'] = $cart_items[$key]['quantity'] * $cart_items[$key]['unit_amount'];
                 break; // Exit loop after updating the item
@@ -105,11 +102,11 @@ class CartManagement
     }
 
     // Decrement quantity
-    static public function decrementQuantityToCartItem($product_variant_id)
+    static public function decrementQuantityToCartItem($product_id)
     {
         $cart_items = self::getCartItemsFromCookie();
         foreach ($cart_items as $key => $item) {
-            if ($item['product_variant_id'] == $product_variant_id) {
+            if ($item['product_id'] == $product_id) {
                 if ($cart_items[$key]['quantity'] > 1) {
                     $cart_items[$key]['quantity']--;
                     $cart_items[$key]['total_amount'] = $cart_items[$key]['quantity'] * $cart_items[$key]['unit_amount'];

@@ -47,9 +47,9 @@
             <meta property="og:url" content="https://tramhoa.com/thanh-toan/" />
             <meta property="og:site_name" content="Trạm Hoa" />
             <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
-            <meta property="og:image" content="https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg" />
+            <meta property="og:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
             <meta property="og:image:secure_url"
-                content="https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg" />
+                content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
             <meta property="og:image:width" content="1280" />
             <meta property="og:image:height" content="520" />
             <meta property="og:image:alt" content="Thanh toán" />
@@ -60,10 +60,10 @@
             <meta name="twitter:site" content="@tramhoavn" />
             <meta name="twitter:creator" content="@tramhoavn" />
             <meta name="twitter:image"
-                content="https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg" />
+                content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
             <meta name="twitter:label1" content="Thời gian để đọc" />
             <meta name="twitter:data1" content="Chưa đến một phút" />
-            <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"https://tramhoa.com/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"https://tramhoa.com/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg","url":"https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg","width":"1280","height":"520","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/thanh-toan/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/thanh-toan/","name":"Thanh to\u00e1n"}}]},{"@type":"WebPage","@id":"https://tramhoa.com/thanh-toan/#webpage","url":"https://tramhoa.com/thanh-toan/","name":"Thanh to\u00e1n - Tr\u1ea1m Hoa","datePublished":"2019-08-22T04:03:42+07:00","dateModified":"2019-08-22T04:03:42+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/thanh-toan/#breadcrumb"}},{"@type":"Person","@id":"https://tramhoa.com/thanh-toan/#author","name":"Tr\u1ea1m Hoa","image":{"@type":"ImageObject","@id":"https://tramhoa.com/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","url":"https://tramhoa.com/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","caption":"Tr\u1ea1m Hoa","inLanguage":"vi"},"worksFor":{"@id":"https://tramhoa.com/#organization"}},{"@type":"Article","headline":"Thanh to\u00e1n - Tr\u1ea1m Hoa","datePublished":"2019-08-22T04:03:42+07:00","dateModified":"2019-08-22T04:03:42+07:00","author":{"@id":"https://tramhoa.com/thanh-toan/#author","name":"Tr\u1ea1m Hoa"},"publisher":{"@id":"https://tramhoa.com/#organization"},"name":"Thanh to\u00e1n - Tr\u1ea1m Hoa","@id":"https://tramhoa.com/thanh-toan/#richSnippet","isPartOf":{"@id":"https://tramhoa.com/thanh-toan/#webpage"},"image":{"@id":"https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://tramhoa.com/thanh-toan/#webpage"}}]}</script>
+            <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg","url":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg","width":"1280","height":"520","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/thanh-toan/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/thanh-toan/","name":"Thanh to\u00e1n"}}]},{"@type":"WebPage","@id":"https://tramhoa.com/thanh-toan/#webpage","url":"https://tramhoa.com/thanh-toan/","name":"Thanh to\u00e1n - Tr\u1ea1m Hoa","datePublished":"2019-08-22T04:03:42+07:00","dateModified":"2019-08-22T04:03:42+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/thanh-toan/#breadcrumb"}},{"@type":"Person","@id":"https://tramhoa.com/thanh-toan/#author","name":"Tr\u1ea1m Hoa","image":{"@type":"ImageObject","@id":"/assets/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","url":"/assets/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","caption":"Tr\u1ea1m Hoa","inLanguage":"vi"},"worksFor":{"@id":"https://tramhoa.com/#organization"}},{"@type":"Article","headline":"Thanh to\u00e1n - Tr\u1ea1m Hoa","datePublished":"2019-08-22T04:03:42+07:00","dateModified":"2019-08-22T04:03:42+07:00","author":{"@id":"https://tramhoa.com/thanh-toan/#author","name":"Tr\u1ea1m Hoa"},"publisher":{"@id":"https://tramhoa.com/#organization"},"name":"Thanh to\u00e1n - Tr\u1ea1m Hoa","@id":"https://tramhoa.com/thanh-toan/#richSnippet","isPartOf":{"@id":"https://tramhoa.com/thanh-toan/#webpage"},"image":{"@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://tramhoa.com/thanh-toan/#webpage"}}]}</script>
             <!-- /Plugin SEO WordPress Rank Math -->
 
             <link rel='dns-prefetch' href='//ajax.googleapis.com' />
@@ -73,21 +73,21 @@
             <link rel='dns-prefetch' href='//connect.facebook.net' />
             <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
             <link rel='prefetch'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
+                href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
             <link rel='prefetch'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
+                href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
             <link rel='prefetch'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
+                href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
             <link rel='prefetch'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
+                href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
             <link rel='prefetch'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
+                href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
             <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
                 href="https://tramhoa.com/feed/" />
             <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
                 href="https://tramhoa.com/comments/feed/" />
             <link rel='stylesheet' id='themecomplete-epo-css'
-                href='https://tramhoa.com/wp-content/plugins/woocommerce-tm-extra-product-options/assets/css/epo.min.css'
+                href='/assets/wp-content/plugins/woocommerce-tm-extra-product-options/assets/css/epo.min.css'
                 type='text/css' media='all' />
             <style id='wp-block-library-inline-css' type='text/css'>
                 :root {
@@ -304,13 +304,13 @@
                 }
             </style>
             <link rel='stylesheet' id='contact-form-7-css'
-                href='https://tramhoa.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css'
+                href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css'
                 media='all' />
             <link rel='stylesheet' id='dwas_styles-css'
-                href='https://tramhoa.com/wp-content/plugins/devvn-woo-address-selectbox/assets/css/devvn_dwas_style.css'
+                href='/assets/wp-content/plugins/devvn-woo-address-selectbox/assets/css/devvn_dwas_style.css'
                 type='text/css' media='all' />
             <link rel='stylesheet' id='select2-css'
-                href='https://tramhoa.com/wp-content/plugins/woocommerce/assets/css/select2.css' type='text/css'
+                href='/assets/wp-content/plugins/woocommerce/assets/css/select2.css' type='text/css'
                 media='all' />
             <style id='woocommerce-inline-inline-css' type='text/css'>
                 .woocommerce form .form-row .required {
@@ -321,7 +321,7 @@
                 href='//ajax.googleapis.com/ajax/libs/jqueryui/1.13.3/themes/smoothness/jquery-ui.css?ver=1.13.3'
                 type='text/css' media='all' />
             <link rel='stylesheet' id='yith_wccl_frontend-css'
-                href='https://tramhoa.com/wp-content/plugins/yith-woocommerce-color-label-variations-premium/assets/css/yith-wccl.css'
+                href='/assets/wp-content/plugins/yith-woocommerce-color-label-variations-premium/assets/css/yith-wccl.css'
                 type='text/css' media='all' />
             <style id='yith_wccl_frontend-inline-css' type='text/css'>
                 .select_option .yith_wccl_tooltip>span {
@@ -338,29 +338,29 @@
                 }
             </style>
             <link rel='stylesheet' id='flatsome-woocommerce-extra-product-options-css'
-                href='https://tramhoa.com/wp-content/themes/flatsome/inc/integrations/wc-extra-product-options/extra-product-options.css'
+                href='/assets/wp-content/themes/flatsome/inc/integrations/wc-extra-product-options/extra-product-options.css'
                 type='text/css' media='all' />
             <link rel='stylesheet' id='flatsome-main-css'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/css/flatsome.css' type='text/css'
+                href='/assets/wp-content/themes/flatsome/assets/css/flatsome.css' type='text/css'
                 media='all' />
             <style id='flatsome-main-inline-css' type='text/css'>
                 @font-face {
                     font-family: "fl-icons";
                     font-display: block;
-                    src: url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
+                    src: url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
                     src:
-                        url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
-                        url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
-                        url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
-                        url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
-                        url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
+                        url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
+                        url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
+                        url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
+                        url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
+                        url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
                 }
             </style>
             <link rel='stylesheet' id='flatsome-shop-css'
-                href='https://tramhoa.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css' type='text/css'
+                href='/assets/wp-content/themes/flatsome/assets/css/flatsome-shop.css' type='text/css'
                 media='all' />
             <link rel='stylesheet' id='flatsome-style-css'
-                href='https://tramhoa.com/wp-content/themes/flower-delivery/style.css' type='text/css' media='all' />
+                href='/assets/wp-content/themes/flower-delivery/style.css' type='text/css' media='all' />
             <link crossorigin="anonymous" rel='stylesheet' id='flatsome-googlefonts-css'
                 href='//fonts.googleapis.com/css?family=Nunito+Sans%3Aregular%2C700%2Cregular%2C700%7CPlayfair+Display%3Aregular%2C600&#038;display=swap&#038;ver=3.9'
                 type='text/css' media='all' />
@@ -411,7 +411,7 @@
             </script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/wp-util.min.js" id="wp-util-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js"
                 id="jquery-blockui-js" data-wp-strategy="defer"></script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
@@ -435,10 +435,10 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"
                 id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js" id="selectWoo-js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js" id="selectWoo-js"
                 defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript" id="zxcvbn-async-js-extra">
                 /* <![CDATA[ */
@@ -502,10 +502,10 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js"
                 id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js" id="js-cookie-js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js" id="js-cookie-js"
                 data-wp-strategy="defer"></script>
             <script type="text/javascript" id="woocommerce-js-extra">
                 /* <![CDATA[ */
@@ -516,7 +516,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" id="woocommerce-js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" id="woocommerce-js"
                 data-wp-strategy="defer"></script>
             <script type="text/javascript" id="wc-country-select-js-extra">
                 /* <![CDATA[ */
@@ -537,7 +537,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js"
                 id="wc-country-select-js" data-wp-strategy="defer"></script>
             <script type="text/javascript" id="wc-address-i18n-js-extra">
                 /* <![CDATA[ */
@@ -550,7 +550,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce-checkout-field-editor/dist/js/frontend.js"
+                src="/assets/wp-content/plugins/woocommerce-checkout-field-editor/dist/js/frontend.js"
                 id="wc-address-i18n-js"></script>
             <script type="text/javascript" id="wc-checkout-js-extra">
                 /* <![CDATA[ */
@@ -569,10 +569,10 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js" id="wc-checkout-js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js" id="wc-checkout-js"
                 defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/analytics-talk-content-tracking.js"
+                src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/analytics-talk-content-tracking.js"
                 id="gtm4wp-scroll-tracking-js"></script>
             <link rel="https://api.w.org/" href="https://tramhoa.com/wp-json/" />
             <link rel="alternate" title="JSON" type="application/json"
@@ -723,7 +723,7 @@
                     font-style: normal;
                     font-weight: 300 900;
                     font-display: fallback;
-                    src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
+                    src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
                     font-stretch: normal;
                 }
 
@@ -732,19 +732,19 @@
                     font-style: normal;
                     font-weight: 400;
                     font-display: fallback;
-                    src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
+                    src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
                 }
             </style>
             <link rel="icon"
-                href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
+                href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
                 sizes="32x32" />
             <link rel="icon"
-                href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
+                href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
                 sizes="192x192" />
             <link rel="apple-touch-icon"
-                href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
+                href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
             <meta name="msapplication-TileImage"
-                content="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+                content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
             <style id="custom-css" type="text/css">
                 :root {
                     --primary-color: #1bbc9b;
@@ -1500,10 +1500,10 @@
                                         title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
                                         rel="home">
                                         <img width="200" height="90"
-                                            src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                            src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                             class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
                                             height="90"
-                                            src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                            src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                             class="header-logo-dark" alt="Trạm Hoa" /></a>
                                 </div>
 
@@ -1535,11 +1535,11 @@
                                                     <a class="" href="tel:+84348278722">
                                                         <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                                             <img width="312" height="92"
-                                                                src="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg"
+                                                                src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg"
                                                                 class="attachment-original size-original"
                                                                 alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
                                                                 decoding="async"
-                                                                srcset="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
+                                                                srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
                                                                 sizes="(max-width: 312px) 100vw, 312px" />
                                                         </div>
                                                     </a>
@@ -2336,7 +2336,7 @@
 
                                                                             <label for="payment_method_momo_qr_scan">
                                                                                 Quét Mã MoMo <img decoding="async"
-                                                                                    src="https://tramhoa.com/wp-content/plugins/thanh-toan-quet-ma-qr-momozalo-paymoca-grab-airpay/public/images/logo-momo.png"
+                                                                                    src="/assets/wp-content/plugins/thanh-toan-quet-ma-qr-momozalo-paymoca-grab-airpay/public/images/logo-momo.png"
                                                                                     alt="Quét Mã MoMo" /> </label>
                                                                             <div class="payment_box payment_method_momo_qr_scan"
                                                                                 style="display:none;">
@@ -2355,7 +2355,7 @@
 
                                                                             <label for="payment_method_zalopay_qr_scan">
                                                                                 Quét Mã QR ZaloPay <img decoding="async"
-                                                                                    src="https://tramhoa.com/wp-content/plugins/thanh-toan-quet-ma-qr-momozalo-paymoca-grab-airpay/public/images/zalopay-icon.png"
+                                                                                    src="/assets/wp-content/plugins/thanh-toan-quet-ma-qr-momozalo-paymoca-grab-airpay/public/images/zalopay-icon.png"
                                                                                     alt="Quét Mã QR ZaloPay" /> </label>
                                                                             <div class="payment_box payment_method_zalopay_qr_scan"
                                                                                 style="display:none;">
@@ -2887,12 +2887,12 @@
 
                 .tramhoavn-pc-contact-bar li.facebook {
                     margin-bottom: 10px;
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
                 .tramhoavn-pc-contact-bar li.zalo {
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
@@ -2931,12 +2931,12 @@
 
                     .tramhoavn-mobile-contact-bar li.facebook {
                         margin-bottom: 8px;
-                        background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                        background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                         background-repeat: no-repeat;
                     }
 
                     .tramhoavn-mobile-contact-bar li.zalo {
-                        background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                        background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                         background-repeat: no-repeat;
                     }
 
@@ -2947,7 +2947,7 @@
                     }
 
                     .tramhoavn-mobile-contact-bar li.hotline {
-                        background: url(https://tramhoa.com/wp-content/uploads/2021/10/p2.gif);
+                        background: url(/assets/wp-content/uploads/2021/10/p2.gif);
                         background-repeat: no-repeat;
                         background-size: 44px;
                     }
@@ -2986,7 +2986,7 @@
                 })();
             </script>
             <link rel='stylesheet' id='wc-blocks-style-css'
-                href='https://tramhoa.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css'
+                href='/assets/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css'
                 type='text/css' media='all' />
             <style id='global-styles-inline-css' type='text/css'>
                 :root {
@@ -3420,7 +3420,7 @@
                 }
             </style>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce-tm-extra-product-options/includes/compatibility/assets/js/cp-quickview.js"
+                src="/assets/wp-content/plugins/woocommerce-tm-extra-product-options/includes/compatibility/assets/js/cp-quickview.js"
                 id="themecomplete-comp-quickview-js"></script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js">
             </script>
@@ -3429,7 +3429,7 @@
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/jquery/ui/slider.min.js"
                 id="jquery-ui-slider-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js"
                 id="wc-jquery-ui-touchpunch-js"></script>
             <script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
                 /* <![CDATA[ */
@@ -3442,7 +3442,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js"
                 id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
             <script type="text/javascript" id="themecomplete-epo-js-extra">
                 /* <![CDATA[ */
@@ -3579,9 +3579,9 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce-tm-extra-product-options/assets/js/epo.min.js"
+                src="/assets/wp-content/plugins/woocommerce-tm-extra-product-options/assets/js/epo.min.js"
                 id="themecomplete-epo-js"></script>
-            <script type="text/javascript" src="https://tramhoa.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js"
+            <script type="text/javascript" src="/assets/wp-content/plugins/contact-form-7/includes/swv/js/index.js"
                 id="swv-js"></script>
             <script type="text/javascript" id="contact-form-7-js-translations">
                 /* <![CDATA[ */
@@ -3623,10 +3623,10 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="https://tramhoa.com/wp-content/plugins/contact-form-7/includes/js/index.js"
+            <script type="text/javascript" src="/assets/wp-content/plugins/contact-form-7/includes/js/index.js"
                 id="contact-form-7-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js" id="select2-js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js" id="select2-js"
                 data-wp-strategy="defer"></script>
             <script type="text/javascript" id="devvn_tinhthanhpho-js-extra">
                 /* <![CDATA[ */
@@ -3642,13 +3642,13 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/devvn-woo-address-selectbox/assets/js/devvn_tinhthanh.js"
+                src="/assets/wp-content/plugins/devvn-woo-address-selectbox/assets/js/devvn_tinhthanh.js"
                 id="devvn_tinhthanhpho-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
+                src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
                 id="gtm4wp-contact-form-7-tracker-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
+                src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
                 id="gtm4wp-form-move-tracker-js"></script>
             <script type="text/javascript" id="gtm4wp-additional-datalayer-pushes-js-after">
                 /* <![CDATA[ */
@@ -3676,10 +3676,10 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
+                src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
                 id="gtm4wp-ecommerce-generic-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
+                src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
                 id="gtm4wp-woocommerce-js"></script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/jquery/ui/datepicker.min.js"
                 id="jquery-ui-datepicker-js"></script>
@@ -3720,7 +3720,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce-checkout-field-editor/dist/js/frontend.js"
+                src="/assets/wp-content/plugins/woocommerce-checkout-field-editor/dist/js/frontend.js"
                 id="wc-checkout-editor-frontend-js"></script>
             <script type="text/javascript" id="yith_wccl_frontend-js-extra">
                 /* <![CDATA[ */
@@ -3747,13 +3747,13 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/yith-woocommerce-color-label-variations-premium/assets/js/yith-wccl.min.js"
+                src="/assets/wp-content/plugins/yith-woocommerce-color-label-variations-premium/assets/js/yith-wccl.min.js"
                 id="yith_wccl_frontend-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js"
+                src="/assets/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js"
                 id="flatsome-live-search-js"></script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js"
                 id="sourcebuster-js-js"></script>
             <script type="text/javascript" id="wc-order-attribution-js-extra">
                 /* <![CDATA[ */
@@ -3788,7 +3788,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js"
                 id="wc-order-attribution-js"></script>
             <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/hoverIntent.min.js" id="hoverIntent-js"></script>
             <script type="text/javascript" id="flatsome-js-js-extra">
@@ -3831,9 +3831,9 @@
                 };
                 /* ]]> */
             </script>
-            <script type="text/javascript" src="https://tramhoa.com/wp-content/themes/flatsome/assets/js/flatsome.js"
+            <script type="text/javascript" src="/assets/wp-content/themes/flatsome/assets/js/flatsome.js"
                 id="flatsome-js-js"></script>
-            <script type="text/javascript" src="https://tramhoa.com/wp-content/themes/flatsome/assets/js/woocommerce.js"
+            <script type="text/javascript" src="/assets/wp-content/themes/flatsome/assets/js/woocommerce.js"
                 id="flatsome-theme-woocommerce-js-js"></script>
             <script type="text/javascript" id="wc-cart-fragments-js-extra">
                 /* <![CDATA[ */
@@ -3847,7 +3847,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"
+                src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"
                 id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript" id="gla-gtag-events-js-extra">
                 /* <![CDATA[ */
@@ -3858,7 +3858,7 @@
                 /* ]]> */
             </script>
             <script type="text/javascript"
-                src="https://tramhoa.com/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js"
+                src="/assets/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js"
                 id="gla-gtag-events-js"></script>
             <!-- WooCommerce JavaScript -->
             <script type="text/javascript">

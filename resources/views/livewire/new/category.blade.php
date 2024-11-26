@@ -1,4 +1,5 @@
 <div>
+
     <head>
         <script data-no-optimize="1">
             var litespeed_docref = sessionStorage.getItem("litespeed_docref");
@@ -13,7 +14,8 @@
         <link rel="pingback" href="https://tramhoa.com/xmlrpc.php" />
         <script
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lPWh0bWwuY2xhc3NOYW1lLnJlcGxhY2UoL1xibm8tanNcYi8sJ2pzJyl9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQp"
-            defer></script> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+            defer></script> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px
+        1500px }
         </style>
         <script data-cfasync="false" data-pagespeed-no-defer>
             var gtm4wp_datalayer_name = "dataLayer";
@@ -45,9 +47,9 @@
         <meta property="og:site_name" content="Trạm Hoa" />
         <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
         <meta property="og:image"
-            content="https://tramhoa.com/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
+            content="/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
         <meta property="og:image:secure_url"
-            content="https://tramhoa.com/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
+            content="/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
         <meta property="og:image:width" content="300" />
         <meta property="og:image:height" content="300" />
         <meta property="og:image:alt" content="Kệ hoa chúc mừng" />
@@ -57,22 +59,21 @@
         <meta name="twitter:description"
             content="Kệ hoa chúc mừng khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện sự tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa." />
         <meta name="twitter:site" content="@tramhoavn" />
-        <meta name="twitter:image" content="https://tramhoa.com/wp-content/uploads/2020/03/default-website-banner.jpg" />
+        <meta name="twitter:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
         <meta name="twitter:label1" content="Sản phẩm" />
         <meta name="twitter:data1" content="187" />
-        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"]},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"K\u1ec7 Hoa Ch\u00fac M\u1eebng"}}]},{"@type":"ItemPage","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage","url":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"121+ K\u1ec7 hoa ch\u00fac m\u1eebng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng, \u0111\u1ed9ng th\u1ed5 \u0111\u1eb9p","isPartOf":{"@id":"https://tramhoa.com/#website"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb"}},{"@type":"Product","name":"K\u1ec7 hoa ch\u00fac m\u1eebng \u0111\u1eb9p t\u1eb7ng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng","description":"K\u1ec7 hoa ch\u00fac m\u1eebng t\u01b0\u1ee3ng tr\u01b0ng cho s\u1ef1 ph\u1ed3n vinh ki\u00eau h\u00e3nh, th\u1ec3 hi\u1ec7n s\u1ef1 t\u00e2m giao, ni\u1ec1m tin v\u00e0 hy v\u1ecdng mong mu\u1ed1n quan h\u1ec7 bay xa.","sku":"HCM00CAT","brand":{"@type":"Brand","name":"Tr\u1ea1m Hoa"},"image":{"@type":"ImageObject","url":"https://tramhoa.com/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung.jpg"},"offers":{"@type":"Offer","url":"https://tramhoa.com/ke-hoa-chuc-mung/","price":"800000","priceCurrency":"VND","availability":"InStock"},"review":{"@type":"Review","author":{"@type":"Person","name":"Tu\u1ea5n Phong"},"reviewRating":{"@type":"Rating","ratingValue":"4.25"}},"mainEntityOfPage":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage"}}]}</script>
+        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"]},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"K\u1ec7 Hoa Ch\u00fac M\u1eebng"}}]},{"@type":"ItemPage","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage","url":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"121+ K\u1ec7 hoa ch\u00fac m\u1eebng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng, \u0111\u1ed9ng th\u1ed5 \u0111\u1eb9p","isPartOf":{"@id":"https://tramhoa.com/#website"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb"}},{"@type":"Product","name":"K\u1ec7 hoa ch\u00fac m\u1eebng \u0111\u1eb9p t\u1eb7ng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng","description":"K\u1ec7 hoa ch\u00fac m\u1eebng t\u01b0\u1ee3ng tr\u01b0ng cho s\u1ef1 ph\u1ed3n vinh ki\u00eau h\u00e3nh, th\u1ec3 hi\u1ec7n s\u1ef1 t\u00e2m giao, ni\u1ec1m tin v\u00e0 hy v\u1ecdng mong mu\u1ed1n quan h\u1ec7 bay xa.","sku":"HCM00CAT","brand":{"@type":"Brand","name":"Tr\u1ea1m Hoa"},"image":{"@type":"ImageObject","url":"/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung.jpg"},"offers":{"@type":"Offer","url":"https://tramhoa.com/ke-hoa-chuc-mung/","price":"800000","priceCurrency":"VND","availability":"InStock"},"review":{"@type":"Review","author":{"@type":"Person","name":"Tu\u1ea5n Phong"},"reviewRating":{"@type":"Rating","ratingValue":"4.25"}},"mainEntityOfPage":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage"}}]}</script>
         <link rel='dns-prefetch' href='//fonts.googleapis.com' />
         <link rel='dns-prefetch' href='//www.facebook.com' />
         <link rel='dns-prefetch' href='//images.dmca.com' />
         <link rel='dns-prefetch' href='//connect.facebook.net' />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
-        <link rel='prefetch' href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
-        <link rel='prefetch' href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
-        <link rel='prefetch' href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
-        <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
+            href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
         <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
             href="https://tramhoa.com/feed/" />
         <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
@@ -294,16 +295,16 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='contact-form-7-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/31b5a56213527a924dd4afdfd32205f6.css?ver=205f6'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/31b5a56213527a924dd4afdfd32205f6.css?ver=205f6' type='text/css'
+            media='all' />
         <style id='woocommerce-inline-inline-css' type='text/css'>
             .woocommerce form .form-row .required {
                 visibility: visible;
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='yith_wccl_frontend-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/182e00b6168e67f914084693f437ff46.css?ver=7ff46'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/182e00b6168e67f914084693f437ff46.css?ver=7ff46' type='text/css'
+            media='all' />
         <style id='yith_wccl_frontend-inline-css' type='text/css'>
             .select_option .yith_wccl_tooltip>span {
                 background: #222222;
@@ -319,30 +320,30 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='flatsome-woocommerce-extra-product-options-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/a986b64bffc0e648c67e1195dec06471.css?ver=06471'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/a986b64bffc0e648c67e1195dec06471.css?ver=06471' type='text/css'
+            media='all' />
         <link data-optimized="1" rel='stylesheet' id='flatsome-main-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/d04399bbaa4a6859235e1b8dddccaa7c.css?ver=caa7c'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/d04399bbaa4a6859235e1b8dddccaa7c.css?ver=caa7c' type='text/css'
+            media='all' />
         <style id='flatsome-main-inline-css' type='text/css'>
             @font-face {
                 font-family: "fl-icons";
                 font-display: block;
-                src: url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
+                src: url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
                 src:
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='flatsome-shop-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/33b2bfc1b5516bafdd9c17803c29a18c.css?ver=9a18c'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/33b2bfc1b5516bafdd9c17803c29a18c.css?ver=9a18c' type='text/css'
+            media='all' />
         <link data-optimized="1" rel='stylesheet' id='flatsome-style-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/b30522833c08a15b9741e11de61d4d7c.css?ver=d4d7c'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/b30522833c08a15b9741e11de61d4d7c.css?ver=d4d7c' type='text/css'
+            media='all' />
         <link crossorigin="anonymous" rel='stylesheet' id='flatsome-googlefonts-css'
             href='//fonts.googleapis.com/css?family=Nunito+Sans%3Aregular%2C700%2Cregular%2C700%7CPlayfair+Display%3Aregular%2C600&#038;display=swap&#038;ver=3.9'
             type='text/css' media='all' />
@@ -363,35 +364,34 @@
         <script type="text/javascript" id="jquery-core-js-extra"
             src="data:text/javascript;base64,dmFyIHhsd2N0eT17ImFqYXhfdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ2ZXJzaW9uIjoiMi4xOS4wIiwid2NfdmVyc2lvbiI6IjkuNC4yIn0="
             defer></script>
-        <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js">
-        </script>
+        <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/9828e24d784bac54fc57893e2a7f7899.js?ver=f7899"
-            id="jquery-migrate-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/9828e24d784bac54fc57893e2a7f7899.js?ver=f7899" id="jquery-migrate-js" defer
+            data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2e51601ce4f05fcc7a3e0a0779357452.js?ver=57452"
-            id="jquery-blockui-js" data-wp-strategy="defer"></script>
+            src="/assets/wp-content/litespeed/js/2e51601ce4f05fcc7a3e0a0779357452.js?ver=57452" id="jquery-blockui-js"
+            data-wp-strategy="defer"></script>
         <script type="text/javascript" id="wc-add-to-cart-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2FkZF90b19jYXJ0X3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiaTE4bl92aWV3X2NhcnQiOiJYZW0gZ2lcdTFlY2YgaFx1MDBlMG5nIiwiY2FydF91cmwiOiJodHRwczpcL1wvdHJhbWhvYS5jb21cL2dpby1oYW5nXC8iLCJpc19jYXJ0IjoiIiwiY2FydF9yZWRpcmVjdF9hZnRlcl9hZGQiOiJ5ZXMifQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/60840d11a513643c6498259240994b4b.js?ver=94b4b"
-            id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+            src="/assets/wp-content/litespeed/js/60840d11a513643c6498259240994b4b.js?ver=94b4b" id="wc-add-to-cart-js"
+            defer="defer" data-wp-strategy="defer"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/0de58fa9c338a177c3a239b9fb30169c.js?ver=0169c" id="js-cookie-js"
+            src="/assets/wp-content/litespeed/js/0de58fa9c338a177c3a239b9fb30169c.js?ver=0169c" id="js-cookie-js"
             data-wp-strategy="defer"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/80164ee73bb4214d01f15d101ac15dbe.js?ver=15dbe"
-            id="gtm4wp-scroll-tracking-js" defer data-deferred="1"></script>
-        <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/ca2816159518af9ef5918fb3cef62dec.js?ver=62dec" id="underscore-js"
+            src="/assets/wp-content/litespeed/js/80164ee73bb4214d01f15d101ac15dbe.js?ver=15dbe" id="gtm4wp-scroll-tracking-js"
             defer data-deferred="1"></script>
+        <script data-optimized="1" type="text/javascript"
+            src="/assets/wp-content/litespeed/js/ca2816159518af9ef5918fb3cef62dec.js?ver=62dec" id="underscore-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="wp-util-js-extra"
             src="data:text/javascript;base64,dmFyIF93cFV0aWxTZXR0aW5ncz17ImFqYXgiOnsidXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAifX0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/54db9ab6109b87c40e195b8eb1215d69.js?ver=15d69" id="wp-util-js"
-            defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/54db9ab6109b87c40e195b8eb1215d69.js?ver=15d69" id="wp-util-js" defer
+            data-deferred="1"></script>
         <link rel="https://api.w.org/" href="https://tramhoa.com/wp-json/" />
         <link rel="alternate" title="JSON" type="application/json"
             href="https://tramhoa.com/wp-json/wp/v2/product_cat/142" />
@@ -468,7 +468,7 @@
                 font-style: normal;
                 font-weight: 300 900;
                 font-display: fallback;
-                src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
+                src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
                 font-stretch: normal;
             }
 
@@ -477,18 +477,17 @@
                 font-style: normal;
                 font-weight: 400;
                 font-display: fallback;
-                src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
+                src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
+        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
             sizes="32x32" />
-        <link rel="icon"
-            href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
+        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
             sizes="192x192" />
         <link rel="apple-touch-icon"
-            href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
+            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
         <meta name="msapplication-TileImage"
-            content="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1127,14 +1126,16 @@
                             </div>
                             <div class="flex-col hide-for-medium flex-center">
                                 <ul class="nav nav-center nav-small  nav-divided">
-                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật</li>
+                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật
+                                    </li>
                                 </ul>
                             </div>
                             <div class="flex-col hide-for-medium flex-right">
                                 <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
                                     <li class="html header-social-icons ml-0">
-                                        <div class="social-icons follow-icons"><a href="http://facebook.com/tramhoavn/"
-                                                target="_blank" data-label="Facebook" class="icon plain facebook tooltip"
+                                        <div class="social-icons follow-icons"><a
+                                                href="http://facebook.com/tramhoavn/" target="_blank"
+                                                data-label="Facebook" class="icon plain facebook tooltip"
                                                 title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
                                                 rel="noopener nofollow"><i class="icon-facebook"></i></a><a
                                                 href="http://instagram.com/tramhoavn/" target="_blank"
@@ -1153,31 +1154,35 @@
                                                 target="_blank" class="icon plain pinterest tooltip"
                                                 title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
                                                 rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                                href="https://vn.linkedin.com/company/tramhoavn/" data-label="LinkedIn"
-                                                target="_blank" class="icon plain linkedin tooltip"
-                                                title="Theo dõi trên LinkedIn" aria-label="Theo dõi trên LinkedIn"
-                                                rel="noopener nofollow"><i class="icon-linkedin"></i></a><a
+                                                href="https://vn.linkedin.com/company/tramhoavn/"
+                                                data-label="LinkedIn" target="_blank"
+                                                class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
+                                                aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
+                                                    class="icon-linkedin"></i></a><a
                                                 href="https://www.youtube.com/channel/UCruCBL76C_O-B7G8oXKIeMQ"
-                                                data-label="YouTube" target="_blank" class="icon plain youtube tooltip"
-                                                title="Theo dõi trên YouTube" aria-label="Theo dõi trên YouTube"
-                                                rel="noopener nofollow"><i class="icon-youtube"></i></a><a
+                                                data-label="YouTube" target="_blank"
+                                                class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
+                                                aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
+                                                    class="icon-youtube"></i></a><a
                                                 href="https://www.flickr.com/photos/tramhoavn/" data-label="Flickr"
                                                 target="_blank" class="icon plain flickr tooltip" title="Flickr"
                                                 aria-label="Flickr" rel="noopener nofollow"><i
-                                                    class="icon-flickr"></i></a><a href="https://500px.com/p/tramhoavn"
-                                                data-label="500px" target="_blank" class="icon plain px500 tooltip"
+                                                    class="icon-flickr"></i></a><a
+                                                href="https://500px.com/p/tramhoavn" data-label="500px"
+                                                target="_blank" class="icon plain px500 tooltip"
                                                 title="Theo dõi trên 500px" aria-label="Theo dõi trên 500px"
                                                 rel="noopener nofollow"><i class="icon-500px"></i></a><a
-                                                href="https://vk.com/tramhoavn" data-label="VKontakte" target="_blank"
-                                                class="icon plain vk tooltip" title="Theo dõi trên VKontakte"
-                                                aria-label="Theo dõi trên VKontakte" rel="noopener nofollow"><i
-                                                    class="icon-vk"></i></a></div>
+                                                href="https://vk.com/tramhoavn" data-label="VKontakte"
+                                                target="_blank" class="icon plain vk tooltip"
+                                                title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
+                                                rel="noopener nofollow"><i class="icon-vk"></i></a></div>
                                     </li>
                                 </ul>
                             </div>
                             <div class="flex-col show-for-medium flex-grow">
                                 <ul class="nav nav-center nav-small mobile-nav  nav-divided">
-                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật</li>
+                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -1185,12 +1190,12 @@
                     <div id="masthead" class="header-main show-logo-center hide-for-sticky">
                         <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
                             <div id="logo" class="flex-col logo"><a href="https://tramhoa.com/"
-                                    title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
+                                    title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
+                                    rel="home">
                                     <img width="200" height="90"
-                                        src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                        src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                         class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
-                                        height="90"
-                                        src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                        height="90" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                         class="header-logo-dark" alt="Trạm Hoa" /></a></div>
                             <div class="flex-col show-for-medium flex-left">
                                 <ul class="mobile-nav nav nav-left ">
@@ -1212,14 +1217,16 @@
                                                             class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
                                                             <div class="ux-mini-cart-empty-icon">
                                                                 <svg xmlns="http://www.w3.org/2000/svg"
-                                                                    viewBox="0 0 17 19" style="opacity:.1;height:80px;">
+                                                                    viewBox="0 0 17 19"
+                                                                    style="opacity:.1;height:80px;">
                                                                     <path
                                                                         d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z"
                                                                         fill-rule="evenodd" clip-rule="evenodd"
                                                                         fill="currentColor"></path>
                                                                 </svg>
                                                             </div>
-                                                            <p class="woocommerce-mini-cart__empty-message empty">Chưa có
+                                                            <p class="woocommerce-mini-cart__empty-message empty">Chưa
+                                                                có
                                                                 sản phẩm trong giỏ hàng.</p>
                                                             <p class="return-to-shop">
                                                                 <a class="button primary wc-backward"
@@ -1243,11 +1250,11 @@
                                                 <a class="" href="tel:+84348278722">
                                                     <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                                         <img width="312" height="92"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
+                                                            src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
                                                             class="attachment-original size-original"
                                                             alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
                                                             decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
+                                                            srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
                                                             sizes="auto, (max-width: 312px) 100vw, 312px" />
                                                     </div>
                                                 </a>
@@ -1264,25 +1271,27 @@
                             <div class="flex-col hide-for-medium flex-right">
                                 <ul
                                     class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                                    <li class="cart-item has-icon has-dropdown"><a href="https://tramhoa.com/gio-hang/"
-                                            class="header-cart-link is-small" title="Giỏ hàng"><i
-                                                class="icon-shopping-cart" data-icon-label="0">
+                                    <li class="cart-item has-icon has-dropdown"><a
+                                            href="https://tramhoa.com/gio-hang/" class="header-cart-link is-small"
+                                            title="Giỏ hàng"><i class="icon-shopping-cart" data-icon-label="0">
                                             </i>
                                         </a>
                                         <ul class="nav-dropdown nav-dropdown-simple">
                                             <li class="html widget_shopping_cart">
                                                 <div class="widget_shopping_cart_content">
-                                                    <div class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
+                                                    <div
+                                                        class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
                                                         <div class="ux-mini-cart-empty-icon">
-                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19"
-                                                                style="opacity:.1;height:80px;">
+                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                viewBox="0 0 17 19" style="opacity:.1;height:80px;">
                                                                 <path
                                                                     d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z"
                                                                     fill-rule="evenodd" clip-rule="evenodd"
                                                                     fill="currentColor"></path>
                                                             </svg>
                                                         </div>
-                                                        <p class="woocommerce-mini-cart__empty-message empty">Chưa có sản
+                                                        <p class="woocommerce-mini-cart__empty-message empty">Chưa có
+                                                            sản
                                                             phẩm trong giỏ hàng.</p>
                                                         <p class="return-to-shop">
                                                             <a class="button primary wc-backward"
@@ -1312,11 +1321,13 @@
                     <div id="wide-nav" class="header-bottom wide-nav flex-has-center hide-for-medium">
                         <div class="flex-row container">
                             <div class="flex-col hide-for-medium flex-left">
-                                <ul class="nav header-nav header-bottom-nav nav-left  nav-spacing-xlarge nav-uppercase">
+                                <ul
+                                    class="nav header-nav header-bottom-nav nav-left  nav-spacing-xlarge nav-uppercase">
                                 </ul>
                             </div>
                             <div class="flex-col hide-for-medium flex-center">
-                                <ul class="nav header-nav header-bottom-nav nav-center  nav-spacing-xlarge nav-uppercase">
+                                <ul
+                                    class="nav header-nav header-bottom-nav nav-center  nav-spacing-xlarge nav-uppercase">
                                     <li id="menu-item-38354"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-ancestor current-menu-parent menu-item-has-children menu-item-38354 active menu-item-design-default has-dropdown">
                                         <a href="https://tramhoa.com/hoa-khai-truong/" class="nav-top-link"
@@ -1325,21 +1336,26 @@
                                         <ul class="sub-menu nav-dropdown nav-dropdown-simple">
                                             <li id="menu-item-22021"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-has-children menu-item-22021 active nav-dropdown-col">
-                                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ Hoa
+                                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ
+                                                    Hoa
                                                     Chúc Mừng</a>
                                                 <ul class="sub-menu nav-column nav-dropdown-simple">
                                                     <li id="menu-item-31278"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
-                                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong Cách
-                                                            Hiện Đại</a></li>
+                                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong
+                                                            Cách
+                                                            Hiện Đại</a>
+                                                    </li>
                                                     <li id="menu-item-31280"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31280">
                                                         <a href="https://tramhoa.com/ke-hoa-chuc-mung-truyen-thong/">Phong
-                                                            Cách Truyền Thống</a></li>
+                                                            Cách Truyền Thống</a>
+                                                    </li>
                                                     <li id="menu-item-31279"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31279">
                                                         <a href="https://tramhoa.com/ke-hoa-chuc-mung-nghe-thuat/">Phong
-                                                            Cách Nghệ Thuật</a></li>
+                                                            Cách Nghệ Thuật</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1356,16 +1372,22 @@
                                                 <ul class="sub-menu nav-column nav-dropdown-simple">
                                                     <li id="menu-item-30921"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30921">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa Tang
-                                                            Trắng</a></li>
+                                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa
+                                                            Tang
+                                                            Trắng</a>
+                                                    </li>
                                                     <li id="menu-item-30923"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30923">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa Tang
-                                                            Tím</a></li>
+                                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa
+                                                            Tang
+                                                            Tím</a>
+                                                    </li>
                                                     <li id="menu-item-30922"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30922">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa Tang
-                                                            Vàng</a></li>
+                                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa
+                                                            Tang
+                                                            Vàng</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-30925"
@@ -1374,16 +1396,22 @@
                                                 <ul class="sub-menu nav-column nav-dropdown-simple">
                                                     <li id="menu-item-30979"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30979">
-                                                        <a href="https://tramhoa.com/vong-hoa-dam-tang-cong-giao/">✝️ Vòng
-                                                            Hoa Công Giáo</a></li>
+                                                        <a href="https://tramhoa.com/vong-hoa-dam-tang-cong-giao/">✝️
+                                                            Vòng
+                                                            Hoa Công Giáo</a>
+                                                    </li>
                                                     <li id="menu-item-29596"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29596">
-                                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám Tang
-                                                            Người Già</a></li>
+                                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám
+                                                            Tang
+                                                            Người Già</a>
+                                                    </li>
                                                     <li id="menu-item-29595"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29595">
-                                                        <a href="https://tramhoa.com/hoa-chia-buon-nghe-thuat/">Hoa Chia
-                                                            Buồn Nghệ Thuật</a></li>
+                                                        <a href="https://tramhoa.com/hoa-chia-buon-nghe-thuat/">Hoa
+                                                            Chia
+                                                            Buồn Nghệ Thuật</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -1396,15 +1424,18 @@
                                         <ul class="sub-menu nav-dropdown nav-dropdown-simple">
                                             <li id="menu-item-4361"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4361">
-                                                <a href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh Nhật Ba Mẹ</a></li>
+                                                <a href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh Nhật Ba Mẹ</a>
+                                            </li>
                                             <li id="menu-item-4364"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4364">
                                                 <a href="https://tramhoa.com/hoa-sinh-nhat-nguoi-yeu/">Sinh Nhật Người
-                                                    Yêu</a></li>
+                                                    Yêu</a>
+                                            </li>
                                             <li id="menu-item-4363"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4363">
                                                 <a href="https://tramhoa.com/hoa-sinh-nhat-khach-hang/">Sinh Nhật Khách
-                                                    Hàng</a></li>
+                                                    Hàng</a>
+                                            </li>
                                             <li id="menu-item-27763"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27763">
                                                 <a href="https://tramhoa.com/hoa-sinh-nhat-tang-sep/">Sinh Nhật Sếp</a>
@@ -1413,7 +1444,8 @@
                                     </li>
                                     <li id="menu-item-29237"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29237 menu-item-design-default">
-                                        <a href="https://tramhoa.com/hoa-tinh-yeu/" class="nav-top-link">Hoa Tình Yêu</a>
+                                        <a href="https://tramhoa.com/hoa-tinh-yeu/" class="nav-top-link">Hoa Tình
+                                            Yêu</a>
                                     </li>
                                     <li id="menu-item-3612"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3612 menu-item-design-default has-dropdown">
@@ -1423,33 +1455,41 @@
                                         <ul class="sub-menu nav-dropdown nav-dropdown-simple">
                                             <li id="menu-item-29208"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29208">
-                                                <a href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a></li>
+                                                <a href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a>
+                                            </li>
                                             <li id="menu-item-29199"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29199">
-                                                <a href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng Dương</a>
+                                                <a href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng
+                                                    Dương</a>
                                             </li>
                                             <li id="menu-item-29232"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29232">
-                                                <a href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a></li>
+                                                <a href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a>
+                                            </li>
                                             <li id="menu-item-29193"
                                                 class="label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29193">
-                                                <a href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu Đơn</a>
+                                                <a href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu
+                                                    Đơn</a>
                                             </li>
                                             <li id="menu-item-7512"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7512">
-                                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a></li>
+                                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a>
+                                            </li>
                                             <li id="menu-item-29599"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29599">
-                                                <a href="https://tramhoa.com/bo-hoa-cuc-tana/">Bó Hoa Cúc Tana</a></li>
+                                                <a href="https://tramhoa.com/bo-hoa-cuc-tana/">Bó Hoa Cúc Tana</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-3614"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3614 menu-item-design-default">
-                                        <a href="https://tramhoa.com/gio-hoa-tuoi/" class="nav-top-link">Giỏ Hoa</a></li>
+                                        <a href="https://tramhoa.com/gio-hoa-tuoi/" class="nav-top-link">Giỏ Hoa</a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="flex-col hide-for-medium flex-right flex-grow">
-                                <ul class="nav header-nav header-bottom-nav nav-right  nav-spacing-xlarge nav-uppercase">
+                                <ul
+                                    class="nav header-nav header-bottom-nav nav-right  nav-spacing-xlarge nav-uppercase">
                                     <li class="header-search header-search-lightbox has-icon">
                                         <a href="#search-lightbox" aria-label="Tìm kiếm" data-open="#search-lightbox"
                                             data-focus="input.search-field" class="is-small">
@@ -1461,8 +1501,10 @@
                                                     <div class="flex-row relative">
                                                         <div class="flex-col flex-grow">
                                                             <label class="screen-reader-text"
-                                                                for="woocommerce-product-search-field-0">Tìm kiếm:</label>
-                                                            <input type="search" id="woocommerce-product-search-field-0"
+                                                                for="woocommerce-product-search-field-0">Tìm
+                                                                kiếm:</label>
+                                                            <input type="search"
+                                                                id="woocommerce-product-search-field-0"
                                                                 class="search-field mb-0"
                                                                 placeholder="Nhập từ khóa cần tìm" value=""
                                                                 name="s" />
@@ -1504,7 +1546,8 @@
                     <div class="flex-col medium-text-center">
                         <p class="woocommerce-result-count hide-for-medium" role="alert" aria-relevant="all"
                             data-is-sorted-by="true">
-                            Hiển thị 1&ndash;60 của 186 kết quả<span class="screen-reader-text">Được sắp xếp theo mức độ
+                            Hiển thị 1&ndash;60 của 186 kết quả<span class="screen-reader-text">Được sắp xếp theo mức
+                                độ
                                 phổ biến</span></p>
                         <form class="woocommerce-ordering" method="get">
                             <select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
@@ -1525,2421 +1568,52 @@
                             <div class="woocommerce-notices-wrapper"></div>
                             <div
                                 class="products row row-small large-columns-5 medium-columns-3 small-columns-2 has-equal-box-heights">
+                             @foreach ($products as $product)
+                             <div
+                             class="product-small col has-hover product type-product post-8846 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+                             <div class="col-inner">
+                                <div class="badge-container absolute left top z-1"></div>
                                 <div
-                                    class="product-small col has-hover product type-product post-8846 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/"
-                                                        aria-label="Mừng Khai Trương">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" fetchpriority="high" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT095<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Mừng
-                                                            Khai Trương</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
+                                    class="product-small box has-hover box-normal box-text-bottom">
+                                    <div class="box-image">
+                                        <div class="">
+                                            <a href="/product/{{$product->slug}}"
+                                                aria-label="{{$product->name}}">
+                                                <img loading="lazy" decoding="async"
+                                                    width="360" height="450"
+                                                    src="{{ Storage::url($product->images[0]) }}"
+                                                    class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                                    alt="{{ $product->name }}"
+                                                    sizes="auto, (max-width: 360px) 100vw, 360px">
+                                            </a>
                                         </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8846,&quot;item_id&quot;:&quot;KT095&quot;,&quot;item_name&quot;:&quot;M\u1eebng Khai Tr\u01b0\u01a1ng&quot;,&quot;sku&quot;:&quot;KT095&quot;,&quot;price&quot;:800000,&quot;stocklevel&quot;:9973,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT095&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-truyen-thong\/khai-truong-hong-phat-kt095\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:1,&quot;product_type&quot;:&quot;simple&quot;}"></span>
+                                        <div class="image-tools top right show-on-hover"></div>
+                                        <div
+                                            class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                        </div>
                                     </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-9140 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-chuc-mung-tan-gia product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/khai-truong-tan-tai-kt105/"
-                                                        aria-label="Khai Trương Tấn Tài">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-105-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT105<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/khai-truong-tan-tai-kt105/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương Tấn Tài</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
+                                    <div class="box-text text-center"
+                                        style="height: 84.6797px;">
+                                        {{ $product->code }}
+                                        <div class="title-wrapper">
+                                            <p class="name product-title woocommerce-loop-product__title"
+                                                style="height: 25.4062px;">
+                                                <a href="{{ url('/products/' . $product->slug) }}"
+                                                    class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
+                                            </p>
                                         </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:9140,&quot;item_id&quot;:&quot;KT105&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng T\u1ea5n T\u00e0i&quot;,&quot;sku&quot;:&quot;KT105&quot;,&quot;price&quot;:1200000,&quot;stocklevel&quot;:9977,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT105&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/khai-truong-tan-tai-kt105\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:2,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-9426 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/khai-truong-hong-phat-kt106/"
-                                                        aria-label="Khai Trương Hồng Phát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt106-khai-truong-hong-phat-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT106<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/khai-truong-hong-phat-kt106/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương Hồng Phát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
+                                        <div class="price-wrapper" style="height: 15.8438px;">
+                                            <span class="price"><span
+                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
+                                                            class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
                                         </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:9426,&quot;item_id&quot;:&quot;KT106&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng H\u1ed3ng Ph\u00e1t&quot;,&quot;sku&quot;:&quot;KT106&quot;,&quot;price&quot;:1200000,&quot;stocklevel&quot;:9985,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT106&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/khai-truong-hong-phat-kt106\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:3,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3019 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/lam-an-phat-dat-kt015/"
-                                                        aria-label="Làm Ăn Phát Đạt">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt015-lam-an-phat-dat-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT015<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/lam-an-phat-dat-kt015/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Làm
-                                                            Ăn Phát Đạt</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3019,&quot;item_id&quot;:&quot;KT015&quot;,&quot;item_name&quot;:&quot;L\u00e0m \u0102n Ph\u00e1t \u0110\u1ea1t&quot;,&quot;sku&quot;:&quot;KT015&quot;,&quot;price&quot;:1200000,&quot;stocklevel&quot;:9988,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT015&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/lam-an-phat-dat-kt015\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:4,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3001 status-publish last instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/do-tham-kt006/"
-                                                        aria-label="Đỏ Thắm">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt006-do-tham-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="Kệ hoa chúc mừng Đỏ Thắm - KT006" decoding="async"
-                                                            loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT006<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/do-tham-kt006/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đỏ
-                                                            Thắm</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3001,&quot;item_id&quot;:&quot;KT006&quot;,&quot;item_name&quot;:&quot;\u0110\u1ecf Th\u1eafm&quot;,&quot;sku&quot;:&quot;KT006&quot;,&quot;price&quot;:1500000,&quot;stocklevel&quot;:9991,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT006&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/do-tham-kt006\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:5,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-2997 status-publish first instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/vung-buoc-thanh-cong-kt004/"
-                                                        aria-label="Vững Bước Thành Công">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt-004-e1721184585847-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT004<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/vung-buoc-thanh-cong-kt004/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Vững
-                                                            Bước Thành Công</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:2997,&quot;item_id&quot;:&quot;KT004&quot;,&quot;item_name&quot;:&quot;V\u1eefng B\u01b0\u1edbc Th\u00e0nh C\u00f4ng&quot;,&quot;sku&quot;:&quot;KT004&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT004&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/vung-buoc-thanh-cong-kt004\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:6,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-2991 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/dom-hoa-ket-trai-kt001/"
-                                                        aria-label="Đơm Hoa Kết Trái">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt001-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT001<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/dom-hoa-ket-trai-kt001/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đơm
-                                                            Hoa Kết Trái</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:2991,&quot;item_id&quot;:&quot;KT001&quot;,&quot;item_name&quot;:&quot;\u0110\u01a1m Hoa K\u1ebft Tr\u00e1i&quot;,&quot;sku&quot;:&quot;KT001&quot;,&quot;price&quot;:2000000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT001&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/dom-hoa-ket-trai-kt001\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:7,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-9433 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/chuc-mung-hong-phat/"
-                                                        aria-label="Chúc Mừng Hồng Phát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt109-hong-phat-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT109<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/chuc-mung-hong-phat/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Chúc
-                                                            Mừng Hồng Phát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:9433,&quot;item_id&quot;:&quot;KT109&quot;,&quot;item_name&quot;:&quot;Ch\u00fac M\u1eebng H\u1ed3ng Ph\u00e1t&quot;,&quot;sku&quot;:&quot;KT109&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9992,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT109&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/chuc-mung-hong-phat\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:8,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-6432 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/sang-trong-kt056/"
-                                                        aria-label="Sang Trọng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt056-sang-trong-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="Kệ Hoa Chúc Mừng Khai Trương Sang Trọng" decoding="async"
-                                                            loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT056<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/sang-trong-kt056/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Sang
-                                                            Trọng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:6432,&quot;item_id&quot;:&quot;KT056&quot;,&quot;item_name&quot;:&quot;Sang Tr\u1ecdng&quot;,&quot;sku&quot;:&quot;KT056&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9992,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT056&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/sang-trong-kt056\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:9,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-6430 status-publish last instock product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/ke-khai-truong-1-tang-kt053/"
-                                                        aria-label="Khai Trương 1 Tầng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt053-ke-hoa-khai-truong-1-tang-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT053<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/ke-khai-truong-1-tang-kt053/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương 1 Tầng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>850.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:6430,&quot;item_id&quot;:&quot;KT053&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng 1 T\u1ea7ng&quot;,&quot;sku&quot;:&quot;KT053&quot;,&quot;price&quot;:850000,&quot;stocklevel&quot;:9992,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT053&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-truyen-thong\/ke-khai-truong-1-tang-kt053\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:10,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3045 status-publish first instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-chuc-mung-tan-gia product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/ban-mai-kt028/"
-                                                        aria-label="Ban Mai">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt028-ban-mai-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT028<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/ban-mai-kt028/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Ban
-                                                            Mai</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3045,&quot;item_id&quot;:&quot;KT028&quot;,&quot;item_name&quot;:&quot;Ban Mai&quot;,&quot;sku&quot;:&quot;KT028&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9992,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT028&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/ban-mai-kt028\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:11,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-27609 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/loi-dep-kt130/"
-                                                        aria-label="Lời Đẹp">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt130-2.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT130<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/loi-dep-kt130/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Lời
-                                                            Đẹp</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>900.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:27609,&quot;item_id&quot;:&quot;KT130&quot;,&quot;item_name&quot;:&quot;L\u1eddi \u0110\u1eb9p&quot;,&quot;sku&quot;:&quot;KT130&quot;,&quot;price&quot;:900000,&quot;stocklevel&quot;:9993,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT130&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/loi-dep-kt130\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:12,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8528 status-publish instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/hong-phat-kt083/"
-                                                        aria-label="Hồng Phát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-083-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT083<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/hong-phat-kt083/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Hồng
-                                                            Phát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8528,&quot;item_id&quot;:&quot;KT083&quot;,&quot;item_name&quot;:&quot;H\u1ed3ng Ph\u00e1t&quot;,&quot;sku&quot;:&quot;KT083&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9993,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT083&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-truyen-thong\/hong-phat-kt083\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:13,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-33068 status-publish instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/loi-chuc-vang-kt156/"
-                                                        aria-label="Lời Chúc Vàng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/03/ke-hoa-khai-truong-kt156-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT156<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/loi-chuc-vang-kt156/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Lời
-                                                            Chúc Vàng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:33068,&quot;item_id&quot;:&quot;KT156&quot;,&quot;item_name&quot;:&quot;L\u1eddi Ch\u00fac V\u00e0ng&quot;,&quot;sku&quot;:&quot;KT156&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9994,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT156&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/loi-chuc-vang-kt156\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:14,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3047 status-publish last instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/dai-cat-dai-loi-kt029/"
-                                                        aria-label="Đại Cát Đại Lợi">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt029-2-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT029<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/dai-cat-dai-loi-kt029/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đại
-                                                            Cát Đại Lợi</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.600.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3047,&quot;item_id&quot;:&quot;KT029&quot;,&quot;item_name&quot;:&quot;\u0110\u1ea1i C\u00e1t \u0110\u1ea1i L\u1ee3i&quot;,&quot;sku&quot;:&quot;KT029&quot;,&quot;price&quot;:1600000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT029&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/dai-cat-dai-loi-kt029\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:15,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8771 status-publish first instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/tien-buoc-kt090/"
-                                                        aria-label="Tiến Bước">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt090-Tien-Buoc-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT090<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/tien-buoc-kt090/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Tiến
-                                                            Bước</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8771,&quot;item_id&quot;:&quot;KT090&quot;,&quot;item_name&quot;:&quot;Ti\u1ebfn B\u01b0\u1edbc&quot;,&quot;sku&quot;:&quot;KT090&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT090&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/tien-buoc-kt090\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:16,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8767 status-publish instock product_cat-ke-hoa-chuc-mung-nghe-thuat product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/nghe-thuat-kt088/"
-                                                        aria-label="Nghệ Thuật">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt088-Nghe-Thuat-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT088<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/nghe-thuat-kt088/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Nghệ
-                                                            Thuật</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8767,&quot;item_id&quot;:&quot;KT088&quot;,&quot;item_name&quot;:&quot;Ngh\u1ec7 Thu\u1eadt&quot;,&quot;sku&quot;:&quot;KT088&quot;,&quot;price&quot;:2300000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT088&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/nghe-thuat-kt088\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:17,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8525 status-publish instock product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6/sac-xanh-kt079/"
-                                                        aria-label="Sắc Xanh">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt079.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT079<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6/sac-xanh-kt079/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Sắc
-                                                            Xanh</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8525,&quot;item_id&quot;:&quot;KT079&quot;,&quot;item_name&quot;:&quot;S\u1eafc Xanh&quot;,&quot;sku&quot;:&quot;KT079&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Ng\u00e0y L\u1ec5&quot;,&quot;item_category2&quot;:&quot;Hoa Ch\u00fac M\u1eebng Ng\u00e0y B\u00e1o Ch\u00ed C\u00e1ch M\u1ea1ng Vi\u1ec7t Nam 21-6&quot;,&quot;id&quot;:&quot;KT079&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ngay-le\/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6\/sac-xanh-kt079\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:18,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3085 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/gan-ket-kt048/"
-                                                        aria-label="Gắn Kết">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt048-1.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT048<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/gan-ket-kt048/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Gắn
-                                                            Kết</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.050.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3085,&quot;item_id&quot;:&quot;KT048&quot;,&quot;item_name&quot;:&quot;G\u1eafn K\u1ebft&quot;,&quot;sku&quot;:&quot;KT048&quot;,&quot;price&quot;:1050000,&quot;stocklevel&quot;:9995,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT048&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/gan-ket-kt048\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:19,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-2995 status-publish last instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/dom-hoa-ket-trai-kt003/"
-                                                        aria-label="Đơm Hoa Kết Trái">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt003-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT003<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/dom-hoa-ket-trai-kt003/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đơm
-                                                            Hoa Kết Trái</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:2995,&quot;item_id&quot;:&quot;KT003&quot;,&quot;item_name&quot;:&quot;\u0110\u01a1m Hoa K\u1ebft Tr\u00e1i&quot;,&quot;sku&quot;:&quot;KT003&quot;,&quot;price&quot;:2000000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT003&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/dom-hoa-ket-trai-kt003\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:20,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-11130 status-publish first instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/vung-vang-kt115/"
-                                                        aria-label="Vững Vàng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2020/01/ke-hoa-khai-truong-kt115-vung-vang-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT115<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/vung-vang-kt115/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Vững
-                                                            Vàng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.400.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:11130,&quot;item_id&quot;:&quot;KT115&quot;,&quot;item_name&quot;:&quot;V\u1eefng V\u00e0ng&quot;,&quot;sku&quot;:&quot;KT115&quot;,&quot;price&quot;:1400000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT115&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/vung-vang-kt115\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:21,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8731 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-tan-gia product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/thuan-loi-kt087/"
-                                                        aria-label="Thuận Lợi">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/12/ke-hoa-khai-truong-kt087-thuan-loi-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT087<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/thuan-loi-kt087/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thuận
-                                                            Lợi</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.700.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8731,&quot;item_id&quot;:&quot;KT087&quot;,&quot;item_name&quot;:&quot;Thu\u1eadn L\u1ee3i&quot;,&quot;sku&quot;:&quot;KT087&quot;,&quot;price&quot;:1700000,&quot;stocklevel&quot;:9996,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT087&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/thuan-loi-kt087\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:22,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3007 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/khai-truong-vinh-quang-kt009/"
-                                                        aria-label="Khai Trương Vinh Quang">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt009-vinh-quang-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT009<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/khai-truong-vinh-quang-kt009/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương Vinh Quang</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3007,&quot;item_id&quot;:&quot;KT009&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng Vinh Quang&quot;,&quot;sku&quot;:&quot;KT009&quot;,&quot;price&quot;:1800000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT009&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/khai-truong-vinh-quang-kt009\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:23,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-31202 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/nhu-y-cat-tuong-kt144/"
-                                                        aria-label="Như Ý Cát Tường">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2022/10/ke-hoa-khai-truong-kt144-nhu-y-cat-tuong-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT144<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/nhu-y-cat-tuong-kt144/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Như
-                                                            Ý Cát Tường</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:31202,&quot;item_id&quot;:&quot;KT144&quot;,&quot;item_name&quot;:&quot;Nh\u01b0 \u00dd C\u00e1t T\u01b0\u1eddng&quot;,&quot;sku&quot;:&quot;KT144&quot;,&quot;price&quot;:1200000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT144&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/nhu-y-cat-tuong-kt144\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:24,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8851 status-publish last instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/danh-vong-kt099/"
-                                                        aria-label="Danh Vọng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt099-danh-vong-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT099<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/danh-vong-kt099/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Danh
-                                                            Vọng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.600.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8851,&quot;item_id&quot;:&quot;KT099&quot;,&quot;item_name&quot;:&quot;Danh V\u1ecdng&quot;,&quot;sku&quot;:&quot;KT099&quot;,&quot;price&quot;:1600000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT099&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/danh-vong-kt099\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:25,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8849 status-publish first instock product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6/tan-tien-kt098/"
-                                                        aria-label="Tân Tiến">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt098-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT098<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6/tan-tien-kt098/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Tân
-                                                            Tiến</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>750.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8849,&quot;item_id&quot;:&quot;KT098&quot;,&quot;item_name&quot;:&quot;T\u00e2n Ti\u1ebfn&quot;,&quot;sku&quot;:&quot;KT098&quot;,&quot;price&quot;:750000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Ng\u00e0y L\u1ec5&quot;,&quot;item_category2&quot;:&quot;Hoa Ch\u00fac M\u1eebng Ng\u00e0y B\u00e1o Ch\u00ed C\u00e1ch M\u1ea1ng Vi\u1ec7t Nam 21-6&quot;,&quot;id&quot;:&quot;KT098&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ngay-le\/hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6\/tan-tien-kt098\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:26,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7343 status-publish instock product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12/truong-ton-kt066/"
-                                                        aria-label="Trường Tồn">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt066-truong-ton-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT066<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12/truong-ton-kt066/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Trường
-                                                            Tồn</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.400.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7343,&quot;item_id&quot;:&quot;KT066&quot;,&quot;item_name&quot;:&quot;Tr\u01b0\u1eddng T\u1ed3n&quot;,&quot;sku&quot;:&quot;KT066&quot;,&quot;price&quot;:1400000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Ng\u00e0y L\u1ec5&quot;,&quot;item_category2&quot;:&quot;Hoa Ch\u00fac M\u1eebng Ng\u00e0y B\u00e1o Ch\u00ed C\u00e1ch M\u1ea1ng Vi\u1ec7t Nam 21-6&quot;,&quot;id&quot;:&quot;KT066&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ngay-le\/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12\/truong-ton-kt066\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:27,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3049 status-publish instock product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-ky-niem-ngay-cuoi product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/tuong-lai-ruc-ro-kt030/"
-                                                        aria-label="Tương Lai Rực Rỡ">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt030-tuong-lai-ruc-ro-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT030<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/tuong-lai-ruc-ro-kt030/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Tương
-                                                            Lai Rực Rỡ</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3049,&quot;item_id&quot;:&quot;KT030&quot;,&quot;item_name&quot;:&quot;T\u01b0\u01a1ng Lai R\u1ef1c R\u1ee1&quot;,&quot;sku&quot;:&quot;KT030&quot;,&quot;price&quot;:1500000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT030&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/tuong-lai-ruc-ro-kt030\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:28,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3043 status-publish instock product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/thuan-buom-xuoi-gio-kt027/"
-                                                        aria-label="Thuận Buồm Xuôi Gió">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt-027-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT027<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/thuan-buom-xuoi-gio-kt027/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thuận
-                                                            Buồm Xuôi Gió</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3043,&quot;item_id&quot;:&quot;KT027&quot;,&quot;item_name&quot;:&quot;Thu\u1eadn Bu\u1ed3m Xu\u00f4i Gi\u00f3&quot;,&quot;sku&quot;:&quot;KT027&quot;,&quot;price&quot;:2200000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT027&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-truyen-thong\/thuan-buom-xuoi-gio-kt027\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:29,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3035 status-publish last instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/chuc-mung-hong-phat-kt023/"
-                                                        aria-label="Chúc Mừng Hồng Phát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2022/05/ke-hoa-khai-truong-kt023-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT023<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/chuc-mung-hong-phat-kt023/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Chúc
-                                                            Mừng Hồng Phát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3035,&quot;item_id&quot;:&quot;KT023&quot;,&quot;item_name&quot;:&quot;Ch\u00fac M\u1eebng H\u1ed3ng Ph\u00e1t&quot;,&quot;sku&quot;:&quot;KT023&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT023&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/chuc-mung-hong-phat-kt023\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:30,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3005 status-publish first instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/khai-truong-hong-kt008/"
-                                                        aria-label="Khai Trương Hồng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt-008-3-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT008<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/khai-truong-hong-kt008/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương Hồng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3005,&quot;item_id&quot;:&quot;KT008&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng H\u1ed3ng&quot;,&quot;sku&quot;:&quot;KT008&quot;,&quot;price&quot;:1800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT008&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/khai-truong-hong-kt008\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:31,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-35985 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/kt166/"
-                                                        aria-label="Tiền Đầy Túi">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt166.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT166<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/kt166/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Tiền
-                                                            Đầy Túi</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>900.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:35985,&quot;item_id&quot;:&quot;KT166&quot;,&quot;item_name&quot;:&quot;Ti\u1ec1n \u0110\u1ea7y T\u00fai&quot;,&quot;sku&quot;:&quot;KT166&quot;,&quot;price&quot;:900000,&quot;stocklevel&quot;:9996,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT166&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/kt166\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:32,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-32843 status-publish instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/sac-do-kt150/"
-                                                        aria-label="Sắc Đỏ">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/03/ke-hoa-khai-truong-kt150-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT150<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/sac-do-kt150/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Sắc
-                                                            Đỏ</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:32843,&quot;item_id&quot;:&quot;KT150&quot;,&quot;item_name&quot;:&quot;S\u1eafc \u0110\u1ecf&quot;,&quot;sku&quot;:&quot;KT150&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT150&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/sac-do-kt150\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:33,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-31170 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/thanh-cong-hong-kt142/"
-                                                        aria-label="Thành Công Hồng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2022/10/ke-hoa-khai-truong-kt142-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT142<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/thanh-cong-hong-kt142/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thành
-                                                            Công Hồng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:31170,&quot;item_id&quot;:&quot;KT142&quot;,&quot;item_name&quot;:&quot;Th\u00e0nh C\u00f4ng H\u1ed3ng&quot;,&quot;sku&quot;:&quot;KT142&quot;,&quot;price&quot;:1000000,&quot;stocklevel&quot;:9997,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT142&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/thanh-cong-hong-kt142\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:34,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8843 status-publish last instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/bien-xanh-kt094/"
-                                                        aria-label="Biển Xanh">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-094-1-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT094<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/bien-xanh-kt094/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Biển
-                                                            Xanh</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8843,&quot;item_id&quot;:&quot;KT094&quot;,&quot;item_name&quot;:&quot;Bi\u1ec3n Xanh&quot;,&quot;sku&quot;:&quot;KT094&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT094&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/bien-xanh-kt094\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:35,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8527 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/ruc-lua-thanh-cong-kt082/"
-                                                        aria-label="Rực Lửa Thành Công">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt082-ruc-lua-thanh-cong-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT082<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/ruc-lua-thanh-cong-kt082/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Rực
-                                                            Lửa Thành Công</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8527,&quot;item_id&quot;:&quot;KT082&quot;,&quot;item_name&quot;:&quot;R\u1ef1c L\u1eeda Th\u00e0nh C\u00f4ng&quot;,&quot;sku&quot;:&quot;KT082&quot;,&quot;price&quot;:1500000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT082&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/ruc-lua-thanh-cong-kt082\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:36,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7346 status-publish instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/ruc-hong-kt069/"
-                                                        aria-label="Rực Hồng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt069-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT069<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/ruc-hong-kt069/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Rực
-                                                            Hồng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7346,&quot;item_id&quot;:&quot;KT069&quot;,&quot;item_name&quot;:&quot;R\u1ef1c H\u1ed3ng&quot;,&quot;sku&quot;:&quot;KT069&quot;,&quot;price&quot;:1500000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT069&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/ruc-hong-kt069\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:37,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7345 status-publish instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/sang-trong-kt068/"
-                                                        aria-label="Sang Trọng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt068-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT068<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/sang-trong-kt068/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Sang
-                                                            Trọng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.350.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7345,&quot;item_id&quot;:&quot;KT068&quot;,&quot;item_name&quot;:&quot;Sang Tr\u1ecdng&quot;,&quot;sku&quot;:&quot;KT068&quot;,&quot;price&quot;:1350000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT068&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/sang-trong-kt068\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:38,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7342 status-publish instock product_cat-hoa-khai-truong product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/khai-truong-phat-tai-kt065/"
-                                                        aria-label="Khai Trương Phát Tài">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt065-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT065<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/khai-truong-phat-tai-kt065/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khai
-                                                            Trương Phát Tài</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.200.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7342,&quot;item_id&quot;:&quot;KT065&quot;,&quot;item_name&quot;:&quot;Khai Tr\u01b0\u01a1ng Ph\u00e1t T\u00e0i&quot;,&quot;sku&quot;:&quot;KT065&quot;,&quot;price&quot;:1200000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT065&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/khai-truong-phat-tai-kt065\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:39,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3087 status-publish last instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/sac-xuan-kt049/"
-                                                        aria-label="Sắc Xuân">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt049-2.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT049<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/sac-xuan-kt049/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Sắc
-                                                            Xuân</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>950.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3087,&quot;item_id&quot;:&quot;KT049&quot;,&quot;item_name&quot;:&quot;S\u1eafc Xu\u00e2n&quot;,&quot;sku&quot;:&quot;KT049&quot;,&quot;price&quot;:950000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT049&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/sac-xuan-kt049\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:40,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3083 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/kt047/"
-                                                        aria-label="Đắc Lợi">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt047-1.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT047<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/kt047/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đắc
-                                                            Lợi</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>900.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3083,&quot;item_id&quot;:&quot;KT047&quot;,&quot;item_name&quot;:&quot;\u0110\u1eafc L\u1ee3i&quot;,&quot;sku&quot;:&quot;KT047&quot;,&quot;price&quot;:900000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT047&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/kt047\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:41,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3063 status-publish instock product_cat-ke-hoa-chuc-mung-nghe-thuat product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-khai-truong product_cat-hoa-ky-niem-ngay-cuoi product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/chuc-mung-kt037/"
-                                                        aria-label="Chúc Mừng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt037-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT037<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/chuc-mung-kt037/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Chúc
-                                                            Mừng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.600.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3063,&quot;item_id&quot;:&quot;KT037&quot;,&quot;item_name&quot;:&quot;Ch\u00fac M\u1eebng&quot;,&quot;sku&quot;:&quot;KT037&quot;,&quot;price&quot;:1600000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT037&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/chuc-mung-kt037\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:42,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3055 status-publish instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/dai-cat-kt033/"
-                                                        aria-label="Đài Cát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt033-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT033<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/dai-cat-kt033/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đài
-                                                            Cát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.600.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3055,&quot;item_id&quot;:&quot;KT033&quot;,&quot;item_name&quot;:&quot;\u0110\u00e0i C\u00e1t&quot;,&quot;sku&quot;:&quot;KT033&quot;,&quot;price&quot;:2600000,&quot;stocklevel&quot;:10000,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT033&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/dai-cat-kt033\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:43,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-3017 status-publish instock product_cat-ke-hoa-chuc-mung-nghe-thuat product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/van-phat-kt014/"
-                                                        aria-label="Vạn Phát">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2020/09/ke-hoa-khai-truong-kt014-2.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT014<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/van-phat-kt014/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Vạn
-                                                            Phát</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:3017,&quot;item_id&quot;:&quot;KT014&quot;,&quot;item_name&quot;:&quot;V\u1ea1n Ph\u00e1t&quot;,&quot;sku&quot;:&quot;KT014&quot;,&quot;price&quot;:1500000,&quot;stocklevel&quot;:9998,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT014&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/van-phat-kt014\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:44,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-2999 status-publish last instock product_cat-ke-hoa-chuc-mung product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/chuc-mung-tan-tien-kt005/"
-                                                        aria-label="Chúc Mừng Tấn Tiến">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt005-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT005<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/chuc-mung-tan-tien-kt005/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Chúc
-                                                            Mừng Tấn Tiến</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.100.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:2999,&quot;item_id&quot;:&quot;KT005&quot;,&quot;item_name&quot;:&quot;Ch\u00fac M\u1eebng T\u1ea5n Ti\u1ebfn&quot;,&quot;sku&quot;:&quot;KT005&quot;,&quot;price&quot;:1100000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT005&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/chuc-mung-tan-tien-kt005\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:45,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-36403 status-publish first instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/huong-thom-kt172/"
-                                                        aria-label="Hương Thơm">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2023/11/ke-hoa-khai-truong-kt172.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT172<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/huong-thom-kt172/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Hương
-                                                            Thơm</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.100.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:36403,&quot;item_id&quot;:&quot;KT172&quot;,&quot;item_name&quot;:&quot;H\u01b0\u01a1ng Th\u01a1m&quot;,&quot;sku&quot;:&quot;KT172&quot;,&quot;price&quot;:1100000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT172&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/huong-thom-kt172\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:46,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-35973 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/kt163/"
-                                                        aria-label="Hồng Hương">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2023/10/ke-hoa-khai-truong-kt163.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT163<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/kt163/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Hồng
-                                                            Hương</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>900.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:35973,&quot;item_id&quot;:&quot;KT163&quot;,&quot;item_name&quot;:&quot;H\u1ed3ng H\u01b0\u01a1ng&quot;,&quot;sku&quot;:&quot;KT163&quot;,&quot;price&quot;:900000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT163&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/kt163\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:47,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-35482 status-publish instock product_cat-ke-hoa-chuc-mung-nghe-thuat product_cat-hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12 product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/kt052/"
-                                                        aria-label="Món Quà">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2023/09/ke-hoa-khai-truong-kt052-1.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT052<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/kt052/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Món
-                                                            Quà</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:35482,&quot;item_id&quot;:&quot;KT052&quot;,&quot;item_name&quot;:&quot;M\u00f3n Qu\u00e0&quot;,&quot;sku&quot;:&quot;KT052&quot;,&quot;price&quot;:2300000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT052&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/kt052\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:48,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-31184 status-publish instock product_cat-hoa-chuc-mung-tan-gia product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/buoc-thanh-cong-kt143/"
-                                                        aria-label="Bước Thành Công">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2022/10/ke-hoa-khai-truong-kt143-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT143<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/buoc-thanh-cong-kt143/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Bước
-                                                            Thành Công</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.250.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:31184,&quot;item_id&quot;:&quot;KT143&quot;,&quot;item_name&quot;:&quot;B\u01b0\u1edbc Th\u00e0nh C\u00f4ng&quot;,&quot;sku&quot;:&quot;KT143&quot;,&quot;price&quot;:1250000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT143&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/buoc-thanh-cong-kt143\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:49,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-30973 status-publish last instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/khai-nguyen-kt135/"
-                                                        aria-label="Khải Nguyên">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2022/10/ke-hoa-khai-truong-kt135-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT135<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/khai-nguyen-kt135/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Khải
-                                                            Nguyên</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:30973,&quot;item_id&quot;:&quot;KT135&quot;,&quot;item_name&quot;:&quot;Kh\u1ea3i Nguy\u00ean&quot;,&quot;sku&quot;:&quot;KT135&quot;,&quot;price&quot;:1800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT135&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/khai-nguyen-kt135\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:50,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-27606 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/dinh-cao-kt128/"
-                                                        aria-label="Đỉnh Cao">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2021/04/ke-hoa-khai-truong-kt128-1.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT128<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/dinh-cao-kt128/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Đỉnh
-                                                            Cao</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:27606,&quot;item_id&quot;:&quot;KT128&quot;,&quot;item_name&quot;:&quot;\u0110\u1ec9nh Cao&quot;,&quot;sku&quot;:&quot;KT128&quot;,&quot;price&quot;:2800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT128&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/dinh-cao-kt128\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:51,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-26261 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-dam-cuoi product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-hoa-ky-niem-ngay-cuoi product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ruc-lua-kt124/"
-                                                        aria-label="Rực Lửa">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2021/01/ke-hoa-khai-truong-kt124-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT124<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ruc-lua-kt124/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Rực
-                                                            Lửa</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:26261,&quot;item_id&quot;:&quot;KT124&quot;,&quot;item_name&quot;:&quot;R\u1ef1c L\u1eeda&quot;,&quot;sku&quot;:&quot;KT124&quot;,&quot;price&quot;:2000000,&quot;stocklevel&quot;:9996,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT124&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ruc-lua-kt124\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:52,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-10514 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-thanh-lap product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-hien-dai has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/thanh-cong-vang-kt114/"
-                                                        aria-label="Thành Công Vàng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2020/01/ke-hoa-khai-truong-kt114-thanh-cong-vang-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT114<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/thanh-cong-vang-kt114/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thành
-                                                            Công Vàng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:10514,&quot;item_id&quot;:&quot;KT114&quot;,&quot;item_name&quot;:&quot;Th\u00e0nh C\u00f4ng V\u00e0ng&quot;,&quot;sku&quot;:&quot;KT114&quot;,&quot;price&quot;:1800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT114&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/thanh-cong-vang-kt114\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:53,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-9137 status-publish instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/hoa-khai-truong/khai-truong-3-tang-kt104/"
-                                                        aria-label="Kệ Hoa 3 Tầng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt104-3-tang-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT104<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/hoa-khai-truong/khai-truong-3-tang-kt104/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Kệ
-                                                            Hoa 3 Tầng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.500.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:9137,&quot;item_id&quot;:&quot;KT104&quot;,&quot;item_name&quot;:&quot;K\u1ec7 Hoa 3 T\u1ea7ng&quot;,&quot;sku&quot;:&quot;KT104&quot;,&quot;price&quot;:2500000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa Khai Tr\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;KT104&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-khai-truong\/khai-truong-3-tang-kt104\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:54,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-9134 status-publish last instock product_cat-hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12/thanh-cong-kt101/"
-                                                        aria-label="Thành Công">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2020/10/ke-hoa-khai-truong-kt101-thanh-cong-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT101<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ngay-le/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12/thanh-cong-kt101/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thành
-                                                            Công</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.150.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:9134,&quot;item_id&quot;:&quot;KT101&quot;,&quot;item_name&quot;:&quot;Th\u00e0nh C\u00f4ng&quot;,&quot;sku&quot;:&quot;KT101&quot;,&quot;price&quot;:1150000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Ng\u00e0y L\u1ec5&quot;,&quot;item_category2&quot;:&quot;Hoa Ch\u00fac M\u1eebng Ng\u00e0y Qu\u00e2n \u0110\u1ed9i Nh\u00e2n D\u00e2n Vi\u1ec7t Nam 22-12&quot;,&quot;id&quot;:&quot;KT101&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ngay-le\/hoa-chuc-mung-ngay-quan-doi-nhan-dan-viet-nam-22-12\/thanh-cong-kt101\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:55,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8835 status-publish first instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/tuong-phan-kt093/"
-                                                        aria-label="Tương Phản">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt093-tuong-phan-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT093<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/tuong-phan-kt093/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Tương
-                                                            Phản</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8835,&quot;item_id&quot;:&quot;KT093&quot;,&quot;item_name&quot;:&quot;T\u01b0\u01a1ng Ph\u1ea3n&quot;,&quot;sku&quot;:&quot;KT093&quot;,&quot;price&quot;:1800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT093&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/tuong-phan-kt093\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:56,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8729 status-publish instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/nang-vang-kt086/"
-                                                        aria-label="Nắng Vàng">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt086-1.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT086<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/nang-vang-kt086/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Nắng
-                                                            Vàng</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.900.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8729,&quot;item_id&quot;:&quot;KT086&quot;,&quot;item_name&quot;:&quot;N\u1eafng V\u00e0ng&quot;,&quot;sku&quot;:&quot;KT086&quot;,&quot;price&quot;:1900000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT086&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/nang-vang-kt086\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:57,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-8529 status-publish instock product_cat-ke-hoa-chuc-mung product_cat-hoa-chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6 product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/phu-tai-kt084/"
-                                                        aria-label="Phú Tài">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt084-phu-tai-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT084<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/phu-tai-kt084/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Phú
-                                                            Tài</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.800.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:8529,&quot;item_id&quot;:&quot;KT084&quot;,&quot;item_name&quot;:&quot;Ph\u00fa T\u00e0i&quot;,&quot;sku&quot;:&quot;KT084&quot;,&quot;price&quot;:2800000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;id&quot;:&quot;KT084&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/phu-tai-kt084\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:58,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7341 status-publish instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-nghe-thuat has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/vinh-hien-kt064/"
-                                                        aria-label="Vinh Hiển">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt064-vinh-hien-360x450.jpg.webp"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT064<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/vinh-hien-kt064/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Vinh
-                                                            Hiển</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>2.000.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7341,&quot;item_id&quot;:&quot;KT064&quot;,&quot;item_name&quot;:&quot;Vinh Hi\u1ec3n&quot;,&quot;sku&quot;:&quot;KT064&quot;,&quot;price&quot;:2000000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT064&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/vinh-hien-kt064\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:59,&quot;product_type&quot;:&quot;simple&quot;}"></span>
-                                    </div>
-                                </div>
-                                <div
-                                    class="product-small col has-hover product type-product post-7327 status-publish last instock product_cat-ke-hoa-chuc-mung-hien-dai product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                                    <div class="col-inner">
-                                        <div class="badge-container absolute left top z-1"></div>
-                                        <div class="product-small box ">
-                                            <div class="box-image">
-                                                <div class="image-none">
-                                                    <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/thang-tien-kt063/"
-                                                        aria-label="Thăng Tiến">
-                                                        <img width="360" height="450"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-360x450.jpg"
-                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                            alt="" decoding="async" loading="lazy"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2019/11/ke-hoa-khai-truong-kt063-2.jpg 960w"
-                                                            sizes="auto, (max-width: 360px) 100vw, 360px" /> </a>
-                                                </div>
-                                                <div class="image-tools is-small top right show-on-hover"></div>
-                                                <div
-                                                    class="image-tools is-small hide-for-small bottom left show-on-hover">
-                                                </div>
-                                                <div
-                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                </div>
-                                            </div>
-                                            <div class="box-text box-text-products text-center grid-style-2">
-                                                KT063<div class="title-wrapper">
-                                                    <p class="name product-title woocommerce-loop-product__title"><a
-                                                            href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-hien-dai/thang-tien-kt063/"
-                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Thăng
-                                                            Tiến</a></p>
-                                                </div>
-                                                <div class="price-wrapper">
-                                                    <span class="price"><span
-                                                            class="woocommerce-Price-amount amount"><bdi>1.300.000&nbsp;<span
-                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <span class="gtm4wp_productdata" style="display:none; visibility:hidden;"
-                                            data-gtm4wp_product_data="{&quot;internal_id&quot;:7327,&quot;item_id&quot;:&quot;KT063&quot;,&quot;item_name&quot;:&quot;Th\u0103ng Ti\u1ebfn&quot;,&quot;sku&quot;:&quot;KT063&quot;,&quot;price&quot;:1300000,&quot;stocklevel&quot;:9999,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Hi\u1ec7n \u0110\u1ea1i&quot;,&quot;id&quot;:&quot;KT063&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-hien-dai\/thang-tien-kt063\/&quot;,&quot;item_list_name&quot;:&quot;General Product List&quot;,&quot;index&quot;:60,&quot;product_type&quot;:&quot;simple&quot;}"></span>
                                     </div>
                                 </div>
                             </div>
+                         </div>
+                             @endforeach
+                            </div>
+
                             <div class="container">
                                 <nav class="woocommerce-pagination" aria-label="Phân trang sản phẩm">
                                     <ul class="page-numbers nav-pagination links text-center">
@@ -3958,8 +1632,10 @@
                             </div>
                             <div class="term-description">
                                 <div class="su-spacer" style="height:30px"></div>
-                                <p><b>Kệ hoa chúc mừng</b> khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện sự
-                                    tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa. Chính vì vậy, việc lựa chọn màu
+                                <p><b>Kệ hoa chúc mừng</b> khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện
+                                    sự
+                                    tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa. Chính vì vậy, việc lựa chọn
+                                    màu
                                     sắc, loài hoa<i>&#8230;</i> vô cùng quan trọng.</p>
                                 <div class="su-expand su-expand-collapsed su-expand-link-style-button"
                                     data-height="100">
@@ -3970,7 +1646,7 @@
                                         <figure id="attachment_32478" aria-describedby="caption-attachment-32478"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-32478"
-                                                src="https://tramhoa.com/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-dep.jpg"
+                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-dep.jpg"
                                                 alt="Kệ hoa chúc mừng khai trương đẹp" width="600"
                                                 height="800" />
                                             <figcaption id="caption-attachment-32478" class="wp-caption-text">Kệ hoa
@@ -3978,19 +1654,24 @@
                                         </figure>
                                         </p>
                                         <p>Lựa chọn hoa chúc mừng sai trong ngày khai trương cũng có thể dẫn đến sự việc
-                                            đáng tiếc. Hãy cùng theo dõi bài viết dưới đây để tìm hiểu ý nghĩa và các loại
-                                            <strong>kệ hoa chúc mừng</strong> được ưa chuộng hiện nay nhé.</p>
+                                            đáng tiếc. Hãy cùng theo dõi bài viết dưới đây để tìm hiểu ý nghĩa và các
+                                            loại
+                                            <strong>kệ hoa chúc mừng</strong> được ưa chuộng hiện nay nhé.
+                                        </p>
                                         <h2>Kệ hoa chúc mừng – món quà tinh thần ý nghĩa</h2>
-                                        <p>Từ lâu, <b>kệ hoa chúc mừng</b> đã trở thành món quà tinh thần quen thuộc trong
-                                            các dịp khai trương, khánh thành, động thổ hay các hoạt động kinh doanh, khởi
+                                        <p>Từ lâu, <b>kệ hoa chúc mừng</b> đã trở thành món quà tinh thần quen thuộc
+                                            trong
+                                            các dịp khai trương, khánh thành, động thổ hay các hoạt động kinh doanh,
+                                            khởi
                                             động dự án&#8230; Kệ hoa chúc mừng thường có 1, 2 hoặc 3 tầng tùy theo mong
-                                            muốn, nhu cầu của khách hàng. Màu sắc thường đa dạng, rực rỡ thể hiện sự tươi
+                                            muốn, nhu cầu của khách hàng. Màu sắc thường đa dạng, rực rỡ thể hiện sự
+                                            tươi
                                             vui, mới mẻ.</p>
                                         <p>
                                         <figure id="attachment_32477" aria-describedby="caption-attachment-32477"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-32477"
-                                                src="https://tramhoa.com/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-Mon-qua-tinh-than-y-nghia.jpg"
+                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-Mon-qua-tinh-than-y-nghia.jpg"
                                                 alt="Kệ hoa chúc mừng - Món quà tinh thần ý nghĩa" width="600"
                                                 height="800" />
                                             <figcaption id="caption-attachment-32477" class="wp-caption-text">Kệ hoa
@@ -3998,7 +1679,8 @@
                                         </figure>
                                         </p>
                                         <p><b>Kệ hoa chúc mừng</b> được xem là món quà tinh thần ý nghĩa như một lời cầu
-                                            chúc suôn sẻ, thành công đối với người nhận. Nó vừa là lời chúc vừa là đồ trang
+                                            chúc suôn sẻ, thành công đối với người nhận. Nó vừa là lời chúc vừa là đồ
+                                            trang
                                             trí buổi lễ thêm long trọng và đẹp mắt.</p>
                                         <h2>Ý nghĩa của màu sắc các loài hoa chúc mừng</h2>
                                         <h3>Kệ hoa chúc mừng màu đỏ</h3>
@@ -4006,25 +1688,30 @@
                                         <figure id="attachment_26901" aria-describedby="caption-attachment-26901"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-26901"
-                                                src="https://tramhoa.com/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-do.jpg.webp"
+                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-do.jpg.webp"
                                                 alt="Kệ hoa chúc mừng màu đỏ" width="600" height="737" />
                                             <figcaption id="caption-attachment-26901" class="wp-caption-text">Kệ hoa
                                                 chúc mừng màu đỏ</figcaption>
                                         </figure>
                                         </p>
-                                        <p>Màu đỏ của hoa tươi mang đến cảm giác năng động, nhiệt huyết, mang ý nghĩa may
-                                            mắn, phát tài phát lộc. Nó cũng thể hiện tấm lòng của bạn mong muốn người nhận
+                                        <p>Màu đỏ của hoa tươi mang đến cảm giác năng động, nhiệt huyết, mang ý nghĩa
+                                            may
+                                            mắn, phát tài phát lộc. Nó cũng thể hiện tấm lòng của bạn mong muốn người
+                                            nhận
                                             luôn thành công, suôn sẻ trong công việc.</p>
                                         <h3>Kệ hoa chúc mừng màu vàng</h3>
-                                        <p>Theo phong thủy, màu vàng đại diện cho sự phấn khởi, vui vẻ, lạc quan. Màu vàng
-                                            là màu của mặt trời, của hoàng kim đem lại cảm giác ấm áp, giàu sang. Tặng bạn
-                                            một kệ hoa chúc mừng màu vàng như một lời chúc làm ăn phát đạt, nhiều lợi nhuận.
+                                        <p>Theo phong thủy, màu vàng đại diện cho sự phấn khởi, vui vẻ, lạc quan. Màu
+                                            vàng
+                                            là màu của mặt trời, của hoàng kim đem lại cảm giác ấm áp, giàu sang. Tặng
+                                            bạn
+                                            một kệ hoa chúc mừng màu vàng như một lời chúc làm ăn phát đạt, nhiều lợi
+                                            nhuận.
                                             Vì vậy kệ hoa chúc mừng thường mang màu vàng chủ đạo.</p>
                                         <p>
                                         <figure id="attachment_32473" aria-describedby="caption-attachment-32473"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-32473"
-                                                src="https://tramhoa.com/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-mau-vang-hien-dai.jpg"
+                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-mau-vang-hien-dai.jpg"
                                                 alt="Kệ hoa chúc mừng khai trương màu vàng hiện đại" width="600"
                                                 height="800" />
                                             <figcaption id="caption-attachment-32473" class="wp-caption-text">Kệ hoa
@@ -4035,14 +1722,15 @@
                                                 href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/" target="_blank"
                                                 rel="nofollow noopener">mẫu hoa chúc mừng hiện đại nổi bật</a></p>
                                         <h3>Kệ hoa chúc mừng màu cam</h3>
-                                        <p>Màu cam thể hiện sự năng động, sáng tạo và mới mẻ. Tặng bạn một kệ hoa chúc mừng
+                                        <p>Màu cam thể hiện sự năng động, sáng tạo và mới mẻ. Tặng bạn một kệ hoa chúc
+                                            mừng
                                             màu cam tức là chúc bạn có thật nhiều năng lượng, làm việc hiệu quả, gặt hái
                                             được nhiều thành công.</p>
                                         <p>
                                         <figure id="attachment_32472" aria-describedby="caption-attachment-32472"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-32472"
-                                                src="https://tramhoa.com/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-mau-cam.jpg"
+                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-mau-cam.jpg"
                                                 alt="Kệ hoa chúc mừng màu cam" width="600" height="800" />
                                             <figcaption id="caption-attachment-32472" class="wp-caption-text">Kệ hoa
                                                 chúc mừng màu cam</figcaption>
@@ -4053,25 +1741,29 @@
                                         <figure id="attachment_26903" aria-describedby="caption-attachment-26903"
                                             style="width: 575px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-26903"
-                                                src="https://tramhoa.com/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-xanh.jpg.webp"
+                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-xanh.jpg.webp"
                                                 alt="Kệ hoa chúc mừng màu xanh" width="575" height="633" />
                                             <figcaption id="caption-attachment-26903" class="wp-caption-text">Kệ hoa
                                                 chúc mừng màu xanh</figcaption>
                                         </figure>
                                         </p>
-                                        <p>Kệ hoa chúc mừng có màu xanh đại diện cho khởi đầu mới và phát triển. Người xưa
-                                            có câu “đầu xuôi đuôi lọt”, tặng hoa màu xanh mang ý nghĩa chúc mọi điều thuận
+                                        <p>Kệ hoa chúc mừng có màu xanh đại diện cho khởi đầu mới và phát triển. Người
+                                            xưa
+                                            có câu “đầu xuôi đuôi lọt”, tặng hoa màu xanh mang ý nghĩa chúc mọi điều
+                                            thuận
                                             lợi, khởi đầu tốt đẹp.</p>
                                         <h2><b>Những loại hoa nên tặng trong kệ hoa chúc mừng</b></h2>
                                         <h3>Hoa đồng tiền</h3>
-                                        <p>Hoa đồng tiền thể hiện sự giàu sang, tài lộc, được sử dụng rất nhiều trong những
-                                            dịp này. Nó còn đại diện cho hạnh phúc và may mắn. Vì vậy nên lựa chọn kệ hoa
+                                        <p>Hoa đồng tiền thể hiện sự giàu sang, tài lộc, được sử dụng rất nhiều trong
+                                            những
+                                            dịp này. Nó còn đại diện cho hạnh phúc và may mắn. Vì vậy nên lựa chọn kệ
+                                            hoa
                                             chúc mừng đồng tiền.</p>
                                         <p>
                                         <figure id="attachment_32476" aria-describedby="caption-attachment-32476"
                                             style="width: 600px" class="wp-caption aligncenter"><img
                                                 class="size-full wp-image-32476"
-                                                src="https://tramhoa.com/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-dong-tien-KT007.jpg"
+                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-dong-tien-KT007.jpg"
                                                 alt="Kệ hoa chúc mừng với hoa đồng tiền làm nguyên liệu chính"
                                                 width="600" height="800" />
                                             <figcaption id="caption-attachment-32476" class="wp-caption-text">Kệ hoa
@@ -4080,29 +1772,41 @@
                                         </p>
                                         <h3>Hoa hướng dương</h3>
                                         <p>Hoa hướng dương là loài hoa luôn hướng về phía mặt trời. Tặng hoa hướng dương
-                                            đồng nghĩa với lời chúc thành công vươn xa và ngày càng phát triển thịnh vượng,
-                                            rực rỡ. Chính vì vậy kệ hoa chúc mừng luôn cắm hoa hướng dương ở vị trí cao thể
+                                            đồng nghĩa với lời chúc thành công vươn xa và ngày càng phát triển thịnh
+                                            vượng,
+                                            rực rỡ. Chính vì vậy kệ hoa chúc mừng luôn cắm hoa hướng dương ở vị trí cao
+                                            thể
                                             hiện sự phát triển vượt bậc và con đường kinh doanh hanh thông.</p>
                                         <h3>Hoa cát tường</h3>
-                                        <p>Theo phong thủy, hoa cát tường là hoa vượng tài, mang lại may mắn, tài lộc cho
-                                            gia chủ. Từ ý nghĩa tên gọi đó, kệ hoa chúc mừng thường lựa chọn hoa cát tường
+                                        <p>Theo phong thủy, hoa cát tường là hoa vượng tài, mang lại may mắn, tài lộc
+                                            cho
+                                            gia chủ. Từ ý nghĩa tên gọi đó, kệ hoa chúc mừng thường lựa chọn hoa cát
+                                            tường
                                             làm hoa chủ đạo.</p>
                                         <h3>Hoa lan hồ điệp</h3>
-                                        <p>Hoa lan hồ điệp được rất nhiều khách hành lựa chọn bởi nó đại diện cho sự sang
+                                        <p>Hoa lan hồ điệp được rất nhiều khách hành lựa chọn bởi nó đại diện cho sự
+                                            sang
                                             trọng, phú quý. Lan hồ điệp có nhiều màu sắc, mỗi màu sắc mang một ý nghĩa
                                             riêng, phù hợp với từng trường hợp khác nhau.</p>
                                         <h2 class="wp-block-heading">Những lưu ý khi chọn mua hoa chúc mừng trên thị
                                             trường</h2>
-                                        <p>Ngày nay, việc đặt mua hoa để dành tặng vào các ngày <strong>27/2, 8/3, 22/12,
-                                                ngày sinh nhật, khai trương, tốt nghiệp</strong> khá phổ biến. Bên cạnh đó
-                                            vẫn có những người lần đầu đi mua hoa, ít nhiều cũng sẽ lăn tăn về cách chọn hoa
+                                        <p>Ngày nay, việc đặt mua hoa để dành tặng vào các ngày <strong>27/2, 8/3,
+                                                22/12,
+                                                ngày sinh nhật, khai trương, tốt nghiệp</strong> khá phổ biến. Bên cạnh
+                                            đó
+                                            vẫn có những người lần đầu đi mua hoa, ít nhiều cũng sẽ lăn tăn về cách chọn
+                                            hoa
                                             cho phù hợp. Một vài lưu ý dưới đây sẽ giúp bạn cải thiện điều đó:</p>
                                         <ul class="wp-block-list">
-                                            <li>Nên chọn <strong>hoa chúc mừng</strong> còn tươi mới, màu sắc nổi bật. Hạn
-                                                chế mua hoa đã được làm sẵn hoặc hoa để quá lâu bởi chúng sẽ nhanh héo và
+                                            <li>Nên chọn <strong>hoa chúc mừng</strong> còn tươi mới, màu sắc nổi bật.
+                                                Hạn
+                                                chế mua hoa đã được làm sẵn hoặc hoa để quá lâu bởi chúng sẽ nhanh héo
+                                                và
                                                 giảm mùi hương, vẻ đẹp vốn có.</li>
-                                            <li>Tùy vào túi tiền, sở thích của bạn và cả đối tượng được tặng, mục đích của
-                                                việc tặng hoa mà bạn chọn mẫu hoa, hình thức bông, bó hay lẵng hoa với số
+                                            <li>Tùy vào túi tiền, sở thích của bạn và cả đối tượng được tặng, mục đích
+                                                của
+                                                việc tặng hoa mà bạn chọn mẫu hoa, hình thức bông, bó hay lẵng hoa với
+                                                số
                                                 lượng phù hợp. Ví dụ như <strong><a class="rank-math-link"
                                                         href="https://tramhoa.com/hoa-khai-truong/">hoa chúc mừng khai
                                                         trương</a></strong> thì nên chọn lẵng, <strong><a
@@ -4111,21 +1815,29 @@
                                                         nhật</a></strong> thì tặng bó hoa hoặc giỏ hoa,&#8230;</li>
                                         </ul>
                                         <p><img class="wp-image-26971 size-full"
-                                                src="https://tramhoa.com/wp-content/uploads/2021/03/ke-hoa-chuc-mung-nghe-thuat-hien-dai.jpg.webp"
+                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-nghe-thuat-hien-dai.jpg.webp"
                                                 alt="Kệ hoa chúc mừng nghệ thuật sang trọng" width="580"
-                                                height="639" />Thực ra, giá trị của một món quà đôi khi không thể hiện
+                                                height="639" />Thực ra, giá trị của một món quà đôi khi không thể
+                                            hiện
                                             qua số tiền nhiều hay ít mà tùy từng hoàn cảnh nên lấy ý nghĩa của nó để làm
-                                            thước đo giá trị. Vì vậy, khi <strong>chọn hoa chúc mừng</strong> nên chọn lọc
-                                            dựa trên các tiêu chí: tính nghệ thuật, sự hấp dẫn, sự sinh động, độc đáo… để
-                                            làm vui lòng, tạo ấn tượng với người nhận, nâng cao giá trị của bản thân.</p>
+                                            thước đo giá trị. Vì vậy, khi <strong>chọn hoa chúc mừng</strong> nên chọn
+                                            lọc
+                                            dựa trên các tiêu chí: tính nghệ thuật, sự hấp dẫn, sự sinh động, độc đáo…
+                                            để
+                                            làm vui lòng, tạo ấn tượng với người nhận, nâng cao giá trị của bản thân.
+                                        </p>
                                         <h2>Địa chỉ mua kệ hoa chúc mừng đẹp, sang trọng<b><br />
                                             </b></h2>
-                                        <p><strong>Kệ hoa chúc mừng</strong> là món quà không thể thiếu trong các dịp khai
-                                            trương, khánh thành,&#8230; Nếu bạn đang có ý định đặt mua kệ hoa chúc mừng hãy
-                                            liên hệ ngay với chúng tôi. Đến với Trạm hoa, bạn sẽ có rất nhiều sự lựa chọn
-                                            những kệ hoa đẹp, độc đáo và ý nghĩa. Trạm hoa luôn mong muốn đáp ứng mọi nhu
-                                            cầu của khách hàng. Nếu bạn cần đặt hoa tươi, hãy gọi Trạm hoa tại Hotline <a
-                                                href="tel:+84348278722">034 827 8722</a>.</p>
+                                        <p><strong>Kệ hoa chúc mừng</strong> là món quà không thể thiếu trong các dịp
+                                            khai
+                                            trương, khánh thành,&#8230; Nếu bạn đang có ý định đặt mua kệ hoa chúc mừng
+                                            hãy
+                                            liên hệ ngay với chúng tôi. Đến với Trạm hoa, bạn sẽ có rất nhiều sự lựa
+                                            chọn
+                                            những kệ hoa đẹp, độc đáo và ý nghĩa. Trạm hoa luôn mong muốn đáp ứng mọi
+                                            nhu
+                                            cầu của khách hàng. Nếu bạn cần đặt hoa tươi, hãy gọi Trạm hoa tại Hotline
+                                            <a href="tel:+84348278722">034 827 8722</a>.</p>
                                         <p>
                                     </div>
                                     <div class="su-expand-link su-expand-link-more" style="text-align:center"><a
@@ -4154,8 +1866,10 @@
                                             <li><strong>VP TP.HCM</strong>: 443/56 Điện Biên Phủ, Phường 3, Quận 3</li>
                                             <li><strong>VP Hà Nội</strong>: Số 7 Ngách 24 Ngõ 165 Đường Cầu Giấy, Q. Cầu
                                                 Giấy</li>
-                                            <li><strong>VP Đà Nẵng</strong>: 55a Đống Đa, P. Thạch Thang, Q. Hải Châu</li>
-                                            <li><strong>VP Nha Trang</strong>: 54 Nguyễn Đức Cảnh, Phước Trung, Nha Trang
+                                            <li><strong>VP Đà Nẵng</strong>: 55a Đống Đa, P. Thạch Thang, Q. Hải Châu
+                                            </li>
+                                            <li><strong>VP Nha Trang</strong>: 54 Nguyễn Đức Cảnh, Phước Trung, Nha
+                                                Trang
                                             </li>
                                         </ul>
                                     </div>
@@ -4164,12 +1878,15 @@
                                     <div class="col-inner">
                                         <h4><span data-text-color="primary">Cơ sở khác</span></h4>
                                         <ul>
-                                            <li><strong>Đồng Nai</strong>: <span class="LrzXr">Số 40/1, kp 1, p. Bình Đa,
+                                            <li><strong>Đồng Nai</strong>: <span class="LrzXr">Số 40/1, kp 1, p. Bình
+                                                    Đa,
                                                     Tp. Biên Hòa, Đồng Nai</span></li>
-                                            <li><strong>Bình Dương</strong>: 1 Đại lộ Bình Dương, Thuận Giao, Thuận An</li>
+                                            <li><strong>Bình Dương</strong>: 1 Đại lộ Bình Dương, Thuận Giao, Thuận An
+                                            </li>
                                             <li><strong>Cần Thơ</strong>: <span class="LrzXr">68 Đường CMT8, P. Thới
                                                     Bình, Q. Ninh Kiều</span></li>
-                                            <li><strong>Ninh Thuận</strong>: 57 21 Tháng 8, Phủ Hà, Phan Rang - Tháp Chàm
+                                            <li><strong>Ninh Thuận</strong>: 57 21 Tháng 8, Phủ Hà, Phan Rang - Tháp
+                                                Chàm
                                             </li>
                                         </ul>
                                     </div>
@@ -4177,14 +1894,17 @@
                                 <div id="col-1416222136" class="col medium-3 small-12 large-3">
                                     <div class="col-inner">
                                         <ul>
-                                            <li><strong>Quảng Ngãi</strong>: 641 Quang Trung, Nghĩa Chánh Bắc, Quảng Ngãi
+                                            <li><strong>Quảng Ngãi</strong>: 641 Quang Trung, Nghĩa Chánh Bắc, Quảng
+                                                Ngãi
                                             </li>
                                             <li><strong>Vũng Tàu</strong>: 783 Đường 30/4, Phường Rạch Dừa, TP. Vũng Tàu
                                             </li>
-                                            <li><strong>Long An</strong>: 06 <span class="LrzXr">Nguyễn Đình Chiểu, P.1 ,
+                                            <li><strong>Long An</strong>: 06 <span class="LrzXr">Nguyễn Đình Chiểu,
+                                                    P.1 ,
                                                     Tân An</span></li>
                                             <li><strong>Kiên Giang:</strong> 150 Đống Đa, P. Vĩnh Lạc, Rạch Giá</li>
-                                            <li><strong><a href="https://tramhoa.com/chi-nhanh/">&gt; Xem thêm chi nhánh
+                                            <li><strong><a href="https://tramhoa.com/chi-nhanh/">&gt; Xem thêm chi
+                                                        nhánh
                                                         shop hoa</a></strong></li>
                                         </ul>
                                     </div>
@@ -4201,7 +1921,8 @@
                                                     tế</a></li>
                                             <li><a href="https://tramhoa.com/doi-tac-tieu-bieu/">Đối tác tiêu biểu</a>
                                             </li>
-                                            <li><a href="https://tramhoa.com/y-nghia-hoa/">Blog - Chuyện về hoa</a></li>
+                                            <li><a href="https://tramhoa.com/y-nghia-hoa/">Blog - Chuyện về hoa</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -4230,21 +1951,23 @@
                             <div class="menu-foot-menu-container">
                                 <ul id="menu-foot-menu" class="links footer-nav uppercase">
                                     <li id="menu-item-4088"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4088"><a
-                                            href="https://tramhoa.com/gioi-thieu/">Giới thiệu</a></li>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4088">
+                                        <a href="https://tramhoa.com/gioi-thieu/">Giới thiệu</a></li>
                                     <li id="menu-item-4497"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4497"><a
-                                            href="https://tramhoa.com/lien-he/">Liên hệ</a></li>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4497">
+                                        <a href="https://tramhoa.com/lien-he/">Liên hệ</a></li>
                                     <li id="menu-item-4084"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084"><a
-                                            href="https://tramhoa.com/thac-mac-khi-dat-hoa/">Câu hỏi thường gặp</a></li>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084">
+                                        <a href="https://tramhoa.com/thac-mac-khi-dat-hoa/">Câu hỏi thường gặp</a></li>
                                     <li id="menu-item-4085"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4085">
                                         <a rel="privacy-policy" href="https://tramhoa.com/chinh-sach-bao-mat/">Bảo
-                                            Mật</a></li>
+                                            Mật</a>
+                                    </li>
                                     <li id="menu-item-29871"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29871">
-                                        <a href="https://tramhoa.com/chinh-sach-doi-tra/">Đổi Trả</a></li>
+                                        <a href="https://tramhoa.com/chinh-sach-doi-tra/">Đổi Trả</a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="copyright-footer">
@@ -4271,20 +1994,24 @@
                         <ul class="sub-menu nav-sidebar-ul children">
                             <li id="menu-item-22020"
                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-has-children menu-item-22020">
-                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ hoa chúc mừng</a>
+                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ hoa chúc
+                                    mừng</a>
                                 <ul class="sub-menu nav-sidebar-ul">
                                     <li id="menu-item-31277"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31277">
-                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong Cách Hiện Đại</a>
+                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong Cách Hiện
+                                            Đại</a>
                                     </li>
                                     <li id="menu-item-31276"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31276">
                                         <a href="https://tramhoa.com/ke-hoa-chuc-mung-truyen-thong/">Phong Cách Truyền
-                                            Thống</a></li>
+                                            Thống</a>
+                                    </li>
                                     <li id="menu-item-31275"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31275">
                                         <a href="https://tramhoa.com/ke-hoa-chuc-mung-nghe-thuat/">Phong Cách Nghệ
-                                            Thuật</a></li>
+                                            Thuật</a>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
@@ -4299,13 +2026,16 @@
                                 <ul class="sub-menu nav-sidebar-ul">
                                     <li id="menu-item-30985"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30985">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa Tang Trắng</a></li>
+                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa Tang Trắng</a>
+                                    </li>
                                     <li id="menu-item-30984"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30984">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa Tang Tím</a></li>
+                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa Tang Tím</a>
+                                    </li>
                                     <li id="menu-item-30986"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30986">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa Tang Vàng</a></li>
+                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa Tang Vàng</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-30983"
@@ -4315,15 +2045,18 @@
                                     <li id="menu-item-30982"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30982">
                                         <a href="https://tramhoa.com/hoa-chia-buon-nghe-thuat/">Hoa Chia Buồn Nghệ
-                                            Thuật</a></li>
+                                            Thuật</a>
+                                    </li>
                                     <li id="menu-item-29601"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29601">
-                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám Tang Người Già</a>
+                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám Tang Người
+                                            Già</a>
                                     </li>
                                     <li id="menu-item-30987"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30987">
                                         <a href="https://tramhoa.com/vong-hoa-dam-tang-cong-giao/">✝️ Vòng Hoa Đám Tang
-                                            Công Giáo</a></li>
+                                            Công Giáo</a>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
@@ -4333,17 +2066,17 @@
                         <a href="https://tramhoa.com/hoa-sinh-nhat/">Hoa sinh nhật</a>
                         <ul class="sub-menu nav-sidebar-ul children">
                             <li id="menu-item-7781"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7781"><a
-                                    href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh nhật ba mẹ</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7781">
+                                <a href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh nhật ba mẹ</a></li>
                             <li id="menu-item-7782"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7782"><a
-                                    href="https://tramhoa.com/hoa-sinh-nhat-nguoi-yeu/">Sinh nhật người yêu</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7782">
+                                <a href="https://tramhoa.com/hoa-sinh-nhat-nguoi-yeu/">Sinh nhật người yêu</a></li>
                             <li id="menu-item-7784"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7784"><a
-                                    href="https://tramhoa.com/hoa-sinh-nhat-khach-hang/">Sinh nhật khách hàng</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7784">
+                                <a href="https://tramhoa.com/hoa-sinh-nhat-khach-hang/">Sinh nhật khách hàng</a></li>
                             <li id="menu-item-28141"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-28141"><a
-                                    href="https://tramhoa.com/hoa-sinh-nhat-tang-sep/">Sinh nhật sếp</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-28141">
+                                <a href="https://tramhoa.com/hoa-sinh-nhat-tang-sep/">Sinh nhật sếp</a></li>
                         </ul>
                     </li>
                     <li id="menu-item-29236"
@@ -4354,20 +2087,21 @@
                         <a href="https://tramhoa.com/bo-hoa-tuoi/">Bó hoa</a>
                         <ul class="sub-menu nav-sidebar-ul children">
                             <li id="menu-item-29234"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29234"><a
-                                    href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29234">
+                                <a href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a></li>
                             <li id="menu-item-29198"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29198"><a
-                                    href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng Dương</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29198">
+                                <a href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng Dương</a></li>
                             <li id="menu-item-29233"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29233"><a
-                                    href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29233">
+                                <a href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a></li>
                             <li id="menu-item-29194"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29194"><a
-                                    href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu Đơn</a></li>
+                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29194">
+                                <a href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu Đơn</a></li>
                             <li id="menu-item-7779"
                                 class="label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7779">
-                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a></li>
+                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a>
+                            </li>
                         </ul>
                     </li>
                     <li id="menu-item-7776"
@@ -4472,12 +2206,12 @@
 
             .tramhoavn-pc-contact-bar li.facebook {
                 margin-bottom: 10px;
-                background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                 background-repeat: no-repeat;
             }
 
             .tramhoavn-pc-contact-bar li.zalo {
-                background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                 background-repeat: no-repeat;
             }
 
@@ -4516,12 +2250,12 @@
 
                 .tramhoavn-mobile-contact-bar li.facebook {
                     margin-bottom: 8px;
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
                 .tramhoavn-mobile-contact-bar li.zalo {
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
@@ -4532,7 +2266,7 @@
                 }
 
                 .tramhoavn-mobile-contact-bar li.hotline {
-                    background: url(https://tramhoa.com/wp-content/uploads/2021/10/p2.gif.webp);
+                    background: url(/assets/wp-content/uploads/2021/10/p2.gif.webp);
                     background-repeat: no-repeat;
                     background-size: 44px;
                 }
@@ -4571,9 +2305,9 @@
                                                 class="required" aria-hidden="true">*</span><span
                                                 class="screen-reader-text">Bắt buộc</span></label>
                                         <input type="text"
-                                            class="woocommerce-Input woocommerce-Input--text input-text" name="username"
-                                            id="username" autocomplete="username" value="" required
-                                            aria-required="true" />
+                                            class="woocommerce-Input woocommerce-Input--text input-text"
+                                            name="username" id="username" autocomplete="username"
+                                            value="" required aria-required="true" />
                                     </p>
                                     <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
                                         <label for="password">Mật khẩu&nbsp;<span class="required"
@@ -4587,13 +2321,14 @@
                                         <label
                                             class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
                                             <input class="woocommerce-form__input woocommerce-form__input-checkbox"
-                                                name="rememberme" type="checkbox" id="rememberme" value="forever" />
+                                                name="rememberme" type="checkbox" id="rememberme"
+                                                value="forever" />
                                             <span>Ghi nhớ mật khẩu</span>
                                         </label>
                                         <input type="hidden" id="woocommerce-login-nonce"
-                                            name="woocommerce-login-nonce" value="290ad62291" /><input type="hidden"
-                                            name="_wp_http_referer" value="/ke-hoa-chuc-mung/" /> <button
-                                            type="submit"
+                                            name="woocommerce-login-nonce" value="290ad62291" /><input
+                                            type="hidden" name="_wp_http_referer" value="/ke-hoa-chuc-mung/" />
+                                        <button type="submit"
                                             class="woocommerce-button button woocommerce-form-login__submit"
                                             name="login" value="Đăng nhập">Đăng nhập</button>
                                     </p>
@@ -4612,25 +2347,28 @@
                                                 aria-hidden="true">*</span><span class="screen-reader-text">Bắt
                                                 buộc</span></label>
                                         <input type="email"
-                                            class="woocommerce-Input woocommerce-Input--text input-text" name="email"
-                                            id="reg_email" autocomplete="email" value="" required
-                                            aria-required="true" />
+                                            class="woocommerce-Input woocommerce-Input--text input-text"
+                                            name="email" id="reg_email" autocomplete="email" value=""
+                                            required aria-required="true" />
                                     </p>
                                     <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
                                         <label for="reg_password">Mật khẩu&nbsp;<span class="required"
                                                 aria-hidden="true">*</span><span class="screen-reader-text">Bắt
                                                 buộc</span></label>
                                         <input type="password"
-                                            class="woocommerce-Input woocommerce-Input--text input-text" name="password"
-                                            id="reg_password" autocomplete="new-password" required
+                                            class="woocommerce-Input woocommerce-Input--text input-text"
+                                            name="password" id="reg_password" autocomplete="new-password" required
                                             aria-required="true" />
                                     </p>
                                     <wc-order-attribution-inputs></wc-order-attribution-inputs>
                                     <div class="woocommerce-privacy-policy-text">
-                                        <p>Thông tin cá nhân của bạn sẽ được sử dụng để tăng trải nghiệm sử dụng website,
-                                            quản lý truy cập vào tài khoản của bạn, và cho các mục đích cụ thể khác được mô
+                                        <p>Thông tin cá nhân của bạn sẽ được sử dụng để tăng trải nghiệm sử dụng
+                                            website,
+                                            quản lý truy cập vào tài khoản của bạn, và cho các mục đích cụ thể khác được
+                                            mô
                                             tả trong <a href="https://tramhoa.com/chinh-sach-bao-mat/"
-                                                class="woocommerce-privacy-policy-link" target="_blank">chính sách riêng
+                                                class="woocommerce-privacy-policy-link" target="_blank">chính sách
+                                                riêng
                                                 tư</a>.</p>
                                     </div>
                                     <p class="woocommerce-form-row form-row">
@@ -4656,8 +2394,8 @@
             src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGM9ZG9jdW1lbnQuYm9keS5jbGFzc05hbWU7Yz1jLnJlcGxhY2UoL3dvb2NvbW1lcmNlLW5vLWpzLywnd29vY29tbWVyY2UtanMnKTtkb2N1bWVudC5ib2R5LmNsYXNzTmFtZT1jfSkoKQ=="
             defer></script>
         <link data-optimized="1" rel='stylesheet' id='wc-blocks-style-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/6d48c81a40dde72a7a5b31c09eb07c22.css?ver=07c22'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/6d48c81a40dde72a7a5b31c09eb07c22.css?ver=07c22' type='text/css'
+            media='all' />
         <style id='wp-block-heading-inline-css' type='text/css'>
             h1.has-background,
             h2.has-background,
@@ -5170,22 +2908,22 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='su-shortcodes-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/de6936ea381b67e5d2319c08580ee37c.css?ver=ee37c'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/de6936ea381b67e5d2319c08580ee37c.css?ver=ee37c' type='text/css'
+            media='all' />
         <link data-optimized="1" rel='stylesheet' id='su-icons-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/6f91d59b81385ef070e9078a99d99733.css?ver=99733'
-            type='text/css' media='all' />
+            href='/assets/wp-content/litespeed/css/6f91d59b81385ef070e9078a99d99733.css?ver=99733' type='text/css'
+            media='all' />
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/cc5c361225c68257e6ca8171217b43de.js?ver=b43de" id="wp-hooks-js"
-            defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/cc5c361225c68257e6ca8171217b43de.js?ver=b43de" id="wp-hooks-js" defer
+            data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2a3ee894a9e421a1d76e23db519393ad.js?ver=393ad" id="wp-i18n-js"
-            defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/2a3ee894a9e421a1d76e23db519393ad.js?ver=393ad" id="wp-i18n-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="wp-i18n-js-after"
             src="data:text/javascript;base64,d3AuaTE4bi5zZXRMb2NhbGVEYXRhKHsndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOlsnbHRyJ119KQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2771ba90c706b1e5947f233ac0adadde.js?ver=dadde" id="swv-js" defer
+            src="/assets/wp-content/litespeed/js/2771ba90c706b1e5947f233ac0adadde.js?ver=dadde" id="swv-js" defer
             data-deferred="1"></script>
         <script type="text/javascript" id="contact-form-7-js-translations"
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGRvbWFpbix0cmFuc2xhdGlvbnMpe3ZhciBsb2NhbGVEYXRhPXRyYW5zbGF0aW9ucy5sb2NhbGVfZGF0YVtkb21haW5dfHx0cmFuc2xhdGlvbnMubG9jYWxlX2RhdGEubWVzc2FnZXM7bG9jYWxlRGF0YVsiIl0uZG9tYWluPWRvbWFpbjt3cC5pMThuLnNldExvY2FsZURhdGEobG9jYWxlRGF0YSxkb21haW4pfSkoImNvbnRhY3QtZm9ybS03Iix7InRyYW5zbGF0aW9uLXJldmlzaW9uLWRhdGUiOiIyMDI0LTA4LTExIDEzOjQ0OjE3KzAwMDAiLCJnZW5lcmF0b3IiOiJHbG90UHJlc3NcLzQuMC4xIiwiZG9tYWluIjoibWVzc2FnZXMiLCJsb2NhbGVfZGF0YSI6eyJtZXNzYWdlcyI6eyIiOnsiZG9tYWluIjoibWVzc2FnZXMiLCJwbHVyYWwtZm9ybXMiOiJucGx1cmFscz0xOyBwbHVyYWw9MDsiLCJsYW5nIjoidmlfVk4ifSwiVGhpcyBjb250YWN0IGZvcm0gaXMgcGxhY2VkIGluIHRoZSB3cm9uZyBwbGFjZS4iOlsiQmlcdTFlYzN1IG1cdTFlYWJ1IGxpXHUwMGVhbiBoXHUxZWM3IG5cdTAwZTB5IFx1MDExMVx1MDFiMFx1MWVlM2MgXHUwMTExXHUxZWI3dCBzYWkgdlx1MWVjYiB0clx1MDBlZC4iXSwiRXJyb3I6IjpbIkxcdTFlZDdpOiJdfX0sImNvbW1lbnQiOnsicmVmZXJlbmNlIjoiaW5jbHVkZXNcL2pzXC9pbmRleC5qcyJ9fSk="
@@ -5194,86 +2932,85 @@
             src="data:text/javascript;base64,dmFyIHdwY2Y3PXsiYXBpIjp7InJvb3QiOiJodHRwczpcL1wvdHJhbWhvYS5jb21cL3dwLWpzb25cLyIsIm5hbWVzcGFjZSI6ImNvbnRhY3QtZm9ybS03XC92MSJ9LCJjYWNoZWQiOjF9"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/041ea1efa34f57a1561988b5990447e0.js?ver=447e0"
-            id="contact-form-7-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/041ea1efa34f57a1561988b5990447e0.js?ver=447e0" id="contact-form-7-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="woocommerce-js-extra"
             src="data:text/javascript;base64,dmFyIHdvb2NvbW1lcmNlX3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/397f85057807028cce90dc9a40c42b28.js?ver=42b28" id="woocommerce-js"
+            src="/assets/wp-content/litespeed/js/397f85057807028cce90dc9a40c42b28.js?ver=42b28" id="woocommerce-js"
             data-wp-strategy="defer"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
             id="gtm4wp-contact-form-7-tracker-js" defer data-deferred="1"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
             id="gtm4wp-form-move-tracker-js" defer data-deferred="1"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
             id="gtm4wp-ecommerce-generic-js" defer data-deferred="1"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
             id="gtm4wp-woocommerce-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-add-to-cart-variation-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2FkZF90b19jYXJ0X3ZhcmlhdGlvbl9wYXJhbXM9eyJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiaTE4bl9ub19tYXRjaGluZ192YXJpYXRpb25zX3RleHQiOiJSXHUxZWE1dCB0aVx1MWViZmMsIGtoXHUwMGY0bmcgY1x1MDBmMyBzXHUxZWEzbiBwaFx1MWVhOW0gblx1MDBlMG8gcGhcdTAwZjkgaFx1MWVlM3Agdlx1MWVkYmkgbFx1MWVmMWEgY2hcdTFlY2RuIGNcdTFlZTdhIGJcdTFlYTFuLiBIXHUwMGUzeSBjaFx1MWVjZG4gbVx1MWVkOXQgcGhcdTAxYjBcdTAxYTFuZyB0aFx1MWVlOWMga1x1MWViZnQgaFx1MWVlM3Aga2hcdTAwZTFjLiIsImkxOG5fbWFrZV9hX3NlbGVjdGlvbl90ZXh0IjoiQ2hcdTFlY2RuIGNcdTAwZTFjIHRcdTAwZjl5IGNoXHUxZWNkbiBjaG8gc1x1MWVhM24gcGhcdTFlYTltIHRyXHUwMWIwXHUxZWRiYyBraGkgY2hvIHNcdTFlYTNuIHBoXHUxZWE5bSB2XHUwMGUwbyBnaVx1MWVjZiBoXHUwMGUwbmcgY1x1MWVlN2EgYlx1MWVhMW4uIiwiaTE4bl91bmF2YWlsYWJsZV90ZXh0IjoiUlx1MWVhNXQgdGlcdTFlYmZjLCBzXHUxZWEzbiBwaFx1MWVhOW0gblx1MDBlMHkgaGlcdTFlYzduIGtoXHUwMGY0bmcgdFx1MWVkM24gdFx1MWVhMWkuIEhcdTAwZTN5IGNoXHUxZWNkbiBtXHUxZWQ5dCBwaFx1MDFiMFx1MDFhMW5nIHRoXHUxZWU5YyBrXHUxZWJmdCBoXHUxZWUzcCBraFx1MDBlMWMuIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/bc27ebe623dbb89e6f65f562926c556e.js?ver=c556e"
-            id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
+            src="/assets/wp-content/litespeed/js/bc27ebe623dbb89e6f65f562926c556e.js?ver=c556e" id="wc-add-to-cart-variation-js"
+            data-wp-strategy="defer"></script>
         <script type="text/javascript" id="yith_wccl_frontend-js-extra"
             src="data:text/javascript;base64,dmFyIHlpdGhfd2NjbF9nZW5lcmFsPXsiYWpheHVybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiYWN0aW9uQWRkQ2FydCI6InlpdGhfd2NjbF9hZGRfdG9fY2FydCIsImFjdGlvblZhcmlhdGlvbkdhbGxlcnkiOiJ5aXRoX3djY2xfdmFyaWF0aW9uX2dhbGxlcnkiLCJjYXJ0X3JlZGlyZWN0IjoiMSIsImNhcnRfdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC9naW8taGFuZ1wvIiwidmlld19jYXJ0IjoiVmlldyBDYXJ0IiwidG9vbHRpcCI6IjEiLCJ0b29sdGlwX3BvcyI6InRvcCIsInRvb2x0aXBfYW5pIjoiZmFkZSIsImRlc2NyaXB0aW9uIjoiMSIsImFkZF9jYXJ0IjoiQWRkIHRvIGNhcnQiLCJncmV5X291dCI6IiIsImltYWdlX2hvdmVyIjoiIiwid3JhcHBlcl9jb250YWluZXJfc2hvcCI6ImRpdi5wcm9kdWN0LnByb2R1Y3Qtc21hbGwiLCJpbWFnZV9zZWxlY3RvciI6ImltZy53cC1wb3N0LWltYWdlLCBpbWcuYXR0YWNobWVudC13b29jb21tZXJjZV90aHVtYm5haWwiLCJlbmFibGVfaGFuZGxlX3ZhcmlhdGlvbl9nYWxsZXJ5IjoiMSIsInBsdWdpbl9jb21wYXRpYmlsaXR5X3NlbGVjdG9ycyI6InlpdGgtd2Nhbi1hamF4LWZpbHRlcmVkIHlpdGhfaW5mc19hZGRpbmdfZWxlbSBpbml0aWFsaXplZC5vd2wuY2Fyb3VzZWwgcG9zdC1sb2FkIGFqYXgtdGFiLWxvYWRlZCIsInNpbmdsZV9nYWxsZXJ5X3NlbGVjdG9yIjoiLnByb2R1Y3QtZ2FsbGVyeSJ9"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/d68b8b06ff9660e00d0015259825ff06.js?ver=5ff06"
-            id="yith_wccl_frontend-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/d68b8b06ff9660e00d0015259825ff06.js?ver=5ff06" id="yith_wccl_frontend-js" defer
+            data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/a5f39129aad4c8db8b3535a91a3120e2.js?ver=120e2"
-            id="flatsome-live-search-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/a5f39129aad4c8db8b3535a91a3120e2.js?ver=120e2" id="flatsome-live-search-js"
+            defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/72e4b113b59964386e79bc8ad95f00a1.js?ver=f00a1"
-            id="sourcebuster-js-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/72e4b113b59964386e79bc8ad95f00a1.js?ver=f00a1" id="sourcebuster-js-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="wc-order-attribution-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX29yZGVyX2F0dHJpYnV0aW9uPXsicGFyYW1zIjp7ImxpZmV0aW1lIjoxLjBlLTUsInNlc3Npb24iOjMwLCJiYXNlNjQiOiExLCJhamF4dXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJwcmVmaXgiOiJ3Y19vcmRlcl9hdHRyaWJ1dGlvbl8iLCJhbGxvd1RyYWNraW5nIjohMH0sImZpZWxkcyI6eyJzb3VyY2VfdHlwZSI6ImN1cnJlbnQudHlwIiwicmVmZXJyZXIiOiJjdXJyZW50X2FkZC5yZiIsInV0bV9jYW1wYWlnbiI6ImN1cnJlbnQuY21wIiwidXRtX3NvdXJjZSI6ImN1cnJlbnQuc3JjIiwidXRtX21lZGl1bSI6ImN1cnJlbnQubWRtIiwidXRtX2NvbnRlbnQiOiJjdXJyZW50LmNudCIsInV0bV9pZCI6ImN1cnJlbnQuaWQiLCJ1dG1fdGVybSI6ImN1cnJlbnQudHJtIiwidXRtX3NvdXJjZV9wbGF0Zm9ybSI6ImN1cnJlbnQucGx0IiwidXRtX2NyZWF0aXZlX2Zvcm1hdCI6ImN1cnJlbnQuZm10IiwidXRtX21hcmtldGluZ190YWN0aWMiOiJjdXJyZW50LnRjdCIsInNlc3Npb25fZW50cnkiOiJjdXJyZW50X2FkZC5lcCIsInNlc3Npb25fc3RhcnRfdGltZSI6ImN1cnJlbnRfYWRkLmZkIiwic2Vzc2lvbl9wYWdlcyI6InNlc3Npb24ucGdzIiwic2Vzc2lvbl9jb3VudCI6InVkYXRhLnZzdCIsInVzZXJfYWdlbnQiOiJ1ZGF0YS51YWcifX0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/c9f36750ab2542bb81df85aff35caca3.js?ver=caca3"
-            id="wc-order-attribution-js" defer data-deferred="1"></script>
-        <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/d076bbc985c070c50a978a88fd81f659.js?ver=1f659" id="hoverIntent-js"
+            src="/assets/wp-content/litespeed/js/c9f36750ab2542bb81df85aff35caca3.js?ver=caca3" id="wc-order-attribution-js"
             defer data-deferred="1"></script>
+        <script data-optimized="1" type="text/javascript"
+            src="/assets/wp-content/litespeed/js/d076bbc985c070c50a978a88fd81f659.js?ver=1f659" id="hoverIntent-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="flatsome-js-js-extra"
             src="data:text/javascript;base64,dmFyIGZsYXRzb21lVmFycz17InRoZW1lIjp7InZlcnNpb24iOiIzLjE5LjcifSwiYWpheHVybCI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwicnRsIjoiIiwic3RpY2t5X2hlaWdodCI6IjU0Iiwic3RpY2t5SGVhZGVySGVpZ2h0IjoiMCIsInNjcm9sbFBhZGRpbmdUb3AiOiIwIiwiYXNzZXRzX3VybCI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtY29udGVudFwvdGhlbWVzXC9mbGF0c29tZVwvYXNzZXRzXC8iLCJsaWdodGJveCI6eyJjbG9zZV9tYXJrdXAiOiI8YnV0dG9uIHRpdGxlPVwiJXRpdGxlJVwiIHR5cGU9XCJidXR0b25cIiBjbGFzcz1cIm1mcC1jbG9zZVwiPjxzdmcgeG1sbnM9XCJodHRwOlwvXC93d3cudzMub3JnXC8yMDAwXC9zdmdcIiB3aWR0aD1cIjI4XCIgaGVpZ2h0PVwiMjhcIiB2aWV3Qm94PVwiMCAwIDI0IDI0XCIgZmlsbD1cIm5vbmVcIiBzdHJva2U9XCJjdXJyZW50Q29sb3JcIiBzdHJva2Utd2lkdGg9XCIyXCIgc3Ryb2tlLWxpbmVjYXA9XCJyb3VuZFwiIHN0cm9rZS1saW5lam9pbj1cInJvdW5kXCIgY2xhc3M9XCJmZWF0aGVyIGZlYXRoZXIteFwiPjxsaW5lIHgxPVwiMThcIiB5MT1cIjZcIiB4Mj1cIjZcIiB5Mj1cIjE4XCI+PFwvbGluZT48bGluZSB4MT1cIjZcIiB5MT1cIjZcIiB4Mj1cIjE4XCIgeTI9XCIxOFwiPjxcL2xpbmU+PFwvc3ZnPjxcL2J1dHRvbj4iLCJjbG9zZV9idG5faW5zaWRlIjohMX0sInVzZXIiOnsiY2FuX2VkaXRfcGFnZXMiOiExfSwiaTE4biI6eyJtYWluTWVudSI6Ik1lbnUgY2hcdTAwZWRuaCIsInRvZ2dsZUJ1dHRvbiI6IkNodXlcdTFlYzNuIFx1MDExMVx1MWVkNWkifSwib3B0aW9ucyI6eyJjb29raWVfbm90aWNlX3ZlcnNpb24iOiIxIiwic3dhdGNoZXNfbGF5b3V0IjohMSwic3dhdGNoZXNfZGlzYWJsZV9kZXNlbGVjdCI6ITEsInN3YXRjaGVzX2JveF9zZWxlY3RfZXZlbnQiOiExLCJzd2F0Y2hlc19ib3hfYmVoYXZpb3Jfc2VsZWN0ZWQiOiExLCJzd2F0Y2hlc19ib3hfdXBkYXRlX3VybHMiOiIxIiwic3dhdGNoZXNfYm94X3Jlc2V0IjohMSwic3dhdGNoZXNfYm94X3Jlc2V0X2xpbWl0ZWQiOiExLCJzd2F0Y2hlc19ib3hfcmVzZXRfZXh0ZW50IjohMSwic3dhdGNoZXNfYm94X3Jlc2V0X3RpbWUiOjMwMCwic2VhcmNoX3Jlc3VsdF9sYXRlbmN5IjoiMCJ9LCJpc19taW5pX2NhcnRfcmV2ZWFsIjoiIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/4b21ecec76e4b23a3f1f3a3577785995.js?ver=85995" id="flatsome-js-js"
-            defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/4b21ecec76e4b23a3f1f3a3577785995.js?ver=85995" id="flatsome-js-js" defer
+            data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/9e3ba628d59d7d9b641bf1ab62402a28.js?ver=02a28"
+            src="/assets/wp-content/litespeed/js/9e3ba628d59d7d9b641bf1ab62402a28.js?ver=02a28"
             id="flatsome-theme-woocommerce-js-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-cart-fragments-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2NhcnRfZnJhZ21lbnRzX3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiY2FydF9oYXNoX2tleSI6IndjX2NhcnRfaGFzaF85ZDQ1YTkyOGM1YTE0Y2IzYjUyMzc4ZWM0YmViZTA1MSIsImZyYWdtZW50X25hbWUiOiJ3Y19mcmFnbWVudHNfOWQ0NWE5MjhjNWExNGNiM2I1MjM3OGVjNGJlYmUwNTEiLCJyZXF1ZXN0X3RpbWVvdXQiOiI1MDAwIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/8aad450415e3e9a35d15d4abcba83f95.js?ver=83f95"
-            id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+            src="/assets/wp-content/litespeed/js/8aad450415e3e9a35d15d4abcba83f95.js?ver=83f95" id="wc-cart-fragments-js"
+            defer="defer" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="su-shortcodes-js-extra"
             src="data:text/javascript;base64,dmFyIFNVU2hvcnRjb2Rlc0wxMG49eyJub1ByZXZpZXciOiJUaGlzIHNob3J0Y29kZSBkb2Vzbid0IHdvcmsgaW4gbGl2ZSBwcmV2aWV3LiBQbGVhc2UgaW5zZXJ0IGl0IGludG8gZWRpdG9yIGFuZCBwcmV2aWV3IG9uIHRoZSBzaXRlLiIsIm1hZ25pZmljUG9wdXAiOnsiY2xvc2UiOiJDbG9zZSAoRXNjKSIsImxvYWRpbmciOiJMb2FkaW5nLi4uIiwicHJldiI6IlByZXZpb3VzIChMZWZ0IGFycm93IGtleSkiLCJuZXh0IjoiTmV4dCAoUmlnaHQgYXJyb3cga2V5KSIsImNvdW50ZXIiOiIlY3VyciUgb2YgJXRvdGFsJSIsImVycm9yIjoiRmFpbGVkIHRvIGxvYWQgY29udGVudC4gPGEgaHJlZj1cIiV1cmwlXCIgdGFyZ2V0PVwiX2JsYW5rXCI+PHU+T3BlbiBsaW5rPFwvdT48XC9hPiJ9fQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/537483c31fa8f06cd9e8d0d59e21d6cd.js?ver=1d6cd"
-            id="su-shortcodes-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/537483c31fa8f06cd9e8d0d59e21d6cd.js?ver=1d6cd" id="su-shortcodes-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="gla-gtag-events-js-extra"
             src="data:text/javascript;base64,dmFyIGdsYUd0YWdEYXRhPXsiY3VycmVuY3lfbWlub3JfdW5pdCI6IjAiLCJwcm9kdWN0cyI6W119"
             defer></script>
-        <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js" id="gla-gtag-events-js"
-            defer data-deferred="1"></script>
+        <script type="text/javascript" src="/assets/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js"
+            id="gla-gtag-events-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="zxcvbn-async-js-extra"
             src="data:text/javascript;base64,dmFyIF96eGN2Ym5TZXR0aW5ncz17InNyYyI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtaW5jbHVkZXNcL2pzXC96eGN2Ym4ubWluLmpzIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/29c1463ea80bb6f1f5d62a53352a4f87.js?ver=a4f87" id="zxcvbn-async-js"
-            defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/29c1463ea80bb6f1f5d62a53352a4f87.js?ver=a4f87" id="zxcvbn-async-js" defer
+            data-deferred="1"></script>
         <script type="text/javascript" id="password-strength-meter-js-extra"
             src="data:text/javascript;base64,dmFyIHB3c0wxMG49eyJ1bmtub3duIjoiTVx1MWVhZHQga2hcdTFlYTl1IG1cdTFlYTFuaCBraFx1MDBmNG5nIHhcdTAwZTFjIFx1MDExMVx1MWVjYm5oIiwic2hvcnQiOiJSXHUxZWE1dCB5XHUxZWJmdSIsImJhZCI6IllcdTFlYmZ1IiwiZ29vZCI6IlRydW5nIGJcdTAwZWNuaCIsInN0cm9uZyI6Ik1cdTFlYTFuaCIsIm1pc21hdGNoIjoiTVx1MWVhZHQga2hcdTFlYTl1IGtoXHUwMGY0bmcga2hcdTFlZGJwIn0="
             defer></script>
@@ -5281,13 +3018,13 @@
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGRvbWFpbix0cmFuc2xhdGlvbnMpe3ZhciBsb2NhbGVEYXRhPXRyYW5zbGF0aW9ucy5sb2NhbGVfZGF0YVtkb21haW5dfHx0cmFuc2xhdGlvbnMubG9jYWxlX2RhdGEubWVzc2FnZXM7bG9jYWxlRGF0YVsiIl0uZG9tYWluPWRvbWFpbjt3cC5pMThuLnNldExvY2FsZURhdGEobG9jYWxlRGF0YSxkb21haW4pfSkoImRlZmF1bHQiLHsidHJhbnNsYXRpb24tcmV2aXNpb24tZGF0ZSI6IjIwMjQtMTEtMTMgMDg6Mjc6MDUrMDAwMCIsImdlbmVyYXRvciI6Ikdsb3RQcmVzc1wvNC4wLjEiLCJkb21haW4iOiJtZXNzYWdlcyIsImxvY2FsZV9kYXRhIjp7Im1lc3NhZ2VzIjp7IiI6eyJkb21haW4iOiJtZXNzYWdlcyIsInBsdXJhbC1mb3JtcyI6Im5wbHVyYWxzPTE7IHBsdXJhbD0wOyIsImxhbmciOiJ2aV9WTiJ9LCIlMSRzIGlzIGRlcHJlY2F0ZWQgc2luY2UgdmVyc2lvbiAlMiRzISBVc2UgJTMkcyBpbnN0ZWFkLiBQbGVhc2UgY29uc2lkZXIgd3JpdGluZyBtb3JlIGluY2x1c2l2ZSBjb2RlLiI6WyIlMSRzIFx1MDExMVx1MDBlMyBuZ1x1MWVlYm5nIGhvXHUxZWExdCBcdTAxMTFcdTFlZDluZyB0XHUxZWViIHBoaVx1MDBlYW4gYlx1MWVhM24gJTIkcyEgU1x1MWVlZCBkXHUxZWU1bmcgdGhheSB0aFx1MWViZiBiXHUxZWIxbmcgJTMkcy4iXX19LCJjb21tZW50Ijp7InJlZmVyZW5jZSI6IndwLWFkbWluXC9qc1wvcGFzc3dvcmQtc3RyZW5ndGgtbWV0ZXIuanMifX0p"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/70624bd80d4621a25d1f03b51733461f.js?ver=3461f"
-            id="password-strength-meter-js" defer data-deferred="1"></script>
+            src="/assets/wp-content/litespeed/js/70624bd80d4621a25d1f03b51733461f.js?ver=3461f" id="password-strength-meter-js"
+            defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-password-strength-meter-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX3Bhc3N3b3JkX3N0cmVuZ3RoX21ldGVyX3BhcmFtcz17Im1pbl9wYXNzd29yZF9zdHJlbmd0aCI6IjMiLCJzdG9wX2NoZWNrb3V0IjoiIiwiaTE4bl9wYXNzd29yZF9lcnJvciI6IlZ1aSBsXHUwMGYybmcgbmhcdTFlYWRwIG1cdTFlYWR0IGtoXHUxZWE5dSBraFx1MDBmMyBoXHUwMWExbi4iLCJpMThuX3Bhc3N3b3JkX2hpbnQiOiJHXHUxZWUzaSBcdTAwZmQ6IE1cdTFlYWR0IGtoXHUxZWE5dSBwaFx1MWVhM2kgY1x1MDBmMyBcdTAwZWR0IG5oXHUxZWE1dCAxMiBrXHUwMGZkIHRcdTFlZjEuIFx1MDExMFx1MWVjMyBuXHUwMGUybmcgY2FvIFx1MDExMVx1MWVkOSBiXHUxZWEzbyBtXHUxZWFkdCwgc1x1MWVlZCBkXHUxZWU1bmcgY2hcdTFlZWYgaW4gaG9hLCBpbiB0aFx1MDFiMFx1MWVkZG5nLCBjaFx1MWVlZiBzXHUxZWQxIHZcdTAwZTAgY1x1MDBlMWMga1x1MDBmZCB0XHUxZWYxIFx1MDExMVx1MWViN2MgYmlcdTFlYzd0IG5oXHUwMWIwICEgXCIgPyAkICUgXiAmICkuIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/10105e4c92b5d51d933803b30f27093c.js?ver=7093c"
+            src="/assets/wp-content/litespeed/js/10105e4c92b5d51d933803b30f27093c.js?ver=7093c"
             id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
         <script type="text/javascript"
             src="data:text/javascript;base64,alF1ZXJ5KGZ1bmN0aW9uKCQpe2ZicSgnc2V0JywnYWdlbnQnLCd3b29jb21tZXJjZS05LjQuMi0zLjMuMCcsJzQ5MTkzOTY5ODEyNDUzNCcpO2ZicSgndHJhY2tDdXN0b20nLCdWaWV3Q2F0ZWdvcnknLHsic291cmNlIjoid29vY29tbWVyY2UiLCJ2ZXJzaW9uIjoiOS40LjIiLCJwbHVnaW5WZXJzaW9uIjoiMy4zLjAiLCJjb250ZW50X25hbWUiOiJLXHUxZWM3IEhvYSBDaFx1MDBmYWMgTVx1MWVlYm5nIiwiY29udGVudF9jYXRlZ29yeSI6IktcdTFlYzcgSG9hIENoXHUwMGZhYyBNXHUxZWVibmciLCJjb250ZW50X2lkcyI6IltcIktUMDk1Xzg4NDZcIixcIktUMTA1XzkxNDBcIixcIktUMTA2Xzk0MjZcIixcIktUMDE1XzMwMTlcIixcIktUMDA2XzMwMDFcIixcIktUMDA0XzI5OTdcIixcIktUMDAxXzI5OTFcIixcIktUMTA5Xzk0MzNcIixcIktUMDU2XzY0MzJcIixcIktUMDUzXzY0MzBcIl0iLCJjb250ZW50X3R5cGUiOiJwcm9kdWN0IiwiY29udGVudHMiOnsiMCI6eyJpZCI6IktUMDk1Xzg4NDYiLCJxdWFudGl0eSI6MX0sIjEiOnsiaWQiOiJLVDEwNV85MTQwIiwicXVhbnRpdHkiOjF9LCIyIjp7ImlkIjoiS1QxMDZfOTQyNiIsInF1YW50aXR5IjoxfSwiMyI6eyJpZCI6IktUMDE1XzMwMTkiLCJxdWFudGl0eSI6MX0sIjQiOnsiaWQiOiJLVDAwNl8zMDAxIiwicXVhbnRpdHkiOjF9LCI1Ijp7ImlkIjoiS1QwMDRfMjk5NyIsInF1YW50aXR5IjoxfSwiNiI6eyJpZCI6IktUMDAxXzI5OTEiLCJxdWFudGl0eSI6MX0sIjciOnsiaWQiOiJLVDEwOV85NDMzIiwicXVhbnRpdHkiOjF9LCI4Ijp7ImlkIjoiS1QwNTZfNjQzMiIsInF1YW50aXR5IjoxfSwiOSI6eyJpZCI6IktUMDUzXzY0MzAiLCJxdWFudGl0eSI6MX0sIjEwIjp7ImlkIjoiS1QwMjhfMzA0NSIsInF1YW50aXR5IjoxfSwiMTEiOnsiaWQiOiJLVDEzMF8yNzYwOSIsInF1YW50aXR5IjoxfSwiMTIiOnsiaWQiOiJLVDA4M184NTI4IiwicXVhbnRpdHkiOjF9LCIxMyI6eyJpZCI6IktUMTU2XzMzMDY4IiwicXVhbnRpdHkiOjF9LCIxNCI6eyJpZCI6IktUMDI5XzMwNDciLCJxdWFudGl0eSI6MX0sIjE1Ijp7ImlkIjoiS1QwOTBfODc3MSIsInF1YW50aXR5IjoxfSwiMTYiOnsiaWQiOiJLVDA4OF84NzY3IiwicXVhbnRpdHkiOjF9LCIxNyI6eyJpZCI6IktUMDc5Xzg1MjUiLCJxdWFudGl0eSI6MX0sIjE4Ijp7ImlkIjoiS1QwNDhfMzA4NSIsInF1YW50aXR5IjoxfSwiMTkiOnsiaWQiOiJLVDAwM18yOTk1IiwicXVhbnRpdHkiOjF9LCIyMCI6eyJpZCI6IktUMTE1XzExMTMwIiwicXVhbnRpdHkiOjF9LCIyMSI6eyJpZCI6IktUMDg3Xzg3MzEiLCJxdWFudGl0eSI6MX0sIjIyIjp7ImlkIjoiS1QwMDlfMzAwNyIsInF1YW50aXR5IjoxfSwiMjMiOnsiaWQiOiJLVDE0NF8zMTIwMiIsInF1YW50aXR5IjoxfSwiMjQiOnsiaWQiOiJLVDA5OV84ODUxIiwicXVhbnRpdHkiOjF9LCIyNSI6eyJpZCI6IktUMDk4Xzg4NDkiLCJxdWFudGl0eSI6MX0sIjI2Ijp7ImlkIjoiS1QwNjZfNzM0MyIsInF1YW50aXR5IjoxfSwiMjciOnsiaWQiOiJLVDAzMF8zMDQ5IiwicXVhbnRpdHkiOjF9LCIyOCI6eyJpZCI6IktUMDI3XzMwNDMiLCJxdWFudGl0eSI6MX0sIjI5Ijp7ImlkIjoiS1QwMjNfMzAzNSIsInF1YW50aXR5IjoxfSwiMzAiOnsiaWQiOiJLVDAwOF8zMDA1IiwicXVhbnRpdHkiOjF9LCIzMSI6eyJpZCI6IktUMTY2XzM1OTg1IiwicXVhbnRpdHkiOjF9LCIzMiI6eyJpZCI6IktUMTUwXzMyODQzIiwicXVhbnRpdHkiOjF9LCIzMyI6eyJpZCI6IktUMTQyXzMxMTcwIiwicXVhbnRpdHkiOjF9LCIzNCI6eyJpZCI6IktUMDk0Xzg4NDMiLCJxdWFudGl0eSI6MX0sIjM1Ijp7ImlkIjoiS1QwODJfODUyNyIsInF1YW50aXR5IjoxfSwiMzYiOnsiaWQiOiJLVDA2OV83MzQ2IiwicXVhbnRpdHkiOjF9LCIzNyI6eyJpZCI6IktUMDY4XzczNDUiLCJxdWFudGl0eSI6MX0sIjM4Ijp7ImlkIjoiS1QwNjVfNzM0MiIsInF1YW50aXR5IjoxfSwiMzkiOnsiaWQiOiJLVDA0OV8zMDg3IiwicXVhbnRpdHkiOjF9LCI0MCI6eyJpZCI6IktUMDQ3XzMwODMiLCJxdWFudGl0eSI6MX0sIjQxIjp7ImlkIjoiS1QwMzdfMzA2MyIsInF1YW50aXR5IjoxfSwiNDIiOnsiaWQiOiJLVDAzM18zMDU1IiwicXVhbnRpdHkiOjF9LCI0MyI6eyJpZCI6IktUMDE0XzMwMTciLCJxdWFudGl0eSI6MX0sIjQ0Ijp7ImlkIjoiS1QwMDVfMjk5OSIsInF1YW50aXR5IjoxfSwiNDUiOnsiaWQiOiJLVDE3Ml8zNjQwMyIsInF1YW50aXR5IjoxfSwiNDYiOnsiaWQiOiJLVDE2M18zNTk3MyIsInF1YW50aXR5IjoxfSwiNDciOnsiaWQiOiJLVDA1Ml8zNTQ4MiIsInF1YW50aXR5IjoxfSwiNDgiOnsiaWQiOiJLVDE0M18zMTE4NCIsInF1YW50aXR5IjoxfSwiNDkiOnsiaWQiOiJLVDEzNV8zMDk3MyIsInF1YW50aXR5IjoxfSwiNTAiOnsiaWQiOiJLVDEyOF8yNzYwNiIsInF1YW50aXR5IjoxfSwiNTEiOnsiaWQiOiJLVDEyNF8yNjI2MSIsInF1YW50aXR5IjoxfSwiNTIiOnsiaWQiOiJLVDExNF8xMDUxNCIsInF1YW50aXR5IjoxfSwiNTMiOnsiaWQiOiJLVDEwNF85MTM3IiwicXVhbnRpdHkiOjF9LCI1NCI6eyJpZCI6IktUMTAxXzkxMzQiLCJxdWFudGl0eSI6MX0sIjU1Ijp7ImlkIjoiS1QwOTNfODgzNSIsInF1YW50aXR5IjoxfSwiNTYiOnsiaWQiOiJLVDA4Nl84NzI5IiwicXVhbnRpdHkiOjF9LCI1NyI6eyJpZCI6IktUMDg0Xzg1MjkiLCJxdWFudGl0eSI6MX0sIjU4Ijp7ImlkIjoiS1QwNjRfNzM0MSIsInF1YW50aXR5IjoxfSwiNTkiOnsiaWQiOiJLVDA2M183MzI3IiwicXVhbnRpdHkiOjF9fX0seyJldmVudElEIjoiMmE0OGMxMDUtZjgyMy00ZDcyLThhYjItMTEzOTI2NmQ0NjJlIn0pfSk="

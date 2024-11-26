@@ -70,6 +70,14 @@ class ProductResource extends Resource
                                     ->maxLength(255)
                                     ->label('Slug'),
 
+                                TextInput::make('code')
+                                    ->required()
+
+                                    ->dehydrated()
+                                    ->unique(Product::class, 'code', ignoreRecord: true)
+                                    ->maxLength(255)
+                                    ->label('Mã Sản Phẩm'),
+
                                 Textarea::make('short_description')
                                     ->columnSpanFull()
                                     ->label('Mô Tả Ngắn'),
@@ -83,7 +91,7 @@ class ProductResource extends Resource
 
 
                     ])->columnSpan(3),
-        
+
                 Group::make()
                     ->schema([
 
@@ -96,27 +104,12 @@ class ProductResource extends Resource
                                     ->label('Danh Mục')
                                     ->options(Category::all()->pluck('name', 'id'))
                                     ->placeholder('Chọn danh mục sản phẩm'),
-                                Select::make('subcategory_id')
-                                    ->searchable()
-                                    ->preload()
-                                    ->relationship('subcategory', 'name')
-                                    ->label('Danh Mục Con'),
 
-                                Select::make('brand_id')
-                                    ->searchable()
-                                    ->preload()
-                                    ->relationship('brand', 'name')
-                                    ->label('Thương Hiệu'),
                                 TextInput::make('price')
                                     ->numeric()
                                     ->required()
                                     ->default(0)
                                     ->label('Giá Bán'),
-                                TextInput::make('discount_price')
-                                    ->numeric()
-                                    ->required()
-                                    ->default(0)
-                                    ->label('Giá Giảm'),
                             ]),
                         Section::make('Hình Ảnh')
                             ->collapsible()
@@ -131,65 +124,8 @@ class ProductResource extends Resource
 
 
                     ])->columnSpan(3),
-                    Group::make()
-                    ->schema([
-                        Section::make('Biến Thể Sản Phẩm')
-                        ->collapsible()
-                            ->schema([
-                                Repeater::make('variants')
-                                    ->label('Biến Thể Sản Phẩm')
-                                    ->relationship()
-                                    ->schema([
-                                        TextInput::make('sku')
-                                            ->required()
-                                            ->label('SKU')
-                                            ->default(function () {
-                                                return strtoupper(Str::random(3)) . random_int(1000, 9999);
-                                            })
-                                            ->unique(ProductVariant::class, 'sku', ignoreRecord: true),
-
-                                        TextInput::make('name')
-                                            ->label('Tên'),
-
-                                        TextInput::make('price')
-                                            ->numeric()
-                                            ->label('Giá Bán'),
-
-                                        TextInput::make('discount_price')
-                                            ->numeric()
-                                            ->label('Giá Nhập')
-                                            ->nullable(),
-
-                                        Select::make('stock')
-                                            ->options([
-                                                'in_stock' => 'Còn hàng',
-                                                'out_of_stock' => 'Hết hàng',
-                                            ])
-                                            ->default('in_stock')
-                                            ->label('Trạng thái'),
-                                            TextInput::make('warranty_days')
-                                            ->numeric()
-                                            ->label('Thời Hạn Bảo Hành (Ngày)')
-                                            ->nullable(),
-                                            
-                                        DateTimePicker::make('updated_at')
-                                        ->disabled()
-                                        ->label('Ngày Cập Nhật Mới Nhất')
-                                        ->nullable(),
-                                        FileUpload::make('image')
-                                            ->label('Ảnh')
-                                            ->directory('product_variants')
-                                            ->nullable()
-                                    ])
-                                    ->columns(4)
-                                    ->minItems(1) // Số lượng tối thiểu biến thể
-                            ])
 
 
-                    ])->columnSpan(3),
-
-
-                    
             ])->columns(3);
     }
     public static function table(Table $table): Table
@@ -220,12 +156,6 @@ class ProductResource extends Resource
                     ->label('Slug') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->searchable(),
-                Tables\Columns\TextColumn::make('variants.sku') // Thêm cột SKU
-                    ->label('SKU') // Đổi nhãn sang tiếng Việt
-                    ->sortable()
-                    ->searchable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-
 
                 Tables\Columns\TextColumn::make('created_at')
                     ->label('Ngày Tạo') // Đổi nhãn sang tiếng Việt

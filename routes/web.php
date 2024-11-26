@@ -64,8 +64,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', NewHome::class);
 Route::get('/search', NewSearch::class);
-Route::get('/ke-hoa-chuc-mung', NewCategory::class);
-Route::get('/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095', NewProductDetail::class);
+Route::get('/categories/{slug}', NewCategory::class);
+Route::get('/product/{slug}', NewProductDetail::class);
 Route::get('/gio-hang', NewCart::class);
 Route::get('/thanh-toan', NewCheckout::class);
 Route::get('/don-hang-da-nhan/cam-on-quy-khach', NewPayment::class);

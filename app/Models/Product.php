@@ -32,12 +32,6 @@ class Product extends Model
     {
         return $this->hasMany(OrderItem::class);
     }
-    public function subcategory() {
-        return $this->belongsTo(Subcategory::class , 'subcategory_id' );
-    }
-    public function subcategories() {
-        return $this->belongsTo(Subcategory::class , 'subcategory_id' );
-    }
     public function variants()
     {
         return $this->hasMany(ProductVariant::class);
@@ -61,9 +55,9 @@ class Product extends Model
                 return false;
             }
         }
-        
+
         // Nếu tất cả các biến thể đều hết hàng (stock == 'out_of_stock'), trả về true
         return true;
     }
-    
+
 }

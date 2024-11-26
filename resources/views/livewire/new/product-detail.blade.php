@@ -48,9 +48,9 @@
         <meta property="og:site_name" content="Trạm Hoa" />
         <meta property="og:updated_time" content="2024-10-20T23:18:55+07:00" />
         <meta property="og:image"
-            content="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
+            content="/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
         <meta property="og:image:secure_url"
-            content="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
+            content="/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
         <meta property="og:image:width" content="960" />
         <meta property="og:image:height" content="1280" />
         <meta property="og:image:alt" content="Hoa khai trương" />
@@ -67,12 +67,12 @@
         <meta name="twitter:site" content="@tramhoavn" />
         <meta name="twitter:creator" content="@tramhoavn" />
         <meta name="twitter:image"
-            content="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
+            content="/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg" />
         <meta name="twitter:label1" content="Giá" />
         <meta name="twitter:data1" content="800.000&nbsp;VND" />
         <meta name="twitter:label2" content="Tình trạng sẵn có" />
         <meta name="twitter:data2" content="còn 9973 hàng" />
-        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"https://tramhoa.com/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"https://tramhoa.com/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","url":"https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","width":"960","height":"1280","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/hoa-khai-truong/","name":"Hoa Khai Tr\u01b0\u01a1ng"}},{"@type":"ListItem","position":"3","item":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","name":"M\u1eebng Khai Tr\u01b0\u01a1ng"}}]},{"@type":"ItemPage","@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#webpage","url":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","name":"Hoa Khai Tr\u01b0\u01a1ng - M\u1eebng Khai Tr\u01b0\u01a1ng KT095 - Tr\u1ea1m Hoa","datePublished":"2022-12-17T14:25:35+07:00","dateModified":"2024-10-20T23:18:55+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#breadcrumb"}},{"@type":"Product","brand":{"@type":"Brand","name":"Tr\u1ea1m Hoa"},"name":"Hoa Khai Tr\u01b0\u01a1ng - M\u1eebng Khai Tr\u01b0\u01a1ng KT095 - Tr\u1ea1m Hoa","description":"Hoa m\u1eebng khai tr\u01b0\u01a1ng l\u00e0 bi\u1ec3u t\u01b0\u1ee3ng c\u1ee7a s\u1ef1 may m\u1eafn v\u00e0 th\u1ecbnh v\u01b0\u1ee3ng, l\u00e0m cho kh\u00f4ng gian m\u1edbi tr\u1edf n\u00ean s\u1ed1ng \u0111\u1ed9ng v\u00e0 t\u01b0\u01a1i m\u1edbi. Thi\u1ebft k\u1ebf k\u1ec7 hoa \u0111\u01a1n gi\u1ea3n r\u1ef1c r\u1ee1 m\u00e0u s\u1eafc \u0111\u1ecf v\u00e0 v\u00e0ng, t\u1eeb hoa \u0111\u1ed3ng ti\u1ec1n t\u01b0\u01a1i s\u00e1ng k\u1ebft h\u01a1p c\u00f9ng hoa ly v\u00e0ng, \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp m\u1ed9t c\u00e1ch tinh t\u1ebf tr\u00ean k\u1ec7 hoa, t\u1ea1o n\u00ean m\u1ed9t t\u00e1c ph\u1ea9m ngh\u1ec7 thu\u1eadt t\u1ef1 nhi\u00ean, ch\u00e0o \u0111\u00f3n s\u1ef1 m\u1edf c\u1eeda m\u1edbi.","sku":"KT095","category":"Hoa Khai Tr\u01b0\u01a1ng","mainEntityOfPage":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#webpage"},"image":[{"@type":"ImageObject","url":"https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","height":"1280","width":"960"}],"offers":{"@type":"Offer","price":"800000","priceCurrency":"VND","priceValidUntil":"2025-12-31","availability":"https://schema.org/InStock","itemCondition":"NewCondition","url":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","seller":{"@type":"Organization","@id":"https://tramhoa.com/","name":"Tr\u1ea1m Hoa","url":"https://tramhoa.com","logo":"https://tramhoa.com/wp-content/uploads/2020/03/Facebook-Logo.png"}},"additionalProperty":[{"@type":"PropertyValue","name":"pa_kieu-thiet-ke","value":"Truy\u1ec1n th\u1ed1ng"}],"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#richSnippet"}]}</script>
+        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","url":"/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","width":"960","height":"1280","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/hoa-khai-truong/","name":"Hoa Khai Tr\u01b0\u01a1ng"}},{"@type":"ListItem","position":"3","item":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","name":"M\u1eebng Khai Tr\u01b0\u01a1ng"}}]},{"@type":"ItemPage","@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#webpage","url":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","name":"Hoa Khai Tr\u01b0\u01a1ng - M\u1eebng Khai Tr\u01b0\u01a1ng KT095 - Tr\u1ea1m Hoa","datePublished":"2022-12-17T14:25:35+07:00","dateModified":"2024-10-20T23:18:55+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#breadcrumb"}},{"@type":"Product","brand":{"@type":"Brand","name":"Tr\u1ea1m Hoa"},"name":"Hoa Khai Tr\u01b0\u01a1ng - M\u1eebng Khai Tr\u01b0\u01a1ng KT095 - Tr\u1ea1m Hoa","description":"Hoa m\u1eebng khai tr\u01b0\u01a1ng l\u00e0 bi\u1ec3u t\u01b0\u1ee3ng c\u1ee7a s\u1ef1 may m\u1eafn v\u00e0 th\u1ecbnh v\u01b0\u1ee3ng, l\u00e0m cho kh\u00f4ng gian m\u1edbi tr\u1edf n\u00ean s\u1ed1ng \u0111\u1ed9ng v\u00e0 t\u01b0\u01a1i m\u1edbi. Thi\u1ebft k\u1ebf k\u1ec7 hoa \u0111\u01a1n gi\u1ea3n r\u1ef1c r\u1ee1 m\u00e0u s\u1eafc \u0111\u1ecf v\u00e0 v\u00e0ng, t\u1eeb hoa \u0111\u1ed3ng ti\u1ec1n t\u01b0\u01a1i s\u00e1ng k\u1ebft h\u01a1p c\u00f9ng hoa ly v\u00e0ng, \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp m\u1ed9t c\u00e1ch tinh t\u1ebf tr\u00ean k\u1ec7 hoa, t\u1ea1o n\u00ean m\u1ed9t t\u00e1c ph\u1ea9m ngh\u1ec7 thu\u1eadt t\u1ef1 nhi\u00ean, ch\u00e0o \u0111\u00f3n s\u1ef1 m\u1edf c\u1eeda m\u1edbi.","sku":"KT095","category":"Hoa Khai Tr\u01b0\u01a1ng","mainEntityOfPage":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#webpage"},"image":[{"@type":"ImageObject","url":"/assets/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg","height":"1280","width":"960"}],"offers":{"@type":"Offer","price":"800000","priceCurrency":"VND","priceValidUntil":"2025-12-31","availability":"https://schema.org/InStock","itemCondition":"NewCondition","url":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/","seller":{"@type":"Organization","@id":"https://tramhoa.com/","name":"Tr\u1ea1m Hoa","url":"https://tramhoa.com","logo":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png"}},"additionalProperty":[{"@type":"PropertyValue","name":"pa_kieu-thiet-ke","value":"Truy\u1ec1n th\u1ed1ng"}],"@id":"https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/#richSnippet"}]}</script>
         <link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
         <link rel='dns-prefetch' href='//fonts.googleapis.com' />
         <link rel='dns-prefetch' href='//www.facebook.com' />
@@ -80,15 +80,15 @@
         <link rel='dns-prefetch' href='//connect.facebook.net' />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
+            href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
+            href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
+            href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.19.7' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
+            href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
         <link rel='prefetch'
-            href='https://tramhoa.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
+            href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
         <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
             href="https://tramhoa.com/feed/" />
         <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
@@ -96,7 +96,7 @@
         <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Mừng Khai Trương Dòng bình luận"
             href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/feed/" />
         <link data-optimized="1" rel='stylesheet' id='themecomplete-epo-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/7aed847180d7729fccd88de886a81ef0.css?ver=81ef0'
+            href='/assets/wp-content/litespeed/css/7aed847180d7729fccd88de886a81ef0.css?ver=81ef0'
             type='text/css' media='all' />
         <style id='wp-block-library-inline-css' type='text/css'>
             :root {
@@ -313,7 +313,7 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='contact-form-7-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/31b5a56213527a924dd4afdfd32205f6.css?ver=205f6'
+            href='/assets/wp-content/litespeed/css/31b5a56213527a924dd4afdfd32205f6.css?ver=205f6'
             type='text/css' media='all' />
         <style id='woocommerce-inline-inline-css' type='text/css'>
             .woocommerce form .form-row .required {
@@ -321,7 +321,7 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='yith_wccl_frontend-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/182e00b6168e67f914084693f437ff46.css?ver=7ff46'
+            href='/assets/wp-content/litespeed/css/182e00b6168e67f914084693f437ff46.css?ver=7ff46'
             type='text/css' media='all' />
         <style id='yith_wccl_frontend-inline-css' type='text/css'>
             .select_option .yith_wccl_tooltip>span {
@@ -338,10 +338,10 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='flatsome-woocommerce-extra-product-options-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/a986b64bffc0e648c67e1195dec06471.css?ver=06471'
+            href='/assets/wp-content/litespeed/css/a986b64bffc0e648c67e1195dec06471.css?ver=06471'
             type='text/css' media='all' />
         <link data-optimized="1" rel='stylesheet' id='yit-tabmanager-frontend-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/8feecb0e4a5d1eb90f49cbf07d0f1a47.css?ver=f1a47'
+            href='/assets/wp-content/litespeed/css/8feecb0e4a5d1eb90f49cbf07d0f1a47.css?ver=f1a47'
             type='text/css' media='all' />
         <link crossorigin="anonymous" rel='stylesheet' id='font-awesome-css'
             href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3'
@@ -361,29 +361,29 @@
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='font-retina-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/e3b193f7064d36bab1f1a5efac5d660e.css?ver=d660e'
+            href='/assets/wp-content/litespeed/css/e3b193f7064d36bab1f1a5efac5d660e.css?ver=d660e'
             type='text/css' media='all' />
         <link data-optimized="1" rel='stylesheet' id='flatsome-main-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/d04399bbaa4a6859235e1b8dddccaa7c.css?ver=caa7c'
+            href='/assets/wp-content/litespeed/css/d04399bbaa4a6859235e1b8dddccaa7c.css?ver=caa7c'
             type='text/css' media='all' />
         <style id='flatsome-main-inline-css' type='text/css'>
             @font-face {
                 font-family: "fl-icons";
                 font-display: block;
-                src: url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
+                src: url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.19.7);
                 src:
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
-                    url(https://tramhoa.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.7) format("embedded-opentype"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.19.7) format("woff2"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.19.7) format("truetype"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.19.7) format("woff"),
+                    url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.19.7#fl-icons) format("svg");
             }
         </style>
         <link data-optimized="1" rel='stylesheet' id='flatsome-shop-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/33b2bfc1b5516bafdd9c17803c29a18c.css?ver=9a18c'
+            href='/assets/wp-content/litespeed/css/33b2bfc1b5516bafdd9c17803c29a18c.css?ver=9a18c'
             type='text/css' media='all' />
         <link data-optimized="1" rel='stylesheet' id='flatsome-style-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/b30522833c08a15b9741e11de61d4d7c.css?ver=d4d7c'
+            href='/assets/wp-content/litespeed/css/b30522833c08a15b9741e11de61d4d7c.css?ver=d4d7c'
             type='text/css' media='all' />
         <link crossorigin="anonymous" rel='stylesheet' id='flatsome-googlefonts-css'
             href='//fonts.googleapis.com/css?family=Nunito+Sans%3Aregular%2C700%2Cregular%2C700%7CPlayfair+Display%3Aregular%2C600&#038;display=swap&#038;ver=3.9'
@@ -405,40 +405,40 @@
         <script type="text/javascript" id="jquery-core-js-extra"
             src="data:text/javascript;base64,dmFyIHhsd2N0eT17ImFqYXhfdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ2ZXJzaW9uIjoiMi4xOS4wIiwid2NfdmVyc2lvbiI6IjkuNC4yIn0="
             defer></script>
-        <script type="text/javascript" src="https://tramhoa.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js">
+        <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js">
         </script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/9828e24d784bac54fc57893e2a7f7899.js?ver=f7899"
+            src="/assets/wp-content/litespeed/js/9828e24d784bac54fc57893e2a7f7899.js?ver=f7899"
             id="jquery-migrate-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/ca2816159518af9ef5918fb3cef62dec.js?ver=62dec" id="underscore-js"
+            src="/assets/wp-content/litespeed/js/ca2816159518af9ef5918fb3cef62dec.js?ver=62dec" id="underscore-js"
             defer data-deferred="1"></script>
         <script type="text/javascript" id="wp-util-js-extra"
             src="data:text/javascript;base64,dmFyIF93cFV0aWxTZXR0aW5ncz17ImFqYXgiOnsidXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAifX0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/54db9ab6109b87c40e195b8eb1215d69.js?ver=15d69" id="wp-util-js"
+            src="/assets/wp-content/litespeed/js/54db9ab6109b87c40e195b8eb1215d69.js?ver=15d69" id="wp-util-js"
             defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2e51601ce4f05fcc7a3e0a0779357452.js?ver=57452"
+            src="/assets/wp-content/litespeed/js/2e51601ce4f05fcc7a3e0a0779357452.js?ver=57452"
             id="jquery-blockui-js" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="wc-add-to-cart-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2FkZF90b19jYXJ0X3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiaTE4bl92aWV3X2NhcnQiOiJYZW0gZ2lcdTFlY2YgaFx1MDBlMG5nIiwiY2FydF91cmwiOiJodHRwczpcL1wvdHJhbWhvYS5jb21cL2dpby1oYW5nXC8iLCJpc19jYXJ0IjoiIiwiY2FydF9yZWRpcmVjdF9hZnRlcl9hZGQiOiJ5ZXMifQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/60840d11a513643c6498259240994b4b.js?ver=94b4b"
+            src="/assets/wp-content/litespeed/js/60840d11a513643c6498259240994b4b.js?ver=94b4b"
             id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="wc-single-product-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX3NpbmdsZV9wcm9kdWN0X3BhcmFtcz17ImkxOG5fcmVxdWlyZWRfcmF0aW5nX3RleHQiOiJWdWkgbFx1MDBmMm5nIGNoXHUxZWNkbiBtXHUxZWQ5dCBtXHUxZWU5YyBcdTAxMTFcdTAwZTFuaCBnaVx1MDBlMSIsInJldmlld19yYXRpbmdfcmVxdWlyZWQiOiJ5ZXMiLCJmbGV4c2xpZGVyIjp7InJ0bCI6ITEsImFuaW1hdGlvbiI6InNsaWRlIiwic21vb3RoSGVpZ2h0IjohMCwiZGlyZWN0aW9uTmF2IjohMSwiY29udHJvbE5hdiI6InRodW1ibmFpbHMiLCJzbGlkZXNob3ciOiExLCJhbmltYXRpb25TcGVlZCI6NTAwLCJhbmltYXRpb25Mb29wIjohMSwiYWxsb3dPbmVTbGlkZSI6ITF9LCJ6b29tX2VuYWJsZWQiOiIiLCJ6b29tX29wdGlvbnMiOltdLCJwaG90b3N3aXBlX2VuYWJsZWQiOiIiLCJwaG90b3N3aXBlX29wdGlvbnMiOnsic2hhcmVFbCI6ITEsImNsb3NlT25TY3JvbGwiOiExLCJoaXN0b3J5IjohMSwiaGlkZUFuaW1hdGlvbkR1cmF0aW9uIjowLCJzaG93QW5pbWF0aW9uRHVyYXRpb24iOjB9LCJmbGV4c2xpZGVyX2VuYWJsZWQiOiIifQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/84fff99176db11c584bdf376062983e1.js?ver=983e1"
+            src="/assets/wp-content/litespeed/js/84fff99176db11c584bdf376062983e1.js?ver=983e1"
             id="wc-single-product-js" defer="defer" data-wp-strategy="defer"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/0de58fa9c338a177c3a239b9fb30169c.js?ver=0169c" id="js-cookie-js"
+            src="/assets/wp-content/litespeed/js/0de58fa9c338a177c3a239b9fb30169c.js?ver=0169c" id="js-cookie-js"
             data-wp-strategy="defer"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/80164ee73bb4214d01f15d101ac15dbe.js?ver=15dbe"
+            src="/assets/wp-content/litespeed/js/80164ee73bb4214d01f15d101ac15dbe.js?ver=15dbe"
             id="gtm4wp-scroll-tracking-js" defer data-deferred="1"></script>
         <link rel="https://api.w.org/" href="https://tramhoa.com/wp-json/" />
         <link rel="alternate" title="JSON" type="application/json"
@@ -526,7 +526,7 @@
                 font-style: normal;
                 font-weight: 300 900;
                 font-display: fallback;
-                src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
+                src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');
                 font-stretch: normal;
             }
 
@@ -535,19 +535,19 @@
                 font-style: normal;
                 font-weight: 400;
                 font-display: fallback;
-                src: url('https://tramhoa.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
+                src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
         <link rel="icon"
-            href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
+            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
             sizes="32x32" />
         <link rel="icon"
-            href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
+            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
             sizes="192x192" />
         <link rel="apple-touch-icon"
-            href="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
+            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
         <meta name="msapplication-TileImage"
-            content="https://tramhoa.com/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1257,10 +1257,10 @@
                                     title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
                                     rel="home">
                                     <img width="200" height="90"
-                                        src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                        src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                         class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
                                         height="90"
-                                        src="https://tramhoa.com/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                                        src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                                         class="header-logo-dark" alt="Trạm Hoa" /></a></div>
                             <div class="flex-col show-for-medium flex-left">
                                 <ul class="mobile-nav nav nav-left ">
@@ -1315,11 +1315,11 @@
                                                 <a class="" href="tel:+84348278722">
                                                     <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                                         <img width="312" height="92"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
+                                                            src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
                                                             class="attachment-original size-original"
                                                             alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
                                                             decoding="async"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, https://tramhoa.com/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
+                                                            srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
                                                             sizes="(max-width: 312px) 100vw, 312px" />
                                                     </div>
                                                 </a>
@@ -1612,20 +1612,17 @@
                                             <div class="image-tools absolute top show-on-hover right z-3"></div>
                                             <div class="woocommerce-product-gallery__wrapper product-gallery-slider slider slider-nav-small mb-half"
                                                 data-flickity-options='{"cellAlign": "center","wrapAround": true,"autoPlay": false,"prevNextButtons":true,"adaptiveHeight": true,"imagesLoaded": true,"lazyLoad": 1,"dragThreshold" : 15,"pageDots": false,"rightToLeft": false       }'>
-                                                <div data-thumb="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-100x100.jpg.webp"
+                                                <div data-thumb="{{Storage::url($product->images[0])}}"
                                                     data-thumb-alt=""
                                                     class="woocommerce-product-gallery__image slide first"><a
-                                                        href="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg"><img
+                                                        href="{{Storage::url($product->images[0])}}"><img
                                                             width="510" height="680"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-510x680.jpg.webp"
+                                                            src="{{Storage::url($product->images[0])}}"
                                                             class="wp-post-image ux-skip-lazy" alt=""
                                                             data-caption=""
-                                                            data-src="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg.webp"
-                                                            data-large_image="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg"
                                                             data-large_image_width="960"
                                                             data-large_image_height="1280" decoding="async"
                                                             fetchpriority="high"
-                                                            srcset="https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-510x680.jpg.webp 510w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-225x300.jpg.webp 225w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-768x1024.jpg.webp 768w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095-113x150.jpg.webp 113w, https://tramhoa.com/wp-content/uploads/2019/12/ke-hoa-khai-truong-kt-095.jpg.webp 960w"
                                                             sizes="(max-width: 510px) 100vw, 510px" /></a></div>
                                             </div>
                                             <div class="image-tools absolute bottom left z-3">
@@ -1643,23 +1640,20 @@
                                                     &raquo;
                                                 </span><a href="https://tramhoa.com/hoa-khai-truong/">Hoa Khai
                                                     Trương</a><span class="separator"> &raquo; </span><span
-                                                    class="last">Mừng Khai Trương</span></p>
+                                                    class="last">{{$product->name}}</span></p>
                                         </nav>
                                         <h1 class="product-title product_title entry-title">
-                                            Mừng Khai Trương</h1>
+                                            {{$product->name}}</h1>
                                         <div class="product_meta">
-                                            <span class="sku_wrapper">Mã: <span class="sku">KT095</span></span>
+                                            <span class="sku_wrapper">Mã: <span class="sku">{{$product->code}}</span></span>
                                             <span class="posted_in">Danh mục: <a
-                                                    href="https://tramhoa.com/hoa-khai-truong/" rel="tag">Hoa
-                                                    Khai
-                                                    Trương</a>, <a href="https://tramhoa.com/ke-hoa-chuc-mung/"
-                                                    rel="tag">Kệ Hoa Chúc Mừng</a>, <a
-                                                    href="https://tramhoa.com/ke-hoa-chuc-mung-truyen-thong/"
-                                                    rel="tag">Kệ Hoa Chúc Mừng Truyền Thống</a></span>
+                                                    href="/category/{{ $product->category->slug}}" rel="tag">{{$product->category->name}}</a>, <a
+                                                    href="/category/{{ $product->slug}}"
+                                                    rel="tag">{{$product->name}}</a></span>
                                         </div>
                                         <div class="price-wrapper">
                                             <p class="price product-page-price ">
-                                                <span class="woocommerce-Price-amount amount"><bdi>800.000&nbsp;<span
+                                                <span class="woocommerce-Price-amount amount"><bdi>{{number_format($product->price, 0, ',', '.')}}&nbsp;<span
                                                             class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
                                             </p>
                                         </div>
@@ -1685,7 +1679,7 @@
                                                                         <div class="icon">
                                                                             <div class="icon-inner">
                                                                                 <img width="1" height="1"
-                                                                                    src="https://tramhoa.com/wp-content/uploads/2023/08/check-circle.svg"
+                                                                                    src="/assets/wp-content/uploads/2023/08/check-circle.svg"
                                                                                     class="attachment-medium size-medium"
                                                                                     alt="" decoding="async" />
                                                                             </div>
@@ -1707,7 +1701,7 @@
                                                                         <div class="icon">
                                                                             <div class="icon-inner">
                                                                                 <img width="1" height="1"
-                                                                                    src="https://tramhoa.com/wp-content/uploads/2023/08/file-text.svg"
+                                                                                    src="/assets/wp-content/uploads/2023/08/file-text.svg"
                                                                                     class="attachment-medium size-medium"
                                                                                     alt="" decoding="async" />
                                                                             </div>
@@ -1729,7 +1723,7 @@
                                                                         <div class="icon">
                                                                             <div class="icon-inner">
                                                                                 <img width="1" height="1"
-                                                                                    src="https://tramhoa.com/wp-content/uploads/2023/08/truck.svg"
+                                                                                    src="/assets/wp-content/uploads/2023/08/truck.svg"
                                                                                     class="attachment-medium size-medium"
                                                                                     alt="" decoding="async"
                                                                                     loading="lazy" />
@@ -1775,9 +1769,8 @@
                                             </style>
                                         </div>
                                         <p class="stock in-stock">còn 9973 hàng</p>
-                                        <form class="cart"
-                                            action="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/khai-truong-hong-phat-kt095/"
-                                            method="post" enctype='multipart/form-data'>
+                                        <form class="cart" wire:submit="addToCart"
+                                         >
                                             <input type="hidden" class="tm-epo-counter" name="tm-epo-counter"
                                                 value="1"><input type="hidden" data-epo-id="1"
                                                 class="tc-add-to-cart" name="tcaddtocart" value="8846">
@@ -1795,10 +1788,10 @@
                                                 <input type="button" value="+"
                                                     class="ux-quantity__button ux-quantity__button--plus button plus is-form">
                                             </div>
-                                            <button type="submit" name="add-to-cart" value="8846"
+                                            <button wire:click="addToCart"
                                                 class="single_add_to_cart_button button alt">Đặt Hoa</button><input
                                                 type="hidden" name="gtm4wp_product_data"
-                                                value="{&quot;internal_id&quot;:8846,&quot;item_id&quot;:&quot;KT095&quot;,&quot;item_name&quot;:&quot;M\u1eebng Khai Tr\u01b0\u01a1ng&quot;,&quot;sku&quot;:&quot;KT095&quot;,&quot;price&quot;:800000,&quot;stocklevel&quot;:9973,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Truy\u1ec1n Th\u1ed1ng&quot;,&quot;id&quot;:&quot;KT095&quot;,&quot;item_brand&quot;:&quot;&quot;}" />
+                                              />
                                         </form>
                                         <div id="text-2622897752" class="text">
                                             <ul>
@@ -1842,10 +1835,10 @@
                                                         <a data-gtm4wp_product_data="{&quot;internal_id&quot;:6713,&quot;item_id&quot;:&quot;KT060&quot;,&quot;item_name&quot;:&quot;T\u00e0i L\u1ed9c \u0110ong \u0110\u1ea7y&quot;,&quot;sku&quot;:&quot;KT060&quot;,&quot;price&quot;:2200000,&quot;stocklevel&quot;:10000,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng&quot;,&quot;item_category2&quot;:&quot;K\u1ec7 Hoa Ch\u00fac M\u1eebng Ngh\u1ec7 Thu\u1eadt&quot;,&quot;id&quot;:&quot;KT060&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/ke-hoa-chuc-mung\/ke-hoa-chuc-mung-nghe-thuat\/tai-loc-dong-day-kt060\/&quot;,&quot;item_list_name&quot;:&quot;M\u1eabu Hoa B\u00e1n Ch\u1ea1y (widget)&quot;,&quot;index&quot;:1}"
                                                             href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/tai-loc-dong-day-kt060/">
                                                             <img width="100" height="100"
-                                                                src="https://tramhoa.com/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-100x100.jpg.webp"
+                                                                src="/assets/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-100x100.jpg.webp"
                                                                 class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail"
                                                                 alt="" decoding="async" loading="lazy"
-                                                                srcset="https://tramhoa.com/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-100x100.jpg.webp 100w, https://tramhoa.com/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-96x96.jpg.webp 96w, https://tramhoa.com/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-32x32.jpg.webp 32w"
+                                                                srcset="/assets/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-100x100.jpg.webp 100w, /assets/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-96x96.jpg.webp 96w, /assets/wp-content/uploads/0201/03/ke-hoa-khai-truong-kt060-tai-loc-dong-day-2-32x32.jpg.webp 32w"
                                                                 sizes="auto, (max-width: 100px) 100vw, 100px" /> <span
                                                                 class="product-title">Tài Lộc Đong Đầy</span>
                                                         </a>
@@ -1856,7 +1849,7 @@
                                                         <a data-gtm4wp_product_data="{&quot;internal_id&quot;:2955,&quot;item_id&quot;:&quot;B004&quot;,&quot;item_name&quot;:&quot;Tin Y\u00eau&quot;,&quot;sku&quot;:&quot;B004&quot;,&quot;price&quot;:480000,&quot;stocklevel&quot;:9983,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;B\u00f3 Hoa T\u01b0\u01a1i&quot;,&quot;item_category2&quot;:&quot;B\u00f3 Hoa H\u01b0\u1edbng D\u01b0\u01a1ng&quot;,&quot;id&quot;:&quot;B004&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/bo-hoa-tuoi\/bo-hoa-huong-duong\/tin-yeu-b004\/&quot;,&quot;item_list_name&quot;:&quot;M\u1eabu Hoa B\u00e1n Ch\u1ea1y (widget)&quot;,&quot;index&quot;:2}"
                                                             href="https://tramhoa.com/bo-hoa-tuoi/bo-hoa-huong-duong/tin-yeu-b004/">
                                                             <img width="100" height="100"
-                                                                src="https://tramhoa.com/wp-content/uploads/2019/12/Bo-Hoa-Tuoi-TH-B004-e1720604694183-100x100.jpg.webp"
+                                                                src="/assets/wp-content/uploads/2019/12/Bo-Hoa-Tuoi-TH-B004-e1720604694183-100x100.jpg.webp"
                                                                 class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail"
                                                                 alt="Bó Hoa Tươi - Trạm Hoa" decoding="async"
                                                                 loading="lazy" /> <span class="product-title">Tin
@@ -1869,7 +1862,7 @@
                                                         <a data-gtm4wp_product_data="{&quot;internal_id&quot;:2959,&quot;item_id&quot;:&quot;B006&quot;,&quot;item_name&quot;:&quot;H\u1ed3ng Th\u1eafm&quot;,&quot;sku&quot;:&quot;B006&quot;,&quot;price&quot;:750000,&quot;stocklevel&quot;:9977,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Hoa T\u00ecnh Y\u00eau&quot;,&quot;id&quot;:&quot;B006&quot;,&quot;item_brand&quot;:&quot;&quot;,&quot;productlink&quot;:&quot;https:\/\/tramhoa.com\/hoa-tinh-yeu\/hong-tham-b006\/&quot;,&quot;item_list_name&quot;:&quot;M\u1eabu Hoa B\u00e1n Ch\u1ea1y (widget)&quot;,&quot;index&quot;:3}"
                                                             href="https://tramhoa.com/hoa-tinh-yeu/hong-tham-b006/">
                                                             <img width="100" height="100"
-                                                                src="https://tramhoa.com/wp-content/uploads/2019/09/Bo-Hoa-Tuoi-TH-B066-Hong-Tham-2-100x100.jpg"
+                                                                src="/assets/wp-content/uploads/2019/09/Bo-Hoa-Tuoi-TH-B066-Hong-Tham-2-100x100.jpg"
                                                                 class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail"
                                                                 alt="" decoding="async" loading="lazy" />
                                                             <span class="product-title">Hồng Thắm</span>
@@ -1916,51 +1909,7 @@
                                             <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active"
                                                 id="tab-description" role="tabpanel"
                                                 aria-labelledby="tab-title-description">
-                                                <p>Hoa mừng khai trương là biểu tượng của sự may mắn và thịnh vượng, làm
-                                                    cho
-                                                    không gian mới trở nên sống động và tươi mới. Thiết kế kệ hoa đơn
-                                                    giản
-                                                    rực rỡ màu sắc đỏ và vàng, từ hoa đồng tiền tươi sáng kết hơp cùng
-                                                    hoa
-                                                    ly vàng, được sắp xếp một cách tinh tế trên kệ hoa, tạo nên một tác
-                                                    phẩm
-                                                    nghệ thuật tự nhiên, chào đón sự mở cửa mới.</p>
-                                                <p>Hoa mừng khai trương không chỉ là một món quà trang trí cho doanh
-                                                    nghiệp
-                                                    mới mà còn là sự tặng đi của niềm hạnh phúc và lời chúc tốt đẹp.
-                                                    Chúng
-                                                    là biểu tượng của sự khởi đầu mới, nơi mọi khách hàng và đối tác đều
-                                                    cảm
-                                                    nhận được sự chân thành và chăm sóc từ người tặng.</p>
-                                                <p><img loading="lazy" decoding="async"
-                                                        class="aligncenter wp-image-38923"
-                                                        src="https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-819x1024.jpg"
-                                                        alt="" width="525" height="656"
-                                                        srcset="https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2022/12/ke-hoa-khai-truong-kt095-2.jpg 960w"
-                                                        sizes="auto, (max-width: 525px) 100vw, 525px" /></p>
-                                                <p><strong>Những ưu đãi khi đặt hoa tại Trạm Hoa</strong></p>
-                                                <ul>
-                                                    <li>Miễn phí giao hoa nội thành toàn quốc 63/63 tỉnh thành phố</li>
-                                                    <li>Miễn phí các phụ kiện tặng kèm (thiệp, băng rôn, bảng tên, thông
-                                                        điệp,&#8230;)</li>
-                                                    <li>Chụp ảnh hoa thật trước khi giao để đảm bảo hài lòng khách hàng
-                                                    </li>
-                                                    <li>Giao hoa tươi gấp trong vòng 2 giờ kể từ khi đặt hàng.</li>
-                                                    <li>Nhiều ưu đãi giảm giá cho khách hàng thành viên, đặt hoa thường
-                                                        xuyên tại Trạm Hoa</li>
-                                                </ul>
-                                                <h4>Lưu ý</h4>
-                                                <ul>
-                                                    <li>Tùy khu vực, tùy mùa hoa, thời tiết nên sẽ có thay đổi đối với
-                                                        mẫu
-                                                        hoa, trước khi thực hiện thay đổi sẽ báo trước cho khách hàng.
-                                                    </li>
-                                                    <li>Hoa tươi vào những ngày lễ: Valentine, Quốc tế phụ nữ, Phụ nữ
-                                                        Việt
-                                                        Nam, Giáng sinh, Tết,… giá hoa sẽ tăng dao động từ 20-30%. Thời
-                                                        điểm
-                                                        tăng giá hoa sẽ được tính từ 3 ngày trước khi lễ.</li>
-                                                </ul>
+                                                {!!$product->description!!}
                                             </div>
                                             <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--ywtm_6821 panel entry-content "
                                                 id="tab-ywtm_6821" role="tabpanel"
@@ -1999,7 +1948,7 @@
                                                     <p><strong><span data-text-color="primary">Ngân hàng hỗ
                                                                 trợ:</span></strong></p>
                                                     <p><img class="aligncenter wp-image-38950"
-                                                            src="https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg"
+                                                            src="/assets/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg"
                                                             alt="" width="200" height="263" /></p>
                                                     <p class="has-text-align-center" style="text-align: center;">
                                                         <strong>Ngân hàng TMCP Kỹ Thương Việt Nam
@@ -2168,7 +2117,7 @@
                                                                 <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-truyen-thong/thuan-buom-xuoi-gio-kt027/"
                                                                     aria-label="Thuận Buồm Xuôi Gió">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt-027-360x450.jpg.webp"
+                                                                        src="/assets/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt-027-360x450.jpg.webp"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2214,7 +2163,7 @@
                                                                 <a href="https://tramhoa.com/ke-hoa-chuc-mung/ke-hoa-chuc-mung-nghe-thuat/dai-phu-quy-kt031/"
                                                                     aria-label="Đại Phú Quý">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2022/09/ke-hoa-khai-truong-kt031-360x450.jpg"
+                                                                        src="/assets/wp-content/uploads/2022/09/ke-hoa-khai-truong-kt031-360x450.jpg"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2260,7 +2209,7 @@
                                                                 <a href="https://tramhoa.com/ke-hoa-chuc-mung/dom-hoa-ket-trai-kt001/"
                                                                     aria-label="Đơm Hoa Kết Trái">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt001-360x450.jpg"
+                                                                        src="/assets/wp-content/uploads/2021/09/ke-hoa-khai-truong-kt001-360x450.jpg"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2306,7 +2255,7 @@
                                                                 <a href="https://tramhoa.com/ke-hoa-chuc-mung/khai-truong-vinh-quang-kt009/"
                                                                     aria-label="Khai Trương Vinh Quang">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt009-vinh-quang-360x450.jpg"
+                                                                        src="/assets/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt009-vinh-quang-360x450.jpg"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2352,7 +2301,7 @@
                                                                 <a href="https://tramhoa.com/hoa-khai-truong/mua-may-ban-dat-kt002/"
                                                                     aria-label="Mua May Bán Đắt">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt002-360x450.jpg"
+                                                                        src="/assets/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt002-360x450.jpg"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2398,7 +2347,7 @@
                                                                 <a href="https://tramhoa.com/hoa-khai-truong/thinh-vuong-truong-ton-kt024/"
                                                                     aria-label="Thịnh Vượng Trường Tồn">
                                                                     <img width="360" height="450"
-                                                                        src="https://tramhoa.com/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt024-thinh-vuong-truong-ton-360x450.jpg"
+                                                                        src="/assets/wp-content/uploads/2019/09/ke-hoa-khai-truong-kt024-thinh-vuong-truong-ton-360x450.jpg"
                                                                         class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                                         alt="" decoding="async"
                                                                         loading="lazy" /> </a>
@@ -2801,12 +2750,12 @@
 
             .tramhoavn-pc-contact-bar li.facebook {
                 margin-bottom: 10px;
-                background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                 background-repeat: no-repeat;
             }
 
             .tramhoavn-pc-contact-bar li.zalo {
-                background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                 background-repeat: no-repeat;
             }
 
@@ -2845,12 +2794,12 @@
 
                 .tramhoavn-mobile-contact-bar li.facebook {
                     margin-bottom: 8px;
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Facebook-Messenger-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
                 .tramhoavn-mobile-contact-bar li.zalo {
-                    background: url(https://tramhoa.com/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
+                    background: url(/assets/wp-content/uploads/2023/09/Zalo-OA-Tram-Hoa.svg);
                     background-repeat: no-repeat;
                 }
 
@@ -2861,7 +2810,7 @@
                 }
 
                 .tramhoavn-mobile-contact-bar li.hotline {
-                    background: url(https://tramhoa.com/wp-content/uploads/2021/10/p2.gif.webp);
+                    background: url(/assets/wp-content/uploads/2021/10/p2.gif.webp);
                     background-repeat: no-repeat;
                     background-size: 44px;
                 }
@@ -2991,7 +2940,7 @@
             src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGM9ZG9jdW1lbnQuYm9keS5jbGFzc05hbWU7Yz1jLnJlcGxhY2UoL3dvb2NvbW1lcmNlLW5vLWpzLywnd29vY29tbWVyY2UtanMnKTtkb2N1bWVudC5ib2R5LmNsYXNzTmFtZT1jfSkoKQ=="
             defer></script>
         <link data-optimized="1" rel='stylesheet' id='wc-blocks-style-css'
-            href='https://tramhoa.com/wp-content/litespeed/css/6d48c81a40dde72a7a5b31c09eb07c22.css?ver=07c22'
+            href='/assets/wp-content/litespeed/css/6d48c81a40dde72a7a5b31c09eb07c22.css?ver=07c22'
             type='text/css' media='all' />
         <style id='global-styles-inline-css' type='text/css'>
             :root {
@@ -3425,40 +3374,40 @@
             }
         </style>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/f305695f7e5385ffb4b68135c318091c.js?ver=8091c"
+            src="/assets/wp-content/litespeed/js/f305695f7e5385ffb4b68135c318091c.js?ver=8091c"
             id="themecomplete-comp-quickview-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/5e4e9b7df09358c8e68c4658d1d040b9.js?ver=040b9"
+            src="/assets/wp-content/litespeed/js/5e4e9b7df09358c8e68c4658d1d040b9.js?ver=040b9"
             id="jquery-ui-core-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/707ea5cd2b6191ba4a753d52e2116944.js?ver=16944"
+            src="/assets/wp-content/litespeed/js/707ea5cd2b6191ba4a753d52e2116944.js?ver=16944"
             id="jquery-ui-mouse-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/dfe3b8d9d85aef0f1e4437210358c2dc.js?ver=8c2dc"
+            src="/assets/wp-content/litespeed/js/dfe3b8d9d85aef0f1e4437210358c2dc.js?ver=8c2dc"
             id="jquery-ui-slider-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-add-to-cart-variation-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2FkZF90b19jYXJ0X3ZhcmlhdGlvbl9wYXJhbXM9eyJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiaTE4bl9ub19tYXRjaGluZ192YXJpYXRpb25zX3RleHQiOiJSXHUxZWE1dCB0aVx1MWViZmMsIGtoXHUwMGY0bmcgY1x1MDBmMyBzXHUxZWEzbiBwaFx1MWVhOW0gblx1MDBlMG8gcGhcdTAwZjkgaFx1MWVlM3Agdlx1MWVkYmkgbFx1MWVmMWEgY2hcdTFlY2RuIGNcdTFlZTdhIGJcdTFlYTFuLiBIXHUwMGUzeSBjaFx1MWVjZG4gbVx1MWVkOXQgcGhcdTAxYjBcdTAxYTFuZyB0aFx1MWVlOWMga1x1MWViZnQgaFx1MWVlM3Aga2hcdTAwZTFjLiIsImkxOG5fbWFrZV9hX3NlbGVjdGlvbl90ZXh0IjoiQ2hcdTFlY2RuIGNcdTAwZTFjIHRcdTAwZjl5IGNoXHUxZWNkbiBjaG8gc1x1MWVhM24gcGhcdTFlYTltIHRyXHUwMWIwXHUxZWRiYyBraGkgY2hvIHNcdTFlYTNuIHBoXHUxZWE5bSB2XHUwMGUwbyBnaVx1MWVjZiBoXHUwMGUwbmcgY1x1MWVlN2EgYlx1MWVhMW4uIiwiaTE4bl91bmF2YWlsYWJsZV90ZXh0IjoiUlx1MWVhNXQgdGlcdTFlYmZjLCBzXHUxZWEzbiBwaFx1MWVhOW0gblx1MDBlMHkgaGlcdTFlYzduIGtoXHUwMGY0bmcgdFx1MWVkM24gdFx1MWVhMWkuIEhcdTAwZTN5IGNoXHUxZWNkbiBtXHUxZWQ5dCBwaFx1MDFiMFx1MDFhMW5nIHRoXHUxZWU5YyBrXHUxZWJmdCBoXHUxZWUzcCBraFx1MDBlMWMuIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/bc27ebe623dbb89e6f65f562926c556e.js?ver=c556e"
+            src="/assets/wp-content/litespeed/js/bc27ebe623dbb89e6f65f562926c556e.js?ver=c556e"
             id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="themecomplete-epo-js-extra"
             src="data:text/javascript;base64,dmFyIFRNRVBPSlM9eyJwcm9kdWN0X2lkIjoiMCIsImFqYXhfdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJleHRyYUZlZSI6IjAiLCJpMThuX2V4dHJhX2ZlZSI6IkV4dHJhIGZlZSIsImkxOG5fdW5pdF9wcmljZSI6IlVuaXQgcHJpY2UiLCJpMThuX29wdGlvbnNfdG90YWwiOiJQaFx1MDBlMXQgc2luaCIsImkxOG5fZmVlc190b3RhbCI6IlBoXHUwMGVkIHBoXHUwMGUxdCBzaW5oIiwiaTE4bl9maW5hbF90b3RhbCI6IlRcdTFlZDVuZyBcdTAxMTFcdTAxYTFuIGhcdTAwZTBuZyIsImkxOG5fcHJldl90ZXh0IjoiUHJldiIsImkxOG5fbmV4dF90ZXh0IjoiTmV4dCIsImkxOG5fY2FuY2VsIjoiQ2FuY2VsIiwiaTE4bl9jbG9zZSI6IkNsb3NlIiwiaTE4bl9hZGRpdGlvbl9vcHRpb25zIjoiQWRkaXRpb25hbCBvcHRpb25zIiwiaTE4bl9jaGFyYWN0ZXJzX3JlbWFpbmluZyI6ImNoYXJhY3RlcnMgcmVtYWluaW5nIiwiaTE4bl9vcHRpb25fbGFiZWwiOiJMYWJlbCIsImkxOG5fb3B0aW9uX3ZhbHVlIjoiVmFsdWUiLCJpMThuX29wdGlvbl9xdHkiOiJRdHkiLCJpMThuX29wdGlvbl9wcmljZSI6IlByaWNlIiwiaTE4bl91cGxvYWRpbmdfZmlsZXMiOiJVcGxvYWRpbmcgZmlsZXMiLCJpMThuX3VwbG9hZGluZ19tZXNzYWdlIjoiWW91ciBmaWxlcyBhcmUgYmVpbmcgdXBsb2FkZWQiLCJjdXJyZW5jeV9mb3JtYXRfbnVtX2RlY2ltYWxzIjoiMCIsImN1cnJlbmN5X2Zvcm1hdF9zeW1ib2wiOiJWTkQiLCJjdXJyZW5jeV9mb3JtYXRfZGVjaW1hbF9zZXAiOiIsIiwiY3VycmVuY3lfZm9ybWF0X3Rob3VzYW5kX3NlcCI6Ii4iLCJjdXJyZW5jeV9mb3JtYXQiOiIldlx1MDBhMCVzIiwiY3NzX3N0eWxlcyI6Im5vIiwiY3NzX3N0eWxlc19zdHlsZSI6InJvdW5kIiwidG1fZXBvX29wdGlvbnNfcGxhY2VtZW50Ijoid29vY29tbWVyY2VfYmVmb3JlX2FkZF90b19jYXJ0X2J1dHRvbiIsInRtX2Vwb190b3RhbHNfYm94X3BsYWNlbWVudCI6Indvb2NvbW1lcmNlX2JlZm9yZV9hZGRfdG9fY2FydF9idXR0b24iLCJ0bV9lcG9fbm9fbGF6eV9sb2FkIjoieWVzIiwidG1fZXBvX3ByZWxvYWRfbGlnaHRib3hfaW1hZ2UiOiJubyIsInRtX2Vwb19zaG93X29ubHlfYWN0aXZlX3F1YW50aXRpZXMiOiJ5ZXMiLCJ0bV9lcG9faGlkZV9hZGRfY2FydF9idXR0b24iOiJubyIsInRtX2Vwb19hdXRvX2hpZGVfcHJpY2VfaWZfemVybyI6InllcyIsInRtX2Vwb19zaG93X3ByaWNlX2luc2lkZV9vcHRpb24iOiJubyIsInRtX2Vwb19zaG93X3ByaWNlX2luc2lkZV9vcHRpb25faGlkZGVuX2V2ZW4iOiJubyIsInRtX2Vwb19tdWx0aXBseV9wcmljZV9pbnNpZGVfb3B0aW9uIjoieWVzIiwidG1fZXBvX2dsb2JhbF9lbmFibGVfdmFsaWRhdGlvbiI6InllcyIsInRtX2Vwb19nbG9iYWxfaW5wdXRfZGVjaW1hbF9zZXBhcmF0b3IiOiIiLCJ0bV9lcG9fZ2xvYmFsX2Rpc3BsYXllZF9kZWNpbWFsX3NlcGFyYXRvciI6IiIsInRtX2Vwb19yZW1vdmVfZnJlZV9wcmljZV9sYWJlbCI6InllcyIsInRtX2Vwb19nbG9iYWxfcHJvZHVjdF9pbWFnZV9zZWxlY3RvciI6IiIsInRtX2Vwb191cGxvYWRfaW5saW5lX2ltYWdlX3ByZXZpZXciOiJubyIsInRtX2Vwb19nbG9iYWxfcHJvZHVjdF9lbGVtZW50X3Njcm9sbF9vZmZzZXQiOiItMTAwIiwidG1fZXBvX2dsb2JhbF9wcm9kdWN0X2VsZW1lbnRfc2Nyb2xsIjoieWVzIiwidG1fZXBvX2dsb2JhbF9wcm9kdWN0X2ltYWdlX21vZGUiOiJzZWxmIiwidG1fZXBvX2dsb2JhbF9tb3ZlX291dF9vZl9zdG9jayI6Im5vIiwidG1fZXBvX3Byb2dyZXNzaXZlX2Rpc3BsYXkiOiJ5ZXMiLCJ0bV9lcG9fYW5pbWF0aW9uX2RlbGF5IjoiMTAwIiwidG1fZXBvX3N0YXJ0X2FuaW1hdGlvbl9kZWxheSI6IjAiLCJ0bV9lcG9fZ2xvYmFsX2Vycm9yX2xhYmVsX3BsYWNlbWVudCI6IiIsInRtX2Vwb19nbG9iYWxfdG9vbHRpcF9tYXhfd2lkdGgiOiIzNDBweCIsInRtX2Vwb19nbG9iYWxfcHJvZHVjdF9lbGVtZW50X3F1YW50aXR5X3N5bmMiOiJ5ZXMiLCJ0bV9lcG9fZ2xvYmFsX3ZhbGlkYXRvcl9tZXNzYWdlcyI6eyJyZXF1aXJlZCI6IlRoaXMgZmllbGQgaXMgcmVxdWlyZWQuIiwiZW1haWwiOiJQbGVhc2UgZW50ZXIgYSB2YWxpZCBlbWFpbCBhZGRyZXNzLiIsInVybCI6IlBsZWFzZSBlbnRlciBhIHZhbGlkIFVSTC4iLCJudW1iZXIiOiJQbGVhc2UgZW50ZXIgYSB2YWxpZCBudW1iZXIuIiwiZGlnaXRzIjoiUGxlYXNlIGVudGVyIG9ubHkgZGlnaXRzLiIsIm1heCI6IlBsZWFzZSBlbnRlciBhIHZhbHVlIGxlc3MgdGhhbiBvciBlcXVhbCB0byB7MH0uIiwibWluIjoiUGxlYXNlIGVudGVyIGEgdmFsdWUgZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvIHswfS4iLCJtYXhsZW5ndGhzaW5nbGUiOiJQbGVhc2UgZW50ZXIgbm8gbW9yZSB0aGFuIHswfSBjaGFyYWN0ZXIuIiwibWF4bGVuZ3RoIjoiUGxlYXNlIGVudGVyIG5vIG1vcmUgdGhhbiB7MH0gY2hhcmFjdGVycy4iLCJtaW5sZW5ndGhzaW5nbGUiOiJQbGVhc2UgZW50ZXIgYXQgbGVhc3QgezB9IGNoYXJhY3Rlci4iLCJtaW5sZW5ndGgiOiJQbGVhc2UgZW50ZXIgYXQgbGVhc3QgezB9IGNoYXJhY3RlcnMuIiwiZXBvbGltaXRzaW5nbGUiOiJQbGVhc2Ugc2VsZWN0IHVwIHRvIHswfSBjaG9pY2UuIiwiZXBvbGltaXQiOiJQbGVhc2Ugc2VsZWN0IHVwIHRvIHswfSBjaG9pY2VzLiIsImVwb2V4YWN0c2luZ2xlIjoiUGxlYXNlIHNlbGVjdCBleGFjdGx5IHswfSBjaG9pY2UuIiwiZXBvZXhhY3QiOiJQbGVhc2Ugc2VsZWN0IGV4YWN0bHkgezB9IGNob2ljZXMuIiwiZXBvbWluc2luZ2xlIjoiUGxlYXNlIHNlbGVjdCBhdCBsZWFzdCB7MH0gY2hvaWNlLiIsImVwb21pbiI6IlBsZWFzZSBzZWxlY3QgYXQgbGVhc3QgezB9IGNob2ljZXMuIiwic3RlcCI6IlBsZWFzZSBlbnRlciBhIG11bHRpcGxlIG9mIHswfS4iLCJsZXR0ZXJzb25seSI6IlBsZWFzZSBlbnRlciBvbmx5IGxldHRlcnMuIiwibGV0dGVyc3NwYWNlb25seSI6IlBsZWFzZSBlbnRlciBvbmx5IGxldHRlcnMgb3Igc3BhY2VzLiIsImFscGhhbnVtZXJpYyI6IlBsZWFzZSBlbnRlciBvbmx5IGxldHRlcnMsIG51bWJlcnMgb3IgdW5kZXJzY29yZXMuIiwiYWxwaGFudW1lcmljdW5pY29kZSI6IlBsZWFzZSBlbnRlciBvbmx5IHVuaWNvZGUgbGV0dGVycyBhbmQgbnVtYmVycy4iLCJhbHBoYW51bWVyaWN1bmljb2Rlc3BhY2UiOiJQbGVhc2UgZW50ZXIgb25seSB1bmljb2RlIGxldHRlcnMsIG51bWJlcnMgb3Igc3BhY2VzLiIsInJlcGVhdGVybWlucm93cyI6Ik1pbmltdW0gbnVtYmVyIG9mIHJvd3MgaXMgezB9IiwicmVwZWF0ZXJtYXhyb3dzIjoiTWF4aW11bSBudW1iZXIgb2Ygcm93cyBpcyB7MH0ifSwiZmlyc3RfZGF5IjoiMSIsIm1vbnRoTmFtZXMiOlsiVGhcdTAwZTFuZyBNXHUxZWQ5dCIsIlRoXHUwMGUxbmcgaGFpIiwiVGhcdTAwZTFuZyBiYSIsIlRoXHUwMGUxbmcgdFx1MDFiMCIsIlRoXHUwMGUxbmcgblx1MDEwM20iLCJUaFx1MDBlMW5nIHNcdTAwZTF1IiwiVGhcdTAwZTFuZyBiXHUxZWEzeSIsIlRoXHUwMGUxbmcgdFx1MDBlMW0iLCJUaFx1MDBlMW5nIGNoXHUwMGVkbiIsIlRoXHUwMGUxbmcgbVx1MDFiMFx1MWVkZGkiLCJUaFx1MDBlMW5nIG1cdTAxYjBcdTFlZGRpIG1cdTFlZDl0IiwiVGhcdTAwZTFuZyBtXHUwMWIwXHUxZWRkaSBoYWkiXSwibW9udGhOYW1lc1Nob3J0IjpbIlRoMSIsIlRoMiIsIlRoMyIsIlRoNCIsIlRoNSIsIlRoNiIsIlRoNyIsIlRoOCIsIlRoOSIsIlRoMTAiLCJUaDExIiwiVGgxMiJdLCJkYXlOYW1lcyI6WyJDaFx1MWVlNyBOaFx1MWVhZHQiLCJUaFx1MWVlOSBoYWkiLCJUaFx1MWVlOSBiYSIsIlRoXHUxZWU5IHRcdTAxYjAiLCJUaFx1MWVlOSBuXHUwMTAzbSIsIlRoXHUxZWU5IHNcdTAwZTF1IiwiVGhcdTFlZTkgYlx1MWVhM3kiXSwiZGF5TmFtZXNTaG9ydCI6WyJDTiIsIlQyIiwiVDMiLCJUNCIsIlQ1IiwiVDYiLCJUNyJdLCJkYXlOYW1lc01pbiI6WyJDIiwiSCIsIkIiLCJUIiwiTiIsIlMiLCJCIl0sImlzUlRMIjoiIiwidGV4dF9kaXJlY3Rpb24iOiJsdHIiLCJpc19ydGwiOiIiLCJjbG9zZVRleHQiOiJEb25lIiwiY3VycmVudFRleHQiOiJUb2RheSIsImhvdXJUZXh0IjoiSG91ciIsIm1pbnV0ZVRleHQiOiJNaW51dGUiLCJzZWNvbmRUZXh0IjoiU2Vjb25kIiwiZmxvYXRpbmdfdG90YWxzX2JveCI6ImRpc2FibGUiLCJmbG9hdGluZ190b3RhbHNfYm94X3Zpc2liaWxpdHkiOiJhbHdheXMiLCJmbG9hdGluZ190b3RhbHNfYm94X2FkZF9idXR0b24iOiJubyIsImZsb2F0aW5nX3RvdGFsc19ib3hfcGl4ZWxzIjoiMTAwIiwiZmxvYXRpbmdfdG90YWxzX2JveF9odG1sX2JlZm9yZSI6IiIsImZsb2F0aW5nX3RvdGFsc19ib3hfaHRtbF9hZnRlciI6IiIsInRtX2Vwb19zaG93X3VuaXRfcHJpY2UiOiJubyIsInRtX2Vwb19mZWVzX29uX3VuaXRfcHJpY2UiOiJubyIsInRtX2Vwb190b3RhbF9wcmljZV9hc191bml0X3ByaWNlIjoibm8iLCJ0bV9lcG9fZW5hYmxlX2ZpbmFsX3RvdGFsX2JveF9hbGwiOiJubyIsInRtX2Vwb19jaGFuZ2Vfb3JpZ2luYWxfcHJpY2UiOiJubyIsInRtX2Vwb19jaGFuZ2VfdmFyaWF0aW9uX3ByaWNlIjoibm8iLCJ0bV9lcG9fZW5hYmxlX2luX3Nob3AiOiJubyIsInRtX2Vwb19kaXNhYmxlX2Vycm9yX3Njcm9sbCI6Im5vIiwidG1fZXBvX2dsb2JhbF9vcHRpb25zX3ByaWNlX3NpZ24iOiJtaW51cyIsInRtX2Vwb19tYXRoIjoie30iLCJtaW51c19zaWduIjoiPHNwYW4gY2xhc3M9J3RjLW1pbnVzLXNpZ24nPi08XC9zcGFuPiIsInBsdXNfc2lnbiI6IjxzcGFuIGNsYXNzPSd0Yy1taW51cy1zaWduJz4rPFwvc3Bhbj4iLCJvcHRpb25fcGx1c19zaWduIjoiIiwib3B0aW9uX21pbnVzX3NpZ24iOiItIiwidG1fZXBvX3VwbG9hZF9wb3B1cCI6Im5vIiwiY3VycmVudF9mcmVlX3RleHQiOiJNaVx1MWVjNW4gcGhcdTAwZWQhIiwiYXNzb2NfY3VycmVudF9mcmVlX3RleHQiOiIiLCJjYXJ0X3RvdGFsIjoiMCIsInF1aWNrdmlld19jb250YWluZXIiOiJbXSIsInF1aWNrdmlld19hcnJheSI6IntcIndvb3RoZW1lc19xdWlja192aWV3XCI6XCIud29vY29tbWVyY2UucXVpY2stdmlld1wiLFwidGhlbWVfZmxhdHNvbWVfcXVpY2tfdmlld1wiOlwiLnByb2R1Y3QtbGlnaHRib3hcIixcInRoZW1lX2tsZW9fcXVpY2tfdmlld1wiOlwiI3Byb2R1Y3RNb2RhbFwiLFwieWl0aF9xdWlja192aWV3XCI6XCIjeWl0aC1xdWljay12aWV3LW1vZGFsLC55aXRoLXF1aWNrLXZpZXcueWl0aC1tb2RhbCwueWl0aC1xdWljay12aWV3LnlpdGgtaW5saW5lXCIsXCJ2ZW5lZG9yX3F1aWNrX3ZpZXdcIjpcIi5xdWlja3ZpZXctd3JhcFwiLFwicnViYmV6X3F1aWNrX3ZpZXdcIjpcIiNxdWlja3ZpZXctY29udGVudFwiLFwiamNrcXZfcXVpY2tfdmlld1wiOlwiI2pja3F2XCIsXCJ0aGVtaWZ5X3F1aWNrX3ZpZXdcIjpcIiNwcm9kdWN0X3NpbmdsZV93cmFwcGVyXCIsXCJwb3J0b19xdWlja192aWV3XCI6XCIucXVpY2t2aWV3LXdyYXBcIixcIndvb2NvbW1lcmNlX3Byb2R1Y3RfbGF5b3V0c1wiOlwiLmRodmMtd29vLXByb2R1Y3QtcXVpY2t2aWV3XCIsXCJubV9nZXRwcm9kdWN0XCI6XCIjcG9wdXBcIixcImxpZ2h0Ym94cHJvXCI6XCIud3BiX3dsX3F1aWNrX3ZpZXdfY29udGVudFwiLFwid29vZG1hcnRfcXVpY2tfdmlld1wiOlwiLnByb2R1Y3QtcXVpY2stdmlld1wiLFwid29vZG1hcnRfcXVpY2tfc2hvcFwiOlwiLnByb2R1Y3QtZ3JpZC1pdGVtLnByb2R1Y3Qud2QtbG9hZGluZy1xdWljay1zaG9wXCIsXCJ0aGVnZW1fcHJvZHVjdF9xdWlja192aWV3XCI6XCIud29vLW1vZGFsLXByb2R1Y3RcIixcIndvb3F2X3F1aWNrX3ZpZXdcIjpcIi53b28tcXVpY2stdmlld1wiLFwib2NlYW53cF9wcm9kdWN0X3F1aWNrX3ZpZXdcIjpcIi5vd3AtcXYtY29udGVudC13cmFwXCIsXCJ3b29zcV9xdWlja3ZpZXdcIjpcIiN3b29zcS1wb3B1cFwiLFwid2Nxdl9nZXRfcHJvZHVjdFwiOlwiI3djcXZfY29udGVuZFwiLFwicXVpY2t2aWV3X2FqYXhcIjpcIiNxdWlja3ZpZXctbW9kYWxcIixcIndwX2Zvb2RcIjpcIiNmb29kX21vZGFsXCIsXCJxdWlja3ZpZXdfcHJvXCI6XCIud2MtcXVpY2stdmlldy1tb2RhbFwiLFwid29vZm9vZFwiOlwiLndmX3Byb2R1Y3Rfdmlld1wiLFwiZXh3b29mb29kX2Jvb2tpbmdfaW5mb1wiOlwiI2Zvb2RfbW9kYWxcIixcImpldF9wb3B1cF9nZXRfY29udGVudFwiOlwiLmpldC1wb3B1cFwiLFwibmVjdGFyX3dvb19nZXRfcHJvZHVjdFwiOlwiLm5lY3Rhci1xdWljay12aWV3LWJveFwiLFwiZnVzaW9uX3F1aWNrX3ZpZXdfbG9hZFwiOlwiLmZ1c2lvbi13b29jb21tZXJjZS1xdWljay12aWV3LWNvbnRhaW5lclwiLFwiY2l5YXNob3BfcXVpY2tfdmlld1wiOlwiLnByb2R1Y3QtcXVpY2stdmlld1wiLFwid3F2X3BvcHVwX2NvbnRlbnRcIjpcIiN3cXYtcXVpY2stdmlldy1jb250ZW50XCIsXCJldGhlbWVfcHJvZHVjdF9xdWlja192aWV3XCI6XCIuZXQtcG9wdXAtY29udGVudFwiLFwibXN0X3djcXZmZXBiX2xvYWRfcG9wdXBcIjpcIi5tc3Qtd2NxdmZlcGItcG9wdXAtY29udGFpbmVyXCIsXCJ4b29fcXZfYWpheFwiOlwiLnhvby1xdi1jb250YWluZXJcIixcImJsb2Nza3lfZ2V0X3dvb19xdWlja192aWV3XCI6XCIuY3QtcGFuZWwucXVpY2stdmlldy1tb2RhbFwifSIsInRheF9kaXNwbGF5X21vZGUiOiJleGNsIiwicHJpY2VzX2luY2x1ZGVfdGF4IjoiIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2826f26934136398ccffb8b9f368bf18.js?ver=8bf18"
+            src="/assets/wp-content/litespeed/js/2826f26934136398ccffb8b9f368bf18.js?ver=8bf18"
             id="themecomplete-epo-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/cc5c361225c68257e6ca8171217b43de.js?ver=b43de" id="wp-hooks-js"
+            src="/assets/wp-content/litespeed/js/cc5c361225c68257e6ca8171217b43de.js?ver=b43de" id="wp-hooks-js"
             defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2a3ee894a9e421a1d76e23db519393ad.js?ver=393ad" id="wp-i18n-js"
+            src="/assets/wp-content/litespeed/js/2a3ee894a9e421a1d76e23db519393ad.js?ver=393ad" id="wp-i18n-js"
             defer data-deferred="1"></script>
         <script type="text/javascript" id="wp-i18n-js-after"
             src="data:text/javascript;base64,d3AuaTE4bi5zZXRMb2NhbGVEYXRhKHsndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOlsnbHRyJ119KQ=="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/2771ba90c706b1e5947f233ac0adadde.js?ver=dadde" id="swv-js" defer
+            src="/assets/wp-content/litespeed/js/2771ba90c706b1e5947f233ac0adadde.js?ver=dadde" id="swv-js" defer
             data-deferred="1"></script>
         <script type="text/javascript" id="contact-form-7-js-translations"
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGRvbWFpbix0cmFuc2xhdGlvbnMpe3ZhciBsb2NhbGVEYXRhPXRyYW5zbGF0aW9ucy5sb2NhbGVfZGF0YVtkb21haW5dfHx0cmFuc2xhdGlvbnMubG9jYWxlX2RhdGEubWVzc2FnZXM7bG9jYWxlRGF0YVsiIl0uZG9tYWluPWRvbWFpbjt3cC5pMThuLnNldExvY2FsZURhdGEobG9jYWxlRGF0YSxkb21haW4pfSkoImNvbnRhY3QtZm9ybS03Iix7InRyYW5zbGF0aW9uLXJldmlzaW9uLWRhdGUiOiIyMDI0LTA4LTExIDEzOjQ0OjE3KzAwMDAiLCJnZW5lcmF0b3IiOiJHbG90UHJlc3NcLzQuMC4xIiwiZG9tYWluIjoibWVzc2FnZXMiLCJsb2NhbGVfZGF0YSI6eyJtZXNzYWdlcyI6eyIiOnsiZG9tYWluIjoibWVzc2FnZXMiLCJwbHVyYWwtZm9ybXMiOiJucGx1cmFscz0xOyBwbHVyYWw9MDsiLCJsYW5nIjoidmlfVk4ifSwiVGhpcyBjb250YWN0IGZvcm0gaXMgcGxhY2VkIGluIHRoZSB3cm9uZyBwbGFjZS4iOlsiQmlcdTFlYzN1IG1cdTFlYWJ1IGxpXHUwMGVhbiBoXHUxZWM3IG5cdTAwZTB5IFx1MDExMVx1MDFiMFx1MWVlM2MgXHUwMTExXHUxZWI3dCBzYWkgdlx1MWVjYiB0clx1MDBlZC4iXSwiRXJyb3I6IjpbIkxcdTFlZDdpOiJdfX0sImNvbW1lbnQiOnsicmVmZXJlbmNlIjoiaW5jbHVkZXNcL2pzXC9pbmRleC5qcyJ9fSk="
@@ -3467,85 +3416,85 @@
             src="data:text/javascript;base64,dmFyIHdwY2Y3PXsiYXBpIjp7InJvb3QiOiJodHRwczpcL1wvdHJhbWhvYS5jb21cL3dwLWpzb25cLyIsIm5hbWVzcGFjZSI6ImNvbnRhY3QtZm9ybS03XC92MSJ9LCJjYWNoZWQiOjF9"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/041ea1efa34f57a1561988b5990447e0.js?ver=447e0"
+            src="/assets/wp-content/litespeed/js/041ea1efa34f57a1561988b5990447e0.js?ver=447e0"
             id="contact-form-7-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="woocommerce-js-extra"
             src="data:text/javascript;base64,dmFyIHdvb2NvbW1lcmNlX3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/397f85057807028cce90dc9a40c42b28.js?ver=42b28" id="woocommerce-js"
+            src="/assets/wp-content/litespeed/js/397f85057807028cce90dc9a40c42b28.js?ver=42b28" id="woocommerce-js"
             data-wp-strategy="defer"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js"
             id="gtm4wp-contact-form-7-tracker-js" defer data-deferred="1"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js"
             id="gtm4wp-form-move-tracker-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="gtm4wp-additional-datalayer-pushes-js-after"
             src="data:text/javascript;base64,ZGF0YUxheWVyLnB1c2goeyJlY29tbWVyY2UiOnsiY3VycmVuY3kiOiJWTkQiLCJ2YWx1ZSI6ODAwMDAwLCJpdGVtcyI6W3siaXRlbV9pZCI6IktUMDk1IiwiaXRlbV9uYW1lIjoiTeG7q25nIEtoYWkgVHLGsMahbmciLCJza3UiOiJLVDA5NSIsInByaWNlIjo4MDAwMDAsInN0b2NrbGV2ZWwiOjk5NzMsInN0b2Nrc3RhdHVzIjoiaW5zdG9jayIsImdvb2dsZV9idXNpbmVzc192ZXJ0aWNhbCI6InJldGFpbCIsIml0ZW1fY2F0ZWdvcnkiOiJL4buHIEhvYSBDaMO6YyBN4burbmciLCJpdGVtX2NhdGVnb3J5MiI6Ikvhu4cgSG9hIENow7pjIE3hu6tuZyBUcnV54buBbiBUaOG7kW5nIiwiaWQiOiJLVDA5NSIsIml0ZW1fYnJhbmQiOiIifV19LCJldmVudCI6InZpZXdfaXRlbSJ9KQ=="
             defer></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js"
             id="gtm4wp-ecommerce-generic-js" defer data-deferred="1"></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
+            src="/assets/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js"
             id="gtm4wp-woocommerce-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="yith_wccl_frontend-js-extra"
             src="data:text/javascript;base64,dmFyIHlpdGhfd2NjbF9nZW5lcmFsPXsiYWpheHVybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiYWN0aW9uQWRkQ2FydCI6InlpdGhfd2NjbF9hZGRfdG9fY2FydCIsImFjdGlvblZhcmlhdGlvbkdhbGxlcnkiOiJ5aXRoX3djY2xfdmFyaWF0aW9uX2dhbGxlcnkiLCJjYXJ0X3JlZGlyZWN0IjoiMSIsImNhcnRfdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC9naW8taGFuZ1wvIiwidmlld19jYXJ0IjoiVmlldyBDYXJ0IiwidG9vbHRpcCI6IjEiLCJ0b29sdGlwX3BvcyI6InRvcCIsInRvb2x0aXBfYW5pIjoiZmFkZSIsImRlc2NyaXB0aW9uIjoiMSIsImFkZF9jYXJ0IjoiQWRkIHRvIGNhcnQiLCJncmV5X291dCI6IiIsImltYWdlX2hvdmVyIjoiIiwid3JhcHBlcl9jb250YWluZXJfc2hvcCI6ImRpdi5wcm9kdWN0LnByb2R1Y3Qtc21hbGwiLCJpbWFnZV9zZWxlY3RvciI6ImltZy53cC1wb3N0LWltYWdlLCBpbWcuYXR0YWNobWVudC13b29jb21tZXJjZV90aHVtYm5haWwiLCJlbmFibGVfaGFuZGxlX3ZhcmlhdGlvbl9nYWxsZXJ5IjoiMSIsInBsdWdpbl9jb21wYXRpYmlsaXR5X3NlbGVjdG9ycyI6InlpdGgtd2Nhbi1hamF4LWZpbHRlcmVkIHlpdGhfaW5mc19hZGRpbmdfZWxlbSBpbml0aWFsaXplZC5vd2wuY2Fyb3VzZWwgcG9zdC1sb2FkIGFqYXgtdGFiLWxvYWRlZCIsInNpbmdsZV9nYWxsZXJ5X3NlbGVjdG9yIjoiLnByb2R1Y3QtZ2FsbGVyeSJ9"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/d68b8b06ff9660e00d0015259825ff06.js?ver=5ff06"
+            src="/assets/wp-content/litespeed/js/d68b8b06ff9660e00d0015259825ff06.js?ver=5ff06"
             id="yith_wccl_frontend-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/a5f39129aad4c8db8b3535a91a3120e2.js?ver=120e2"
+            src="/assets/wp-content/litespeed/js/a5f39129aad4c8db8b3535a91a3120e2.js?ver=120e2"
             id="flatsome-live-search-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/72e4b113b59964386e79bc8ad95f00a1.js?ver=f00a1"
+            src="/assets/wp-content/litespeed/js/72e4b113b59964386e79bc8ad95f00a1.js?ver=f00a1"
             id="sourcebuster-js-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-order-attribution-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX29yZGVyX2F0dHJpYnV0aW9uPXsicGFyYW1zIjp7ImxpZmV0aW1lIjoxLjBlLTUsInNlc3Npb24iOjMwLCJiYXNlNjQiOiExLCJhamF4dXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJwcmVmaXgiOiJ3Y19vcmRlcl9hdHRyaWJ1dGlvbl8iLCJhbGxvd1RyYWNraW5nIjohMH0sImZpZWxkcyI6eyJzb3VyY2VfdHlwZSI6ImN1cnJlbnQudHlwIiwicmVmZXJyZXIiOiJjdXJyZW50X2FkZC5yZiIsInV0bV9jYW1wYWlnbiI6ImN1cnJlbnQuY21wIiwidXRtX3NvdXJjZSI6ImN1cnJlbnQuc3JjIiwidXRtX21lZGl1bSI6ImN1cnJlbnQubWRtIiwidXRtX2NvbnRlbnQiOiJjdXJyZW50LmNudCIsInV0bV9pZCI6ImN1cnJlbnQuaWQiLCJ1dG1fdGVybSI6ImN1cnJlbnQudHJtIiwidXRtX3NvdXJjZV9wbGF0Zm9ybSI6ImN1cnJlbnQucGx0IiwidXRtX2NyZWF0aXZlX2Zvcm1hdCI6ImN1cnJlbnQuZm10IiwidXRtX21hcmtldGluZ190YWN0aWMiOiJjdXJyZW50LnRjdCIsInNlc3Npb25fZW50cnkiOiJjdXJyZW50X2FkZC5lcCIsInNlc3Npb25fc3RhcnRfdGltZSI6ImN1cnJlbnRfYWRkLmZkIiwic2Vzc2lvbl9wYWdlcyI6InNlc3Npb24ucGdzIiwic2Vzc2lvbl9jb3VudCI6InVkYXRhLnZzdCIsInVzZXJfYWdlbnQiOiJ1ZGF0YS51YWcifX0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/c9f36750ab2542bb81df85aff35caca3.js?ver=caca3"
+            src="/assets/wp-content/litespeed/js/c9f36750ab2542bb81df85aff35caca3.js?ver=caca3"
             id="wc-order-attribution-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="yit-tabmanager-script-js-extra"
             src="data:text/javascript;base64,dmFyIHl3dG1fcGFyYW1zPXsiYWRtaW5fdXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJhY3Rpb24iOnsieXd0bV9zZW5kZXJtYWlsIjoieXd0bV9zZW5kZXJtYWlsIn19"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/00666902c7658df7dfef9d532cf12407.js?ver=12407"
+            src="/assets/wp-content/litespeed/js/00666902c7658df7dfef9d532cf12407.js?ver=12407"
             id="yit-tabmanager-script-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/d076bbc985c070c50a978a88fd81f659.js?ver=1f659" id="hoverIntent-js"
+            src="/assets/wp-content/litespeed/js/d076bbc985c070c50a978a88fd81f659.js?ver=1f659" id="hoverIntent-js"
             defer data-deferred="1"></script>
         <script type="text/javascript" id="flatsome-js-js-extra"
             src="data:text/javascript;base64,dmFyIGZsYXRzb21lVmFycz17InRoZW1lIjp7InZlcnNpb24iOiIzLjE5LjcifSwiYWpheHVybCI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtYWRtaW5cL2FkbWluLWFqYXgucGhwIiwicnRsIjoiIiwic3RpY2t5X2hlaWdodCI6IjU0Iiwic3RpY2t5SGVhZGVySGVpZ2h0IjoiMCIsInNjcm9sbFBhZGRpbmdUb3AiOiIwIiwiYXNzZXRzX3VybCI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtY29udGVudFwvdGhlbWVzXC9mbGF0c29tZVwvYXNzZXRzXC8iLCJsaWdodGJveCI6eyJjbG9zZV9tYXJrdXAiOiI8YnV0dG9uIHRpdGxlPVwiJXRpdGxlJVwiIHR5cGU9XCJidXR0b25cIiBjbGFzcz1cIm1mcC1jbG9zZVwiPjxzdmcgeG1sbnM9XCJodHRwOlwvXC93d3cudzMub3JnXC8yMDAwXC9zdmdcIiB3aWR0aD1cIjI4XCIgaGVpZ2h0PVwiMjhcIiB2aWV3Qm94PVwiMCAwIDI0IDI0XCIgZmlsbD1cIm5vbmVcIiBzdHJva2U9XCJjdXJyZW50Q29sb3JcIiBzdHJva2Utd2lkdGg9XCIyXCIgc3Ryb2tlLWxpbmVjYXA9XCJyb3VuZFwiIHN0cm9rZS1saW5lam9pbj1cInJvdW5kXCIgY2xhc3M9XCJmZWF0aGVyIGZlYXRoZXIteFwiPjxsaW5lIHgxPVwiMThcIiB5MT1cIjZcIiB4Mj1cIjZcIiB5Mj1cIjE4XCI+PFwvbGluZT48bGluZSB4MT1cIjZcIiB5MT1cIjZcIiB4Mj1cIjE4XCIgeTI9XCIxOFwiPjxcL2xpbmU+PFwvc3ZnPjxcL2J1dHRvbj4iLCJjbG9zZV9idG5faW5zaWRlIjohMX0sInVzZXIiOnsiY2FuX2VkaXRfcGFnZXMiOiExfSwiaTE4biI6eyJtYWluTWVudSI6Ik1lbnUgY2hcdTAwZWRuaCIsInRvZ2dsZUJ1dHRvbiI6IkNodXlcdTFlYzNuIFx1MDExMVx1MWVkNWkifSwib3B0aW9ucyI6eyJjb29raWVfbm90aWNlX3ZlcnNpb24iOiIxIiwic3dhdGNoZXNfbGF5b3V0IjohMSwic3dhdGNoZXNfZGlzYWJsZV9kZXNlbGVjdCI6ITEsInN3YXRjaGVzX2JveF9zZWxlY3RfZXZlbnQiOiExLCJzd2F0Y2hlc19ib3hfYmVoYXZpb3Jfc2VsZWN0ZWQiOiExLCJzd2F0Y2hlc19ib3hfdXBkYXRlX3VybHMiOiIxIiwic3dhdGNoZXNfYm94X3Jlc2V0IjohMSwic3dhdGNoZXNfYm94X3Jlc2V0X2xpbWl0ZWQiOiExLCJzd2F0Y2hlc19ib3hfcmVzZXRfZXh0ZW50IjohMSwic3dhdGNoZXNfYm94X3Jlc2V0X3RpbWUiOjMwMCwic2VhcmNoX3Jlc3VsdF9sYXRlbmN5IjoiMCJ9LCJpc19taW5pX2NhcnRfcmV2ZWFsIjoiIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/4b21ecec76e4b23a3f1f3a3577785995.js?ver=85995" id="flatsome-js-js"
+            src="/assets/wp-content/litespeed/js/4b21ecec76e4b23a3f1f3a3577785995.js?ver=85995" id="flatsome-js-js"
             defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/9e3ba628d59d7d9b641bf1ab62402a28.js?ver=02a28"
+            src="/assets/wp-content/litespeed/js/9e3ba628d59d7d9b641bf1ab62402a28.js?ver=02a28"
             id="flatsome-theme-woocommerce-js-js" defer data-deferred="1"></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/f2d169f4f93763c4c31bc5699ac7fb00.js?ver=7fb00"
+            src="/assets/wp-content/litespeed/js/f2d169f4f93763c4c31bc5699ac7fb00.js?ver=7fb00"
             id="comment-reply-js"="async" data-wp-strategy="async" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-cart-fragments-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX2NhcnRfZnJhZ21lbnRzX3BhcmFtcz17ImFqYXhfdXJsIjoiXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJ3Y19hamF4X3VybCI6IlwvP3djLWFqYXg9JSVlbmRwb2ludCUlIiwiY2FydF9oYXNoX2tleSI6IndjX2NhcnRfaGFzaF85ZDQ1YTkyOGM1YTE0Y2IzYjUyMzc4ZWM0YmViZTA1MSIsImZyYWdtZW50X25hbWUiOiJ3Y19mcmFnbWVudHNfOWQ0NWE5MjhjNWExNGNiM2I1MjM3OGVjNGJlYmUwNTEiLCJyZXF1ZXN0X3RpbWVvdXQiOiI1MDAwIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/8aad450415e3e9a35d15d4abcba83f95.js?ver=83f95"
+            src="/assets/wp-content/litespeed/js/8aad450415e3e9a35d15d4abcba83f95.js?ver=83f95"
             id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
         <script type="text/javascript" id="gla-gtag-events-js-extra"
             src="data:text/javascript;base64,dmFyIGdsYUd0YWdEYXRhPXsiY3VycmVuY3lfbWlub3JfdW5pdCI6IjAiLCJwcm9kdWN0cyI6eyI4ODQ2Ijp7Im5hbWUiOiJNXHUxZWVibmcgS2hhaSBUclx1MDFiMFx1MDFhMW5nIiwicHJpY2UiOjgwMDAwMH19fQ=="
             defer></script>
         <script type="text/javascript"
-            src="https://tramhoa.com/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js" id="gla-gtag-events-js"
+            src="/assets/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js" id="gla-gtag-events-js"
             defer data-deferred="1"></script>
         <script type="text/javascript" id="zxcvbn-async-js-extra"
             src="data:text/javascript;base64,dmFyIF96eGN2Ym5TZXR0aW5ncz17InNyYyI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtaW5jbHVkZXNcL2pzXC96eGN2Ym4ubWluLmpzIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/29c1463ea80bb6f1f5d62a53352a4f87.js?ver=a4f87" id="zxcvbn-async-js"
+            src="/assets/wp-content/litespeed/js/29c1463ea80bb6f1f5d62a53352a4f87.js?ver=a4f87" id="zxcvbn-async-js"
             defer data-deferred="1"></script>
         <script type="text/javascript" id="password-strength-meter-js-extra"
             src="data:text/javascript;base64,dmFyIHB3c0wxMG49eyJ1bmtub3duIjoiTVx1MWVhZHQga2hcdTFlYTl1IG1cdTFlYTFuaCBraFx1MDBmNG5nIHhcdTAwZTFjIFx1MDExMVx1MWVjYm5oIiwic2hvcnQiOiJSXHUxZWE1dCB5XHUxZWJmdSIsImJhZCI6IllcdTFlYmZ1IiwiZ29vZCI6IlRydW5nIGJcdTAwZWNuaCIsInN0cm9uZyI6Ik1cdTFlYTFuaCIsIm1pc21hdGNoIjoiTVx1MWVhZHQga2hcdTFlYTl1IGtoXHUwMGY0bmcga2hcdTFlZGJwIn0="
@@ -3554,13 +3503,13 @@
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGRvbWFpbix0cmFuc2xhdGlvbnMpe3ZhciBsb2NhbGVEYXRhPXRyYW5zbGF0aW9ucy5sb2NhbGVfZGF0YVtkb21haW5dfHx0cmFuc2xhdGlvbnMubG9jYWxlX2RhdGEubWVzc2FnZXM7bG9jYWxlRGF0YVsiIl0uZG9tYWluPWRvbWFpbjt3cC5pMThuLnNldExvY2FsZURhdGEobG9jYWxlRGF0YSxkb21haW4pfSkoImRlZmF1bHQiLHsidHJhbnNsYXRpb24tcmV2aXNpb24tZGF0ZSI6IjIwMjQtMTEtMTMgMDg6Mjc6MDUrMDAwMCIsImdlbmVyYXRvciI6Ikdsb3RQcmVzc1wvNC4wLjEiLCJkb21haW4iOiJtZXNzYWdlcyIsImxvY2FsZV9kYXRhIjp7Im1lc3NhZ2VzIjp7IiI6eyJkb21haW4iOiJtZXNzYWdlcyIsInBsdXJhbC1mb3JtcyI6Im5wbHVyYWxzPTE7IHBsdXJhbD0wOyIsImxhbmciOiJ2aV9WTiJ9LCIlMSRzIGlzIGRlcHJlY2F0ZWQgc2luY2UgdmVyc2lvbiAlMiRzISBVc2UgJTMkcyBpbnN0ZWFkLiBQbGVhc2UgY29uc2lkZXIgd3JpdGluZyBtb3JlIGluY2x1c2l2ZSBjb2RlLiI6WyIlMSRzIFx1MDExMVx1MDBlMyBuZ1x1MWVlYm5nIGhvXHUxZWExdCBcdTAxMTFcdTFlZDluZyB0XHUxZWViIHBoaVx1MDBlYW4gYlx1MWVhM24gJTIkcyEgU1x1MWVlZCBkXHUxZWU1bmcgdGhheSB0aFx1MWViZiBiXHUxZWIxbmcgJTMkcy4iXX19LCJjb21tZW50Ijp7InJlZmVyZW5jZSI6IndwLWFkbWluXC9qc1wvcGFzc3dvcmQtc3RyZW5ndGgtbWV0ZXIuanMifX0p"
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/70624bd80d4621a25d1f03b51733461f.js?ver=3461f"
+            src="/assets/wp-content/litespeed/js/70624bd80d4621a25d1f03b51733461f.js?ver=3461f"
             id="password-strength-meter-js" defer data-deferred="1"></script>
         <script type="text/javascript" id="wc-password-strength-meter-js-extra"
             src="data:text/javascript;base64,dmFyIHdjX3Bhc3N3b3JkX3N0cmVuZ3RoX21ldGVyX3BhcmFtcz17Im1pbl9wYXNzd29yZF9zdHJlbmd0aCI6IjMiLCJzdG9wX2NoZWNrb3V0IjoiIiwiaTE4bl9wYXNzd29yZF9lcnJvciI6IlZ1aSBsXHUwMGYybmcgbmhcdTFlYWRwIG1cdTFlYWR0IGtoXHUxZWE5dSBraFx1MDBmMyBoXHUwMWExbi4iLCJpMThuX3Bhc3N3b3JkX2hpbnQiOiJHXHUxZWUzaSBcdTAwZmQ6IE1cdTFlYWR0IGtoXHUxZWE5dSBwaFx1MWVhM2kgY1x1MDBmMyBcdTAwZWR0IG5oXHUxZWE1dCAxMiBrXHUwMGZkIHRcdTFlZjEuIFx1MDExMFx1MWVjMyBuXHUwMGUybmcgY2FvIFx1MDExMVx1MWVkOSBiXHUxZWEzbyBtXHUxZWFkdCwgc1x1MWVlZCBkXHUxZWU1bmcgY2hcdTFlZWYgaW4gaG9hLCBpbiB0aFx1MDFiMFx1MWVkZG5nLCBjaFx1MWVlZiBzXHUxZWQxIHZcdTAwZTAgY1x1MDBlMWMga1x1MDBmZCB0XHUxZWYxIFx1MDExMVx1MWViN2MgYmlcdTFlYzd0IG5oXHUwMWIwICEgXCIgPyAkICUgXiAmICkuIn0="
             defer></script>
         <script data-optimized="1" type="text/javascript"
-            src="https://tramhoa.com/wp-content/litespeed/js/10105e4c92b5d51d933803b30f27093c.js?ver=7093c"
+            src="/assets/wp-content/litespeed/js/10105e4c92b5d51d933803b30f27093c.js?ver=7093c"
             id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
         <script type="text/javascript"
             src="data:text/javascript;base64,alF1ZXJ5KGZ1bmN0aW9uKCQpe2ZicSgnc2V0JywnYWdlbnQnLCd3b29jb21tZXJjZS05LjQuMi0zLjMuMCcsJzQ5MTkzOTY5ODEyNDUzNCcpO2ZicSgndHJhY2snLCdWaWV3Q29udGVudCcseyJzb3VyY2UiOiJ3b29jb21tZXJjZSIsInZlcnNpb24iOiI5LjQuMiIsInBsdWdpblZlcnNpb24iOiIzLjMuMCIsImNvbnRlbnRfbmFtZSI6Ik1cdTFlZWJuZyBLaGFpIFRyXHUwMWIwXHUwMWExbmciLCJjb250ZW50X2lkcyI6IltcIktUMDk1Xzg4NDZcIl0iLCJjb250ZW50X3R5cGUiOiJwcm9kdWN0IiwiY29udGVudHMiOiJbe1wiaWRcIjpcIktUMDk1Xzg4NDZcIixcInF1YW50aXR5XCI6MX1dIiwiY29udGVudF9jYXRlZ29yeSI6IktcdTFlYzcgSG9hIENoXHUwMGZhYyBNXHUxZWVibmcgVHJ1eVx1MWVjMW4gVGhcdTFlZDFuZyIsInZhbHVlIjoiODAwMDAwIiwiY3VycmVuY3kiOiJWTkQifSx7ImV2ZW50SUQiOiIwNTJhNzIyYS0xZDdkLTQ2NGItYTBkNi04MjdhNDAyM2YxZmQifSl9KQ=="

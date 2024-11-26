@@ -6,19 +6,14 @@ sudo composer install && \
 sudo cp .env.production .env && \
 sudo chmod -R 777 . && \
 sudo php artisan storage:link && \
-
-# Xóa và tạo lại database
-DB_NAME="hoatuoituquy247"
-DB_USER="hoatuoituquy247"
-DB_PASSWORD="hoatuoituquy247"  # Thay đổi mật khẩu nếu cần
-
+sudo cp .env.production .env && \
 # Kết nối vào MySQL
 sudo mysql -u root -p -e "
-DROP DATABASE IF EXISTS $DB_NAME;
-CREATE DATABASE $DB_NAME;
-CREATE USER IF NOT EXISTS '$DB_USER'@'localhost' IDENTIFIED BY '$DB_PASSWORD';
-GRANT ALL PRIVILEGES ON $DB_NAME.* TO '$DB_USER'@'localhost';
+DROP DATABASE IF EXISTS hoatuoituquy247;
+CREATE DATABASE hoatuoituquy247;
+CREATE USER IF NOT EXISTS 'hoatuoituquy247'@'localhost' IDENTIFIED BY 'hoatuoituquy247';
+GRANT ALL PRIVILEGES ON hoatuoituquy247.* TO 'hoatuoituquy247'@'localhost';
 FLUSH PRIVILEGES;"
 
 # Nhập dữ liệu từ file SQL
-sudo mysql -u $DB_USER -p$DB_PASSWORD $DB_NAME < /var/www/hoatuoituquy247.com/hoatuoituquy247.sql
+sudo mysql hoatuoituquy247 < /var/www/hoatuoituquy247.com/hoatuoituquy247.sql
