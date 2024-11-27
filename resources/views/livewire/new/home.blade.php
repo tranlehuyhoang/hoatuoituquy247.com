@@ -1,75 +1,9 @@
 <div>
 
     <head>
-        <script data-no-optimize="1">
-            var litespeed_docref = sessionStorage.getItem("litespeed_docref");
-            litespeed_docref && (Object.defineProperty(document, "referrer", {
-                get: function() {
-                    return litespeed_docref
-                }
-            }), sessionStorage.removeItem("litespeed_docref"));
-        </script>
-        <meta charset="UTF-8" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://tramhoa.com/xmlrpc.php" />
-        <script
-            src="data:text/javascript;base64,KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lPWh0bWwuY2xhc3NOYW1lLnJlcGxhY2UoL1xibm8tanNcYi8sJ2pzJyl9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQp"
-            defer></script> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px
-        1500px }
-        </style>
-        <script data-cfasync="false" data-pagespeed-no-defer>
-            var gtm4wp_datalayer_name = "dataLayer";
-            var dataLayer = dataLayer || [];
-            const gtm4wp_use_sku_instead = 1;
-            const gtm4wp_currency = 'VND';
-            const gtm4wp_product_per_impression = 10;
-            const gtm4wp_clear_ecommerce = false;
-
-            const gtm4wp_scrollerscript_debugmode = false;
-            const gtm4wp_scrollerscript_callbacktime = 100;
-            const gtm4wp_scrollerscript_readerlocation = 150;
-            const gtm4wp_scrollerscript_contentelementid = "content";
-            const gtm4wp_scrollerscript_scannertime = 60;
-        </script>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Trạm Hoa: Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi</title>
+        <title>Hoa Tươi Tứ Quý | Đặt Hoa Online | Giao Hoa Tận Nơi</title>
         <meta name="description"
-            content="Trạm Hoa là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,..." />
-        <meta name="robots" content="follow, index" />
-        <link rel="canonical" href="/" />
-        <meta property="og:locale" content="vi_VN" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Trạm Hoa: Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" />
-        <meta property="og:description"
-            content="Trạm Hoa là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,..." />
-        <meta property="og:url" content="https://tramhoa.com/" />
-        <meta property="og:site_name" content="Trạm Hoa" />
-        <meta property="og:updated_time" content="2024-10-05T11:28:12+07:00" />
-        <meta property="og:image"
-            content="/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg" />
-        <meta property="og:image:secure_url"
-            content="/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="675" />
-        <meta property="og:image:alt" content="shop hoa tươi" />
-        <meta property="og:image:type" content="image/jpeg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Trạm Hoa: Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" />
-        <meta name="twitter:description"
-            content="Trạm Hoa là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,..." />
-        <meta name="twitter:site" content="@tramhoavn" />
-        <meta name="twitter:creator" content="@tramhoavn" />
-        <meta name="twitter:image"
-            content="/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg" />
-        <meta name="twitter:label1" content="Được viết bởi" />
-        <meta name="twitter:data1" content="Trạm Hoa" />
-        <meta name="twitter:label2" content="Thời gian để đọc" />
-        <meta name="twitter:data2" content="5 phút" />
-        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi","potentialAction":{"@type":"SearchAction","target":"https://tramhoa.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg","url":"/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg","width":"1200","height":"675","inLanguage":"vi"},{"@type":"WebPage","@id":"https://tramhoa.com/#webpage","url":"https://tramhoa.com/","name":"Tr\u1ea1m Hoa: Shop Hoa T\u01b0\u01a1i | \u0110\u1eb7t Hoa Online | Giao Hoa T\u1eadn N\u01a1i","datePublished":"2021-08-10T06:21:33+07:00","dateModified":"2024-10-05T11:28:12+07:00","about":{"@id":"https://tramhoa.com/#organization"},"isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"/assets/wp-content/uploads/2021/01/tram-hoa-shop-hoa-online-dat-hoa-giao-tan-noi.jpg"},"inLanguage":"vi"},{"@type":["Florist"],"@id":"https://tramhoa.com","name":"Shop Hoa T\u01b0\u01a1i Tr\u1ea1m Hoa | Hoa \u0110\u1eb9p, Giao T\u1eadn N\u01a1i","url":"https://tramhoa.com","email":"tramhoavn@gmail.com","address":{"@type":"PostalAddress","streetAddress":"179/6 Nguy\u1ec5n Ch\u00ed Thanh","addressLocality":"Ph\u01b0\u1eddng 12, Qu\u1eadn 5","addressRegion":"TP. H\u1ed3 Ch\u00ed Minh","postalCode":"700000","addressCountry":"Vi\u1ec7t Nam"},"logo":{"@type":"ImageObject","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png"},"geo":{"@type":"GeoCoordinates","latitude":"10.7570668","longitude":"106.6563228"},"hasMap":"https://www.google.com/maps/search/?api=1&amp;query=10.7570668,106.6563228","openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 08:00-20:00"],"priceRange":"$$","image":{"@type":"ImageObject","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png"},"telephone":"+84348278722","mainEntityOfPage":{"@id":"https://tramhoa.com/#webpage"}}]}</script>
-        <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-        <link rel='dns-prefetch' href='//www.facebook.com' />
-        <link rel='dns-prefetch' href='//images.dmca.com' />
-        <link rel='dns-prefetch' href='//connect.facebook.net' />
+            content="Hoa tươi tứ quý là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,..." />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
@@ -77,12 +11,6 @@
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
-            href="https://tramhoa.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
-            href="https://tramhoa.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Trạm Hoa Dòng bình luận"
-            href="https://tramhoa.com/trang-chu/feed/" />
         <style id='wp-block-library-inline-css' type='text/css'>
             :root {
                 --wp-admin-theme-color: #007cba;
@@ -409,7 +337,7 @@
             var dataLayer_content = {
                 "pagePostType": "frontpage",
                 "pagePostType2": "single-page",
-                "pagePostAuthor": "Trạm Hoa",
+                "pagePostAuthor": "Hoa Tươi Tứ Quý",
                 "deviceType": "desktop",
                 "deviceManufacturer": "Apple",
                 "deviceModel": "Macintosh",
@@ -1332,70 +1260,76 @@
                                 <div id="col-1944503096" class="col small-12 large-12">
                                     <div class="col-inner text-center">
                                         @foreach ($categories as $category)
-                                        <div id="show_product_box">
-                                            <div id="text-83697608" class="text">
-                                                <h3><a class="uppercase" href="https://tramhoa.com/bo-hoa-tuoi/">{{ $category->name }}</a></h3>
-                                                <style>
-                                                    #text-83697608 {
-                                                        font-size: 1.5rem;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div id="gap-877647398" class="gap-element clearfix"
-                                                style="display:block; height:auto;">
-                                                <style>
-                                                    #gap-877647398 {
-                                                        padding-top: 20px;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div
-                                                class="row  equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small">
-                                                @foreach ($category->random_products as $product)
-                                                <div class="col">
-                                                    <div class="col-inner">
-                                                        <div class="badge-container absolute left top z-1"></div>
-                                                        <div
-                                                            class="product-small box has-hover box-normal box-text-bottom">
-                                                            <div class="box-image">
-                                                                <div class="">
-                                                                    <a href="/product/{{ $product->slug }}"
-                                                                        aria-label="I Love You">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="360" height="450"
-                                                                            src="{{ Storage::url($product->images[0]) }}"
-                                                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                            alt="{{ $product->name }}"
-                                                                            sizes="auto, (max-width: 360px) 100vw, 360px">
-                                                                    </a>
+                                            <div id="show_product_box">
+                                                <div id="text-83697608" class="text">
+                                                    <h3><a class="uppercase"
+                                                            href="https://tramhoa.com/bo-hoa-tuoi/">{{ $category->name }}</a>
+                                                    </h3>
+                                                    <style>
+                                                        #text-83697608 {
+                                                            font-size: 1.5rem;
+                                                        }
+                                                    </style>
+                                                </div>
+                                                <div id="gap-877647398" class="gap-element clearfix"
+                                                    style="display:block; height:auto;">
+                                                    <style>
+                                                        #gap-877647398 {
+                                                            padding-top: 20px;
+                                                        }
+                                                    </style>
+                                                </div>
+                                                <div
+                                                    class="row  equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small">
+                                                    @foreach ($category->random_products as $product)
+                                                        <div class="col">
+                                                            <div class="col-inner">
+                                                                <div class="badge-container absolute left top z-1">
                                                                 </div>
-                                                                <div class="image-tools top right show-on-hover"></div>
                                                                 <div
-                                                                    class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
-                                                                </div>
-                                                            </div>
-                                                            <div class="box-text text-center"
-                                                                style="height: 84.6797px;">
-                                                                {{ $product->code }}
-                                                                <div class="title-wrapper">
-                                                                    <p class="name product-title woocommerce-loop-product__title"
-                                                                        style="height: 25.4062px;">
-                                                                        <a href="{{ url('/products/' . $product->slug) }}"
-                                                                            class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
-                                                                    </p>
-                                                                </div>
-                                                                <div class="price-wrapper" style="height: 15.8438px;">
-                                                                    <span class="price"><span
-                                                                            class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
-                                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
+                                                                    class="product-small box has-hover box-normal box-text-bottom">
+                                                                    <div class="box-image">
+                                                                        <div class="">
+                                                                            <a href="/product/{{ $product->slug }}"
+                                                                                aria-label="I Love You">
+                                                                                <img loading="lazy" decoding="async"
+                                                                                    width="360" height="450"
+                                                                                    src="{{ Storage::url($product->images[0]) }}"
+                                                                                    class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                                                                    alt="{{ $product->name }}"
+                                                                                    sizes="auto, (max-width: 360px) 100vw, 360px">
+                                                                            </a>
+                                                                        </div>
+                                                                        <div
+                                                                            class="image-tools top right show-on-hover">
+                                                                        </div>
+                                                                        <div
+                                                                            class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="box-text text-center"
+                                                                        style="height: 84.6797px;">
+                                                                        {{ $product->code }}
+                                                                        <div class="title-wrapper">
+                                                                            <p class="name product-title woocommerce-loop-product__title"
+                                                                                style="height: 25.4062px;">
+                                                                                <a href="{{ url('/products/' . $product->slug) }}"
+                                                                                    class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="price-wrapper"
+                                                                            style="height: 15.8438px;">
+                                                                            <span class="price"><span
+                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
+                                                                                            class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    @endforeach
                                                 </div>
-                                                @endforeach
                                             </div>
-                                        </div>
                                         @endforeach
 
                                     </div>
@@ -1457,20 +1391,20 @@
                                 <div id="col-484997750" class="col medium-6 small-12 large-6">
                                     <div class="col-inner">
                                         <div id="text-575565416" class="text homepage-about">
-                                            <h1>Trạm Hoa &#8211; Shop hoa tươi online</h1>
-                                            <p>Trạm Hoa là <strong>shop hoa tươi</strong> hỗ trợ khách hàng <strong>đặt
+                                            <h1>Hoa Tươi Tứ Quý &#8211; Shop hoa tươi online</h1>
+                                            <p>Hoa Tươi Tứ Quý là <strong>shop hoa tươi</strong> hỗ trợ khách hàng <strong>đặt
                                                     hoa
                                                     online</strong>, giao tận nơi miễn phí khu vực nội thành. Tuy chỉ
                                                 vừa
-                                                hoạt động một thời gian ngắn nhưng Trạm Hoa đã được nhiều đơn vị lớn tin
-                                                tưởng và đặt hoa mỗi ngày. Trong năm vừa qua, Trạm Hoa đã phục vụ thành
+                                                hoạt động một thời gian ngắn nhưng Hoa Tươi Tứ Quý đã được nhiều đơn vị lớn tin
+                                                tưởng và đặt hoa mỗi ngày. Trong năm vừa qua, Hoa Tươi Tứ Quý đã phục vụ thành
                                                 công
                                                 hơn <strong>5000+</strong> đơn hàng điện hoa toàn quốc.</p>
                                             <h2>Đặt hoa online, giao hoa tận nơi</h2>
-                                            <p>Việc gửi tặng hoa trở nên vô cùng đơn giản khi Trạm Hoa cung cấp công cụ
+                                            <p>Việc gửi tặng hoa trở nên vô cùng đơn giản khi Hoa Tươi Tứ Quý cung cấp công cụ
                                                 giúp
-                                                khách hàng có thể thực hiện thao tác <a
-                                                    href="/"><strong>đặt hoa online</strong></a>
+                                                khách hàng có thể thực hiện thao tác <a href="/"><strong>đặt hoa
+                                                        online</strong></a>
                                                 trực
                                                 tiếp trên website một cách dễ dàng. Ngoài ra, quý khách còn có thể đặt
                                                 hoa
@@ -1484,7 +1418,7 @@
                                                 <strong>giao hoa tận nơi</strong>, trao tận tay người nhận.
                                             </p>
                                             <h2>Dịch vụ giao hoa trong ngày</h2>
-                                            <p>Shop qua tươi Trạm Hoa luôn sẵn sàng lắng nghe nhu cầu của khách hàng.
+                                            <p>Shop qua tươi Hoa Tươi Tứ Quý luôn sẵn sàng lắng nghe nhu cầu của khách hàng.
                                                 Chúng
                                                 tôi đảm bảo có thể <strong>giao hoa</strong> tươi <strong>trong
                                                     ngày</strong> theo yêu cầu của bạn. Bạn trót quên ngày kỉ niệm quan
@@ -1522,14 +1456,14 @@
                                                 cam kết giao hàng đúng hẹn và bảo đảm rằng mỗi sản phẩm đều đạt được
                                                 tiêu
                                                 chuẩn cao nhất.</p>
-                                            <h2>Sản phẩm hoa tươi cung cấp tại Trạm Hoa</h2>
-                                            <p>Tại <strong>Trạm Hoa</strong>, khách hàng có thể tìm thấy rất nhiều loại
+                                            <h2>Sản phẩm hoa tươi cung cấp tại Hoa Tươi Tứ Quý</h2>
+                                            <p>Tại <strong>Hoa Tươi Tứ Quý</strong>, khách hàng có thể tìm thấy rất nhiều loại
                                                 hoa
                                                 khác nhau. Những loại hoa có thể được kết hợp với nhau tạo nên nhiều mẫu
                                                 mã
                                                 đa dạng, mới mẻ và độc đáo, phù hợp trong nhiều hoàn cảnh khác nhau. Hoa
                                                 tại
-                                                Trạm Hoa luôn giữ được độ tươi mới có nguồn gốc, xuất xứ rõ ràng. Những
+                                                Hoa Tươi Tứ Quý luôn giữ được độ tươi mới có nguồn gốc, xuất xứ rõ ràng. Những
                                                 nhành hoa được lựa chọn cẩn thận để tạo ra những sản phẩm hoàn hảo nhất
                                                 có
                                                 thể.</p>

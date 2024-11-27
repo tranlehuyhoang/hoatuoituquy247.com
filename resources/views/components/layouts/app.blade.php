@@ -12,6 +12,7 @@ $settings = App\Models\Setting::first(); // Truy vấn model Settings
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta property="og:url" content="{{ request()->fullUrl() }}">
     <meta name="twitter:url" content="{{ request()->fullUrl() }}">
+    <meta name="csrf-token" content="PBqNCzfrrnYk6UxK6nF4aVsRqIe9iJKXygb4TpNq">
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     @livewireStyles

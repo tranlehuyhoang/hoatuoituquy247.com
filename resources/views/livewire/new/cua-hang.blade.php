@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Giới Thiệu - Hoa Tươi Tứ Quý</title>
+        <title>Cửa Hàng - Hoa Tươi Tứ Quý</title>
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
@@ -1050,65 +1050,121 @@
             src="data:text/javascript;base64,Z3RhZygiZXZlbnQiLCJwYWdlX3ZpZXciLHtzZW5kX3RvOiJHTEEifSk=" defer></script> <a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
         <div id="wrapper">
             @livewire('new.inc.header')
-
+            <div class="shop-page-title category-page-title page-title ">
+                <div class="page-title-inner flex-row  medium-flex-wrap container">
+                    <div class="flex-col flex-grow medium-text-center">
+                        <h1 class="shop-page-title is-xlarge">Cửa Hàng</h1>
+                        <div class="is-smaller">
+                            <nav class="rank-math-breadcrumb breadcrumbs uppercase">
+                                <p><a href="/">Trang chủ</a><span class="separator"> &raquo;
+                                    </span><span class="last">Cửa Hàng</span></p>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="flex-col medium-text-center">
+                        <p class="woocommerce-result-count hide-for-medium" role="alert" aria-relevant="all"
+                            data-is-sorted-by="true">
+                            Hiển thị 1&ndash;60 của 186 kết quả<span class="screen-reader-text">Được sắp xếp theo mức
+                                độ
+                                phổ biến</span></p>
+                            <select wire:model.live="orderby" name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+                                <option value="price">Giá thấp → cao</option>
+                                <option value="price-desc">Giá cao → thấp</option>
+                                <option value="date">Mẫu hoa mới nhất</option>
+                            </select>
+                            <input type="hidden" name="paged" value="1" />
+                    </div>
+                </div>
+            </div>
             <main id="main" class="">
-                <div class="row page-wrapper">
-                    <div id="content" class="large-12 col" role="main">
-                        <header class="entry-header text-center">
-                            <h1 class="entry-title">Giới thiệu</h1>
-                            <div class="is-divider medium"></div>
-                        </header>
-                        <div class="entry-content">
-                            <figure class="wp-block-image aligncenter" style="
-                            display: flex;
-                            justify-content: center;
-                        "><img decoding="async" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo-300x216.png" alt="" class="wp-image-9736"></figure>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một website thương mại điện tử hỗ trợ dịch vụ đặt hoa và giao
-                                hoa chuyên nghiệp khắp các tỉnh và thành phố trên toàn quốc. <strong>Hoa Tươi Tứ Quý</strong> không
-                                phải là công ty tốt nhất nhưng sẽ luôn nỗ lực hết mình để làm hài lòng quý khách hàng. Niềm
-                                vui của khách hàng cũng chính là niềm vui của <strong>Hoa Tươi Tứ Quý</strong></p>
-                            <p>Trường hợp có bất kỳ thắc mắc nào, bạn có thể liên hệ trực tiếp qua số điện thoại bên dưới
-                            </p>
-                            <p><strong>Số điện thoại:</strong> <a href="tel:0348278722"><strong>034 827 8722</strong></a>
-                                (Có Zalo / Viber)<br><strong>Zalo:</strong> <a href="https://zalo.me/3588203683113605383" target="_blank" rel="noreferrer noopener nofollow">https://zalo.me/3588203683113605383</a><br><strong>Google
-                                    Maps:</strong> <a href="https://g.page/tramhoavn" target="_blank" rel="noreferrer noopener nofollow">https://g.page/tramhoavn</a><br><strong>Email:
-                                </strong><a class="rank-math-link" href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></p>
-                            <p><strong>Theo dõi Mạng xã hội:</strong></p>
-                            <ul class="wp-block-list">
-                                <li>Facebook: <a class="rank-math-link" href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.facebook.com/tramhoavn/</a></li>
-                                <li>Instagram: <a href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.instagram.com/tramhoavn/</a></li>
-                                <li>Pinterest: <a class="rank-math-link" href="https://www.pinterest.com/tramhoavn/" target="_blank" rel="noopener">https://www.pinterest.com/tramhoavn/</a></li>
-                                <li>Tiktok: <a href="https://www.tiktok.com/@www.tramhoa.com">https://www.tiktok.com/@www.tramhoa.com</a>
-                                </li>
-                                <li>About.me: <a class="rank-math-link" href="https://about.me/tramhoavn/" target="_blank" rel="noopener">https://about.me/tramhoavn/</a></li>
-                                <li>Twitter: <a href="https://twitter.com/tramhoavn" target="_blank" rel="noopener">https://twitter.com/tramhoavn/</a></li>
-                                <li>Flickr: <a href="https://www.flickr.com/photos/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://www.flickr.com/photos/tramhoavn/</a>
-                                </li>
-                                <li>500px: <a href="https://500px.com/p/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://500px.com/p/tramhoavn/</a></li>
-                            </ul>
-                            <h2 class="wp-block-heading">Tại sao nên đặt hoa tại Hoa Tươi Tứ Quý?</h2>
-                            <ul class="wp-block-list">
-                                <li>Miễn phí giao hoa toàn quốc 63 tỉnh thành trong vòng 2 giờ</li>
-                                <li>Miễn phí thiệp chúc mừng, băng rôn, bảng treo theo thông điệp</li>
-                                <li>Đảm bảo chất lượng sản lượng sản phẩm, hoa tươi trên 3 ngày</li>
-                                <li>Chụp ảnh hoa thật trước khi giao để đảm bảo hài lòng khách hàng</li>
-                                <li>Nhiều ưu đãi cho khách hàng thành viên, đặt hoa tại Hoa Tươi Tứ Quý</li>
-                                <li>Giảm giá ngay 20K – 50K trong lần đầu tiên đặt hoa.</li>
-                            </ul>
-                            <h2 class="wp-block-heading">Định hướng hoạt động</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một công ty điện hoa uy tín số 1 tại Việt Nam. <strong>Trạm
-                                    Hoa</strong> liên kết các cửa hàng hoa trên toàn quốc (63 tỉnh thành) lại với nhau và
-                                xây dựng mạng lưới giao hoa chuyên nghiệp khắp cả nước. Dịch vụ điện hoa sẽ giúp giải quyết
-                                những vấn đề còn tồn đọng lâu nay của thị trường giao hoa tại việt Nam và mong muốn thị
-                                trường hoa tại Việt Nam có thể phát triển mạnh mẽ hơn nữa.</p>
-                            <h2 class="wp-block-heading">Mục tiêu – Nhiệm vụ</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> với mục tiêu tạo ra những trải nghiệm mua sắm qua mạng tuyệt vời,dễ
-                                dàng và tiện lợi, bên cạnh đó cũng không ngừng nâng cao chất lượng dịch vụ tốt nhất có thể.
-                                Chỉ với một cuộc điện thoại, chúng tôi có thể giao những bông hoa mà khách hàng mong muốn
-                                trên toàn quốc chỉ trong vòng 2 tiếng đồng hồ. Thay vì bỏ nhiều thời gian đến các cửa hàng
-                                hoa và những thủ tục rườm rà, dịch vụ của <strong>Hoa Tươi Tứ Quý</strong> với những chuyên viên tư
-                                vấn được đào tạo chuyên nghiệp sẽ tư vấn và giúp đỡ khách hàng lựa chọn và đặt những bó hoa
-                                tươi đẹp với thái độ thân thiện nhất.</p>
+                <div class="row category-page-row">
+                    <div class="col large-12">
+                        <div class="shop-container">
+                            <div class="woocommerce-notices-wrapper"></div>
+                            <div
+                                class="products row row-small large-columns-5 medium-columns-3 small-columns-2 has-equal-box-heights">
+                                @foreach ($products as $product)
+                                    <div
+                                        class="product-small col has-hover product type-product post-8846 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+                                        <div class="col-inner">
+                                            <div class="badge-container absolute left top z-1"></div>
+                                            <div class="product-small box has-hover box-normal box-text-bottom">
+                                                <div class="box-image">
+                                                    <div class="">
+                                                        <a href="/product/{{ $product->slug }}"
+                                                            aria-label="{{ $product->name }}">
+                                                            <img loading="lazy" decoding="async" width="360"
+                                                                height="450"
+                                                                src="{{ Storage::url($product->images[0]) }}"
+                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                                                alt="{{ $product->name }}"
+                                                                sizes="auto, (max-width: 360px) 100vw, 360px">
+                                                        </a>
+                                                    </div>
+                                                    <div class="image-tools top right show-on-hover"></div>
+                                                    <div
+                                                        class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                                    </div>
+                                                </div>
+                                                <div class="box-text text-center" style="height: 84.6797px;">
+                                                    {{ $product->code }}
+                                                    <div class="title-wrapper">
+                                                        <p class="name product-title woocommerce-loop-product__title"
+                                                            style="height: 25.4062px;">
+                                                            <a href="{{ url('/products/' . $product->slug) }}"
+                                                                class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="price-wrapper" style="height: 15.8438px;">
+                                                        <span class="price"><span
+                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
+                                                                        class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                @endforeach
+                            </div>
+
+                            <div class="container">
+                                <nav class="woocommerce-pagination" aria-label="Phân trang sản phẩm">
+                                    <ul class="page-numbers nav-pagination links text-center">
+                                        {{-- Previous Page Link --}}
+                                        @if ($products->onFirstPage())
+                                            <li><span class="page-number disabled" aria-disabled="true"><i class="icon-angle-left"></i></span></li>
+                                        @else
+                                            <li>
+                                                <a class="prev page-number" href="{{ $products->previousPageUrl() }}" aria-label="Trang trước">
+                                                    <i class="icon-angle-left"></i>
+                                                </a>
+                                            </li>
+                                        @endif
+
+                                        {{-- Pagination Links --}}
+                                        @foreach ($products->links()->elements[0] as $page => $url)
+                                            @if ($page == $products->currentPage())
+                                                <li><span aria-current="page" class="page-number current">{{ $page }}</span></li>
+                                            @else
+                                                <li><a class="page-number" href="/categories/{{ $category->slug }}?page={{ $page }}">{{ $page }}</a></li>
+                                            @endif
+                                        @endforeach
+
+                                        {{-- Next Page Link --}}
+                                        @if ($products->hasMorePages())
+                                            <li>
+                                                <a class="next page-number" href="/categories/{{ $category->slug }}?page={{ $products->currentPage() + 1 }}" aria-label="Trang tiếp theo">
+                                                    <i class="icon-angle-right"></i>
+                                                </a>
+                                            </li>
+                                        @else
+                                            <li><span class="page-number disabled" aria-disabled="true"><i class="icon-angle-right"></i></span></li>
+                                        @endif
+                                    </ul>
+                                </nav>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>

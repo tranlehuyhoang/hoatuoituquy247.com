@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Giới Thiệu - Hoa Tươi Tứ Quý</title>
+        <title>Hướng Dẫn Thanh Toán - Hoa Tươi Tứ Quý</title>
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
@@ -1050,65 +1050,47 @@
             src="data:text/javascript;base64,Z3RhZygiZXZlbnQiLCJwYWdlX3ZpZXciLHtzZW5kX3RvOiJHTEEifSk=" defer></script> <a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
         <div id="wrapper">
             @livewire('new.inc.header')
-
             <main id="main" class="">
                 <div class="row page-wrapper">
                     <div id="content" class="large-12 col" role="main">
                         <header class="entry-header text-center">
-                            <h1 class="entry-title">Giới thiệu</h1>
+                            <h1 class="entry-title">Hướng dẫn thanh toán</h1>
                             <div class="is-divider medium"></div>
                         </header>
                         <div class="entry-content">
-                            <figure class="wp-block-image aligncenter" style="
-                            display: flex;
-                            justify-content: center;
-                        "><img decoding="async" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo-300x216.png" alt="" class="wp-image-9736"></figure>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một website thương mại điện tử hỗ trợ dịch vụ đặt hoa và giao
-                                hoa chuyên nghiệp khắp các tỉnh và thành phố trên toàn quốc. <strong>Hoa Tươi Tứ Quý</strong> không
-                                phải là công ty tốt nhất nhưng sẽ luôn nỗ lực hết mình để làm hài lòng quý khách hàng. Niềm
-                                vui của khách hàng cũng chính là niềm vui của <strong>Hoa Tươi Tứ Quý</strong></p>
-                            <p>Trường hợp có bất kỳ thắc mắc nào, bạn có thể liên hệ trực tiếp qua số điện thoại bên dưới
-                            </p>
-                            <p><strong>Số điện thoại:</strong> <a href="tel:0348278722"><strong>034 827 8722</strong></a>
-                                (Có Zalo / Viber)<br><strong>Zalo:</strong> <a href="https://zalo.me/3588203683113605383" target="_blank" rel="noreferrer noopener nofollow">https://zalo.me/3588203683113605383</a><br><strong>Google
-                                    Maps:</strong> <a href="https://g.page/tramhoavn" target="_blank" rel="noreferrer noopener nofollow">https://g.page/tramhoavn</a><br><strong>Email:
-                                </strong><a class="rank-math-link" href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></p>
-                            <p><strong>Theo dõi Mạng xã hội:</strong></p>
+                            <p>Hoa Tươi Tứ Quý&nbsp;cung cấp cho quý khách nhiều phương thức thanh toán khác nhau để dễ dàng
+                                lựa chọn phương thức phù hợp nhất:</p>
+                            <h4 class="wp-block-heading"><mark style="background-color:rgba(0, 0, 0, 0);color:#1bbc9b"
+                                    class="has-inline-color">Đối với khách hàng trong nước</mark></h4>
                             <ul class="wp-block-list">
-                                <li>Facebook: <a class="rank-math-link" href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.facebook.com/tramhoavn/</a></li>
-                                <li>Instagram: <a href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.instagram.com/tramhoavn/</a></li>
-                                <li>Pinterest: <a class="rank-math-link" href="https://www.pinterest.com/tramhoavn/" target="_blank" rel="noopener">https://www.pinterest.com/tramhoavn/</a></li>
-                                <li>Tiktok: <a href="https://www.tiktok.com/@www.tramhoa.com">https://www.tiktok.com/@www.tramhoa.com</a>
-                                </li>
-                                <li>About.me: <a class="rank-math-link" href="https://about.me/tramhoavn/" target="_blank" rel="noopener">https://about.me/tramhoavn/</a></li>
-                                <li>Twitter: <a href="https://twitter.com/tramhoavn" target="_blank" rel="noopener">https://twitter.com/tramhoavn/</a></li>
-                                <li>Flickr: <a href="https://www.flickr.com/photos/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://www.flickr.com/photos/tramhoavn/</a>
-                                </li>
-                                <li>500px: <a href="https://500px.com/p/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://500px.com/p/tramhoavn/</a></li>
+                                <li><strong>Chuyển khoản ngân hàng:&nbsp;</strong>Quý khách có thể lựa chọn một trong
+                                    những tài khoản ngân hàng công ty hỗ trợ để thanh toán cho đơn hàng của mình.</li>
+                                <li><strong>Ví điện tử MoMo – Zalo Pay</strong>: Quý khách vui lòng thanh toán đơn hàng
+                                    thông qua ví <strong>0939 077 381 – Nguyễn Thành Phúc</strong></li>
+                                <li><strong>Thu tiền mặt (COD):&nbsp;</strong>Quý khách thanh toán đơn hàng của mình
+                                    trực tiếp cho nhân viên giao hàng khi đơn hàng được giao đến nơi.<br><em>Quý khách
+                                        vui lòng thành toán <strong>chuyển khoản trước 50% giá trị đơn hàng</strong> để
+                                        xác nhận, phần còn lại sẽ được hỗ trợ thu tiền mặt khi nhận hàng</em>.</li>
                             </ul>
-                            <h2 class="wp-block-heading">Tại sao nên đặt hoa tại Hoa Tươi Tứ Quý?</h2>
+                            <figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy"
+                                    decoding="async" width="778" height="1024"
+                                    src="https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg"
+                                    alt="Tài khoản Công ty TNHH Hoa Phúc Niên" class="wp-image-38950"
+                                    style="width:300px"
+                                    srcset="https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg 778w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-228x300.jpeg 228w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-114x150.jpeg 114w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-510x671.jpeg 510w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien.jpeg 798w"
+                                    sizes="auto, (max-width: 778px) 100vw, 778px"></figure>
+                            <p class="has-text-align-center"><strong>NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM
+                                    (TECHCOMBANK)</strong><br>Số Tài Khoản: <strong>345289</strong><br>Chủ Tài Khoản:
+                                <strong>HOA PHUC NIEN CO., LTD</strong></p>
+                            <h4 class="wp-block-heading"><mark style="background-color:rgba(0, 0, 0, 0);color:#1bbc9b"
+                                    class="has-inline-color">Đối với khách hàng ở nước ngoài</mark></h4>
                             <ul class="wp-block-list">
-                                <li>Miễn phí giao hoa toàn quốc 63 tỉnh thành trong vòng 2 giờ</li>
-                                <li>Miễn phí thiệp chúc mừng, băng rôn, bảng treo theo thông điệp</li>
-                                <li>Đảm bảo chất lượng sản lượng sản phẩm, hoa tươi trên 3 ngày</li>
-                                <li>Chụp ảnh hoa thật trước khi giao để đảm bảo hài lòng khách hàng</li>
-                                <li>Nhiều ưu đãi cho khách hàng thành viên, đặt hoa tại Hoa Tươi Tứ Quý</li>
-                                <li>Giảm giá ngay 20K – 50K trong lần đầu tiên đặt hoa.</li>
+                                <li>Chuyển tiền qua <strong>Western Union – Money Gram</strong>:<br>Quý khách ở nước
+                                    ngoài có thể sử dụng dịch vụ chuyển tiền nhanh của Western Union / Money Gram để
+                                    thanh toán với thông tin nguời nhận là:<br>Tên: <strong>Nguyễn Thành
+                                        Phúc</strong><br>Địa chỉ: <strong>443/56 Điện Biên Phủ, Phường 3, Quận 3, Thành
+                                        phố Hồ Chí Minh</strong></li>
                             </ul>
-                            <h2 class="wp-block-heading">Định hướng hoạt động</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một công ty điện hoa uy tín số 1 tại Việt Nam. <strong>Trạm
-                                    Hoa</strong> liên kết các cửa hàng hoa trên toàn quốc (63 tỉnh thành) lại với nhau và
-                                xây dựng mạng lưới giao hoa chuyên nghiệp khắp cả nước. Dịch vụ điện hoa sẽ giúp giải quyết
-                                những vấn đề còn tồn đọng lâu nay của thị trường giao hoa tại việt Nam và mong muốn thị
-                                trường hoa tại Việt Nam có thể phát triển mạnh mẽ hơn nữa.</p>
-                            <h2 class="wp-block-heading">Mục tiêu – Nhiệm vụ</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> với mục tiêu tạo ra những trải nghiệm mua sắm qua mạng tuyệt vời,dễ
-                                dàng và tiện lợi, bên cạnh đó cũng không ngừng nâng cao chất lượng dịch vụ tốt nhất có thể.
-                                Chỉ với một cuộc điện thoại, chúng tôi có thể giao những bông hoa mà khách hàng mong muốn
-                                trên toàn quốc chỉ trong vòng 2 tiếng đồng hồ. Thay vì bỏ nhiều thời gian đến các cửa hàng
-                                hoa và những thủ tục rườm rà, dịch vụ của <strong>Hoa Tươi Tứ Quý</strong> với những chuyên viên tư
-                                vấn được đào tạo chuyên nghiệp sẽ tư vấn và giúp đỡ khách hàng lựa chọn và đặt những bó hoa
-                                tươi đẹp với thái độ thân thiện nhất.</p>
                         </div>
                     </div>
                 </div>

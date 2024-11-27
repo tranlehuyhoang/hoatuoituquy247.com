@@ -421,7 +421,7 @@
             var dataLayer_content = {
                 "pagePostType": "product",
                 "pagePostType2": "single-product",
-                "pagePostAuthor": "Trạm Hoa",
+                "pagePostAuthor": "Hoa Tươi Tứ Quý",
                 "deviceType": "desktop",
                 "deviceManufacturer": "",
                 "deviceModel": "",
@@ -1186,10 +1186,9 @@
                                     <div
                                         class="product-info summary col-fit col entry-summary product-summary text-left">
                                         <nav class="rank-math-breadcrumb breadcrumbs uppercase">
-                                            <p><a href="https://tramhoa.com">Trang chủ</a><span class="separator">
+                                            <p><a href="/">Trang chủ</a><span class="separator">
                                                     &raquo;
-                                                </span><a href="https://tramhoa.com/hoa-khai-truong/">Hoa Khai
-                                                    Trương</a><span class="separator"> &raquo; </span><span
+                                                </span><a href="/categories/{{$product->category->slug}}">{{$product->category->name}}</a><span class="separator"> &raquo; </span><span
                                                     class="last">{{$product->name}}</span></p>
                                         </nav>
                                         <h1 class="product-title product_title entry-title">
@@ -1319,8 +1318,7 @@
                                             </style>
                                         </div>
                                         <p class="stock in-stock">còn 9973 hàng</p>
-                                        <form class="cart" wire:submit="addToCart"
-                                         >
+                                        <div style="margin-bottom: 10px;">
                                             <input type="hidden" class="tm-epo-counter" name="tm-epo-counter"
                                                 value="1"><input type="hidden" data-epo-id="1"
                                                 class="tc-add-to-cart" name="tcaddtocart" value="8846">
@@ -1339,8 +1337,8 @@
                                                     class="ux-quantity__button ux-quantity__button--plus button plus is-form">
                                             </div>
                                             <button
-                                                class="single_add_to_cart_button button alt">Đặt Hoa</button>
-                                        </form>
+                                                class="single_add_to_cart_button button alt"  wire:click="addToCart">Đặt Hoa</button>
+                                        </div>
                                         <div id="text-2622897752" class="text">
                                             <ul>
                                                 <li><i>Hoa tươi là sản phẩm tự nhiên, đặc thù nghệ thuật và thủ công nên
@@ -1399,7 +1397,7 @@
                                                             <img width="100" height="100"
                                                                 src="/assets/wp-content/uploads/2019/12/Bo-Hoa-Tuoi-TH-B004-e1720604694183-100x100.jpg.webp"
                                                                 class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail"
-                                                                alt="Bó Hoa Tươi - Trạm Hoa" decoding="async"
+                                                                alt="Bó Hoa Tươi - Hoa Tươi Tứ Quý" decoding="async"
                                                                 loading="lazy" /> <span class="product-title">Tin
                                                                 Yêu</span>
                                                         </a>

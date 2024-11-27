@@ -40,7 +40,7 @@
                                 <li><strong>Long An</strong>: 06 <span class="LrzXr">Nguyễn Đình Chiểu, P.1 ,
                                         Tân An</span></li>
                                 <li><strong>Kiên Giang:</strong> 150 Đống Đa, P. Vĩnh Lạc, Rạch Giá</li>
-                                <li><strong><a href="https://tramhoa.com/chi-nhanh/">&gt; Xem thêm chi nhánh
+                                <li><strong><a href="/chi-nhanh/">&gt; Xem thêm chi nhánh
                                             shop hoa</a></strong></li>
                             </ul>
                         </div>
@@ -53,11 +53,11 @@
                                 <li><a href="/huong-dan-thanh-toan/">Hướng dẫn thanh toán</a></li>
                                 <li><a href="/quy-dinh-van-chuyen/">Quy định vận chuyển</a></li>
                                 <li><a href="/khuyen-mai/">Chương trình khuyến mãi</a></li>
-                                <li><a href="https://tramhoa.com/danh-gia-hinh-anh-thuc-te/">Hình ảnh thực
+                                <li><a href="/danh-gia-hinh-anh-thuc-te/">Hình ảnh thực
                                         tế</a></li>
-                                <li><a href="https://tramhoa.com/doi-tac-tieu-bieu/">Đối tác tiêu biểu</a>
+                                <li><a href="/doi-tac-tieu-bieu/">Đối tác tiêu biểu</a>
                                 </li>
-                                <li><a href="https://tramhoa.com/y-nghia-hoa/">Blog - Chuyện về hoa</a></li>
+                                <li><a href="/y-nghia-hoa/">Blog - Chuyện về hoa</a></li>
                             </ul>
                         </div>
                     </div>
@@ -74,12 +74,7 @@
         <div class="container clearfix">
             <div class="footer-secondary pull-right">
                 <div class="footer-text inline-block small-block">
-                    Copyright 2024 © <strong>Trạm Hoa</strong><br />
-                    <a href="//www.dmca.com/Protection/Status.aspx?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
-                        title="DMCA.com Protection Status" class="dmca-badge"> <img
-                            src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
-                            alt="DMCA.com Protection Status" /></a>
-                    <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
+                    Copyright 2024 © <strong>Hoa Tươi Tứ Quý</strong><br />
                 </div>
             </div>
             <div class="footer-primary pull-left">
@@ -87,20 +82,20 @@
                     <ul id="menu-foot-menu" class="links footer-nav uppercase">
                         <li id="menu-item-4088"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4088"><a
-                                href="https://tramhoa.com/gioi-thieu/">Giới thiệu</a></li>
+                                href="/gioi-thieu/">Giới thiệu</a></li>
                         <li id="menu-item-4497"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4497"><a
-                                href="https://tramhoa.com/lien-he/">Liên hệ</a></li>
+                                href="/lien-he/">Liên hệ</a></li>
                         <li id="menu-item-4084"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084"><a
-                                href="https://tramhoa.com/thac-mac-khi-dat-hoa/">Câu hỏi thường gặp</a></li>
+                                href="/thac-mac-khi-dat-hoa/">Câu hỏi thường gặp</a></li>
                         <li id="menu-item-4085"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4085">
-                            <a rel="privacy-policy" href="https://tramhoa.com/chinh-sach-bao-mat/">Bảo
+                            <a rel="privacy-policy" href="/chinh-sach-bao-mat/">Bảo
                                 Mật</a></li>
                         <li id="menu-item-29871"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29871">
-                            <a href="https://tramhoa.com/chinh-sach-doi-tra/">Đổi Trả</a></li>
+                            <a href="/chinh-sach-doi-tra/">Đổi Trả</a></li>
                     </ul>
                 </div>
                 <div class="copyright-footer">

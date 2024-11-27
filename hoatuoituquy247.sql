@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 27, 2024 at 06:22 AM
+-- Generation Time: Nov 27, 2024 at 08:22 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -7943,7 +7943,8 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('cx7eSg1D3zxrIkdxylnPVs0A6FcOpbxdvduCowhz', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiSlNhWFBjN2loNTF0SnVUM3ZvY0tkSllwMVl1MFJlOE1xaGFVOWdRVCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6NTA6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9zZWFyY2g/cG9zdF90eXBlPXByb2R1Y3Qmcz1oIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1732684937);
+('cx7eSg1D3zxrIkdxylnPVs0A6FcOpbxdvduCowhz', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiSlNhWFBjN2loNTF0SnVUM3ZvY0tkSllwMVl1MFJlOE1xaGFVOWdRVCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFuaC10b2FuIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1732692124),
+('MxUxtcVjJe6VmEC5Rs8tGTz9kDhfYfoXBaBas6YV', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiUHFWVmdRRDBkNWNKaWpkc3g3NlJKMXpQenpPeXlWM2Rqd0JUT0FpaiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE1OiJodHRwOi8vbG9jYWxob3N0OjgwMDAvZ2lvLWhhbmc/X3dwX2h0dHBfcmVmZXJlcj0lMkZnaW8taGFuZyUyRiZjYXJ0JTVCYmI5NmZmN2Y1Yzk1MDVmZDk3MTEyNmVjZDE3MWJlYzIlNUQlNUJxdHklNUQ9OSZ1cGRhdGVfY2FydD1DJUUxJUJBJUFEcCUyMG5oJUUxJUJBJUFEdCUyMGdpJUUxJUJCJThGJTIwaCVDMyVBMG5nJndvb2NvbW1lcmNlLWNhcnQtbm9uY2U9MTBkNDUwNjkyZSI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1732687164);
 
 -- --------------------------------------------------------
 

@@ -30,13 +30,13 @@
             const gtm4wp_scrollerscript_scannertime = 60;
         </script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Cảm ơn quý khách - Trạm Hoa</title>
+        <title>Cảm ơn quý khách - Hoa Tươi Tứ Quý</title>
         <meta name="robots" content="noindex, follow" />
         <meta property="og:locale" content="vi_VN" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Cảm ơn quý khách - Trạm Hoa" />
+        <meta property="og:title" content="Cảm ơn quý khách - Hoa Tươi Tứ Quý" />
         <meta property="og:url" content="https://tramhoa.com/don-hang-da-nhan/cam-on-quy-khach/" />
-        <meta property="og:site_name" content="Trạm Hoa" />
+        <meta property="og:site_name" content="Hoa Tươi Tứ Quý" />
         <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
         <meta property="og:updated_time" content="2019-09-12T13:57:50+07:00" />
         <meta property="og:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
@@ -47,7 +47,7 @@
         <meta property="og:image:alt" content="Cảm ơn quý khách" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Cảm ơn quý khách - Trạm Hoa" />
+        <meta name="twitter:title" content="Cảm ơn quý khách - Hoa Tươi Tứ Quý" />
         <meta name="twitter:site" content="@tramhoavn" />
         <meta name="twitter:creator" content="@tramhoavn" />
         <meta name="twitter:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
@@ -65,9 +65,9 @@
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
+        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Hoa Tươi Tứ Quý &raquo;"
             href="https://tramhoa.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
+        <link rel="alternate" type="application/rss+xml" title="Hoa Tươi Tứ Quý &raquo; Dòng bình luận"
             href="https://tramhoa.com/comments/feed/" />
         <link data-optimized="1" rel='stylesheet' id='themecomplete-epo-css'
             href='/assets/wp-content/litespeed/css/7aed847180d7729fccd88de886a81ef0.css?ver=81ef0'
@@ -566,7 +566,7 @@
             var dataLayer_content = {
                 "pagePostType": "xlwcty_thankyou",
                 "pagePostType2": "single-xlwcty_thankyou",
-                "pagePostAuthor": "Trạm Hoa",
+                "pagePostAuthor": "Hoa Tươi Tứ Quý",
                 "deviceType": "desktop",
                 "deviceManufacturer": "",
                 "deviceModel": "",
@@ -1425,13 +1425,13 @@
                     <div id="masthead" class="header-main show-logo-center hide-for-sticky">
                         <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
                             <div id="logo" class="flex-col logo"><a href="/"
-                                    title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
+                                    title="Hoa Tươi Tứ Quý - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
                                     <img width="200" height="90"
                                         src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                        class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
+                                        class="header_logo header-logo" alt="Hoa Tươi Tứ Quý" /><img width="200"
                                         height="90"
                                         src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                        class="header-logo-dark" alt="Trạm Hoa" /></a></div>
+                                        class="header-logo-dark" alt="Hoa Tươi Tứ Quý" /></a></div>
                             <div class="flex-col show-for-medium flex-left">
                                 <ul class="mobile-nav nav nav-left ">
                                     <li class="cart-item has-icon"><a href="/gio-hang/"
@@ -1683,7 +1683,7 @@
                                         <div class="xlwcty_order_info">
                                             <div class="xlwcty_circle"><i class="xlwcty-fa xlwcty-fa-check"></i></div>
                                             <div class="xlwcty_order_no">Đơn hàng #TH39179</div>
-                                            <div class="xlwcty_userN">Cảm ơn vì đã tin tưởng Trạm Hoa</div>
+                                            <div class="xlwcty_userN">Cảm ơn vì đã tin tưởng Hoa Tươi Tứ Quý</div>
                                         </div>
                                         <div class="xlwcty_Box xlwcty_customer_info">
                                             <div class="xlwcty_title">Thông tin khách hàng</div>
@@ -2031,7 +2031,7 @@
                     <div class="container clearfix">
                         <div class="footer-secondary pull-right">
                             <div class="footer-text inline-block small-block">
-                                Copyright 2024 © <strong>Trạm Hoa</strong><br />
+                                Copyright 2024 © <strong>Hoa Tươi Tứ Quý</strong><br />
                                 <a href="//www.dmca.com/Protection/Status.aspx?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
                                     title="DMCA.com Protection Status" class="dmca-badge"> <img
                                         src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"

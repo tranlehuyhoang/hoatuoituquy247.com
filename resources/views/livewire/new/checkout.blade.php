@@ -39,13 +39,13 @@
             <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <!-- Tối ưu hóa công cụ tìm kiếm bởi Rank Math PRO - https://rankmath.com/ -->
-            <title>Thanh toán - Trạm Hoa</title>
+            <title>Thanh toán - Hoa Tươi Tứ Quý</title>
             <meta name="robots" content="noindex, follow" />
             <meta property="og:locale" content="vi_VN" />
             <meta property="og:type" content="article" />
-            <meta property="og:title" content="Thanh toán - Trạm Hoa" />
+            <meta property="og:title" content="Thanh toán - Hoa Tươi Tứ Quý" />
             <meta property="og:url" content="https://tramhoa.com/thanh-toan/" />
-            <meta property="og:site_name" content="Trạm Hoa" />
+            <meta property="og:site_name" content="Hoa Tươi Tứ Quý" />
             <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
             <meta property="og:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
             <meta property="og:image:secure_url"
@@ -56,7 +56,7 @@
             <meta property="og:image:type" content="image/jpeg" />
             <meta property="article:published_time" content="2019-08-22T04:03:42+07:00" />
             <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:title" content="Thanh toán - Trạm Hoa" />
+            <meta name="twitter:title" content="Thanh toán - Hoa Tươi Tứ Quý" />
             <meta name="twitter:site" content="@tramhoavn" />
             <meta name="twitter:creator" content="@tramhoavn" />
             <meta name="twitter:image"
@@ -82,9 +82,9 @@
                 href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
             <link rel='prefetch'
                 href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
-            <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
+            <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Hoa Tươi Tứ Quý &raquo;"
                 href="https://tramhoa.com/feed/" />
-            <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
+            <link rel="alternate" type="application/rss+xml" title="Hoa Tươi Tứ Quý &raquo; Dòng bình luận"
                 href="https://tramhoa.com/comments/feed/" />
             <link rel='stylesheet' id='themecomplete-epo-css'
                 href='/assets/wp-content/plugins/woocommerce-tm-extra-product-options/assets/css/epo.min.css'
@@ -591,7 +591,7 @@
                 var dataLayer_content = {
                     "pagePostType": "page",
                     "pagePostType2": "single-page",
-                    "pagePostAuthor": "Trạm Hoa",
+                    "pagePostAuthor": "Hoa Tươi Tứ Quý",
                     "deviceType": "desktop",
                     "deviceManufacturer": "",
                     "deviceModel": "",
@@ -1497,14 +1497,14 @@
 
                                     <!-- Header logo -->
                                     <a href="/"
-                                        title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
+                                        title="Hoa Tươi Tứ Quý - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
                                         rel="home">
                                         <img width="200" height="90"
                                             src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                            class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
+                                            class="header_logo header-logo" alt="Hoa Tươi Tứ Quý" /><img width="200"
                                             height="90"
                                             src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                            class="header-logo-dark" alt="Trạm Hoa" /></a>
+                                            class="header-logo-dark" alt="Hoa Tươi Tứ Quý" /></a>
                                 </div>
 
                                 <!-- Mobile Left Elements -->
@@ -2307,7 +2307,7 @@
                                                                             <div class="payment_box payment_method_bacs">
                                                                                 <p>Sau khi đơn hàng được xác nhận, quý khách
                                                                                     vui
-                                                                                    lòng thanh toán cho Trạm Hoa thông qua
+                                                                                    lòng thanh toán cho Hoa Tươi Tứ Quý thông qua
                                                                                     thông
                                                                                     tin tài khoản ngân hàng được cung cấp
                                                                                     (Internet Banking / ATM / Ngân hàng gần
@@ -2564,7 +2564,7 @@
 
                             <div class="footer-secondary pull-right">
                                 <div class="footer-text inline-block small-block">
-                                    Copyright 2024 © <strong>Trạm Hoa</strong><br />
+                                    Copyright 2024 © <strong>Hoa Tươi Tứ Quý</strong><br />
                                     <a href="//www.dmca.com/Protection/Status.aspx?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
                                         title="DMCA.com Protection Status" class="dmca-badge"> <img
                                             src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"

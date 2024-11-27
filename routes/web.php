@@ -43,12 +43,14 @@ use App\Livewire\New\ChinhSachBaoMat as NewChinhSachBaoMat;
 use App\Livewire\New\ChinhSachDoiTra as NewChinhSachDoiTra;
 use App\Livewire\New\ChiNhanh as NewChiNhanh;
 use App\Livewire\New\HuongDanDatHoa as NewHuongDanDatHoa;
+use App\Livewire\New\HuongDanThanhToan as NewHuongDanThanhToan;
 use App\Livewire\New\QuyDinhVanChuyen as NewQuyDinhVanChuyen;
 use App\Livewire\New\YNghiaHoa as NewYNghiaHoa;
 use App\Livewire\New\DoiTacTieuBieu as NewDoiTacTieuBieu;
 use App\Livewire\New\DanhGiaHinhAnhThucTe as NewDanhGiaHinhAnhThucTe;
 use App\Livewire\New\KhuyenMai as NewKhuyenMai;
 use App\Livewire\New\CayLanChi as NewCayLanChi;
+use App\Livewire\New\CuaHang as NewCuaHang;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -76,13 +78,14 @@ Route::get('/chinh-sach-bao-mat', NewChinhSachBaoMat::class);
 Route::get('/chinh-sach-doi-tra', NewChinhSachDoiTra::class);
 Route::get('/chi-nhanh', NewChiNhanh::class);
 Route::get('/huong-dan-dat-hoa', NewHuongDanDatHoa::class);
+Route::get('/huong-dan-thanh-toan', NewHuongDanThanhToan::class);
 Route::get('/quy-dinh-van-chuyen', NewQuyDinhVanChuyen::class);
 Route::get('/y-nghia-hoa', NewYNghiaHoa::class);
 Route::get('/doi-tac-tieu-bieu', NewDoiTacTieuBieu::class);
 Route::get('/danh-gia-hinh-anh-thuc-te', NewDanhGiaHinhAnhThucTe::class);
 Route::get('/khuyen-mai', NewKhuyenMai::class);
 Route::get('/cay-lan-chi', NewCayLanChi::class);
-
+Route::get('/cua-hang', NewCuaHang::class);
 
 
 

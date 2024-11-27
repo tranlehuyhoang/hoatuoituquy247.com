@@ -11,9 +11,6 @@
         <meta charset="UTF-8" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
         <link rel="pingback" href="https://tramhoa.com/xmlrpc.php" />
-        <script type="text/javascript"
-            src="data:text/javascript;base64,KCgpPT57dmFyIGU9e307ZS5nPWZ1bmN0aW9uKCl7aWYoIm9iamVjdCI9PXR5cGVvZiBnbG9iYWxUaGlzKXJldHVybiBnbG9iYWxUaGlzO3RyeXtyZXR1cm4gdGhpc3x8bmV3IEZ1bmN0aW9uKCJyZXR1cm4gdGhpcyIpKCl9Y2F0Y2goZSl7aWYoIm9iamVjdCI9PXR5cGVvZiB3aW5kb3cpcmV0dXJuIHdpbmRvd319KCksZnVuY3Rpb24oe2FtcFVybDpuLGlzQ3VzdG9taXplUHJldmlldzp0LGlzQW1wRGV2TW9kZTpyLG5vYW1wUXVlcnlWYXJOYW1lOm8sbm9hbXBRdWVyeVZhclZhbHVlOnMsZGlzYWJsZWRTdG9yYWdlS2V5OmksbW9iaWxlVXNlckFnZW50czphLHJlZ2V4UmVnZXg6Y30pe2lmKCJ1bmRlZmluZWQiPT10eXBlb2Ygc2Vzc2lvblN0b3JhZ2UpcmV0dXJuO2NvbnN0IGQ9bmV3IFJlZ0V4cChjKTtpZighYS5zb21lKChlPT57Y29uc3Qgbj1lLm1hdGNoKGQpO3JldHVybiEoIW58fCFuZXcgUmVnRXhwKG5bMV0sblsyXSkudGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSl8fG5hdmlnYXRvci51c2VyQWdlbnQuaW5jbHVkZXMoZSl9KSkpcmV0dXJuO2UuZy5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIiwoKCk9Pntjb25zdCBlPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJhbXAtbW9iaWxlLXZlcnNpb24tc3dpdGNoZXIiKTtpZighZSlyZXR1cm47ZS5oaWRkZW49ITE7Y29uc3Qgbj1lLnF1ZXJ5U2VsZWN0b3IoImFbaHJlZl0iKTtuJiZuLmFkZEV2ZW50TGlzdGVuZXIoImNsaWNrIiwoKCk9PntzZXNzaW9uU3RvcmFnZS5yZW1vdmVJdGVtKGkpfSkpfSkpO2NvbnN0IGc9ciYmWyJwYWlyZWQtYnJvd3Npbmctbm9uLWFtcCIsInBhaXJlZC1icm93c2luZy1hbXAiXS5pbmNsdWRlcyh3aW5kb3cubmFtZSk7aWYoc2Vzc2lvblN0b3JhZ2UuZ2V0SXRlbShpKXx8dHx8ZylyZXR1cm47Y29uc3QgdT1uZXcgVVJMKGxvY2F0aW9uLmhyZWYpLG09bmV3IFVSTChuKTttLmhhc2g9dS5oYXNoLHUuc2VhcmNoUGFyYW1zLmhhcyhvKSYmcz09PXUuc2VhcmNoUGFyYW1zLmdldChvKT9zZXNzaW9uU3RvcmFnZS5zZXRJdGVtKGksIjEiKTptLmhyZWYhPT11LmhyZWYmJih3aW5kb3cuc3RvcCgpLGxvY2F0aW9uLnJlcGxhY2UobS5ocmVmKSl9KHsiYW1wVXJsIjoiaHR0cHM6XC9cL3RyYW1ob2EuY29tXC9jYXktbGFuLWNoaVwvYW1wXC8iLCJub2FtcFF1ZXJ5VmFyTmFtZSI6Im5vYW1wIiwibm9hbXBRdWVyeVZhclZhbHVlIjoibW9iaWxlIiwiZGlzYWJsZWRTdG9yYWdlS2V5IjoiYW1wX21vYmlsZV9yZWRpcmVjdF9kaXNhYmxlZCIsIm1vYmlsZVVzZXJBZ2VudHMiOlsiTW9iaWxlIiwiQW5kcm9pZCIsIlNpbGtcLyIsIktpbmRsZSIsIkJsYWNrQmVycnkiLCJPcGVyYSBNaW5pIiwiT3BlcmEgTW9iaSJdLCJyZWdleFJlZ2V4IjoiXlxcXC8oKD86LnxcXG4pKylcXFwvKFtpXSopJCIsImlzQ3VzdG9taXplUHJldmlldyI6ITEsImlzQW1wRGV2TW9kZSI6ITF9KX0pKCk="
-            defer></script>
         <script
             src="data:text/javascript;base64,KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lPWh0bWwuY2xhc3NOYW1lLnJlcGxhY2UoL1xibm8tanNcYi8sJ2pzJyl9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQp"
             defer></script> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
@@ -33,44 +30,39 @@
             const gtm4wp_scrollerscript_scannertime = 60;
         </script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Cây lan chi - không chỉ mang ý may mắn mà còn tốt cho sức khỏe - Hoa Tươi Tứ Quý</title>
+        <title>Tổng hợp hình ảnh thực tế, đánh giá của khách hàng - Hoa Tươi Tứ Quý</title>
         <meta name="description"
-            content="Cây lan chi&nbsp;là một loại cây cảnh đẹp và có nhiều ý nghĩa trong phong thủy. Bạn có thể trồng trong nhà, trên bàn làm việc, bàn học, kệ sách, hoặc treo bên" />
+            content="Ý kiến, đánh giá của khách hàng là động lực để Hoa Tươi Tứ Quý cải thiện chất lượng sản phẩm và dịch vụ để phục vụ khách hàng ngày càng tốt hơn" />
         <meta name="robots" content="follow, index" />
-        <link rel="canonical" href="https://tramhoa.com/cay-lan-chi/" />
+        <link rel="canonical" href="https://tramhoa.com/danh-gia-hinh-anh-thuc-te/" />
         <meta property="og:locale" content="vi_VN" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Cây lan chi - không chỉ mang ý may mắn mà còn tốt cho sức khỏe - Hoa Tươi Tứ Quý" />
+        <meta property="og:title" content="Tổng hợp hình ảnh thực tế, đánh giá của khách hàng - Hoa Tươi Tứ Quý" />
         <meta property="og:description"
-            content="Cây lan chi&nbsp;là một loại cây cảnh đẹp và có nhiều ý nghĩa trong phong thủy. Bạn có thể trồng trong nhà, trên bàn làm việc, bàn học, kệ sách, hoặc treo bên" />
-        <meta property="og:url" content="https://tramhoa.com/cay-lan-chi/" />
+            content="Ý kiến, đánh giá của khách hàng là động lực để Hoa Tươi Tứ Quý cải thiện chất lượng sản phẩm và dịch vụ để phục vụ khách hàng ngày càng tốt hơn" />
+        <meta property="og:url" content="https://tramhoa.com/danh-gia-hinh-anh-thuc-te/" />
         <meta property="og:site_name" content="Hoa Tươi Tứ Quý" />
         <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
-        <meta property="article:section" content="Ý Nghĩa Hoa" />
-        <meta property="og:updated_time" content="2024-05-20T07:51:10+07:00" />
-        <meta property="og:image"
-            content="/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg" />
+        <meta property="og:updated_time" content="2020-09-28T14:37:10+07:00" />
+        <meta property="og:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
         <meta property="og:image:secure_url"
-            content="/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg" />
-        <meta property="og:image:width" content="850" />
-        <meta property="og:image:height" content="633" />
-        <meta property="og:image:alt" content="Cây cỏ lan chi có tác dụng gì ?" />
+            content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
+        <meta property="og:image:width" content="1280" />
+        <meta property="og:image:height" content="520" />
+        <meta property="og:image:alt" content="Hình ảnh thực tế &#8211; Đánh giá của khách hàng" />
         <meta property="og:image:type" content="image/jpeg" />
-        <meta property="article:published_time" content="2024-03-25T22:26:41+07:00" />
-        <meta property="article:modified_time" content="2024-05-20T07:51:10+07:00" />
+        <meta property="article:published_time" content="2019-09-11T15:37:39+07:00" />
+        <meta property="article:modified_time" content="2020-09-28T14:37:10+07:00" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Cây lan chi - không chỉ mang ý may mắn mà còn tốt cho sức khỏe - Hoa Tươi Tứ Quý" />
+        <meta name="twitter:title" content="Tổng hợp hình ảnh thực tế, đánh giá của khách hàng - Hoa Tươi Tứ Quý" />
         <meta name="twitter:description"
-            content="Cây lan chi&nbsp;là một loại cây cảnh đẹp và có nhiều ý nghĩa trong phong thủy. Bạn có thể trồng trong nhà, trên bàn làm việc, bàn học, kệ sách, hoặc treo bên" />
+            content="Ý kiến, đánh giá của khách hàng là động lực để Hoa Tươi Tứ Quý cải thiện chất lượng sản phẩm và dịch vụ để phục vụ khách hàng ngày càng tốt hơn" />
         <meta name="twitter:site" content="@tramhoavn" />
         <meta name="twitter:creator" content="@tramhoavn" />
-        <meta name="twitter:image"
-            content="/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg" />
-        <meta name="twitter:label1" content="Được viết bởi" />
-        <meta name="twitter:data1" content="Nguyễn Duy" />
-        <meta name="twitter:label2" content="Thời gian để đọc" />
-        <meta name="twitter:data2" content="6 phút" />
-        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg","url":"/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg","width":"850","height":"633","caption":"C\u00e2y c\u1ecf lan chi c\u00f3 t\u00e1c d\u1ee5ng g\u00ec ?","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/cay-lan-chi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/y-nghia-hoa/","name":"\u00dd Ngh\u0129a Hoa"}},{"@type":"ListItem","position":"3","item":{"@id":"https://tramhoa.com/cay-lan-chi/","name":"C\u00e2y lan chi &#8211; kh\u00f4ng ch\u1ec9 mang \u00fd may m\u1eafn m\u00e0 c\u00f2n t\u1ed1t cho s\u1ee9c kh\u1ecfe"}}]},{"@type":"WebPage","@id":"https://tramhoa.com/cay-lan-chi/#webpage","url":"https://tramhoa.com/cay-lan-chi/","name":"C\u00e2y lan chi - kh\u00f4ng ch\u1ec9 mang \u00fd may m\u1eafn m\u00e0 c\u00f2n t\u1ed1t cho s\u1ee9c kh\u1ecfe - Tr\u1ea1m Hoa","datePublished":"2024-03-25T22:26:41+07:00","dateModified":"2024-05-20T07:51:10+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/cay-lan-chi/#breadcrumb"}},{"@type":"Person","@id":"https://tramhoa.com/cay-lan-chi/#author","name":"Nguy\u1ec5n Duy","image":{"@type":"ImageObject","@id":"/assets/wp-content/litespeed/avatar/049a5f31feffb619c32da138875f44f7.jpg?ver=1731949340","url":"/assets/wp-content/litespeed/avatar/049a5f31feffb619c32da138875f44f7.jpg?ver=1731949340","caption":"Nguy\u1ec5n Duy","inLanguage":"vi"},"worksFor":{"@id":"https://tramhoa.com/#organization"}},{"@type":"BlogPosting","headline":"C\u00e2y lan chi - kh\u00f4ng ch\u1ec9 mang \u00fd may m\u1eafn m\u00e0 c\u00f2n t\u1ed1t cho s\u1ee9c kh\u1ecfe - Tr\u1ea1m Hoa","keywords":"C\u00e2y lan chi","datePublished":"2024-03-25T22:26:41+07:00","dateModified":"2024-05-20T07:51:10+07:00","articleSection":"\u00dd Ngh\u0129a Hoa","author":{"@id":"https://tramhoa.com/cay-lan-chi/#author","name":"Nguy\u1ec5n Duy"},"publisher":{"@id":"https://tramhoa.com/#organization"},"description":"C\u00e2y lan chi&nbsp;l\u00e0 m\u1ed9t lo\u1ea1i c\u00e2y c\u1ea3nh \u0111\u1eb9p v\u00e0 c\u00f3 nhi\u1ec1u \u00fd ngh\u0129a trong phong th\u1ee7y. B\u1ea1n c\u00f3 th\u1ec3 tr\u1ed3ng trong nh\u00e0, tr\u00ean b\u00e0n l\u00e0m vi\u1ec7c, b\u00e0n h\u1ecdc, k\u1ec7 s\u00e1ch, ho\u1eb7c treo b\u00ean","name":"C\u00e2y lan chi - kh\u00f4ng ch\u1ec9 mang \u00fd may m\u1eafn m\u00e0 c\u00f2n t\u1ed1t cho s\u1ee9c kh\u1ecfe - Tr\u1ea1m Hoa","@id":"https://tramhoa.com/cay-lan-chi/#richSnippet","isPartOf":{"@id":"https://tramhoa.com/cay-lan-chi/#webpage"},"image":{"@id":"/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://tramhoa.com/cay-lan-chi/#webpage"}}]}</script>
+        <meta name="twitter:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
+        <meta name="twitter:label1" content="Thời gian để đọc" />
+        <meta name="twitter:data1" content="3 phút" />
+        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"],"logo":{"@type":"ImageObject","@id":"https://tramhoa.com/#logo","url":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","contentUrl":"/assets/wp-content/uploads/2020/03/Facebook-Logo.png","caption":"Tr\u1ea1m Hoa","inLanguage":"vi","width":"1000","height":"1000"}},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg","url":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg","width":"1280","height":"520","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/","name":"H\u00ecnh \u1ea3nh th\u1ef1c t\u1ebf &#8211; \u0110\u00e1nh gi\u00e1 c\u1ee7a kh\u00e1ch h\u00e0ng"}}]},{"@type":"WebPage","@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#webpage","url":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/","name":"T\u1ed5ng h\u1ee3p h\u00ecnh \u1ea3nh th\u1ef1c t\u1ebf, \u0111\u00e1nh gi\u00e1 c\u1ee7a kh\u00e1ch h\u00e0ng - Tr\u1ea1m Hoa","datePublished":"2019-09-11T15:37:39+07:00","dateModified":"2020-09-28T14:37:10+07:00","isPartOf":{"@id":"https://tramhoa.com/#website"},"primaryImageOfPage":{"@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#breadcrumb"}},{"@type":"Person","@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#author","name":"Tr\u1ea1m Hoa","image":{"@type":"ImageObject","@id":"/assets/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","url":"/assets/wp-content/litespeed/avatar/1daafdb85cf9831326df1edee80b273b.jpg?ver=1731948796","caption":"Tr\u1ea1m Hoa","inLanguage":"vi"},"worksFor":{"@id":"https://tramhoa.com/#organization"}},{"@type":"Article","headline":"T\u1ed5ng h\u1ee3p h\u00ecnh \u1ea3nh th\u1ef1c t\u1ebf, \u0111\u00e1nh gi\u00e1 c\u1ee7a kh\u00e1ch h\u00e0ng - Tr\u1ea1m Hoa","datePublished":"2019-09-11T15:37:39+07:00","dateModified":"2020-09-28T14:37:10+07:00","author":{"@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#author","name":"Tr\u1ea1m Hoa"},"publisher":{"@id":"https://tramhoa.com/#organization"},"description":"\u00dd ki\u1ebfn, \u0111\u00e1nh gi\u00e1 c\u1ee7a kh\u00e1ch h\u00e0ng l\u00e0 \u0111\u1ed9ng l\u1ef1c \u0111\u1ec3 Tr\u1ea1m Hoa c\u1ea3i thi\u1ec7n ch\u1ea5t l\u01b0\u1ee3ng s\u1ea3n ph\u1ea9m v\u00e0 d\u1ecbch v\u1ee5 \u0111\u1ec3 ph\u1ee5c v\u1ee5 kh\u00e1ch h\u00e0ng ng\u00e0y c\u00e0ng t\u1ed1t h\u01a1n","name":"T\u1ed5ng h\u1ee3p h\u00ecnh \u1ea3nh th\u1ef1c t\u1ebf, \u0111\u00e1nh gi\u00e1 c\u1ee7a kh\u00e1ch h\u00e0ng - Tr\u1ea1m Hoa","@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#richSnippet","isPartOf":{"@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#webpage"},"image":{"@id":"/assets/wp-content/uploads/2020/03/default-website-banner.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://tramhoa.com/danh-gia-hinh-anh-thuc-te/#webpage"}}]}</script>
         <link rel='dns-prefetch' href='//fonts.googleapis.com' />
         <link rel='dns-prefetch' href='//www.facebook.com' />
         <link rel='dns-prefetch' href='//images.dmca.com' />
@@ -88,8 +80,8 @@
         <link rel="alternate" type="application/rss+xml" title="Hoa Tươi Tứ Quý &raquo; Dòng bình luận"
             href="https://tramhoa.com/comments/feed/" />
         <link rel="alternate" type="application/rss+xml"
-            title="Hoa Tươi Tứ Quý &raquo; Cây lan chi &#8211; không chỉ mang ý may mắn mà còn tốt cho sức khỏe Dòng bình luận"
-            href="https://tramhoa.com/cay-lan-chi/feed/" />
+            title="Hoa Tươi Tứ Quý &raquo; Hình ảnh thực tế &#8211; Đánh giá của khách hàng Dòng bình luận"
+            href="https://tramhoa.com/danh-gia-hinh-anh-thuc-te/feed/" />
         <style id='wp-block-library-inline-css' type='text/css'>
             :root {
                 --wp-admin-theme-color: #007cba;
@@ -312,66 +304,6 @@
                 visibility: visible;
             }
         </style>
-        <link data-optimized="1" rel='stylesheet' id='ez-toc-css'
-            href='/assets/wp-content/litespeed/css/9adde9776f1acde0d4b10fdc937724dc.css?ver=724dc'
-            type='text/css' media='all' />
-        <style id='ez-toc-inline-css' type='text/css'>
-            div#ez-toc-container .ez-toc-title {
-                font-size: 120%;
-            }
-
-            div#ez-toc-container .ez-toc-title {
-                font-weight: 500;
-            }
-
-            div#ez-toc-container ul li {
-                font-size: 95%;
-            }
-
-            div#ez-toc-container ul li {
-                font-weight: 500;
-            }
-
-            div#ez-toc-container nav ul ul li {
-                font-size: 90%;
-            }
-
-            .ez-toc-container-direction {
-                direction: ltr;
-            }
-
-            .ez-toc-counter ul {
-                counter-reset: item;
-            }
-
-            .ez-toc-counter nav ul li a::before {
-                content: counters(item, '.', decimal) '. ';
-                display: inline-block;
-                counter-increment: item;
-                flex-grow: 0;
-                flex-shrink: 0;
-                margin-right: .2em;
-                float: left;
-            }
-
-            .ez-toc-widget-direction {
-                direction: ltr;
-            }
-
-            .ez-toc-widget-container ul {
-                counter-reset: item;
-            }
-
-            .ez-toc-widget-container nav ul li a::before {
-                content: counters(item, '.', decimal) '. ';
-                display: inline-block;
-                counter-increment: item;
-                flex-grow: 0;
-                flex-shrink: 0;
-                margin-right: .2em;
-                float: left;
-            }
-        </style>
         <link data-optimized="1" rel='stylesheet' id='yith_wccl_frontend-css'
             href='/assets/wp-content/litespeed/css/182e00b6168e67f914084693f437ff46.css?ver=7ff46'
             type='text/css' media='all' />
@@ -465,23 +397,20 @@
             defer data-deferred="1"></script>
         <link rel="https://api.w.org/" href="https://tramhoa.com/wp-json/" />
         <link rel="alternate" title="JSON" type="application/json"
-            href="https://tramhoa.com/wp-json/wp/v2/posts/37628" />
+            href="https://tramhoa.com/wp-json/wp/v2/pages/427" />
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tramhoa.com/xmlrpc.php?rsd" />
         <meta name="generator" content="WordPress 6.7.1" />
-        <link rel='shortlink' href='https://tramhoa.com/?p=37628' />
+        <link rel='shortlink' href='https://tramhoa.com/?p=427' />
         <link rel="alternate" title="oNhúng (JSON)" type="application/json+oembed"
-            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2Fcay-lan-chi%2F" />
+            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2Fdanh-gia-hinh-anh-thuc-te%2F" />
         <link rel="alternate" title="oNhúng (XML)" type="text/xml+oembed"
-            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2Fcay-lan-chi%2F&#038;format=xml" />
-        <link rel="alternate" type="text/html" media="only screen and (max-width: 640px)"
-            href="https://tramhoa.com/cay-lan-chi/amp/">
+            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2Fdanh-gia-hinh-anh-thuc-te%2F&#038;format=xml" />
         <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
             var dataLayer_content = {
-                "pagePostType": "post",
-                "pagePostType2": "single-post",
-                "pageCategory": ["y-nghia-hoa"],
-                "pagePostAuthor": "Nguyễn Duy",
-                "deviceType": "",
+                "pagePostType": "page",
+                "pagePostType2": "single-page",
+                "pagePostAuthor": "Hoa Tươi Tứ Quý",
+                "deviceType": "desktop",
                 "deviceManufacturer": "",
                 "deviceModel": "",
                 "customerTotalOrders": 0,
@@ -541,36 +470,6 @@
         <script type="text/javascript"
             src="data:text/javascript;base64,ZmJxKCdpbml0JywnNDkxOTM5Njk4MTI0NTM0Jyx7fSx7ImFnZW50Ijoid29vY29tbWVyY2UtOS40LjItMy4zLjAifSk7ZmJxKCd0cmFjaycsJ1BhZ2VWaWV3Jyx7InNvdXJjZSI6Indvb2NvbW1lcmNlIiwidmVyc2lvbiI6IjkuNC4yIiwicGx1Z2luVmVyc2lvbiI6IjMuMy4wIn0pO2RvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLGZ1bmN0aW9uKCl7ZG9jdW1lbnQuYm9keS5pbnNlcnRBZGphY2VudEhUTUwoJ2JlZm9yZWVuZCcsJzxkaXYgY2xhc3M9XCJ3Yy1mYWNlYm9vay1waXhlbC1ldmVudC1wbGFjZWhvbGRlclwiPjwvZGl2PicpfSwhMSk="
             defer></script>
-        <link rel="amphtml" href="https://tramhoa.com/cay-lan-chi/amp/">
-        <style>
-            #amp-mobile-version-switcher {
-                left: 0;
-                position: absolute;
-                width: 100%;
-                z-index: 100
-            }
-
-            #amp-mobile-version-switcher>a {
-                background-color: #444;
-                border: 0;
-                color: #eaeaea;
-                display: block;
-                font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
-                font-size: 16px;
-                font-weight: 600;
-                padding: 15px 0;
-                text-align: center;
-                -webkit-text-decoration: none;
-                text-decoration: none
-            }
-
-            #amp-mobile-version-switcher>a:active,
-            #amp-mobile-version-switcher>a:focus,
-            #amp-mobile-version-switcher>a:hover {
-                -webkit-text-decoration: underline;
-                text-decoration: underline
-            }
-        </style>
         <style class='wp-fonts-local' type='text/css'>
             @font-face {
                 font-family: Inter;
@@ -1221,7 +1120,7 @@
     </head>
 
     <body
-        class="post-template-default single single-post postid-37628 single-format-standard theme-flatsome woocommerce-no-js full-width header-shadow lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow mobile-submenu-slide mobile-submenu-slide-levels-1">
+        class="page-template-default page page-id-427 theme-flatsome woocommerce-no-js full-width header-shadow lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow mobile-submenu-slide mobile-submenu-slide-levels-1">
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TL79S2M" height="0" width="0"
                 style="display:none;visibility:hidden"></iframe></noscript>
         <script type="text/javascript"
@@ -1349,7 +1248,7 @@
                                     class="header-nav header-nav-main nav nav-left  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
                                     <li class="header-block">
                                         <div class="header-block-block-1">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_985380188">
+                                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_690278949">
                                                 <a class="" href="tel:+84348278722">
                                                     <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                                         <img width="312" height="92"
@@ -1362,7 +1261,7 @@
                                                     </div>
                                                 </a>
                                                 <style>
-                                                    #image_985380188 {
+                                                    #image_690278949 {
                                                         width: 40%;
                                                     }
                                                 </style>
@@ -1601,281 +1500,626 @@
                 </div>
             </header>
             <main id="main" class="">
-                <div id="content" class="blog-wrapper blog-single page-wrapper">
-                    <div class="row align-center">
+                <div id="content" class="content-area page-wrapper" role="main">
+                    <div class="row row-main">
                         <div class="large-12 col">
-                            <article id="post-37628"
-                                class="post-37628 post type-post status-publish format-standard has-post-thumbnail hentry category-y-nghia-hoa">
-                                <div class="article-inner ">
-                                    <header class="entry-header">
-                                        <div class="entry-header-text entry-header-text-top text-center">
-                                            <h1 class="entry-title">Cây lan chi &#8211; không chỉ mang ý may mắn mà còn tốt
-                                                cho sức khỏe</h1>
-                                            <div class="entry-divider is-divider small"></div>
+                            <div class="col-inner">
+                                <section class="section" id="section_1541991651">
+                                    <div class="section-bg fill"></div>
+                                    <div class="section-content relative">
+                                        <div class="row row-collapse" id="row-2033605868">
+                                            <div id="col-1544187292" class="col small-12 large-12">
+                                                <div class="col-inner text-center">
+                                                    <div class="container section-title-container">
+                                                        <h2 class="section-title section-title-center"><b></b><span
+                                                                class="section-title-main">Khách hàng đã sử dụng dịch vụ
+                                                                tại Hoa Tươi Tứ Quý</span><b></b></h2>
+                                                    </div>
+                                                    <p><em>Ý kiến của khách hàng là động lực lớn để Hoa Tươi Tứ Quý phát triển tốt
+                                                            hơn</em></p>
+                                                    <div class="is-divider divider clearfix"
+                                                        style="max-width:50px;background-color:rgb(27, 188, 155);"></div>
+                                                </div>
+                                                <style>
+                                                    #col-1544187292>.col-inner {
+                                                        margin: 0px 0px -30px 0px;
+                                                    }
+                                                </style>
+                                            </div>
                                         </div>
-                                    </header>
-                                    <div class="entry-content single-page">
-                                        <p><strong><a href="https://tramhoa.com/cay-lan-chi/">Cây lan
-                                                    chi</a></strong>&nbsp;là một loại cây cảnh đẹp và có nhiều ý nghĩa trong
-                                            phong thủy. Bạn có thể trồng trong nhà, trên bàn làm việc, bàn học, kệ sách,
-                                            hoặc treo bên cửa sổ. Cây còn có thể dùng để tạo viền hoặc tạo nền cho các tiểu
-                                            cảnh, khu vực công viên, hoặc các dự án lớn. Hãy cùng <a
-                                                href="/">Hoa Tươi Tứ Quý</a> tìm hiểu về đặc điểm, ý nghĩa,
-                                            cách trồng và chăm sóc<strong>&nbsp;cây lan chi</strong>&nbsp;qua bài viết sau.
-                                        </p>
-                                        <div id="ez-toc-container"
-                                            class="ez-toc-v2_0_69_1 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-                                            <p class="ez-toc-title" style="cursor:inherit">Nội dung</p>
-                                            <label for="ez-toc-cssicon-toggle-item-6742c00014704"
-                                                class="ez-toc-cssicon-toggle-label"><span class=""><span
-                                                        class="eztoc-hide" style="display:none;">Toggle</span><span
-                                                        class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999"
-                                                            xmlns="http://www.w3.org/2000/svg" class="list-377408"
-                                                            width="20px" height="20px" viewBox="0 0 24 24"
-                                                            fill="none">
-                                                            <path
-                                                                d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
-                                                                fill="currentColor"></path>
-                                                        </svg><svg style="fill: #999;color:#999"
-                                                            class="arrow-unsorted-368013"
-                                                            xmlns="http://www.w3.org/2000/svg" width="10px"
-                                                            height="10px" viewBox="0 0 24 24" version="1.2"
-                                                            baseProfile="tiny">
-                                                            <path
-                                                                d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z" />
-                                                        </svg></span></span></label><input type="checkbox"
-                                                id="ez-toc-cssicon-toggle-item-6742c00014704" checked
-                                                aria-label="Toggle" />
-                                            <nav>
-                                                <ul class='ez-toc-list ez-toc-list-level-1 '>
-                                                    <li class='ez-toc-page-1 ez-toc-heading-level-2'><a
-                                                            class="ez-toc-link ez-toc-heading-1"
-                                                            href="#Doi_net_ve_cay_lan_chi"
-                                                            title="Đôi nét về cây lan chi&nbsp;">Đôi nét về cây lan
-                                                            chi&nbsp;</a></li>
-                                                    <li class='ez-toc-page-1 ez-toc-heading-level-2'><a
-                                                            class="ez-toc-link ez-toc-heading-2"
-                                                            href="#Cay_lan_chi_mang_y_nghia_phong_thuy_gi"
-                                                            title="Cây lan chi mang ý nghĩa phong thủy gì?">Cây lan chi
-                                                            mang ý nghĩa phong thủy gì?</a></li>
-                                                    <li class='ez-toc-page-1 ez-toc-heading-level-2'><a
-                                                            class="ez-toc-link ez-toc-heading-3"
-                                                            href="#Cach_trong_va_cham_soc_cay_lan_chi"
-                                                            title="Cách trồng và chăm sóc cây lan chi">Cách trồng và chăm
-                                                            sóc cây lan chi</a>
-                                                        <ul class='ez-toc-list-level-3'>
-                                                            <li class='ez-toc-heading-level-3'><a
-                                                                    class="ez-toc-link ez-toc-heading-4"
-                                                                    href="#Cach_trong" title="Cách trồng">Cách trồng</a>
-                                                            </li>
-                                                            <li class='ez-toc-page-1 ez-toc-heading-level-3'><a
-                                                                    class="ez-toc-link ez-toc-heading-5"
-                                                                    href="#Cach_cham_soc" title="Cách chăm sóc">Cách chăm
-                                                                    sóc</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class='ez-toc-page-1 ez-toc-heading-level-2'><a
-                                                            class="ez-toc-link ez-toc-heading-6"
-                                                            href="#Loi_ich_cua_cay_lan_chi_doi_voi_suc_khoe"
-                                                            title="Lợi ích của cây lan chi đối với sức khỏe">Lợi ích của
-                                                            cây lan chi đối với sức khỏe</a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                        <h2 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Doi_net_ve_cay_lan_chi"></span><strong>Đôi nét về cây lan
-                                                chi&nbsp;</strong><span class="ez-toc-section-end"></span></h2>
-                                        <p><strong>Cây lan chi&nbsp;</strong>là một loài cây thân thảo có nguồn gốc từ Châu
-                                            Phi. Cây có nhiều tên gọi khác nhau như cỏ lan chi, cây dây nhện, cây lan bạch
-                                            chỉ, cây lan móc, hay spider plant trong tiếng Anh.&nbsp;</p>
-                                        <p>Lan chi có nhiều đặc điểm nổi bật, như mọc thành bụi nhỏ, có thân rễ ngắn phát
-                                            triển thành củ thịt, có lá màu xanh với viền trắng, và có hoa màu tím nhạt hoặc
-                                            trắng. Đây là loài cây trồng đa năng trong nhà, vì nó không chỉ có ý nghĩa phong
-                                            thủy, mà còn có công dụng chữa bệnh, thanh lọc không khí, và trang trí nhà
-                                            cửa.&nbsp;</p>
-                                        <figure class="wp-block-image aligncenter size-large"><img fetchpriority="high"
-                                                decoding="async" width="850" height="633"
-                                                src="/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg"
-                                                alt="Cây cỏ lan chi có tác dụng gì ?" class="wp-image-37634"
-                                                srcset="/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg 850w, /assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi-510x380.jpg 510w, /assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi-300x223.jpg 300w, /assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi-150x112.jpg 150w, /assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi-768x572.jpg 768w"
-                                                sizes="(max-width: 850px) 100vw, 850px" />
-                                            <figcaption class="wp-element-caption">Cây cỏ lan chi có tác dụng gì ?
-                                            </figcaption>
-                                        </figure>
-                                        <p>Có thể bạn quan tâm: <a href="https://tramhoa.com/cay-cat-canh/"
-                                                target="_blank" rel="noreferrer noopener">Cây cát cánh là cây gì? Tác dụng
-                                                của cây cát cánh đối với sức khỏe</a></p>
-                                        <h2 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Cay_lan_chi_mang_y_nghia_phong_thuy_gi"></span><strong>Cây lan chi mang
-                                                ý nghĩa phong thủy gì?</strong><span class="ez-toc-section-end"></span>
-                                        </h2>
-                                        <p>Theo quan niệm của ông bà xưa,&nbsp;<strong>cây lan chi</strong>&nbsp;là biểu
-                                            tượng cho sự bền bỉ, kiên cường và không bị khuất phục bởi khó khăn, thử thách
-                                            trong cuộc sống. Cây cũng được xem là tấm bùa hộ mệnh thần kỳ, có thể giúp gia
-                                            chủ xua đuổi tà ma, vận xấu và mang đến sự bình yên, hạnh phúc cho gia đình.</p>
-                                        <p>Ngoài ra, cây còn đem đến nhiều may mắn, tài lộc và thành công trong sự nghiệp
-                                            cho người sở hữu chúng. Cây lan chi có màu xanh mướt kết hợp với viền trắng, vì
-                                            vậy nó phù hợp với những người thuộc mệnh Thủy, giúp tăng cường khí vận, thu hút
-                                            vận may và tài lộc cho gia chủ. Lan chi cũng hợp với những người tuổi Mùi, vì nó
-                                            sẽ mang đến cho họ nhiều điều tốt lành trong cuộc sống.</p>
-                                        <figure class="wp-block-image aligncenter size-large"><img decoding="async"
-                                                width="850" height="479"
-                                                src="/assets/wp-content/uploads/2024/03/cay_lan_chi081.jpg"
-                                                alt="Lan chi giúp mang lại tài lộc, may mắn cho gia chủ"
-                                                class="wp-image-37630"
-                                                srcset="/assets/wp-content/uploads/2024/03/cay_lan_chi081.jpg 850w, /assets/wp-content/uploads/2024/03/cay_lan_chi081-510x287.jpg 510w, /assets/wp-content/uploads/2024/03/cay_lan_chi081-300x169.jpg 300w, /assets/wp-content/uploads/2024/03/cay_lan_chi081-150x85.jpg 150w, /assets/wp-content/uploads/2024/03/cay_lan_chi081-768x433.jpg 768w"
-                                                sizes="(max-width: 850px) 100vw, 850px" />
-                                            <figcaption class="wp-element-caption">Lan chi giúp mang lại tài lộc, may mắn
-                                                cho gia chủ</figcaption>
-                                        </figure>
-                                        <h2 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Cach_trong_va_cham_soc_cay_lan_chi"></span><strong>Cách trồng và chăm
-                                                sóc cây lan chi</strong><span class="ez-toc-section-end"></span></h2>
-                                        <h3 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Cach_trong"></span><strong>Cách trồng</strong><span
-                                                class="ez-toc-section-end"></span></h3>
-                                        <p><strong>Cây lan chi</strong>&nbsp;là loài cây không kén đất, nhưng đất trồng phải
-                                            là đất mùn, có nhiều chất dinh dưỡng, và có khả năng thoát nước tốt. Loại đất
-                                            mùn phù hợp cho việc trồng cây là có độ pH nằm trong khoảng 6 &#8211; 7 và trộn
-                                            thêm phân chuồng, xơ dừa, hay tro trấu để tăng độ dinh dưỡng cho đất cũng như hỗ
-                                            trợ thoát nước.</p>
-                                        <p>Sau khi chuẩn bị xong đất tốt, bạn bắt đầu trồng cây. Bạn có thể lựa chọn trồng
-                                            cây trong chậu hay trồng ở vườn nhà bạn. Bạn để cây ở giữa chậu hoặc ở giữa lỗ
-                                            đất đã đào sẵn. Tiếp theo bạn ấn nhẹ đất xung quanh cây để cây vững chắc, thẳng
-                                            đứng và tưới nước đủ lượng để cây dễ dàng tiếp xúc với đất và sinh trưởng tốt.
-                                        </p>
-                                        <p>Bạn tránh tưới nhiều nước khi vừa mới trồng cây vì rễ cây chưa gắn chặt với đất
-                                            và không thể hấp thụ nước bình thường, dễ gây ra hiện tượng ngập rễ, làm cây
-                                            chết.</p>
-                                        <figure class="wp-block-image aligncenter size-large"><img decoding="async"
-                                                width="850" height="479"
-                                                src="/assets/wp-content/uploads/2024/03/cay_lan_chi089.jpg"
-                                                alt="Cách trồng cây lan chi" class="wp-image-37631"
-                                                srcset="/assets/wp-content/uploads/2024/03/cay_lan_chi089.jpg 850w, /assets/wp-content/uploads/2024/03/cay_lan_chi089-510x287.jpg 510w, /assets/wp-content/uploads/2024/03/cay_lan_chi089-300x169.jpg 300w, /assets/wp-content/uploads/2024/03/cay_lan_chi089-150x85.jpg 150w, /assets/wp-content/uploads/2024/03/cay_lan_chi089-768x433.jpg 768w"
-                                                sizes="(max-width: 850px) 100vw, 850px" />
-                                            <figcaption class="wp-element-caption">Cách trồng cây lan chi</figcaption>
-                                        </figure>
-                                        <h3 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Cach_cham_soc"></span><strong>Cách chăm sóc</strong><span
-                                                class="ez-toc-section-end"></span></h3>
-                                        <p><strong>Cây lan chi&nbsp;</strong>là loài cây thích mát, ánh sáng yếu nên bạn nên
-                                            để cây ở nơi có ánh sáng vừa phải, không quá nóng để cây không bị khô, héo. Bạn
-                                            nên tránh đặt cây ở nơi có ánh nắng trực tiếp, hoặc bóng râm quá sâu, vì sẽ làm
-                                            cho cây bị vàng lá, khô héo, hoặc mất màu sắc.</p>
-                                        <p>Cây phát triển tốt ở nhiệt độ từ 18 &#8211; 24 độ C, phù hợp với những nước có
-                                            khí hậu nhiệt đới. Bạn nên giữ độ ẩm cho đất trồng để cây có thể sinh trưởng và
-                                            phát triển bình thường. Bạn không nên sử dụng nước bị nhiễm phèn để tưới cây,
-                                            bạn nên thay bằng nước mưa hoặc nước trong lu, khạp của nhà.</p>
-                                        <p>Cây lan chi sẽ bị vàng lá, héo nếu không có đầy đủ chất dinh dưỡng. Vì thế, bạn
-                                            nên bón phân 2 tuần 1 lần trong mùa sinh trưởng. Lan chi là thực vật có hoa vì
-                                            vậy bạn bón 1 ít phân đạm. Khi nhiệt độ xuống quá thấp khoảng dưới 4 độ C thì
-                                            phải ngưng tưới và bón phân.</p>
-                                        <p>Ngoài ra, cây thường hay gặp tình trạng thối rễ. Bạn cần phải thay đổi lượng
-                                            nước, lượng phân và để cây ở chỗ có gió, thì cây sẽ không bị vàng lá, sâu bệnh.
-                                        </p>
-                                        <figure class="wp-block-image aligncenter size-large"><img loading="lazy"
-                                                decoding="async" width="850" height="495"
-                                                src="/assets/wp-content/uploads/2024/03/cay_lan_chi084.jpg"
-                                                alt="Không nên đặt cây ở nơi có ánh nắng trực tiếp" class="wp-image-37632"
-                                                srcset="/assets/wp-content/uploads/2024/03/cay_lan_chi084.jpg 850w, /assets/wp-content/uploads/2024/03/cay_lan_chi084-510x297.jpg 510w, /assets/wp-content/uploads/2024/03/cay_lan_chi084-300x175.jpg 300w, /assets/wp-content/uploads/2024/03/cay_lan_chi084-150x87.jpg 150w, /assets/wp-content/uploads/2024/03/cay_lan_chi084-768x447.jpg 768w"
-                                                sizes="auto, (max-width: 850px) 100vw, 850px" />
-                                            <figcaption class="wp-element-caption">Không nên đặt cây ở nơi có ánh nắng trực
-                                                tiếp</figcaption>
-                                        </figure>
-                                        <p>Tìm hiểu thêm: <a href="https://tramhoa.com/cay-hoa-thien-ly/" target="_blank"
-                                                rel="noreferrer noopener">Những điều thú vị về cây hoa thiên lý mà bạn chưa
-                                                biết</a></p>
-                                        <h2 class="wp-block-heading"><span class="ez-toc-section"
-                                                id="Loi_ich_cua_cay_lan_chi_doi_voi_suc_khoe"></span><strong>Lợi ích của
-                                                cây lan chi đối với sức khỏe</strong><span
-                                                class="ez-toc-section-end"></span></h2>
-                                        <p><strong>Cây lan chi</strong>&nbsp;không chỉ là loài cây trang trí đẹp mắt, mà còn
-                                            có nhiều lợi ích đối với sức khoẻ và không gian sống của con người. Cây có tác
-                                            dụng hấp thụ chất độc, làm sạch không khí, loại bỏ các chất có hại do các thiết
-                                            bị điện tỏa ra, chuyển hóa các chất gây bệnh trong không khí thành đường như
-                                            Aldehyde formic. Nó cũng có tác dụng cải thiện chất lượng không khí, giảm căng
-                                            thẳng, mệt mỏi, và tăng năng lượng cho người sử dụng.</p>
-                                        <p>Ngoài ra, cây lan chi còn có công dụng chữa bệnh, bởi vì phần rễ và thân cây có
-                                            chứa nhiều chất có lợi cho sức khỏe, hỗ trợ điều trị các bệnh về đường tiêu hóa
-                                            như khó tiêu, tiêu chảy, kiết lỵ,… bằng cách dùng rễ cây sắc nước uống, hoặc ăn
-                                            sống. Không những thế, lan chi còn có thể giúp chữa các bệnh về da như mụn nhọt,
-                                            ghẻ, nấm, vết thương,… bằng cách dùng lá cây nghiền nát rồi bôi lên vùng da bị
-                                            bệnh.</p>
-                                        <figure class="wp-block-image aligncenter size-large"><img loading="lazy"
-                                                decoding="async" width="850" height="479"
-                                                src="/assets/wp-content/uploads/2024/03/cay_lan_chi086.jpg"
-                                                alt="" class="wp-image-37633"
-                                                srcset="/assets/wp-content/uploads/2024/03/cay_lan_chi086.jpg 850w, /assets/wp-content/uploads/2024/03/cay_lan_chi086-510x287.jpg 510w, /assets/wp-content/uploads/2024/03/cay_lan_chi086-300x169.jpg 300w, /assets/wp-content/uploads/2024/03/cay_lan_chi086-150x85.jpg 150w, /assets/wp-content/uploads/2024/03/cay_lan_chi086-768x433.jpg 768w"
-                                                sizes="auto, (max-width: 850px) 100vw, 850px" />
-                                            <figcaption class="wp-element-caption">Lan chi giúp giảm stress, căng thẳng
-                                            </figcaption>
-                                        </figure>
-                                        <p>Hy vọng với những chia sẻ trên đã giúp bạn có thêm nhiều kiến thức
-                                            về&nbsp;<strong>cây lan chi&nbsp;</strong>và nếu bạn muốn tìm hiểu thêm những
-                                            điều thú vị về các loại cây, loại hoa khác thì hãy theo dõi ngay website của
-                                            Hoa Tươi Tứ Quý nhé. Và nếu bạn muốn dành hoa cho người quen, người thân hay đồng
-                                            nghiệp? Hãy đến với Hoa Tươi Tứ Quý, nơi có nhiều loại hoa đẹp, tươi và chất lượng.
-                                            Liên hệ ngay với chúng tôi để được tư vấn cụ thể và nhận những ưu đãi hấp dẫn
-                                            nhất nhé!&nbsp;</p>
-                                        <p>Blog liên quan: <a href="https://tramhoa.com/cay-huy-hoang/" target="_blank"
-                                                rel="noreferrer noopener">Cây huy hoàng là gì? Ý nghĩa của cây huy hoàng mà
-                                                bạn cần biết</a></p>
-                                        <div class="su-divider su-divider-style-default"
-                                            style="margin:15px 0;border-width:3px;border-color:#999999"><a href="#"
-                                                style="color:#999999">Go to top</a></div>
-                                        <p><strong>Hoa Tươi Tứ Quý &#8211; Shop hoa tươi | Đặt hoa online | Giao hoa tận
-                                                nơi</strong></p>
-                                        <p>Hoa Tươi Tứ Quý là shop hoa tươi hỗ trợ khách hàng đặt hoa online, giao hoa tận nơi miễn
-                                            phí khu vực nội thành.</p>
-                                        <p>Website: <a href="/">https://tramhoa.com/</a><br>Điện thoại:
-                                            <a href="tel:0348278722">034 827 87 22</a><br>Zalo: <a
-                                                href="https://zalo.me/3588203683113605383" target="_blank"
-                                                rel="noopener">https://zalo.me/3588203683113605383</a><br>Google Maps: <a
-                                                href="https://g.page/tramhoavn"
-                                                target="_blank">https://g.page/tramhoavn</a><br>Facebook: &nbsp;<a
-                                                href="https://www.facebook.com/tramhoavn" target="_blank"
-                                                rel="noopener">https://www.facebook.com/tramhoavn</a><br>Email: <a
-                                                href="mailto:tramhoavn@gmail.com" data-type="mailto"
-                                                data-id="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a><br>Thời gian
-                                            làm việc: 8:00-17:00, Thứ Hai &#8211; Chủ Nhật</p>
-                                        <div class="blog-share text-center">
-                                            <div class="is-divider medium"></div>
-                                            <div class="social-icons share-icons share-row relative"><a
-                                                    href="whatsapp://send?text=C%C3%A2y%20lan%20chi%20%26%238211%3B%20kh%C3%B4ng%20ch%E1%BB%89%20mang%20%C3%BD%20may%20m%E1%BA%AFn%20m%C3%A0%20c%C3%B2n%20t%E1%BB%91t%20cho%20s%E1%BB%A9c%20kh%E1%BB%8Fe - https://tramhoa.com/cay-lan-chi/"
-                                                    data-action="share/whatsapp/share"
-                                                    class="icon plain tooltip whatsapp show-for-medium"
-                                                    title="Chia sẻ trên WhatsApp" aria-label="Chia sẻ trên WhatsApp"><i
-                                                        class="icon-whatsapp"></i></a><a
-                                                    href="https://www.facebook.com/sharer.php?u=https://tramhoa.com/cay-lan-chi/"
-                                                    data-label="Facebook"
-                                                    onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;"
-                                                    target="_blank" class="icon plain tooltip facebook"
-                                                    title="Chia sẻ trên Facebook" aria-label="Chia sẻ trên Facebook"
-                                                    rel="noopener nofollow"><i class="icon-facebook"></i></a><a
-                                                    href="https://twitter.com/share?url=https://tramhoa.com/cay-lan-chi/"
-                                                    onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;"
-                                                    target="_blank" class="icon plain tooltip twitter"
-                                                    title="Chia sẻ trên Twitter" aria-label="Chia sẻ trên Twitter"
-                                                    rel="noopener nofollow"><i class="icon-twitter"></i></a><a
-                                                    href="mailto:?subject=C%C3%A2y%20lan%20chi%20%26%238211%3B%20kh%C3%B4ng%20ch%E1%BB%89%20mang%20%C3%BD%20may%20m%E1%BA%AFn%20m%C3%A0%20c%C3%B2n%20t%E1%BB%91t%20cho%20s%E1%BB%A9c%20kh%E1%BB%8Fe&body=Xem%20n%C3%A0y%3A%20https%3A%2F%2Ftramhoa.com%2Fcay-lan-chi%2F"
-                                                    class="icon plain tooltip email" title="Gửi email cho bạn bè"
-                                                    aria-label="Gửi email cho bạn bè" rel="nofollow"><i
-                                                        class="icon-envelop"></i></a><a
-                                                    href="https://pinterest.com/pin/create/button?url=https://tramhoa.com/cay-lan-chi/&media=/assets/wp-content/uploads/2024/03/cay-co-lan-chi-co-tac-dung-gi.jpg&description=C%C3%A2y%20lan%20chi%20%26%238211%3B%20kh%C3%B4ng%20ch%E1%BB%89%20mang%20%C3%BD%20may%20m%E1%BA%AFn%20m%C3%A0%20c%C3%B2n%20t%E1%BB%91t%20cho%20s%E1%BB%A9c%20kh%E1%BB%8Fe"
-                                                    onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;"
-                                                    target="_blank" class="icon plain tooltip pinterest"
-                                                    title="Ghim trên Pinterest" aria-label="Ghim trên Pinterest"
-                                                    rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                                    href="https://www.linkedin.com/shareArticle?mini=true&url=https://tramhoa.com/cay-lan-chi/&title=C%C3%A2y%20lan%20chi%20%26%238211%3B%20kh%C3%B4ng%20ch%E1%BB%89%20mang%20%C3%BD%20may%20m%E1%BA%AFn%20m%C3%A0%20c%C3%B2n%20t%E1%BB%91t%20cho%20s%E1%BB%A9c%20kh%E1%BB%8Fe"
-                                                    onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;"
-                                                    target="_blank" class="icon plain tooltip linkedin"
-                                                    title="Chia sẻ trên LinkedIn" aria-label="Chia sẻ trên LinkedIn"
-                                                    rel="noopener nofollow"><i class="icon-linkedin"></i></a></div>
+                                        <div class="slider-wrapper relative" id="slider-1851211994">
+                                            <div class="slider slider-nav-simple slider-nav-large slider-nav-dark slider-nav-outside slider-style-focus"
+                                                data-flickity-options='{"cellAlign": "center","imagesLoaded": true,"lazyLoad": 1,"freeScroll": false,"wrapAround": true,"autoPlay": 4000,"pauseAutoPlayOnHover" : true,"prevNextButtons": false,"contain" : true,"adaptiveHeight" : true,"dragThreshold" : 10,"percentPosition": true,"pageDots": true,"rightToLeft": false,"draggable": true,"selectedAttraction": 0.1,"parallax" : 0,"friction": 0.6        }'>
+                                                <div class="row align-center" id="row-368532583">
+                                                    <div id="col-131907407" class="col medium-10 small-12 large-9">
+                                                        <div class="col-inner text-center">
+                                                            <p>&#8220;Lần đầu sử dụng dịch vụ của Hoa Tươi Tứ Quý để đặt hoa giúp
+                                                                sếp và cảm thấy rất hài lòng. Để lại feedback tốt cho shop,
+                                                                hy vọng shop sẽ ngày càng phát triển hơn nữa&#8221;</p>
+                                                            <div
+                                                                class="icon-box featured-box circle icon-box-center text-center is-small">
+                                                                <div class="icon-box-text last-reset">
+                                                                    <h5 class="uppercase">Thu Trang</h5>
+                                                                    <p>Nhân Viên Văn Phòng (TP. HCM)</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row align-center" id="row-1119968871">
+                                                    <div id="col-1557584611" class="col medium-10 small-12 large-9">
+                                                        <div class="col-inner text-center">
+                                                            <p>&#8220;Hoa Tươi Tứ Quý đã giúp anh giao 2 kệ hoa chia buồn đúng hẹn.
+                                                                Sản phẩm thực tế như hình mẫu gửi nên anh rất hài lòng. Nếu
+                                                                có dịp cần tặng hoa thì anh sẽ tiếp tục sử dụng dịch vụ bên
+                                                                em&#8221;</p>
+                                                            <div
+                                                                class="icon-box featured-box circle icon-box-center text-center is-small">
+                                                                <div class="icon-box-text last-reset">
+                                                                    <h5 class="uppercase">Hà Văn Tuấn</h5>
+                                                                    <p>Nhân Viên Văn Phòng (Hà Nội)</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row align-center" id="row-392837005">
+                                                    <div id="col-813179343" class="col medium-10 small-12 large-9">
+                                                        <div class="col-inner text-center">
+                                                            <p>&#8220;Anh đã sử dụng dịch vụ bên em đã lâu, nay mới để lại
+                                                                feedback cho em. Anh ở Mỹ cần tặng hoa cho vợ thường xuyên
+                                                                vào các dịp lễ. Anh rất hài lòng từ chất lượng dịch vụ đến
+                                                                sản phẩm hoa bên em cung cấp.&#8221;</p>
+                                                            <div
+                                                                class="icon-box featured-box circle icon-box-center text-center is-small">
+                                                                <div class="icon-box-text last-reset">
+                                                                    <h5 class="uppercase">Tomas Phan</h5>
+                                                                    <p>Kinh Doanh (Mỹ)</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="loading-spin dark large centered"></div>
                                         </div>
                                     </div>
-                                </div>
-                            </article>
-                            <div id="comments" class="comments-area"></div>
+                                    <style>
+                                        #section_1541991651 {
+                                            padding-top: 60px;
+                                            padding-bottom: 60px;
+                                            background-color: rgb(244, 244, 244);
+                                        }
+                                    </style>
+                                </section>
+                                <section class="section" id="section_1645557963">
+                                    <div class="section-bg fill"></div>
+                                    <div class="section-content relative">
+                                        <div class="row align-center" id="row-1212293333">
+                                            <div id="col-2085807240" class="col medium-7 small-10 large-7">
+                                                <div class="col-inner text-center">
+                                                    <h1><span style="font-size: 140%;">Hình ảnh thực tế</span></h1>
+                                                    <p><span style="font-size: 95%;">Niềm vui của khách hàng cũng là niềm
+                                                            vui của Hoa Tươi Tứ Quý. Chúng tôi luôn trân trọng những khoảnh khắc
+                                                            này cũng như là lời tri ân, cảm ơn chân thành đến quý khách đã
+                                                            tin tưởng sử dụng dịch vụ tặng hoa của Trạm.<br></span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <style>
+                                        #section_1645557963 {
+                                            padding-top: 50px;
+                                            padding-bottom: 50px;
+                                        }
+                                    </style>
+                                </section>
+                                <section class="section" id="section_339490827">
+                                    <div class="section-bg fill"></div>
+                                    <div class="section-content relative">
+                                        <div class="banner-grid-wrapper">
+                                            <div id="banner-grid-2032442700"
+                                                class="banner-grid row row-grid row-collapse row-full-width"
+                                                data-packery-options="">
+                                                <div class="col grid-col small-14 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1680268072">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img fetchpriority="high" decoding="async"
+                                                                        width="768" height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/e3cb6ff2949f68c1318e-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1680268072 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1680268072 .banner-bg img {
+                                                                    object-position: 0% 100%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-1-2"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1638636011">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img decoding="async" width="768" height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/e03014c034bac8e491ab-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1638636011 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1638636011 .banner-bg img {
+                                                                    object-position: 0% 95%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-12 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1736109357">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img decoding="async" width="768" height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/3d6deb311eeee2b0bbff-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1736109357 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1736109357 .banner-bg img {
+                                                                    object-position: 0% 100%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1489419800">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/3b8ec0e5fdcb009559da-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1489419800 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-12 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1021883442">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/5b0b2f49158ee8d0b19f-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1021883442 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-15 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-835960999">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/bcd1061e035cff02a64d-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-835960999 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-835960999 .banner-bg img {
+                                                                    object-position: 0% 92%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-14 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-685658230">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/40e45a49eb9917c74e88-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-685658230 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-685658230 .banner-bg img {
+                                                                    object-position: 0% 100%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-12 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1844624952">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/cd1b09ed93666e383777-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1844624952 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1844624952 .banner-bg img {
+                                                                    object-position: 0% 100%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-41096325">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/64e4a261eda711f948b6-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-41096325 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-12 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1505323884">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/236592865465a83bf174-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1505323884 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1505323884 .banner-bg img {
+                                                                    object-position: 0% 100%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-14 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-188508469">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/c2f5e0cdd2d52e8b77c4-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-188508469 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-188508469 .banner-bg img {
+                                                                    object-position: 0% 0%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-12 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-522435321">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/6e16836ebc9641c81887-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-522435321 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-522435321 .banner-bg img {
+                                                                    object-position: 4% 94%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-2-3"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1932826761">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/154108f5cd9f31c1688e-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1932826761 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-1-2"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-1114441766">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="576"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/b677c3bdbbfa46a41feb-576x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-1114441766 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+
+                                                                #banner-1114441766 .banner-bg img {
+                                                                    object-position: 3% 70%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col grid-col small-13 large-4 grid-col-1-2"
+                                                    data-animate="bounceIn">
+                                                    <div class="col-inner">
+                                                        <div class="banner has-hover" id="banner-70704130">
+                                                            <div class="banner-inner fill">
+                                                                <div class="banner-bg fill">
+                                                                    <img loading="lazy" decoding="async" width="768"
+                                                                        height="1024"
+                                                                        src="/assets/wp-content/uploads/2020/08/a7f45ca3f31b0945500a-768x1024.jpg"
+                                                                        class="bg attachment-large size-large"
+                                                                        alt="" />
+                                                                </div>
+                                                                <div class="banner-layers container">
+                                                                    <div class="fill banner-link"></div>
+                                                                </div>
+                                                            </div>
+                                                            <style>
+                                                                #banner-70704130 {
+                                                                    padding-top: 500px;
+                                                                    background-color: rgb(25, 25, 25);
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                #banner-grid-2032442700 .grid-col-1 {
+                                                    height: 600px
+                                                }
+
+                                                #banner-grid-2032442700 .grid-col-1-2 {
+                                                    height: 300px
+                                                }
+
+                                                #banner-grid-2032442700 .grid-col-1-3 {
+                                                    height: 200px
+                                                }
+
+                                                #banner-grid-2032442700 .grid-col-2-3 {
+                                                    height: 400px
+                                                }
+
+                                                #banner-grid-2032442700 .grid-col-1-4 {
+                                                    height: 150px
+                                                }
+
+                                                #banner-grid-2032442700 .grid-col-3-4 {
+                                                    height: 450px
+                                                }
+                                            </style>
+                                        </div>
+                                        <div class="banner has-hover" id="banner-790360197">
+                                            <div class="banner-inner fill">
+                                                <div class="banner-bg fill"></div>
+                                                <div class="banner-layers container">
+                                                    <div class="fill banner-link"></div>
+                                                    <div id="text-box-1264665775"
+                                                        class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
+                                                        <div class="text-box-content text dark">
+                                                            <div class="text-inner text-center">
+                                                                <div id="gap-1186050916" class="gap-element clearfix"
+                                                                    style="display:block; height:auto;">
+                                                                    <style>
+                                                                        #gap-1186050916 {
+                                                                            padding-top: 10px;
+                                                                        }
+                                                                    </style>
+                                                                </div>
+                                                                <h3><span style="font-size: 130%;"><strong>Đặt Hoa
+                                                                            Ngay<br></strong></span></h3>
+                                                                <p>Hoa Tươi Tứ Quý đang chờ để được phục vụ quý khách</p>
+                                                                <a href="tel:0348278722" class="button white is-outline"
+                                                                    style="border-radius:99px;">
+                                                                    <span>Hotline 034 827 8722</span>
+                                                                </a><a href="https://zalo.me/0348278722"
+                                                                    class="button secondary" style="border-radius:99px;"
+                                                                    target="_blank" rel="noopener">
+                                                                    <span>Zalo Hoa Tươi Tứ Quý</span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <style>
+                                                            #text-box-1264665775 {
+                                                                width: 60%;
+                                                            }
+
+                                                            #text-box-1264665775 .text-box-content {
+                                                                font-size: 100%;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                #banner-790360197 {
+                                                    padding-top: 280px;
+                                                    background-color: rgb(26, 26, 26);
+                                                }
+                                            </style>
+                                        </div>
+                                    </div>
+                                    <style>
+                                        #section_339490827 {
+                                            padding-top: 0px;
+                                            padding-bottom: 0px;
+                                            background-color: rgb(32, 32, 32);
+                                        }
+                                    </style>
+                                </section>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1884,8 +2128,8 @@
                 <div class="footer-widgets footer footer-2 ">
                     <div class="row large-columns-1 mb-0">
                         <div id="block_widget-5" class="col pb-0 widget block_widget">
-                            <div class="row row-small" id="row-1580390906">
-                                <div id="col-502858996" class="col medium-3 small-12 large-3">
+                            <div class="row row-small" id="row-872371452">
+                                <div id="col-1266139557" class="col medium-3 small-12 large-3">
                                     <div class="col-inner">
                                         <h4><span data-text-color="primary">Cơ sở chính</span></h4>
                                         <ul>
@@ -1898,7 +2142,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div id="col-1359046122" class="col medium-3 small-12 large-3">
+                                <div id="col-959881287" class="col medium-3 small-12 large-3">
                                     <div class="col-inner">
                                         <h4><span data-text-color="primary">Cơ sở khác</span></h4>
                                         <ul>
@@ -1912,7 +2156,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div id="col-361340980" class="col medium-3 small-12 large-3">
+                                <div id="col-1658185476" class="col medium-3 small-12 large-3">
                                     <div class="col-inner">
                                         <ul>
                                             <li><strong>Quảng Ngãi</strong>: 641 Quang Trung, Nghĩa Chánh Bắc, Quảng Ngãi
@@ -1927,7 +2171,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div id="col-836907679" class="col medium-3 small-12 large-3">
+                                <div id="col-226590757" class="col medium-3 small-12 large-3">
                                     <div class="col-inner">
                                         <h4>Liên kết hữu ích</h4>
                                         <ul>
@@ -1943,7 +2187,7 @@
                                     </div>
                                 </div>
                                 <style>
-                                    #row-1580390906>.col>.col-inner {
+                                    #row-872371452>.col>.col-inner {
                                         padding: 0px 0px 0 0px;
                                     }
                                 </style>
@@ -2111,27 +2355,28 @@
                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7776"><a
                             href="https://tramhoa.com/gio-hoa-tuoi/">Giỏ hoa</a></li>
                     <li class="html header-social-icons ml-0">
-                        <div class="social-icons follow-icons"><a href="http://facebook.com/tramhoavn/" target="_blank"
-                                data-label="Facebook" class="icon plain facebook tooltip" title="Theo dõi trên Facebook"
-                                aria-label="Theo dõi trên Facebook" rel="noopener nofollow"><i
-                                    class="icon-facebook"></i></a><a href="http://instagram.com/tramhoavn/"
-                                target="_blank" data-label="Instagram" class="icon plain instagram tooltip"
-                                title="Theo dõi trên Instagram" aria-label="Theo dõi trên Instagram"
-                                rel="noopener nofollow"><i class="icon-instagram"></i></a><a
-                                href="https://www.tiktok.com/@www.tramhoa.com" target="_blank" data-label="TikTok"
-                                class="icon plain tiktok tooltip" title="Theo dõi trên TikTok"
-                                aria-label="Theo dõi trên TikTok" rel="noopener nofollow"><i
-                                    class="icon-tiktok"></i></a><a href="https://twitter.com/tramhoavn/"
-                                data-label="Twitter" target="_blank" class="icon plain twitter tooltip"
-                                title="Theo dõi trên Twitter" aria-label="Theo dõi trên Twitter"
-                                rel="noopener nofollow"><i class="icon-twitter"></i></a><a
-                                href="https://www.pinterest.com/tramhoavn/" data-label="Pinterest" target="_blank"
-                                class="icon plain pinterest tooltip" title="Theo dõi trên Pinterest"
-                                aria-label="Theo dõi trên Pinterest" rel="noopener nofollow"><i
-                                    class="icon-pinterest"></i></a><a href="https://vn.linkedin.com/company/tramhoavn/"
-                                data-label="LinkedIn" target="_blank" class="icon plain linkedin tooltip"
-                                title="Theo dõi trên LinkedIn" aria-label="Theo dõi trên LinkedIn"
-                                rel="noopener nofollow"><i class="icon-linkedin"></i></a><a
+                        <div class="social-icons follow-icons"><a href="http://facebook.com/tramhoavn/"
+                                target="_blank" data-label="Facebook" class="icon plain facebook tooltip"
+                                title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
+                                rel="noopener nofollow"><i class="icon-facebook"></i></a><a
+                                href="http://instagram.com/tramhoavn/" target="_blank" data-label="Instagram"
+                                class="icon plain instagram tooltip" title="Theo dõi trên Instagram"
+                                aria-label="Theo dõi trên Instagram" rel="noopener nofollow"><i
+                                    class="icon-instagram"></i></a><a href="https://www.tiktok.com/@www.tramhoa.com"
+                                target="_blank" data-label="TikTok" class="icon plain tiktok tooltip"
+                                title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok"
+                                rel="noopener nofollow"><i class="icon-tiktok"></i></a><a
+                                href="https://twitter.com/tramhoavn/" data-label="Twitter" target="_blank"
+                                class="icon plain twitter tooltip" title="Theo dõi trên Twitter"
+                                aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i
+                                    class="icon-twitter"></i></a><a href="https://www.pinterest.com/tramhoavn/"
+                                data-label="Pinterest" target="_blank" class="icon plain pinterest tooltip"
+                                title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
+                                rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
+                                href="https://vn.linkedin.com/company/tramhoavn/" data-label="LinkedIn"
+                                target="_blank" class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
+                                aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
+                                    class="icon-linkedin"></i></a><a
                                 href="https://www.youtube.com/channel/UCruCBL76C_O-B7G8oXKIeMQ" data-label="YouTube"
                                 target="_blank" class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
                                 aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
@@ -2327,8 +2572,9 @@
                                             <span>Ghi nhớ mật khẩu</span>
                                         </label>
                                         <input type="hidden" id="woocommerce-login-nonce"
-                                            name="woocommerce-login-nonce" value="290ad62291" /><input type="hidden"
-                                            name="_wp_http_referer" value="/cay-lan-chi/" /> <button type="submit"
+                                            name="woocommerce-login-nonce" value="c61393d678" /><input type="hidden"
+                                            name="_wp_http_referer" value="/danh-gia-hinh-anh-thuc-te/" /> <button
+                                            type="submit"
                                             class="woocommerce-button button woocommerce-form-login__submit"
                                             name="login" value="Đăng nhập">Đăng nhập</button>
                                     </p>
@@ -2370,9 +2616,9 @@
                                     </div>
                                     <p class="woocommerce-form-row form-row">
                                         <input type="hidden" id="woocommerce-register-nonce"
-                                            name="woocommerce-register-nonce" value="04be40131a" /><input
-                                            type="hidden" name="_wp_http_referer" value="/cay-lan-chi/" /> <button
-                                            type="submit"
+                                            name="woocommerce-register-nonce" value="ed4f01d67f" /><input
+                                            type="hidden" name="_wp_http_referer"
+                                            value="/danh-gia-hinh-anh-thuc-te/" /> <button type="submit"
                                             class="woocommerce-Button woocommerce-button button woocommerce-form-register__submit"
                                             name="register" value="Đăng ký">Đăng ký</button>
                                     </p>
@@ -2387,460 +2633,12 @@
             <img height="1" width="1" style="display:none" alt="fbpx"
                 src="https://www.facebook.com/tr?id=491939698124534&ev=PageView&noscript=1" />
         </noscript>
-        <div id="amp-mobile-version-switcher" hidden>
-            <a rel="" href="https://tramhoa.com/cay-lan-chi/amp/">
-                Go to mobile version </a>
-        </div>
         <script type='text/javascript'
             src="data:text/javascript;base64,KGZ1bmN0aW9uKCl7dmFyIGM9ZG9jdW1lbnQuYm9keS5jbGFzc05hbWU7Yz1jLnJlcGxhY2UoL3dvb2NvbW1lcmNlLW5vLWpzLywnd29vY29tbWVyY2UtanMnKTtkb2N1bWVudC5ib2R5LmNsYXNzTmFtZT1jfSkoKQ=="
             defer></script>
         <link data-optimized="1" rel='stylesheet' id='wc-blocks-style-css'
             href='/assets/wp-content/litespeed/css/6d48c81a40dde72a7a5b31c09eb07c22.css?ver=07c22'
             type='text/css' media='all' />
-        <style id='wp-block-paragraph-inline-css' type='text/css'>
-            .is-small-text {
-                font-size: .875em
-            }
-
-            .is-regular-text {
-                font-size: 1em
-            }
-
-            .is-large-text {
-                font-size: 2.25em
-            }
-
-            .is-larger-text {
-                font-size: 3em
-            }
-
-            .has-drop-cap:not(:focus):first-letter {
-                float: left;
-                font-size: 8.4em;
-                font-style: normal;
-                font-weight: 100;
-                line-height: .68;
-                margin: .05em .1em 0 0;
-                text-transform: uppercase
-            }
-
-            body.rtl .has-drop-cap:not(:focus):first-letter {
-                float: none;
-                margin-left: .1em
-            }
-
-            p.has-drop-cap.has-background {
-                overflow: hidden
-            }
-
-            :root :where(p.has-background) {
-                padding: 1.25em 2.375em
-            }
-
-            :where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],
-            p.has-text-align-right[style*="writing-mode:vertical-rl"] {
-                rotate: 180deg
-            }
-        </style>
-        <style id='wp-block-heading-inline-css' type='text/css'>
-            h1.has-background,
-            h2.has-background,
-            h3.has-background,
-            h4.has-background,
-            h5.has-background,
-            h6.has-background {
-                padding: 1.25em 2.375em
-            }
-
-            h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
-            h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
-            h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
-            h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
-            h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
-            h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
-            h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]) {
-                rotate: 180deg
-            }
-        </style>
-        <style id='wp-block-image-inline-css' type='text/css'>
-            .wp-block-image a {
-                display: inline-block
-            }
-
-            .wp-block-image img {
-                box-sizing: border-box;
-                height: auto;
-                max-width: 100%;
-                vertical-align: bottom
-            }
-
-            @media (prefers-reduced-motion:no-preference) {
-                .wp-block-image img.hide {
-                    visibility: hidden
-                }
-
-                .wp-block-image img.show {
-                    animation: show-content-image .4s
-                }
-            }
-
-            .wp-block-image[style*=border-radius] img,
-            .wp-block-image[style*=border-radius]>a {
-                border-radius: inherit
-            }
-
-            .wp-block-image.has-custom-border img {
-                box-sizing: border-box
-            }
-
-            .wp-block-image.aligncenter {
-                text-align: center
-            }
-
-            .wp-block-image.alignfull a,
-            .wp-block-image.alignwide a {
-                width: 100%
-            }
-
-            .wp-block-image.alignfull img,
-            .wp-block-image.alignwide img {
-                height: auto;
-                width: 100%
-            }
-
-            .wp-block-image .aligncenter,
-            .wp-block-image .alignleft,
-            .wp-block-image .alignright,
-            .wp-block-image.aligncenter,
-            .wp-block-image.alignleft,
-            .wp-block-image.alignright {
-                display: table
-            }
-
-            .wp-block-image .aligncenter>figcaption,
-            .wp-block-image .alignleft>figcaption,
-            .wp-block-image .alignright>figcaption,
-            .wp-block-image.aligncenter>figcaption,
-            .wp-block-image.alignleft>figcaption,
-            .wp-block-image.alignright>figcaption {
-                caption-side: bottom;
-                display: table-caption
-            }
-
-            .wp-block-image .alignleft {
-                float: left;
-                margin: .5em 1em .5em 0
-            }
-
-            .wp-block-image .alignright {
-                float: right;
-                margin: .5em 0 .5em 1em
-            }
-
-            .wp-block-image .aligncenter {
-                margin-left: auto;
-                margin-right: auto
-            }
-
-            .wp-block-image :where(figcaption) {
-                margin-bottom: 1em;
-                margin-top: .5em
-            }
-
-            .wp-block-image.is-style-circle-mask img {
-                border-radius: 9999px
-            }
-
-            @supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none) {
-                .wp-block-image.is-style-circle-mask img {
-                    border-radius: 0;
-                    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');
-                    mask-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');
-                    mask-mode: alpha;
-                    -webkit-mask-position: center;
-                    mask-position: center;
-                    -webkit-mask-repeat: no-repeat;
-                    mask-repeat: no-repeat;
-                    -webkit-mask-size: contain;
-                    mask-size: contain
-                }
-            }
-
-            :root :where(.wp-block-image.is-style-rounded img, .wp-block-image .is-style-rounded img) {
-                border-radius: 9999px
-            }
-
-            .wp-block-image figure {
-                margin: 0
-            }
-
-            .wp-lightbox-container {
-                display: flex;
-                flex-direction: column;
-                position: relative
-            }
-
-            .wp-lightbox-container img {
-                cursor: zoom-in
-            }
-
-            .wp-lightbox-container img:hover+button {
-                opacity: 1
-            }
-
-            .wp-lightbox-container button {
-                align-items: center;
-                -webkit-backdrop-filter: blur(16px) saturate(180%);
-                backdrop-filter: blur(16px) saturate(180%);
-                background-color: #5a5a5a40;
-                border: none;
-                border-radius: 4px;
-                cursor: zoom-in;
-                display: flex;
-                height: 20px;
-                justify-content: center;
-                opacity: 0;
-                padding: 0;
-                position: absolute;
-                right: 16px;
-                text-align: center;
-                top: 16px;
-                transition: opacity .2s ease;
-                width: 20px;
-                z-index: 100
-            }
-
-            .wp-lightbox-container button:focus-visible {
-                outline: 3px auto #5a5a5a40;
-                outline: 3px auto -webkit-focus-ring-color;
-                outline-offset: 3px
-            }
-
-            .wp-lightbox-container button:hover {
-                cursor: pointer;
-                opacity: 1
-            }
-
-            .wp-lightbox-container button:focus {
-                opacity: 1
-            }
-
-            .wp-lightbox-container button:focus,
-            .wp-lightbox-container button:hover,
-            .wp-lightbox-container button:not(:hover):not(:active):not(.has-background) {
-                background-color: #5a5a5a40;
-                border: none
-            }
-
-            .wp-lightbox-overlay {
-                box-sizing: border-box;
-                cursor: zoom-out;
-                height: 100vh;
-                left: 0;
-                overflow: hidden;
-                position: fixed;
-                top: 0;
-                visibility: hidden;
-                width: 100%;
-                z-index: 100000
-            }
-
-            .wp-lightbox-overlay .close-button {
-                align-items: center;
-                cursor: pointer;
-                display: flex;
-                justify-content: center;
-                min-height: 40px;
-                min-width: 40px;
-                padding: 0;
-                position: absolute;
-                right: calc(env(safe-area-inset-right) + 16px);
-                top: calc(env(safe-area-inset-top) + 16px);
-                z-index: 5000000
-            }
-
-            .wp-lightbox-overlay .close-button:focus,
-            .wp-lightbox-overlay .close-button:hover,
-            .wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background) {
-                background: none;
-                border: none
-            }
-
-            .wp-lightbox-overlay .lightbox-image-container {
-                height: var(--wp--lightbox-container-height);
-                left: 50%;
-                overflow: hidden;
-                position: absolute;
-                top: 50%;
-                transform: translate(-50%, -50%);
-                transform-origin: top left;
-                width: var(--wp--lightbox-container-width);
-                z-index: 9999999999
-            }
-
-            .wp-lightbox-overlay .wp-block-image {
-                align-items: center;
-                box-sizing: border-box;
-                display: flex;
-                height: 100%;
-                justify-content: center;
-                margin: 0;
-                position: relative;
-                transform-origin: 0 0;
-                width: 100%;
-                z-index: 3000000
-            }
-
-            .wp-lightbox-overlay .wp-block-image img {
-                height: var(--wp--lightbox-image-height);
-                min-height: var(--wp--lightbox-image-height);
-                min-width: var(--wp--lightbox-image-width);
-                width: var(--wp--lightbox-image-width)
-            }
-
-            .wp-lightbox-overlay .wp-block-image figcaption {
-                display: none
-            }
-
-            .wp-lightbox-overlay button {
-                background: none;
-                border: none
-            }
-
-            .wp-lightbox-overlay .scrim {
-                background-color: #fff;
-                height: 100%;
-                opacity: .9;
-                position: absolute;
-                width: 100%;
-                z-index: 2000000
-            }
-
-            .wp-lightbox-overlay.active {
-                animation: turn-on-visibility .25s both;
-                visibility: visible
-            }
-
-            .wp-lightbox-overlay.active img {
-                animation: turn-on-visibility .35s both
-            }
-
-            .wp-lightbox-overlay.show-closing-animation:not(.active) {
-                animation: turn-off-visibility .35s both
-            }
-
-            .wp-lightbox-overlay.show-closing-animation:not(.active) img {
-                animation: turn-off-visibility .25s both
-            }
-
-            @media (prefers-reduced-motion:no-preference) {
-                .wp-lightbox-overlay.zoom.active {
-                    animation: none;
-                    opacity: 1;
-                    visibility: visible
-                }
-
-                .wp-lightbox-overlay.zoom.active .lightbox-image-container {
-                    animation: lightbox-zoom-in .4s
-                }
-
-                .wp-lightbox-overlay.zoom.active .lightbox-image-container img {
-                    animation: none
-                }
-
-                .wp-lightbox-overlay.zoom.active .scrim {
-                    animation: turn-on-visibility .4s forwards
-                }
-
-                .wp-lightbox-overlay.zoom.show-closing-animation:not(.active) {
-                    animation: none
-                }
-
-                .wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container {
-                    animation: lightbox-zoom-out .4s
-                }
-
-                .wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img {
-                    animation: none
-                }
-
-                .wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim {
-                    animation: turn-off-visibility .4s forwards
-                }
-            }
-
-            @keyframes show-content-image {
-                0% {
-                    visibility: hidden
-                }
-
-                99% {
-                    visibility: hidden
-                }
-
-                to {
-                    visibility: visible
-                }
-            }
-
-            @keyframes turn-on-visibility {
-                0% {
-                    opacity: 0
-                }
-
-                to {
-                    opacity: 1
-                }
-            }
-
-            @keyframes turn-off-visibility {
-                0% {
-                    opacity: 1;
-                    visibility: visible
-                }
-
-                99% {
-                    opacity: 0;
-                    visibility: visible
-                }
-
-                to {
-                    opacity: 0;
-                    visibility: hidden
-                }
-            }
-
-            @keyframes lightbox-zoom-in {
-                0% {
-                    transform: translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)), calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))
-                }
-
-                to {
-                    transform: translate(-50%, -50%) scale(1)
-                }
-            }
-
-            @keyframes lightbox-zoom-out {
-                0% {
-                    transform: translate(-50%, -50%) scale(1);
-                    visibility: visible
-                }
-
-                99% {
-                    visibility: visible
-                }
-
-                to {
-                    transform: translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)), calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));
-                    visibility: hidden
-                }
-            }
-        </style>
         <style id='global-styles-inline-css' type='text/css'>
             :root {
                 --wp--preset--aspect-ratio--square: 1;
@@ -3272,9 +3070,6 @@
                 font-family: var(--wp--preset--font-family--cardo) !important;
             }
         </style>
-        <link data-optimized="1" rel='stylesheet' id='su-shortcodes-css'
-            href='/assets/wp-content/litespeed/css/de6936ea381b67e5d2319c08580ee37c.css?ver=ee37c'
-            type='text/css' media='all' />
         <script data-optimized="1" type="text/javascript"
             src="/assets/wp-content/litespeed/js/cc5c361225c68257e6ca8171217b43de.js?ver=b43de" id="wp-hooks-js"
             defer data-deferred="1"></script>
@@ -3356,6 +3151,15 @@
         <script data-optimized="1" type="text/javascript"
             src="/assets/wp-content/litespeed/js/8aad450415e3e9a35d15d4abcba83f95.js?ver=83f95"
             id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+        <script data-optimized="1" type="text/javascript"
+            src="/assets/wp-content/litespeed/js/55f4d047868d6d79879f7eb63f85f7a3.js?ver=5f7a3"
+            id="flatsome-masonry-js-js" defer data-deferred="1"></script>
+        <script type="text/javascript" id="gla-gtag-events-js-extra"
+            src="data:text/javascript;base64,dmFyIGdsYUd0YWdEYXRhPXsiY3VycmVuY3lfbWlub3JfdW5pdCI6IjAiLCJwcm9kdWN0cyI6W119"
+            defer></script>
+        <script type="text/javascript"
+            src="/assets/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js" id="gla-gtag-events-js"
+            defer data-deferred="1"></script>
         <script type="text/javascript" id="zxcvbn-async-js-extra"
             src="data:text/javascript;base64,dmFyIF96eGN2Ym5TZXR0aW5ncz17InNyYyI6Imh0dHBzOlwvXC90cmFtaG9hLmNvbVwvd3AtaW5jbHVkZXNcL2pzXC96eGN2Ym4ubWluLmpzIn0="
             defer></script>
@@ -3379,4 +3183,5 @@
             id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
         <div class='xlwcty_header_passed' style='display: none;'></div>
     </body>
+
 </div>
