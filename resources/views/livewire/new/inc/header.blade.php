@@ -60,7 +60,7 @@
         </div>
         <div id="masthead" class="header-main show-logo-center hide-for-sticky">
             <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
-                <div id="logo" class="flex-col logo"><a href="https://tramhoa.com/"
+                <div id="logo" class="flex-col logo"><a href="/"
                         title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
                         <img width="200" height="90" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
                             class="header_logo header-logo" alt="Trạm Hoa" /><img width="200" height="90"
@@ -68,7 +68,8 @@
                             alt="Trạm Hoa" /></a></div>
                 <div class="flex-col show-for-medium flex-left">
                     <ul class="mobile-nav nav nav-left ">
-                        <li class="cart-item has-icon"><a href="https://tramhoa.com/gio-hang/"
+                        <li class="cart-item has-icon"><a href="/gio-hang/"
+
                                 class="header-cart-link is-small off-canvas-toggle nav-top-link" title="Giỏ hàng"
                                 data-open="#cart-popup" data-class="off-canvas-cart" data-pos="right"><i
                                     class="icon-shopping-cart" data-icon-label="0">
@@ -118,8 +119,7 @@
                                             <img width="312" height="92"
                                                 src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
                                                 class="attachment-original size-original"
-                                                alt="Hotline tư vấn đặt hoa nhanh 034 827 8722" decoding="async"
-                                                srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
+                                                alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
                                                 sizes="(max-width: 312px) 100vw, 312px" />
                                         </div>
                                     </a>
@@ -136,7 +136,8 @@
                 <div class="flex-col hide-for-medium flex-right">
                     <ul
                         class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                        <li class="cart-item has-icon has-dropdown"><a href="https://tramhoa.com/gio-hang/"
+                        <li class="cart-item has-icon has-dropdown"><a href="/gio-hang/"
+
                                 class="header-cart-link is-small" title="Giỏ hàng"><i class="icon-shopping-cart"
                                     data-icon-label="0">
                                 </i>
@@ -191,7 +192,7 @@
                         @foreach ($categories as $category)
                             <li id="menu-item-38354"
                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-38354 menu-item-design-default has-dropdown">
-                                <a href="/category/{{ $category->slug }}" class="nav-top-link"
+                                <a href="/categories/{{ $category->slug }}" class="nav-top-link"
                                     aria-expanded="false" aria-haspopup="menu">{{ $category->name }}<i
                                         class="icon-angle-down"></i></a>
                                 <ul class="sub-menu nav-dropdown nav-dropdown-simple">

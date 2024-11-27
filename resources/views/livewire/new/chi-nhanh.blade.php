@@ -1188,7 +1188,7 @@
                     </div>
                     <div id="masthead" class="header-main show-logo-center hide-for-sticky">
                         <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
-                            <div id="logo" class="flex-col logo"><a href="https://tramhoa.com/"
+                            <div id="logo" class="flex-col logo"><a href="/"
                                     title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
                                     <img width="200" height="90"
                                         src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
@@ -1198,7 +1198,8 @@
                                         class="header-logo-dark" alt="Trạm Hoa" /></a></div>
                             <div class="flex-col show-for-medium flex-left">
                                 <ul class="mobile-nav nav nav-left ">
-                                    <li class="cart-item has-icon"><a href="https://tramhoa.com/gio-hang/"
+                                    <li class="cart-item has-icon"><a href="/gio-hang/"
+
                                             class="header-cart-link is-small off-canvas-toggle nav-top-link"
                                             title="Giỏ hàng" data-open="#cart-popup" data-class="off-canvas-cart"
                                             data-pos="right"><i class="icon-shopping-cart" data-icon-label="0">
@@ -1269,7 +1270,8 @@
                             <div class="flex-col hide-for-medium flex-right">
                                 <ul
                                     class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                                    <li class="cart-item has-icon has-dropdown"><a href="https://tramhoa.com/gio-hang/"
+                                    <li class="cart-item has-icon has-dropdown"><a href="/gio-hang/"
+
                                             class="header-cart-link is-small" title="Giỏ hàng"><i
                                                 class="icon-shopping-cart" data-icon-label="0">
                                             </i>
@@ -2027,7 +2029,7 @@
                                         <div class="row row-collapse align-center" id="row-203876875">
                                             <div id="col-1687376015" class="col medium-10 small-12 large-4">
                                                 <div class="col-inner">
-                                                    <h3>🌸<a href="https://tramhoa.com/">Trạm Hoa TpHCM</a></h3>
+                                                    <h3>🌸<a href="/">Trạm Hoa TpHCM</a></h3>
                                                 </div>
                                             </div>
                                             <div id="col-702071357" class="col medium-10 small-12 large-6">

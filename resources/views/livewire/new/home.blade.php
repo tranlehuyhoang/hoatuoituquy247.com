@@ -36,7 +36,7 @@
         <meta name="description"
             content="Trạm Hoa là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,..." />
         <meta name="robots" content="follow, index" />
-        <link rel="canonical" href="https://tramhoa.com/" />
+        <link rel="canonical" href="/" />
         <meta property="og:locale" content="vi_VN" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Trạm Hoa: Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" />
@@ -1470,7 +1470,7 @@
                                             <p>Việc gửi tặng hoa trở nên vô cùng đơn giản khi Trạm Hoa cung cấp công cụ
                                                 giúp
                                                 khách hàng có thể thực hiện thao tác <a
-                                                    href="https://tramhoa.com/"><strong>đặt hoa online</strong></a>
+                                                    href="/"><strong>đặt hoa online</strong></a>
                                                 trực
                                                 tiếp trên website một cách dễ dàng. Ngoài ra, quý khách còn có thể đặt
                                                 hoa

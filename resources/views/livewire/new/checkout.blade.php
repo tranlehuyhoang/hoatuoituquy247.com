@@ -1496,7 +1496,7 @@
                                 <div id="logo" class="flex-col logo">
 
                                     <!-- Header logo -->
-                                    <a href="https://tramhoa.com/"
+                                    <a href="/"
                                         title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
                                         rel="home">
                                         <img width="200" height="90"
@@ -1513,7 +1513,8 @@
                                         <li class="cart-item has-icon">
 
 
-                                            <a href="https://tramhoa.com/gio-hang/" class="header-cart-link is-small"
+                                            <a href="/gio-hang/"
+ class="header-cart-link is-small"
                                                 title="Giỏ hàng">
 
                                                 <i class="icon-shopping-cart" data-icon-label="1">
@@ -1560,7 +1561,8 @@
                                         class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
                                         <li class="cart-item has-icon">
 
-                                            <a href="https://tramhoa.com/gio-hang/" class="header-cart-link is-small"
+                                            <a href="/gio-hang/"
+ class="header-cart-link is-small"
                                                 title="Giỏ hàng">
 
 

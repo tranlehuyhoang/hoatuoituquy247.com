@@ -1,38 +1,9 @@
 <div>
 
     <head>
-        <script data-no-optimize="1">
-            var litespeed_docref = sessionStorage.getItem("litespeed_docref");
-            litespeed_docref && (Object.defineProperty(document, "referrer", {
-                get: function() {
-                    return litespeed_docref
-                }
-            }), sessionStorage.removeItem("litespeed_docref"));
-        </script>
         <meta charset="UTF-8" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://tramhoa.com/xmlrpc.php" />
-        <script
-            src="data:text/javascript;base64,KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lPWh0bWwuY2xhc3NOYW1lLnJlcGxhY2UoL1xibm8tanNcYi8sJ2pzJyl9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQp"
-            defer></script> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px
-        1500px }
-        </style>
-        <script data-cfasync="false" data-pagespeed-no-defer>
-            var gtm4wp_datalayer_name = "dataLayer";
-            var dataLayer = dataLayer || [];
-            const gtm4wp_use_sku_instead = 1;
-            const gtm4wp_currency = 'VND';
-            const gtm4wp_product_per_impression = 10;
-            const gtm4wp_clear_ecommerce = false;
-
-            const gtm4wp_scrollerscript_debugmode = false;
-            const gtm4wp_scrollerscript_callbacktime = 100;
-            const gtm4wp_scrollerscript_readerlocation = 150;
-            const gtm4wp_scrollerscript_contentelementid = "content";
-            const gtm4wp_scrollerscript_scannertime = 60;
-        </script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>{{ $category->name }}</title>
+        <title>{{ $category->name }} - Hoa Tươi Tứ Quý</title>
         <meta name="description" content="Các sản phẩm {{ $category->name }}" />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />

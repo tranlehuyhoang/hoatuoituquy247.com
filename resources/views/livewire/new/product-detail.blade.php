@@ -10,7 +10,7 @@
         1500px }
         </style>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>{{ $product->name }} - Hoa Tươi Tú Quý</title>
+        <title>{{ $product->name }} - Hoa Tươi Tứ Quý</title>
         <meta name="description"
             content="{{ $product->description }}" />
         <meta property="og:site_name" content="Hoa Tươi Tú Quý" />
@@ -1131,10 +1131,6 @@
                     content: "Phổ biến";
                 }
         </style>
-        <div class="footer">
-            <div class="inner">&nbsp;</div>
-        </div>
-        </script>
         <script src="https://www.googletagmanager.com/gtag/js?id=AW-709660893" defer data-deferred="1"></script>
         <script
             src="data:text/javascript;base64,d2luZG93LmRhdGFMYXllcj13aW5kb3cuZGF0YUxheWVyfHxbXTtmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKX0KZ3RhZygnY29uc2VudCcsJ2RlZmF1bHQnLHthbmFseXRpY3Nfc3RvcmFnZTonZGVuaWVkJyxhZF9zdG9yYWdlOidkZW5pZWQnLGFkX3VzZXJfZGF0YTonZGVuaWVkJyxhZF9wZXJzb25hbGl6YXRpb246J2RlbmllZCcscmVnaW9uOlsnQVQnLCdCRScsJ0JHJywnSFInLCdDWScsJ0NaJywnREsnLCdFRScsJ0ZJJywnRlInLCdERScsJ0dSJywnSFUnLCdJUycsJ0lFJywnSVQnLCdMVicsJ0xJJywnTFQnLCdMVScsJ01UJywnTkwnLCdOTycsJ1BMJywnUFQnLCdSTycsJ1NLJywnU0knLCdFUycsJ1NFJywnR0InLCdDSCddLHdhaXRfZm9yX3VwZGF0ZTo1MDAsfSk7Z3RhZygnanMnLG5ldyBEYXRlKCkpO2d0YWcoJ3NldCcsJ2RldmVsb3Blcl9pZC5kT0dZM05XJywhMCk7Z3RhZygiY29uZmlnIiwiQVctNzA5NjYwODkzIix7Imdyb3VwcyI6IkdMQSIsInNlbmRfcGFnZV92aWV3IjohMX0p"
@@ -1342,10 +1338,8 @@
                                                 <input type="button" value="+"
                                                     class="ux-quantity__button ux-quantity__button--plus button plus is-form">
                                             </div>
-                                            <button wire:click="addToCart"
-                                                class="single_add_to_cart_button button alt">Đặt Hoa</button><input
-                                                type="hidden" name="gtm4wp_product_data"
-                                              />
+                                            <button
+                                                class="single_add_to_cart_button button alt">Đặt Hoa</button>
                                         </form>
                                         <div id="text-2622897752" class="text">
                                             <ul>

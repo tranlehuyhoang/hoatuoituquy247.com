@@ -1293,7 +1293,7 @@
                     </div>
                     <div id="masthead" class="header-main show-logo-center hide-for-sticky">
                         <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
-                            <div id="logo" class="flex-col logo"><a href="https://tramhoa.com/"
+                            <div id="logo" class="flex-col logo"><a href="/"
                                     title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
                                     <img width="200" height="90"
                                         src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
@@ -1303,7 +1303,8 @@
                                         class="header-logo-dark" alt="Trạm Hoa" /></a></div>
                             <div class="flex-col show-for-medium flex-left">
                                 <ul class="mobile-nav nav nav-left ">
-                                    <li class="cart-item has-icon"><a href="https://tramhoa.com/gio-hang/"
+                                    <li class="cart-item has-icon"><a href="/gio-hang/"
+
                                             class="header-cart-link is-small off-canvas-toggle nav-top-link"
                                             title="Giỏ hàng" data-open="#cart-popup" data-class="off-canvas-cart"
                                             data-pos="right"><i class="icon-shopping-cart" data-icon-label="0">
@@ -1373,7 +1374,8 @@
                             <div class="flex-col hide-for-medium flex-right">
                                 <ul
                                     class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                                    <li class="cart-item has-icon has-dropdown"><a href="https://tramhoa.com/gio-hang/"
+                                    <li class="cart-item has-icon has-dropdown"><a href="/gio-hang/"
+
                                             class="header-cart-link is-small" title="Giỏ hàng"><i
                                                 class="icon-shopping-cart" data-icon-label="0">
                                             </i>
@@ -1618,7 +1620,7 @@
                                             phong thủy. Bạn có thể trồng trong nhà, trên bàn làm việc, bàn học, kệ sách,
                                             hoặc treo bên cửa sổ. Cây còn có thể dùng để tạo viền hoặc tạo nền cho các tiểu
                                             cảnh, khu vực công viên, hoặc các dự án lớn. Hãy cùng <a
-                                                href="https://tramhoa.com/">Trạm Hoa</a> tìm hiểu về đặc điểm, ý nghĩa,
+                                                href="/">Trạm Hoa</a> tìm hiểu về đặc điểm, ý nghĩa,
                                             cách trồng và chăm sóc<strong>&nbsp;cây lan chi</strong>&nbsp;qua bài viết sau.
                                         </p>
                                         <div id="ez-toc-container"
@@ -1825,7 +1827,7 @@
                                                 nơi</strong></p>
                                         <p>Trạm Hoa là shop hoa tươi hỗ trợ khách hàng đặt hoa online, giao hoa tận nơi miễn
                                             phí khu vực nội thành.</p>
-                                        <p>Website: <a href="https://tramhoa.com/">https://tramhoa.com/</a><br>Điện thoại:
+                                        <p>Website: <a href="/">https://tramhoa.com/</a><br>Điện thoại:
                                             <a href="tel:0348278722">034 827 87 22</a><br>Zalo: <a
                                                 href="https://zalo.me/3588203683113605383" target="_blank"
                                                 rel="noopener">https://zalo.me/3588203683113605383</a><br>Google Maps: <a
