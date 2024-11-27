@@ -1832,7 +1832,7 @@
                                         </div>
 
                                         <form class="checkout_coupon woocommerce-form-coupon has-border is-dashed"
-                                            method="post" style="display:none">
+                                        style="display:none">
 
                                             <p>Nếu bạn có mã giảm giá, vui lòng điền vào phía bên dưới.</p>
                                             <div class="coupon">
@@ -1851,8 +1851,8 @@
                                             </div>
                                         </form>
                                         <div class="woocommerce-notices-wrapper"></div>
-                                        <form name="checkout" method="post" class="checkout woocommerce-checkout "
-                                            action="https://tramhoa.com/thanh-toan/" enctype="multipart/form-data"
+                                        <form   wire:submit.prevent="placeOrder" class="checkout woocommerce-checkout "
+
                                             aria-label="Thanh toán">
 
                                             <div class="row pt-0 ">
@@ -2220,8 +2220,7 @@
 
                                                             <div id="order_review"
                                                                 class="woocommerce-checkout-review-order">
-                                                                <table
-                                                                    class="shop_table woocommerce-checkout-review-order-table">
+                                                                <table class="shop_table woocommerce-checkout-review-order-table">
                                                                     <thead>
                                                                         <tr>
                                                                             <th class="product-name">Sản phẩm</th>
@@ -2229,80 +2228,66 @@
                                                                         </tr>
                                                                     </thead>
                                                                     <tbody>
-                                                                        <tr
-                                                                            class="cart_item tm-epo-cart-row-product-noepo">
-                                                                            <td class="product-name">
-                                                                                Mừng Khai Trương&nbsp; <strong
-                                                                                    class="product-quantity">&times;&nbsp;1</strong>
-                                                                            </td>
-                                                                            <td class="product-total">
-                                                                                <span
-                                                                                    class="woocommerce-Price-amount amount"><bdi>800.000&nbsp;<span
-                                                                                            class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
-                                                                            </td>
-                                                                        </tr>
+                                                                        @foreach ($cartItems as $item)
+                                                                            <tr class="cart_item">
+                                                                                <td class="product-name">
+                                                                                    {{ $item['name'] }}&nbsp;
+                                                                                    <strong class="product-quantity">&times;&nbsp;{{ $item['quantity'] }}</strong>
+                                                                                </td>
+                                                                                <td class="product-total">
+                                                                                    <span class="woocommerce-Price-amount amount">
+                                                                                        <bdi>{{ number_format($item['total_amount'], 0, ',', '.') }}&nbsp;
+                                                                                            <span class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                        </bdi>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        @endforeach
                                                                     </tbody>
                                                                     <tfoot>
-
                                                                         <tr class="cart-subtotal">
                                                                             <th>Tạm tính</th>
-                                                                            <td><span
-                                                                                    class="woocommerce-Price-amount amount"><bdi>800.000&nbsp;<span
-                                                                                            class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
+                                                                            <td>
+                                                                                <span class="woocommerce-Price-amount amount">
+                                                                                    <bdi>{{ number_format(collect($cartItems)->sum('total_amount'), 0, ',', '.') }}&nbsp;
+                                                                                        <span class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                    </bdi>
+                                                                                </span>
                                                                             </td>
                                                                         </tr>
-
-
-
-
-                                                                        <tr class="woocommerce-shipping-totals shipping ">
+                                                                        <tr class="woocommerce-shipping-totals shipping">
                                                                             <td class="shipping__inner" colspan="2">
-                                                                                <table class="shipping__table ">
+                                                                                <table class="shipping__table">
                                                                                     <tbody>
                                                                                         <tr>
                                                                                             <th>Giao hàng</th>
                                                                                             <td data-title="Giao hàng">
-                                                                                                <ul id="shipping_method"
-                                                                                                    class="shipping__list woocommerce-shipping-methods">
-                                                                                                    <li
-                                                                                                        class="shipping__list_item">
-                                                                                                        <input
-                                                                                                            type="hidden"
-                                                                                                            name="shipping_method[0]"
-                                                                                                            data-index="0"
-                                                                                                            id="shipping_method_0_devvn_district_zone_shipping_19"
-                                                                                                            value="devvn_district_zone_shipping_19"
-                                                                                                            class="shipping_method" /><label
-                                                                                                            class="shipping__list_label"
-                                                                                                            for="shipping_method_0_devvn_district_zone_shipping_19">
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>150.000&nbsp;<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">VND</span></bdi></span></label>
+                                                                                                <ul id="shipping_method" class="shipping__list woocommerce-shipping-methods">
+                                                                                                    <li class="shipping__list_item">
+                                                                                                        <span class="woocommerce-Price-amount amount">
+                                                                                                            <bdi>150.000&nbsp;<span
+                                                                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi>
+                                                                                                        </span>
                                                                                                     </li>
                                                                                                 </ul>
-
-
                                                                                             </td>
                                                                                         </tr>
                                                                                     </tbody>
                                                                                 </table>
                                                                             </td>
                                                                         </tr>
-
-
-
-
-
-
                                                                         <tr class="order-total">
                                                                             <th>Tổng</th>
-                                                                            <td><strong><span
-                                                                                        class="woocommerce-Price-amount amount"><bdi>950.000&nbsp;<span
-                                                                                                class="woocommerce-Price-currencySymbol">VND</span></bdi></span></strong>
+                                                                            <td>
+                                                                                <strong>
+                                                                                    <span class="woocommerce-Price-amount amount">
+                                                                                        <bdi>{{ number_format(collect($cartItems)->sum('total_amount') + 150000, 0, ',', '.') }}&nbsp;
+                                                                                            <span class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                        </bdi>
+                                                                                    </span>
+                                                                                </strong>
                                                                             </td>
                                                                         </tr>
-
-
                                                                     </tfoot>
                                                                 </table>
                                                                 <div id="payment" class="woocommerce-checkout-payment">

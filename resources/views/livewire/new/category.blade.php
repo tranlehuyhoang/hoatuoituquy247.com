@@ -32,41 +32,9 @@
             const gtm4wp_scrollerscript_scannertime = 60;
         </script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>121+ Kệ hoa chúc mừng khai trương, khởi công, động thổ đẹp</title>
-        <meta name="description"
-            content="Kệ hoa chúc mừng khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện sự tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa." />
+        <title>{{ $category->name }}</title>
+        <meta name="description" content="Các sản phẩm {{ $category->name }}" />
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-        <link rel="canonical" href="https://tramhoa.com/ke-hoa-chuc-mung/" />
-        <link rel="next" href="https://tramhoa.com/ke-hoa-chuc-mung/page/2/" />
-        <meta property="og:locale" content="vi_VN" />
-        <meta property="og:type" content="article" />
-        <meta property="og:title" content="121+ Kệ hoa chúc mừng khai trương, khởi công, động thổ đẹp" />
-        <meta property="og:description"
-            content="Kệ hoa chúc mừng khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện sự tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa." />
-        <meta property="og:url" content="https://tramhoa.com/ke-hoa-chuc-mung/" />
-        <meta property="og:site_name" content="Trạm Hoa" />
-        <meta property="article:publisher" content="https://www.facebook.com/tramhoavn/" />
-        <meta property="og:image"
-            content="/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
-        <meta property="og:image:secure_url"
-            content="/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung-e1609204760321.jpg" />
-        <meta property="og:image:width" content="300" />
-        <meta property="og:image:height" content="300" />
-        <meta property="og:image:alt" content="Kệ hoa chúc mừng" />
-        <meta property="og:image:type" content="image/jpeg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="121+ Kệ hoa chúc mừng khai trương, khởi công, động thổ đẹp" />
-        <meta name="twitter:description"
-            content="Kệ hoa chúc mừng khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện sự tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa." />
-        <meta name="twitter:site" content="@tramhoavn" />
-        <meta name="twitter:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg" />
-        <meta name="twitter:label1" content="Sản phẩm" />
-        <meta name="twitter:data1" content="187" />
-        <script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tramhoa.com/#organization","name":"Tr\u1ea1m Hoa - Shop Hoa T\u01b0\u01a1i Online","sameAs":["https://www.facebook.com/tramhoavn/","https://twitter.com/tramhoavn"]},{"@type":"WebSite","@id":"https://tramhoa.com/#website","url":"https://tramhoa.com","name":"Tr\u1ea1m Hoa","publisher":{"@id":"https://tramhoa.com/#organization"},"inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://tramhoa.com","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"K\u1ec7 Hoa Ch\u00fac M\u1eebng"}}]},{"@type":"ItemPage","@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage","url":"https://tramhoa.com/ke-hoa-chuc-mung/","name":"121+ K\u1ec7 hoa ch\u00fac m\u1eebng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng, \u0111\u1ed9ng th\u1ed5 \u0111\u1eb9p","isPartOf":{"@id":"https://tramhoa.com/#website"},"inLanguage":"vi","breadcrumb":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#breadcrumb"}},{"@type":"Product","name":"K\u1ec7 hoa ch\u00fac m\u1eebng \u0111\u1eb9p t\u1eb7ng khai tr\u01b0\u01a1ng, kh\u1edfi c\u00f4ng","description":"K\u1ec7 hoa ch\u00fac m\u1eebng t\u01b0\u1ee3ng tr\u01b0ng cho s\u1ef1 ph\u1ed3n vinh ki\u00eau h\u00e3nh, th\u1ec3 hi\u1ec7n s\u1ef1 t\u00e2m giao, ni\u1ec1m tin v\u00e0 hy v\u1ecdng mong mu\u1ed1n quan h\u1ec7 bay xa.","sku":"HCM00CAT","brand":{"@type":"Brand","name":"Tr\u1ea1m Hoa"},"image":{"@type":"ImageObject","url":"/assets/wp-content/uploads/2020/12/danh-muc-hoa-chuc-mung.jpg"},"offers":{"@type":"Offer","url":"https://tramhoa.com/ke-hoa-chuc-mung/","price":"800000","priceCurrency":"VND","availability":"InStock"},"review":{"@type":"Review","author":{"@type":"Person","name":"Tu\u1ea5n Phong"},"reviewRating":{"@type":"Rating","ratingValue":"4.25"}},"mainEntityOfPage":{"@id":"https://tramhoa.com/ke-hoa-chuc-mung/#webpage"}}]}</script>
-        <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-        <link rel='dns-prefetch' href='//www.facebook.com' />
-        <link rel='dns-prefetch' href='//images.dmca.com' />
-        <link rel='dns-prefetch' href='//connect.facebook.net' />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.19.7' />
@@ -74,12 +42,6 @@
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.19.7' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=dd6035ce106022a74757' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trạm Hoa &raquo;"
-            href="https://tramhoa.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Trạm Hoa &raquo; Dòng bình luận"
-            href="https://tramhoa.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Nguồn cấp Trạm Hoa &raquo; Kệ Hoa Chúc Mừng Danh mục"
-            href="https://tramhoa.com/ke-hoa-chuc-mung/feed/" />
         <style id='wp-block-library-inline-css' type='text/css'>
             :root {
                 --wp-admin-theme-color: #007cba;
@@ -1117,429 +1079,15 @@
         <script type="text/javascript"
             src="data:text/javascript;base64,Z3RhZygiZXZlbnQiLCJwYWdlX3ZpZXciLHtzZW5kX3RvOiJHTEEifSk=" defer></script> <a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
         <div id="wrapper">
-            <header id="header" class="header has-sticky sticky-jump">
-                <div class="header-wrapper">
-                    <div id="top-bar" class="header-top hide-for-sticky nav-dark flex-has-center">
-                        <div class="flex-row container">
-                            <div class="flex-col hide-for-medium flex-left">
-                                <ul class="nav nav-left medium-nav-center nav-small  nav-divided"></ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-center">
-                                <ul class="nav nav-center nav-small  nav-divided">
-                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-right">
-                                <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
-                                    <li class="html header-social-icons ml-0">
-                                        <div class="social-icons follow-icons"><a
-                                                href="http://facebook.com/tramhoavn/" target="_blank"
-                                                data-label="Facebook" class="icon plain facebook tooltip"
-                                                title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
-                                                rel="noopener nofollow"><i class="icon-facebook"></i></a><a
-                                                href="http://instagram.com/tramhoavn/" target="_blank"
-                                                data-label="Instagram" class="icon plain instagram tooltip"
-                                                title="Theo dõi trên Instagram" aria-label="Theo dõi trên Instagram"
-                                                rel="noopener nofollow"><i class="icon-instagram"></i></a><a
-                                                href="https://www.tiktok.com/@www.tramhoa.com" target="_blank"
-                                                data-label="TikTok" class="icon plain tiktok tooltip"
-                                                title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok"
-                                                rel="noopener nofollow"><i class="icon-tiktok"></i></a><a
-                                                href="https://twitter.com/tramhoavn/" data-label="Twitter"
-                                                target="_blank" class="icon plain twitter tooltip"
-                                                title="Theo dõi trên Twitter" aria-label="Theo dõi trên Twitter"
-                                                rel="noopener nofollow"><i class="icon-twitter"></i></a><a
-                                                href="https://www.pinterest.com/tramhoavn/" data-label="Pinterest"
-                                                target="_blank" class="icon plain pinterest tooltip"
-                                                title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
-                                                rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                                href="https://vn.linkedin.com/company/tramhoavn/"
-                                                data-label="LinkedIn" target="_blank"
-                                                class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
-                                                aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
-                                                    class="icon-linkedin"></i></a><a
-                                                href="https://www.youtube.com/channel/UCruCBL76C_O-B7G8oXKIeMQ"
-                                                data-label="YouTube" target="_blank"
-                                                class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
-                                                aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
-                                                    class="icon-youtube"></i></a><a
-                                                href="https://www.flickr.com/photos/tramhoavn/" data-label="Flickr"
-                                                target="_blank" class="icon plain flickr tooltip" title="Flickr"
-                                                aria-label="Flickr" rel="noopener nofollow"><i
-                                                    class="icon-flickr"></i></a><a
-                                                href="https://500px.com/p/tramhoavn" data-label="500px"
-                                                target="_blank" class="icon plain px500 tooltip"
-                                                title="Theo dõi trên 500px" aria-label="Theo dõi trên 500px"
-                                                rel="noopener nofollow"><i class="icon-500px"></i></a><a
-                                                href="https://vk.com/tramhoavn" data-label="VKontakte"
-                                                target="_blank" class="icon plain vk tooltip"
-                                                title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
-                                                rel="noopener nofollow"><i class="icon-vk"></i></a></div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col show-for-medium flex-grow">
-                                <ul class="nav nav-center nav-small mobile-nav  nav-divided">
-                                    <li class="html custom html_nav_position_text">07:30 - 20:30 | Thứ Hai - Chủ Nhật
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="masthead" class="header-main show-logo-center hide-for-sticky">
-                        <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
-                            <div id="logo" class="flex-col logo"><a href="https://tramhoa.com/"
-                                    title="Trạm Hoa - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi"
-                                    rel="home">
-                                    <img width="200" height="90"
-                                        src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                        class="header_logo header-logo" alt="Trạm Hoa" /><img width="200"
-                                        height="90" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
-                                        class="header-logo-dark" alt="Trạm Hoa" /></a></div>
-                            <div class="flex-col show-for-medium flex-left">
-                                <ul class="mobile-nav nav nav-left ">
-                                    <li class="cart-item has-icon"><a href="https://tramhoa.com/gio-hang/"
-                                            class="header-cart-link is-small off-canvas-toggle nav-top-link"
-                                            title="Giỏ hàng" data-open="#cart-popup" data-class="off-canvas-cart"
-                                            data-pos="right"><i class="icon-shopping-cart" data-icon-label="0">
-                                            </i>
-                                        </a>
-                                        <div id="cart-popup" class="mfp-hide">
-                                            <div class="cart-popup-inner inner-padding cart-popup-inner--sticky">
-                                                <div class="cart-popup-title text-center">
-                                                    <span class="heading-font uppercase">Giỏ hàng</span>
-                                                    <div class="is-divider"></div>
-                                                </div>
-                                                <div class="widget_shopping_cart">
-                                                    <div class="widget_shopping_cart_content">
-                                                        <div
-                                                            class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
-                                                            <div class="ux-mini-cart-empty-icon">
-                                                                <svg xmlns="http://www.w3.org/2000/svg"
-                                                                    viewBox="0 0 17 19"
-                                                                    style="opacity:.1;height:80px;">
-                                                                    <path
-                                                                        d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z"
-                                                                        fill-rule="evenodd" clip-rule="evenodd"
-                                                                        fill="currentColor"></path>
-                                                                </svg>
-                                                            </div>
-                                                            <p class="woocommerce-mini-cart__empty-message empty">Chưa
-                                                                có
-                                                                sản phẩm trong giỏ hàng.</p>
-                                                            <p class="return-to-shop">
-                                                                <a class="button primary wc-backward"
-                                                                    href="https://tramhoa.com/cua-hang/">
-                                                                    Quay trở lại cửa hàng </a>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-left">
-                                <ul
-                                    class="header-nav header-nav-main nav nav-left  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                                    <li class="header-block">
-                                        <div class="header-block-block-1">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1981025657">
-                                                <a class="" href="tel:+84348278722">
-                                                    <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
-                                                        <img width="312" height="92"
-                                                            src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
-                                                            class="attachment-original size-original"
-                                                            alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
-                                                            sizes="auto, (max-width: 312px) 100vw, 312px" />
-                                                    </div>
-                                                </a>
-                                                <style>
-                                                    #image_1981025657 {
-                                                        width: 40%;
-                                                    }
-                                                </style>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-right">
-                                <ul
-                                    class="header-nav header-nav-main nav nav-right  nav-size-xsmall nav-spacing-xlarge nav-uppercase">
-                                    <li class="cart-item has-icon has-dropdown"><a
-                                            href="https://tramhoa.com/gio-hang/" class="header-cart-link is-small"
-                                            title="Giỏ hàng"><i class="icon-shopping-cart" data-icon-label="0">
-                                            </i>
-                                        </a>
-                                        <ul class="nav-dropdown nav-dropdown-simple">
-                                            <li class="html widget_shopping_cart">
-                                                <div class="widget_shopping_cart_content">
-                                                    <div
-                                                        class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
-                                                        <div class="ux-mini-cart-empty-icon">
-                                                            <svg xmlns="http://www.w3.org/2000/svg"
-                                                                viewBox="0 0 17 19" style="opacity:.1;height:80px;">
-                                                                <path
-                                                                    d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z"
-                                                                    fill-rule="evenodd" clip-rule="evenodd"
-                                                                    fill="currentColor"></path>
-                                                            </svg>
-                                                        </div>
-                                                        <p class="woocommerce-mini-cart__empty-message empty">Chưa có
-                                                            sản
-                                                            phẩm trong giỏ hàng.</p>
-                                                        <p class="return-to-shop">
-                                                            <a class="button primary wc-backward"
-                                                                href="https://tramhoa.com/cua-hang/">
-                                                                Quay trở lại cửa hàng </a>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col show-for-medium flex-right">
-                                <ul class="mobile-nav nav nav-right ">
-                                    <li class="nav-icon has-icon">
-                                        <a href="#" data-open="#main-menu" data-pos="right"
-                                            data-bg="main-menu-overlay" data-color="" class="is-small"
-                                            aria-label="Menu" aria-controls="main-menu" aria-expanded="false"><i
-                                                class="icon-menu"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="wide-nav" class="header-bottom wide-nav flex-has-center hide-for-medium">
-                        <div class="flex-row container">
-                            <div class="flex-col hide-for-medium flex-left">
-                                <ul
-                                    class="nav header-nav header-bottom-nav nav-left  nav-spacing-xlarge nav-uppercase">
-                                </ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-center">
-                                <ul
-                                    class="nav header-nav header-bottom-nav nav-center  nav-spacing-xlarge nav-uppercase">
-                                    <li id="menu-item-38354"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-ancestor current-menu-parent menu-item-has-children menu-item-38354 active menu-item-design-default has-dropdown">
-                                        <a href="https://tramhoa.com/hoa-khai-truong/" class="nav-top-link"
-                                            aria-expanded="false" aria-haspopup="menu">Hoa Khai Trương<i
-                                                class="icon-angle-down"></i></a>
-                                        <ul class="sub-menu nav-dropdown nav-dropdown-simple">
-                                            <li id="menu-item-22021"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-has-children menu-item-22021 active nav-dropdown-col">
-                                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ
-                                                    Hoa
-                                                    Chúc Mừng</a>
-                                                <ul class="sub-menu nav-column nav-dropdown-simple">
-                                                    <li id="menu-item-31278"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
-                                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong
-                                                            Cách
-                                                            Hiện Đại</a>
-                                                    </li>
-                                                    <li id="menu-item-31280"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31280">
-                                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-truyen-thong/">Phong
-                                                            Cách Truyền Thống</a>
-                                                    </li>
-                                                    <li id="menu-item-31279"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31279">
-                                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-nghe-thuat/">Phong
-                                                            Cách Nghệ Thuật</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-3615"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3615 menu-item-design-default has-dropdown">
-                                        <a href="https://tramhoa.com/hoa-chia-buon/" class="nav-top-link"
-                                            aria-expanded="false" aria-haspopup="menu">Hoa Chia Buồn<i
-                                                class="icon-angle-down"></i></a>
-                                        <ul class="sub-menu nav-dropdown nav-dropdown-simple">
-                                            <li id="menu-item-30920"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-30920 nav-dropdown-col">
-                                                <a href="https://tramhoa.com/hoa-tang-le/">Hoa Tang Lễ</a>
-                                                <ul class="sub-menu nav-column nav-dropdown-simple">
-                                                    <li id="menu-item-30921"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30921">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa
-                                                            Tang
-                                                            Trắng</a>
-                                                    </li>
-                                                    <li id="menu-item-30923"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30923">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa
-                                                            Tang
-                                                            Tím</a>
-                                                    </li>
-                                                    <li id="menu-item-30922"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30922">
-                                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa
-                                                            Tang
-                                                            Vàng</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-30925"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30925 nav-dropdown-col">
-                                                <a rel="nofollow" href="#">Danh mục khác</a>
-                                                <ul class="sub-menu nav-column nav-dropdown-simple">
-                                                    <li id="menu-item-30979"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30979">
-                                                        <a href="https://tramhoa.com/vong-hoa-dam-tang-cong-giao/">✝️
-                                                            Vòng
-                                                            Hoa Công Giáo</a>
-                                                    </li>
-                                                    <li id="menu-item-29596"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29596">
-                                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám
-                                                            Tang
-                                                            Người Già</a>
-                                                    </li>
-                                                    <li id="menu-item-29595"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29595">
-                                                        <a href="https://tramhoa.com/hoa-chia-buon-nghe-thuat/">Hoa
-                                                            Chia
-                                                            Buồn Nghệ Thuật</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-4360"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-4360 menu-item-design-default has-dropdown">
-                                        <a href="https://tramhoa.com/hoa-sinh-nhat/" class="nav-top-link"
-                                            aria-expanded="false" aria-haspopup="menu">Hoa Sinh Nhật<i
-                                                class="icon-angle-down"></i></a>
-                                        <ul class="sub-menu nav-dropdown nav-dropdown-simple">
-                                            <li id="menu-item-4361"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4361">
-                                                <a href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh Nhật Ba Mẹ</a>
-                                            </li>
-                                            <li id="menu-item-4364"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4364">
-                                                <a href="https://tramhoa.com/hoa-sinh-nhat-nguoi-yeu/">Sinh Nhật Người
-                                                    Yêu</a>
-                                            </li>
-                                            <li id="menu-item-4363"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4363">
-                                                <a href="https://tramhoa.com/hoa-sinh-nhat-khach-hang/">Sinh Nhật Khách
-                                                    Hàng</a>
-                                            </li>
-                                            <li id="menu-item-27763"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27763">
-                                                <a href="https://tramhoa.com/hoa-sinh-nhat-tang-sep/">Sinh Nhật Sếp</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-29237"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29237 menu-item-design-default">
-                                        <a href="https://tramhoa.com/hoa-tinh-yeu/" class="nav-top-link">Hoa Tình
-                                            Yêu</a>
-                                    </li>
-                                    <li id="menu-item-3612"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3612 menu-item-design-default has-dropdown">
-                                        <a href="https://tramhoa.com/bo-hoa-tuoi/" class="nav-top-link"
-                                            aria-expanded="false" aria-haspopup="menu">Bó Hoa<i
-                                                class="icon-angle-down"></i></a>
-                                        <ul class="sub-menu nav-dropdown nav-dropdown-simple">
-                                            <li id="menu-item-29208"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29208">
-                                                <a href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a>
-                                            </li>
-                                            <li id="menu-item-29199"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29199">
-                                                <a href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng
-                                                    Dương</a>
-                                            </li>
-                                            <li id="menu-item-29232"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29232">
-                                                <a href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a>
-                                            </li>
-                                            <li id="menu-item-29193"
-                                                class="label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29193">
-                                                <a href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu
-                                                    Đơn</a>
-                                            </li>
-                                            <li id="menu-item-7512"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7512">
-                                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a>
-                                            </li>
-                                            <li id="menu-item-29599"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29599">
-                                                <a href="https://tramhoa.com/bo-hoa-cuc-tana/">Bó Hoa Cúc Tana</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-3614"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3614 menu-item-design-default">
-                                        <a href="https://tramhoa.com/gio-hoa-tuoi/" class="nav-top-link">Giỏ Hoa</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="flex-col hide-for-medium flex-right flex-grow">
-                                <ul
-                                    class="nav header-nav header-bottom-nav nav-right  nav-spacing-xlarge nav-uppercase">
-                                    <li class="header-search header-search-lightbox has-icon">
-                                        <a href="#search-lightbox" aria-label="Tìm kiếm" data-open="#search-lightbox"
-                                            data-focus="input.search-field" class="is-small">
-                                            <i class="icon-search" style="font-size:16px;"></i></a>
-                                        <div id="search-lightbox" class="mfp-hide dark text-center">
-                                            <div class="searchform-wrapper ux-search-box relative form-flat is-large">
-                                                <form role="search" method="get" class="searchform"
-                                                    action="https://tramhoa.com/">
-                                                    <div class="flex-row relative">
-                                                        <div class="flex-col flex-grow">
-                                                            <label class="screen-reader-text"
-                                                                for="woocommerce-product-search-field-0">Tìm
-                                                                kiếm:</label>
-                                                            <input type="search"
-                                                                id="woocommerce-product-search-field-0"
-                                                                class="search-field mb-0"
-                                                                placeholder="Nhập từ khóa cần tìm" value=""
-                                                                name="s" />
-                                                            <input type="hidden" name="post_type" value="product" />
-                                                        </div>
-                                                        <div class="flex-col">
-                                                            <button type="submit" value="Tìm kiếm"
-                                                                class="ux-search-submit submit-button secondary button  icon mb-0"
-                                                                aria-label="Gửi">
-                                                                <i class="icon-search"></i> </button>
-                                                        </div>
-                                                    </div>
-                                                    <div class="live-search-results text-left z-top"></div>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header-bg-container fill">
-                        <div class="header-bg-image fill"></div>
-                        <div class="header-bg-color fill"></div>
-                    </div>
-                </div>
-            </header>
+            @livewire('new.inc.header')
             <div class="shop-page-title category-page-title page-title ">
                 <div class="page-title-inner flex-row  medium-flex-wrap container">
                     <div class="flex-col flex-grow medium-text-center">
-                        <h1 class="shop-page-title is-xlarge">Kệ Hoa Chúc Mừng</h1>
+                        <h1 class="shop-page-title is-xlarge">{{ $category->name }}</h1>
                         <div class="is-smaller">
                             <nav class="rank-math-breadcrumb breadcrumbs uppercase">
-                                <p><a href="https://tramhoa.com">Trang chủ</a><span class="separator"> &raquo;
-                                    </span><span class="last">Kệ Hoa Chúc Mừng</span></p>
+                                <p><a href="/">Trang chủ</a><span class="separator"> &raquo;
+                                    </span><span class="last">{{ $category->name }}</span></p>
                             </nav>
                         </div>
                     </div>
@@ -1549,15 +1097,12 @@
                             Hiển thị 1&ndash;60 của 186 kết quả<span class="screen-reader-text">Được sắp xếp theo mức
                                 độ
                                 phổ biến</span></p>
-                        <form class="woocommerce-ordering" method="get">
-                            <select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-                                <option value="popularity" selected='selected'>Mẫu hoa bán chạy</option>
+                            <select wire:model.live="orderby" name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
                                 <option value="price">Giá thấp → cao</option>
                                 <option value="price-desc">Giá cao → thấp</option>
                                 <option value="date">Mẫu hoa mới nhất</option>
                             </select>
                             <input type="hidden" name="paged" value="1" />
-                        </form>
                     </div>
                 </div>
             </div>
@@ -1568,611 +1113,96 @@
                             <div class="woocommerce-notices-wrapper"></div>
                             <div
                                 class="products row row-small large-columns-5 medium-columns-3 small-columns-2 has-equal-box-heights">
-                             @foreach ($products as $product)
-                             <div
-                             class="product-small col has-hover product type-product post-8846 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
-                             <div class="col-inner">
-                                <div class="badge-container absolute left top z-1"></div>
-                                <div
-                                    class="product-small box has-hover box-normal box-text-bottom">
-                                    <div class="box-image">
-                                        <div class="">
-                                            <a href="/product/{{$product->slug}}"
-                                                aria-label="{{$product->name}}">
-                                                <img loading="lazy" decoding="async"
-                                                    width="360" height="450"
-                                                    src="{{ Storage::url($product->images[0]) }}"
-                                                    class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                    alt="{{ $product->name }}"
-                                                    sizes="auto, (max-width: 360px) 100vw, 360px">
-                                            </a>
-                                        </div>
-                                        <div class="image-tools top right show-on-hover"></div>
-                                        <div
-                                            class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                @foreach ($products as $product)
+                                    <div
+                                        class="product-small col has-hover product type-product post-8846 status-publish first instock product_cat-hoa-khai-truong product_cat-ke-hoa-chuc-mung product_cat-ke-hoa-chuc-mung-truyen-thong has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+                                        <div class="col-inner">
+                                            <div class="badge-container absolute left top z-1"></div>
+                                            <div class="product-small box has-hover box-normal box-text-bottom">
+                                                <div class="box-image">
+                                                    <div class="">
+                                                        <a href="/product/{{ $product->slug }}"
+                                                            aria-label="{{ $product->name }}">
+                                                            <img loading="lazy" decoding="async" width="360"
+                                                                height="450"
+                                                                src="{{ Storage::url($product->images[0]) }}"
+                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                                                alt="{{ $product->name }}"
+                                                                sizes="auto, (max-width: 360px) 100vw, 360px">
+                                                        </a>
+                                                    </div>
+                                                    <div class="image-tools top right show-on-hover"></div>
+                                                    <div
+                                                        class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+                                                    </div>
+                                                </div>
+                                                <div class="box-text text-center" style="height: 84.6797px;">
+                                                    {{ $product->code }}
+                                                    <div class="title-wrapper">
+                                                        <p class="name product-title woocommerce-loop-product__title"
+                                                            style="height: 25.4062px;">
+                                                            <a href="{{ url('/products/' . $product->slug) }}"
+                                                                class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="price-wrapper" style="height: 15.8438px;">
+                                                        <span class="price"><span
+                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
+                                                                        class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="box-text text-center"
-                                        style="height: 84.6797px;">
-                                        {{ $product->code }}
-                                        <div class="title-wrapper">
-                                            <p class="name product-title woocommerce-loop-product__title"
-                                                style="height: 25.4062px;">
-                                                <a href="{{ url('/products/' . $product->slug) }}"
-                                                    class="woocommerce-LoopProduct-link woocommerce-loop-product__link">{{ $product->name }}</a>
-                                            </p>
-                                        </div>
-                                        <div class="price-wrapper" style="height: 15.8438px;">
-                                            <span class="price"><span
-                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->price) }}&nbsp;<span
-                                                            class="woocommerce-Price-currencySymbol">VND</span></bdi></span></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                         </div>
-                             @endforeach
+                                @endforeach
                             </div>
 
                             <div class="container">
                                 <nav class="woocommerce-pagination" aria-label="Phân trang sản phẩm">
                                     <ul class="page-numbers nav-pagination links text-center">
-                                        <li><span aria-current="page" class="page-number current">1</span></li>
-                                        <li><a class="page-number"
-                                                href="https://tramhoa.com/ke-hoa-chuc-mung/page/2/">2</a></li>
-                                        <li><a class="page-number"
-                                                href="https://tramhoa.com/ke-hoa-chuc-mung/page/3/">3</a></li>
-                                        <li><a class="page-number"
-                                                href="https://tramhoa.com/ke-hoa-chuc-mung/page/4/">4</a></li>
-                                        <li><a aria-label="Tiếp theo" class="next page-number"
-                                                href="https://tramhoa.com/ke-hoa-chuc-mung/page/2/"><i
-                                                    class="icon-angle-right"></i></a></li>
+                                        {{-- Previous Page Link --}}
+                                        @if ($products->onFirstPage())
+                                            <li><span class="page-number disabled" aria-disabled="true"><i class="icon-angle-left"></i></span></li>
+                                        @else
+                                            <li>
+                                                <a class="prev page-number" href="{{ $products->previousPageUrl() }}" aria-label="Trang trước">
+                                                    <i class="icon-angle-left"></i>
+                                                </a>
+                                            </li>
+                                        @endif
+
+                                        {{-- Pagination Links --}}
+                                        @foreach ($products->links()->elements[0] as $page => $url)
+                                            @if ($page == $products->currentPage())
+                                                <li><span aria-current="page" class="page-number current">{{ $page }}</span></li>
+                                            @else
+                                                <li><a class="page-number" href="/categories/{{ $category->slug }}?page={{ $page }}">{{ $page }}</a></li>
+                                            @endif
+                                        @endforeach
+
+                                        {{-- Next Page Link --}}
+                                        @if ($products->hasMorePages())
+                                            <li>
+                                                <a class="next page-number" href="/categories/{{ $category->slug }}?page={{ $products->currentPage() + 1 }}" aria-label="Trang tiếp theo">
+                                                    <i class="icon-angle-right"></i>
+                                                </a>
+                                            </li>
+                                        @else
+                                            <li><span class="page-number disabled" aria-disabled="true"><i class="icon-angle-right"></i></span></li>
+                                        @endif
                                     </ul>
                                 </nav>
                             </div>
+
                             <div class="term-description">
-                                <div class="su-spacer" style="height:30px"></div>
-                                <p><b>Kệ hoa chúc mừng</b> khai trương tượng trưng cho sự phồn vinh kiêu hãnh, thể hiện
-                                    sự
-                                    tâm giao, niềm tin và hy vọng mong muốn quan hệ bay xa. Chính vì vậy, việc lựa chọn
-                                    màu
-                                    sắc, loài hoa<i>&#8230;</i> vô cùng quan trọng.</p>
-                                <div class="su-expand su-expand-collapsed su-expand-link-style-button"
-                                    data-height="100">
-                                    <div class="su-expand-content su-u-trim"
-                                        style="color:#333333;max-height:100px;overflow:hidden">
-                                        </p>
-                                        <p>
-                                        <figure id="attachment_32478" aria-describedby="caption-attachment-32478"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-32478"
-                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-dep.jpg"
-                                                alt="Kệ hoa chúc mừng khai trương đẹp" width="600"
-                                                height="800" />
-                                            <figcaption id="caption-attachment-32478" class="wp-caption-text">Kệ hoa
-                                                chúc mừng khai trương đẹp</figcaption>
-                                        </figure>
-                                        </p>
-                                        <p>Lựa chọn hoa chúc mừng sai trong ngày khai trương cũng có thể dẫn đến sự việc
-                                            đáng tiếc. Hãy cùng theo dõi bài viết dưới đây để tìm hiểu ý nghĩa và các
-                                            loại
-                                            <strong>kệ hoa chúc mừng</strong> được ưa chuộng hiện nay nhé.
-                                        </p>
-                                        <h2>Kệ hoa chúc mừng – món quà tinh thần ý nghĩa</h2>
-                                        <p>Từ lâu, <b>kệ hoa chúc mừng</b> đã trở thành món quà tinh thần quen thuộc
-                                            trong
-                                            các dịp khai trương, khánh thành, động thổ hay các hoạt động kinh doanh,
-                                            khởi
-                                            động dự án&#8230; Kệ hoa chúc mừng thường có 1, 2 hoặc 3 tầng tùy theo mong
-                                            muốn, nhu cầu của khách hàng. Màu sắc thường đa dạng, rực rỡ thể hiện sự
-                                            tươi
-                                            vui, mới mẻ.</p>
-                                        <p>
-                                        <figure id="attachment_32477" aria-describedby="caption-attachment-32477"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-32477"
-                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-Mon-qua-tinh-than-y-nghia.jpg"
-                                                alt="Kệ hoa chúc mừng - Món quà tinh thần ý nghĩa" width="600"
-                                                height="800" />
-                                            <figcaption id="caption-attachment-32477" class="wp-caption-text">Kệ hoa
-                                                chúc mừng &#8211; Món quà tinh thần ý nghĩa</figcaption>
-                                        </figure>
-                                        </p>
-                                        <p><b>Kệ hoa chúc mừng</b> được xem là món quà tinh thần ý nghĩa như một lời cầu
-                                            chúc suôn sẻ, thành công đối với người nhận. Nó vừa là lời chúc vừa là đồ
-                                            trang
-                                            trí buổi lễ thêm long trọng và đẹp mắt.</p>
-                                        <h2>Ý nghĩa của màu sắc các loài hoa chúc mừng</h2>
-                                        <h3>Kệ hoa chúc mừng màu đỏ</h3>
-                                        <p>
-                                        <figure id="attachment_26901" aria-describedby="caption-attachment-26901"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-26901"
-                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-do.jpg.webp"
-                                                alt="Kệ hoa chúc mừng màu đỏ" width="600" height="737" />
-                                            <figcaption id="caption-attachment-26901" class="wp-caption-text">Kệ hoa
-                                                chúc mừng màu đỏ</figcaption>
-                                        </figure>
-                                        </p>
-                                        <p>Màu đỏ của hoa tươi mang đến cảm giác năng động, nhiệt huyết, mang ý nghĩa
-                                            may
-                                            mắn, phát tài phát lộc. Nó cũng thể hiện tấm lòng của bạn mong muốn người
-                                            nhận
-                                            luôn thành công, suôn sẻ trong công việc.</p>
-                                        <h3>Kệ hoa chúc mừng màu vàng</h3>
-                                        <p>Theo phong thủy, màu vàng đại diện cho sự phấn khởi, vui vẻ, lạc quan. Màu
-                                            vàng
-                                            là màu của mặt trời, của hoàng kim đem lại cảm giác ấm áp, giàu sang. Tặng
-                                            bạn
-                                            một kệ hoa chúc mừng màu vàng như một lời chúc làm ăn phát đạt, nhiều lợi
-                                            nhuận.
-                                            Vì vậy kệ hoa chúc mừng thường mang màu vàng chủ đạo.</p>
-                                        <p>
-                                        <figure id="attachment_32473" aria-describedby="caption-attachment-32473"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-32473"
-                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-khai-truong-mau-vang-hien-dai.jpg"
-                                                alt="Kệ hoa chúc mừng khai trương màu vàng hiện đại" width="600"
-                                                height="800" />
-                                            <figcaption id="caption-attachment-32473" class="wp-caption-text">Kệ hoa
-                                                chúc mừng khai trương màu vàng hiện đại</figcaption>
-                                        </figure>
-                                        </p>
-                                        <p>&gt;&gt; Tham khảo thêm <a
-                                                href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/" target="_blank"
-                                                rel="nofollow noopener">mẫu hoa chúc mừng hiện đại nổi bật</a></p>
-                                        <h3>Kệ hoa chúc mừng màu cam</h3>
-                                        <p>Màu cam thể hiện sự năng động, sáng tạo và mới mẻ. Tặng bạn một kệ hoa chúc
-                                            mừng
-                                            màu cam tức là chúc bạn có thật nhiều năng lượng, làm việc hiệu quả, gặt hái
-                                            được nhiều thành công.</p>
-                                        <p>
-                                        <figure id="attachment_32472" aria-describedby="caption-attachment-32472"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-32472"
-                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-mau-cam.jpg"
-                                                alt="Kệ hoa chúc mừng màu cam" width="600" height="800" />
-                                            <figcaption id="caption-attachment-32472" class="wp-caption-text">Kệ hoa
-                                                chúc mừng màu cam</figcaption>
-                                        </figure>
-                                        </p>
-                                        <h3>Kệ hoa chúc mừng màu xanh</h3>
-                                        <p>
-                                        <figure id="attachment_26903" aria-describedby="caption-attachment-26903"
-                                            style="width: 575px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-26903"
-                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-mau-xanh.jpg.webp"
-                                                alt="Kệ hoa chúc mừng màu xanh" width="575" height="633" />
-                                            <figcaption id="caption-attachment-26903" class="wp-caption-text">Kệ hoa
-                                                chúc mừng màu xanh</figcaption>
-                                        </figure>
-                                        </p>
-                                        <p>Kệ hoa chúc mừng có màu xanh đại diện cho khởi đầu mới và phát triển. Người
-                                            xưa
-                                            có câu “đầu xuôi đuôi lọt”, tặng hoa màu xanh mang ý nghĩa chúc mọi điều
-                                            thuận
-                                            lợi, khởi đầu tốt đẹp.</p>
-                                        <h2><b>Những loại hoa nên tặng trong kệ hoa chúc mừng</b></h2>
-                                        <h3>Hoa đồng tiền</h3>
-                                        <p>Hoa đồng tiền thể hiện sự giàu sang, tài lộc, được sử dụng rất nhiều trong
-                                            những
-                                            dịp này. Nó còn đại diện cho hạnh phúc và may mắn. Vì vậy nên lựa chọn kệ
-                                            hoa
-                                            chúc mừng đồng tiền.</p>
-                                        <p>
-                                        <figure id="attachment_32476" aria-describedby="caption-attachment-32476"
-                                            style="width: 600px" class="wp-caption aligncenter"><img
-                                                class="size-full wp-image-32476"
-                                                src="/assets/wp-content/uploads/2023/01/Ke-hoa-chuc-mung-dong-tien-KT007.jpg"
-                                                alt="Kệ hoa chúc mừng với hoa đồng tiền làm nguyên liệu chính"
-                                                width="600" height="800" />
-                                            <figcaption id="caption-attachment-32476" class="wp-caption-text">Kệ hoa
-                                                chúc mừng với hoa đồng tiền làm nguyên liệu chính</figcaption>
-                                        </figure>
-                                        </p>
-                                        <h3>Hoa hướng dương</h3>
-                                        <p>Hoa hướng dương là loài hoa luôn hướng về phía mặt trời. Tặng hoa hướng dương
-                                            đồng nghĩa với lời chúc thành công vươn xa và ngày càng phát triển thịnh
-                                            vượng,
-                                            rực rỡ. Chính vì vậy kệ hoa chúc mừng luôn cắm hoa hướng dương ở vị trí cao
-                                            thể
-                                            hiện sự phát triển vượt bậc và con đường kinh doanh hanh thông.</p>
-                                        <h3>Hoa cát tường</h3>
-                                        <p>Theo phong thủy, hoa cát tường là hoa vượng tài, mang lại may mắn, tài lộc
-                                            cho
-                                            gia chủ. Từ ý nghĩa tên gọi đó, kệ hoa chúc mừng thường lựa chọn hoa cát
-                                            tường
-                                            làm hoa chủ đạo.</p>
-                                        <h3>Hoa lan hồ điệp</h3>
-                                        <p>Hoa lan hồ điệp được rất nhiều khách hành lựa chọn bởi nó đại diện cho sự
-                                            sang
-                                            trọng, phú quý. Lan hồ điệp có nhiều màu sắc, mỗi màu sắc mang một ý nghĩa
-                                            riêng, phù hợp với từng trường hợp khác nhau.</p>
-                                        <h2 class="wp-block-heading">Những lưu ý khi chọn mua hoa chúc mừng trên thị
-                                            trường</h2>
-                                        <p>Ngày nay, việc đặt mua hoa để dành tặng vào các ngày <strong>27/2, 8/3,
-                                                22/12,
-                                                ngày sinh nhật, khai trương, tốt nghiệp</strong> khá phổ biến. Bên cạnh
-                                            đó
-                                            vẫn có những người lần đầu đi mua hoa, ít nhiều cũng sẽ lăn tăn về cách chọn
-                                            hoa
-                                            cho phù hợp. Một vài lưu ý dưới đây sẽ giúp bạn cải thiện điều đó:</p>
-                                        <ul class="wp-block-list">
-                                            <li>Nên chọn <strong>hoa chúc mừng</strong> còn tươi mới, màu sắc nổi bật.
-                                                Hạn
-                                                chế mua hoa đã được làm sẵn hoặc hoa để quá lâu bởi chúng sẽ nhanh héo
-                                                và
-                                                giảm mùi hương, vẻ đẹp vốn có.</li>
-                                            <li>Tùy vào túi tiền, sở thích của bạn và cả đối tượng được tặng, mục đích
-                                                của
-                                                việc tặng hoa mà bạn chọn mẫu hoa, hình thức bông, bó hay lẵng hoa với
-                                                số
-                                                lượng phù hợp. Ví dụ như <strong><a class="rank-math-link"
-                                                        href="https://tramhoa.com/hoa-khai-truong/">hoa chúc mừng khai
-                                                        trương</a></strong> thì nên chọn lẵng, <strong><a
-                                                        class="rank-math-link"
-                                                        href="https://tramhoa.com/hoa-sinh-nhat/">hoa chúc mừng sinh
-                                                        nhật</a></strong> thì tặng bó hoa hoặc giỏ hoa,&#8230;</li>
-                                        </ul>
-                                        <p><img class="wp-image-26971 size-full"
-                                                src="/assets/wp-content/uploads/2021/03/ke-hoa-chuc-mung-nghe-thuat-hien-dai.jpg.webp"
-                                                alt="Kệ hoa chúc mừng nghệ thuật sang trọng" width="580"
-                                                height="639" />Thực ra, giá trị của một món quà đôi khi không thể
-                                            hiện
-                                            qua số tiền nhiều hay ít mà tùy từng hoàn cảnh nên lấy ý nghĩa của nó để làm
-                                            thước đo giá trị. Vì vậy, khi <strong>chọn hoa chúc mừng</strong> nên chọn
-                                            lọc
-                                            dựa trên các tiêu chí: tính nghệ thuật, sự hấp dẫn, sự sinh động, độc đáo…
-                                            để
-                                            làm vui lòng, tạo ấn tượng với người nhận, nâng cao giá trị của bản thân.
-                                        </p>
-                                        <h2>Địa chỉ mua kệ hoa chúc mừng đẹp, sang trọng<b><br />
-                                            </b></h2>
-                                        <p><strong>Kệ hoa chúc mừng</strong> là món quà không thể thiếu trong các dịp
-                                            khai
-                                            trương, khánh thành,&#8230; Nếu bạn đang có ý định đặt mua kệ hoa chúc mừng
-                                            hãy
-                                            liên hệ ngay với chúng tôi. Đến với Trạm hoa, bạn sẽ có rất nhiều sự lựa
-                                            chọn
-                                            những kệ hoa đẹp, độc đáo và ý nghĩa. Trạm hoa luôn mong muốn đáp ứng mọi
-                                            nhu
-                                            cầu của khách hàng. Nếu bạn cần đặt hoa tươi, hãy gọi Trạm hoa tại Hotline
-                                            <a href="tel:+84348278722">034 827 8722</a>.</p>
-                                        <p>
-                                    </div>
-                                    <div class="su-expand-link su-expand-link-more" style="text-align:center"><a
-                                            href="javascript:;" style="color:#1bbc9b;border-color:#1bbc9b"><i
-                                                class="sui sui-chevron-down" style="" aria-label=""></i><span
-                                                style="border-color:#1bbc9b">Xem thêm</span></a></div>
-                                    <div class="su-expand-link su-expand-link-less" style="text-align:center"><a
-                                            href="javascript:;" style="color:#1bbc9b;border-color:#1bbc9b"><i
-                                                class="sui sui-chevron-up" style="" aria-label=""></i><span
-                                                style="border-color:#1bbc9b">Rút gọn</span></a></div>
-                                </div>
-                            </div>
+                                {!! $category->description !!} </div>
                         </div>
                     </div>
                 </div>
             </main>
-            <footer id="footer" class="footer-wrapper">
-                <div class="footer-widgets footer footer-2 ">
-                    <div class="row large-columns-1 mb-0">
-                        <div id="block_widget-5" class="col pb-0 widget block_widget">
-                            <div class="row row-small" id="row-1045196398">
-                                <div id="col-774128695" class="col medium-3 small-12 large-3">
-                                    <div class="col-inner">
-                                        <h4><span data-text-color="primary">Cơ sở chính</span></h4>
-                                        <ul>
-                                            <li><strong>VP TP.HCM</strong>: 443/56 Điện Biên Phủ, Phường 3, Quận 3</li>
-                                            <li><strong>VP Hà Nội</strong>: Số 7 Ngách 24 Ngõ 165 Đường Cầu Giấy, Q. Cầu
-                                                Giấy</li>
-                                            <li><strong>VP Đà Nẵng</strong>: 55a Đống Đa, P. Thạch Thang, Q. Hải Châu
-                                            </li>
-                                            <li><strong>VP Nha Trang</strong>: 54 Nguyễn Đức Cảnh, Phước Trung, Nha
-                                                Trang
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div id="col-1054236237" class="col medium-3 small-12 large-3">
-                                    <div class="col-inner">
-                                        <h4><span data-text-color="primary">Cơ sở khác</span></h4>
-                                        <ul>
-                                            <li><strong>Đồng Nai</strong>: <span class="LrzXr">Số 40/1, kp 1, p. Bình
-                                                    Đa,
-                                                    Tp. Biên Hòa, Đồng Nai</span></li>
-                                            <li><strong>Bình Dương</strong>: 1 Đại lộ Bình Dương, Thuận Giao, Thuận An
-                                            </li>
-                                            <li><strong>Cần Thơ</strong>: <span class="LrzXr">68 Đường CMT8, P. Thới
-                                                    Bình, Q. Ninh Kiều</span></li>
-                                            <li><strong>Ninh Thuận</strong>: 57 21 Tháng 8, Phủ Hà, Phan Rang - Tháp
-                                                Chàm
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div id="col-1416222136" class="col medium-3 small-12 large-3">
-                                    <div class="col-inner">
-                                        <ul>
-                                            <li><strong>Quảng Ngãi</strong>: 641 Quang Trung, Nghĩa Chánh Bắc, Quảng
-                                                Ngãi
-                                            </li>
-                                            <li><strong>Vũng Tàu</strong>: 783 Đường 30/4, Phường Rạch Dừa, TP. Vũng Tàu
-                                            </li>
-                                            <li><strong>Long An</strong>: 06 <span class="LrzXr">Nguyễn Đình Chiểu,
-                                                    P.1 ,
-                                                    Tân An</span></li>
-                                            <li><strong>Kiên Giang:</strong> 150 Đống Đa, P. Vĩnh Lạc, Rạch Giá</li>
-                                            <li><strong><a href="https://tramhoa.com/chi-nhanh/">&gt; Xem thêm chi
-                                                        nhánh
-                                                        shop hoa</a></strong></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div id="col-934607896" class="col medium-3 small-12 large-3">
-                                    <div class="col-inner">
-                                        <h4>Liên kết hữu ích</h4>
-                                        <ul>
-                                            <li><a href="/huong-dan-dat-hoa/">Hướng dẫn đặt hoa </a></li>
-                                            <li><a href="/huong-dan-thanh-toan/">Hướng dẫn thanh toán</a></li>
-                                            <li><a href="/quy-dinh-van-chuyen/">Quy định vận chuyển</a></li>
-                                            <li><a href="/khuyen-mai/">Chương trình khuyến mãi</a></li>
-                                            <li><a href="https://tramhoa.com/danh-gia-hinh-anh-thuc-te/">Hình ảnh thực
-                                                    tế</a></li>
-                                            <li><a href="https://tramhoa.com/doi-tac-tieu-bieu/">Đối tác tiêu biểu</a>
-                                            </li>
-                                            <li><a href="https://tramhoa.com/y-nghia-hoa/">Blog - Chuyện về hoa</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <style>
-                                    #row-1045196398>.col>.col-inner {
-                                        padding: 0px 0px 0 0px;
-                                    }
-                                </style>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="absolute-footer dark medium-text-center small-text-center">
-                    <div class="container clearfix">
-                        <div class="footer-secondary pull-right">
-                            <div class="footer-text inline-block small-block">
-                                Copyright 2024 © <strong>Trạm Hoa</strong><br />
-                                <a href="//www.dmca.com/Protection/Status.aspx?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
-                                    title="DMCA.com Protection Status" class="dmca-badge"> <img
-                                        src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=bcd27485-d156-4a83-a8a1-4130b07b2bb7"
-                                        alt="DMCA.com Protection Status" /></a>
-                                <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
-                            </div>
-                        </div>
-                        <div class="footer-primary pull-left">
-                            <div class="menu-foot-menu-container">
-                                <ul id="menu-foot-menu" class="links footer-nav uppercase">
-                                    <li id="menu-item-4088"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4088">
-                                        <a href="https://tramhoa.com/gioi-thieu/">Giới thiệu</a></li>
-                                    <li id="menu-item-4497"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4497">
-                                        <a href="https://tramhoa.com/lien-he/">Liên hệ</a></li>
-                                    <li id="menu-item-4084"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4084">
-                                        <a href="https://tramhoa.com/thac-mac-khi-dat-hoa/">Câu hỏi thường gặp</a></li>
-                                    <li id="menu-item-4085"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4085">
-                                        <a rel="privacy-policy" href="https://tramhoa.com/chinh-sach-bao-mat/">Bảo
-                                            Mật</a>
-                                    </li>
-                                    <li id="menu-item-29871"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29871">
-                                        <a href="https://tramhoa.com/chinh-sach-doi-tra/">Đổi Trả</a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="copyright-footer">
-                                <strong> CÔNG TY TNHH HOA PHÚC NIÊN </strong><br />
-                                <strong>MST 0318559939 </strong><br />
-                                Số điện thoại: <a href="tel:0348278722">034 827 87 22</a><br />
-                                Email: <a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a><br />
-                                Thời gian làm việc: 07:00 - 20:30, Thứ Hai - Chủ Nhật<br />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            @livewire('new.inc.footer')
         </div>
-        <div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide mobile-sidebar-slide mobile-sidebar-levels-1"
-            data-levels="1">
-            <div class="sidebar-menu no-scrollbar ">
-                <ul class="nav nav-sidebar nav-vertical nav-uppercase nav-slide" data-tab="1">
-                    <li class="html custom html_topbar_right"><strong class="uppercase" style="color: #1bbc9b">Danh
-                            mục hoa</strong></li>
-                    <li id="menu-item-38356"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-ancestor current-menu-parent menu-item-has-children menu-item-38356">
-                        <a href="https://tramhoa.com/hoa-khai-truong/">Hoa Khai Trương</a>
-                        <ul class="sub-menu nav-sidebar-ul children">
-                            <li id="menu-item-22020"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-has-children menu-item-22020">
-                                <a href="https://tramhoa.com/ke-hoa-chuc-mung/" aria-current="page">Kệ hoa chúc
-                                    mừng</a>
-                                <ul class="sub-menu nav-sidebar-ul">
-                                    <li id="menu-item-31277"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31277">
-                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-hien-dai/">Phong Cách Hiện
-                                            Đại</a>
-                                    </li>
-                                    <li id="menu-item-31276"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31276">
-                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-truyen-thong/">Phong Cách Truyền
-                                            Thống</a>
-                                    </li>
-                                    <li id="menu-item-31275"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31275">
-                                        <a href="https://tramhoa.com/ke-hoa-chuc-mung-nghe-thuat/">Phong Cách Nghệ
-                                            Thuật</a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-7767"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7767">
-                        <a href="https://tramhoa.com/hoa-chia-buon/">Hoa chia buồn</a>
-                        <ul class="sub-menu nav-sidebar-ul children">
-                            <li id="menu-item-30978"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30978">
-                                <a href="#">Hoa Tang Lễ</a>
-                                <ul class="sub-menu nav-sidebar-ul">
-                                    <li id="menu-item-30985"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30985">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-trang/">⚪ Vòng Hoa Tang Trắng</a>
-                                    </li>
-                                    <li id="menu-item-30984"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30984">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-tim/">🟣 Vòng Hoa Tang Tím</a>
-                                    </li>
-                                    <li id="menu-item-30986"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30986">
-                                        <a href="https://tramhoa.com/vong-hoa-tang-vang/">🟡 Vòng Hoa Tang Vàng</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-30983"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30983">
-                                <a href="#">Danh Mục Khác</a>
-                                <ul class="sub-menu nav-sidebar-ul">
-                                    <li id="menu-item-30982"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30982">
-                                        <a href="https://tramhoa.com/hoa-chia-buon-nghe-thuat/">Hoa Chia Buồn Nghệ
-                                            Thuật</a>
-                                    </li>
-                                    <li id="menu-item-29601"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29601">
-                                        <a href="https://tramhoa.com/hoa-dam-tang-nguoi-gia/">Hoa Đám Tang Người
-                                            Già</a>
-                                    </li>
-                                    <li id="menu-item-30987"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30987">
-                                        <a href="https://tramhoa.com/vong-hoa-dam-tang-cong-giao/">✝️ Vòng Hoa Đám Tang
-                                            Công Giáo</a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-7780"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7780">
-                        <a href="https://tramhoa.com/hoa-sinh-nhat/">Hoa sinh nhật</a>
-                        <ul class="sub-menu nav-sidebar-ul children">
-                            <li id="menu-item-7781"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7781">
-                                <a href="https://tramhoa.com/hoa-sinh-nhat-ba-me/">Sinh nhật ba mẹ</a></li>
-                            <li id="menu-item-7782"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7782">
-                                <a href="https://tramhoa.com/hoa-sinh-nhat-nguoi-yeu/">Sinh nhật người yêu</a></li>
-                            <li id="menu-item-7784"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7784">
-                                <a href="https://tramhoa.com/hoa-sinh-nhat-khach-hang/">Sinh nhật khách hàng</a></li>
-                            <li id="menu-item-28141"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-28141">
-                                <a href="https://tramhoa.com/hoa-sinh-nhat-tang-sep/">Sinh nhật sếp</a></li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-29236"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29236"><a
-                            href="https://tramhoa.com/hoa-tinh-yeu/">Hoa Tình Yêu</a></li>
-                    <li id="menu-item-7775"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-7775">
-                        <a href="https://tramhoa.com/bo-hoa-tuoi/">Bó hoa</a>
-                        <ul class="sub-menu nav-sidebar-ul children">
-                            <li id="menu-item-29234"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29234">
-                                <a href="https://tramhoa.com/bo-hoa-hong/">Bó Hoa Hồng</a></li>
-                            <li id="menu-item-29198"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29198">
-                                <a href="https://tramhoa.com/bo-hoa-huong-duong/">Bó Hoa Hướng Dương</a></li>
-                            <li id="menu-item-29233"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29233">
-                                <a href="https://tramhoa.com/bo-hoa-baby/">Bó Hoa Baby</a></li>
-                            <li id="menu-item-29194"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29194">
-                                <a href="https://tramhoa.com/bo-hoa-cuc-mau-don/">Bó Hoa Cúc Mẫu Đơn</a></li>
-                            <li id="menu-item-7779"
-                                class="label-hot menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7779">
-                                <a href="https://tramhoa.com/bo-hoa-khong-lo/">Bó Hoa Khổng Lồ</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li id="menu-item-7776"
-                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7776"><a
-                            href="https://tramhoa.com/gio-hoa-tuoi/">Giỏ hoa</a></li>
-                    <li class="html header-social-icons ml-0">
-                        <div class="social-icons follow-icons"><a href="http://facebook.com/tramhoavn/"
-                                target="_blank" data-label="Facebook" class="icon plain facebook tooltip"
-                                title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
-                                rel="noopener nofollow"><i class="icon-facebook"></i></a><a
-                                href="http://instagram.com/tramhoavn/" target="_blank" data-label="Instagram"
-                                class="icon plain instagram tooltip" title="Theo dõi trên Instagram"
-                                aria-label="Theo dõi trên Instagram" rel="noopener nofollow"><i
-                                    class="icon-instagram"></i></a><a href="https://www.tiktok.com/@www.tramhoa.com"
-                                target="_blank" data-label="TikTok" class="icon plain tiktok tooltip"
-                                title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok"
-                                rel="noopener nofollow"><i class="icon-tiktok"></i></a><a
-                                href="https://twitter.com/tramhoavn/" data-label="Twitter" target="_blank"
-                                class="icon plain twitter tooltip" title="Theo dõi trên Twitter"
-                                aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i
-                                    class="icon-twitter"></i></a><a href="https://www.pinterest.com/tramhoavn/"
-                                data-label="Pinterest" target="_blank" class="icon plain pinterest tooltip"
-                                title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
-                                rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                href="https://vn.linkedin.com/company/tramhoavn/" data-label="LinkedIn"
-                                target="_blank" class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
-                                aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
-                                    class="icon-linkedin"></i></a><a
-                                href="https://www.youtube.com/channel/UCruCBL76C_O-B7G8oXKIeMQ" data-label="YouTube"
-                                target="_blank" class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
-                                aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
-                                    class="icon-youtube"></i></a><a href="https://www.flickr.com/photos/tramhoavn/"
-                                data-label="Flickr" target="_blank" class="icon plain flickr tooltip" title="Flickr"
-                                aria-label="Flickr" rel="noopener nofollow"><i class="icon-flickr"></i></a><a
-                                href="https://500px.com/p/tramhoavn" data-label="500px" target="_blank"
-                                class="icon plain px500 tooltip" title="Theo dõi trên 500px"
-                                aria-label="Theo dõi trên 500px" rel="noopener nofollow"><i
-                                    class="icon-500px"></i></a><a href="https://vk.com/tramhoavn"
-                                data-label="VKontakte" target="_blank" class="icon plain vk tooltip"
-                                title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
-                                rel="noopener nofollow"><i class="icon-vk"></i></a></div>
-                    </li>
-                    <li class="header-search-form search-form html relative has-icon">
-                        <div class="header-search-form-wrapper">
-                            <div class="searchform-wrapper ux-search-box relative form-flat is-normal">
-                                <form role="search" method="get" class="searchform"
-                                    action="https://tramhoa.com/">
-                                    <div class="flex-row relative">
-                                        <div class="flex-col flex-grow">
-                                            <label class="screen-reader-text"
-                                                for="woocommerce-product-search-field-1">Tìm kiếm:</label>
-                                            <input type="search" id="woocommerce-product-search-field-1"
-                                                class="search-field mb-0" placeholder="Nhập từ khóa cần tìm"
-                                                value="" name="s" />
-                                            <input type="hidden" name="post_type" value="product" />
-                                        </div>
-                                        <div class="flex-col">
-                                            <button type="submit" value="Tìm kiếm"
-                                                class="ux-search-submit submit-button secondary button  icon mb-0"
-                                                aria-label="Gửi">
-                                                <i class="icon-search"></i> </button>
-                                        </div>
-                                    </div>
-                                    <div class="live-search-results text-left z-top"></div>
-                                </form>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        @livewire('new.inc.menu')
         <script type="text/javascript" src="data:text/javascript;base64,dmFyIHhsd2N0eV9pbmZvPVtd" defer></script>
         <script
             src="data:text/javascript;base64,KGZ1bmN0aW9uKCQpe2lmKCQoJ2JvZHknKS5oYXNDbGFzcygnc2luZ2xlLXBvc3QnKSl7JCgnI3JhbmstbWF0aC1mYXEnKS5wcmVwZW5kKCc8aDMgY2xhc3M9InJhbmstbWF0aC10aXRsZSI+Q8OidSBo4buPaSB0aMaw4budbmcgZ+G6t3A8L2gzPicpOyQoJy5yYW5rLW1hdGgtcXVlc3Rpb24nKS5jbGljayhmdW5jdGlvbihldmVudCl7aWYoISQodGhpcykucGFyZW50KCkuZmluZCgnLnJhbmstbWF0aC1hbnN3ZXIgJykuaXMoIjp2aXNpYmxlIikpeyQoJy5yYW5rLW1hdGgtcXVlc3Rpb24nKS5yZW1vdmVDbGFzcygnZmFxLWFjdGl2ZScpOyQodGhpcykuYWRkQ2xhc3MoJ2ZhcS1hY3RpdmUnKTskKCcucmFuay1tYXRoLWFuc3dlciAnKS5oaWRlKCl9ZWxzZXskKHRoaXMpLnJlbW92ZUNsYXNzKCdmYXEtYWN0aXZlJyl9CiQodGhpcykucGFyZW50KCkuZmluZCgnLnJhbmstbWF0aC1hbnN3ZXIgJykudG9nZ2xlKDMwMCl9KX19KShqUXVlcnkp"
@@ -2306,8 +1336,8 @@
                                                 class="screen-reader-text">Bắt buộc</span></label>
                                         <input type="text"
                                             class="woocommerce-Input woocommerce-Input--text input-text"
-                                            name="username" id="username" autocomplete="username"
-                                            value="" required aria-required="true" />
+                                            name="username" id="username" autocomplete="username" value=""
+                                            required aria-required="true" />
                                     </p>
                                     <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
                                         <label for="password">Mật khẩu&nbsp;<span class="required"
@@ -2321,13 +1351,12 @@
                                         <label
                                             class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
                                             <input class="woocommerce-form__input woocommerce-form__input-checkbox"
-                                                name="rememberme" type="checkbox" id="rememberme"
-                                                value="forever" />
+                                                name="rememberme" type="checkbox" id="rememberme" value="forever" />
                                             <span>Ghi nhớ mật khẩu</span>
                                         </label>
                                         <input type="hidden" id="woocommerce-login-nonce"
-                                            name="woocommerce-login-nonce" value="290ad62291" /><input
-                                            type="hidden" name="_wp_http_referer" value="/ke-hoa-chuc-mung/" />
+                                            name="woocommerce-login-nonce" value="290ad62291" /><input type="hidden"
+                                            name="_wp_http_referer" value="/ke-hoa-chuc-mung/" />
                                         <button type="submit"
                                             class="woocommerce-button button woocommerce-form-login__submit"
                                             name="login" value="Đăng nhập">Đăng nhập</button>

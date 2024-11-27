@@ -1359,7 +1359,7 @@
                                                             class="product-small box has-hover box-normal box-text-bottom">
                                                             <div class="box-image">
                                                                 <div class="">
-                                                                    <a href="https://tramhoa.com/hoa-sinh-nhat/hoa-sinh-nhat-nguoi-yeu/i-love-you-b025/"
+                                                                    <a href="/product/{{ $product->slug }}"
                                                                         aria-label="I Love You">
                                                                         <img loading="lazy" decoding="async"
                                                                             width="360" height="450"

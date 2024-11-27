@@ -2743,7 +2743,7 @@
 
                                                         <div class="wc-proceed-to-checkout">
 
-                                                            <a href="https://tramhoa.com/thanh-toan/"
+                                                            <a href="/thanh-toan/"
                                                                 class="checkout-button button alt wc-forward">
                                                                 Tiếp tục</a>
                                                         </div>

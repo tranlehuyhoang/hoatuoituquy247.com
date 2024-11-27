@@ -21,6 +21,7 @@ use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
+use Filament\Forms\Components\Select;
 use Illuminate\Support\Str;
 
 class CategoryResource extends Resource
@@ -61,6 +62,12 @@ class CategoryResource extends Resource
                             ->unique(Category::class, ignoreRecord: true)
                             ->helperText('Slug tự động được tạo từ tên danh mục. Không cần nhập thủ công.'),
 
+                            Select::make('by_cat')
+                            ->required()
+                            ->label('Danh Mục')
+                            ->options(Category::all()->pluck('name', 'id'))
+                            ->placeholder('Chọn danh mục cha'),
+
                         Textarea::make('description')
                             ->label('Mô tả') // Đổi nhãn sang tiếng Việt
                             ->required()
@@ -96,8 +103,11 @@ class CategoryResource extends Resource
                 TextColumn::make('slug')
                     ->label('Slug') // Đổi nhãn sang tiếng Việt
                     ->searchable(),
-
-
+                TextColumn::make('by_cat')
+                    ->label('Danh Mục Cha')
+                    ->getStateUsing(function (Category $record) {
+                        return $record->by_cat ? Category::find($record->by_cat)->name : 'Không có';
+                    }),
                 TextColumn::make('product_count')
                     ->label('Số Sản Phẩm')
                     ->getStateUsing(function (Category $record) {

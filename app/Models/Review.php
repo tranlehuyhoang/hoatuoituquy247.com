@@ -17,7 +17,7 @@ class Review extends Model
         'name', // Tên người đánh giá
         'phone', // Số điện thoại
         'email', // Email
-        'image_path', // Đường dẫn đến hình ảnh
+
     ];
 
     // Quan hệ với model Product
