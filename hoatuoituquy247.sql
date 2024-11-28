@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 28, 2024 at 12:53 PM
+-- Generation Time: Nov 28, 2024 at 03:30 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -6983,14 +6983,20 @@ CREATE TABLE `addresses` (
   `id` bigint(20) UNSIGNED NOT NULL,
   `full_name` varchar(255) NOT NULL,
   `phone` varchar(255) NOT NULL,
-  `province` varchar(255) NOT NULL,
-  `district` varchar(255) NOT NULL,
-  `ward` varchar(255) NOT NULL,
   `detailed_address` text NOT NULL,
   `order_id` bigint(20) UNSIGNED NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `addresses`
+--
+
+INSERT INTO `addresses` (`id`, `full_name`, `phone`, `detailed_address`, `order_id`, `created_at`, `updated_at`) VALUES
+(88, '', '', '', 89, '2024-11-28 13:02:26', '2024-11-28 13:02:26'),
+(89, '', '', '', 90, '2024-11-28 13:30:54', '2024-11-28 13:30:54'),
+(90, '', '', 'Trần Lê Huy Hoàng', 92, '2024-11-28 14:28:41', '2024-11-28 14:28:41');
 
 -- --------------------------------------------------------
 
@@ -7063,14 +7069,6 @@ CREATE TABLE `cache` (
   `value` mediumtext NOT NULL,
   `expiration` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `cache`
---
-
-INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1732793540),
-('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1732793540;', 1732793540);
 
 -- --------------------------------------------------------
 
@@ -7800,8 +7798,22 @@ CREATE TABLE `orders` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   `order_code` varchar(255) DEFAULT NULL,
-  `profit_loss` decimal(30,2) NOT NULL DEFAULT 0.00
+  `profit_loss` decimal(30,2) NOT NULL DEFAULT 0.00,
+  `ho_ten_nguoi_nhan` varchar(255) NOT NULL,
+  `sdt_nguoi_nhan` varchar(255) NOT NULL,
+  `ngay_giao_hoa` varchar(255) NOT NULL,
+  `time_giao_hoa` varchar(255) NOT NULL,
+  `thong_diep` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `orders`
+--
+
+INSERT INTO `orders` (`id`, `user_id`, `grand_total`, `payment_method`, `payment_status`, `status`, `currency`, `shipping_amount`, `shipping_method`, `notes`, `created_at`, `updated_at`, `order_code`, `profit_loss`, `ho_ten_nguoi_nhan`, `sdt_nguoi_nhan`, `ngay_giao_hoa`, `time_giao_hoa`, `thong_diep`) VALUES
+(89, 1, 3000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', '$this->note', '2024-11-28 13:02:26', '2024-11-28 13:02:26', 'WEB036725068793', 0.00, '', '', '', '', NULL),
+(90, 1, 3000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'việt nam', '2024-11-28 13:30:54', '2024-11-28 13:30:54', 'WEB032313914686', 0.00, '', '', '', '', NULL),
+(92, 1, 15000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'Trần Lê Huy Hoàng', '2024-11-28 14:28:41', '2024-11-28 14:28:41', 'WEB035894622162', 0.00, 'Trần Lê Huy Hoàng', 'Trần Lê Huy Hoàng', '2024-11-21', '13:00 - 17:00', '123123');
 
 -- --------------------------------------------------------
 
@@ -7817,8 +7829,17 @@ CREATE TABLE `order_items` (
   `total_amount` decimal(30,2) DEFAULT 0.00,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
-  `product_id` int(11) DEFAULT NULL
+  `product_id` int(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `order_items`
+--
+
+INSERT INTO `order_items` (`id`, `order_id`, `quantity`, `unit_amount`, `total_amount`, `created_at`, `updated_at`, `product_id`) VALUES
+(96, 89, 1, 3000.00, 3000.00, '2024-11-28 13:02:26', '2024-11-28 13:02:26', 630),
+(97, 90, 1, 3000.00, 3000.00, '2024-11-28 13:30:54', '2024-11-28 13:30:54', 605),
+(98, 92, 5, 3000.00, 15000.00, '2024-11-28 14:28:41', '2024-11-28 14:28:41', 605);
 
 -- --------------------------------------------------------
 
@@ -7929,7 +7950,8 @@ CREATE TABLE `reviews` (
 INSERT INTO `reviews` (`id`, `product_id`, `rating`, `comment`, `name`, `email`, `created_at`, `updated_at`) VALUES
 (8, 607, 5, '123', '123', 'trangiangzxc@gmail.com', '2024-11-27 05:02:44', '2024-11-27 05:02:44'),
 (9, 607, 5, '123', '123', 'trangiangzxc@gmail.com', '2024-11-27 05:03:49', '2024-11-27 05:03:49'),
-(10, 607, 5, '123123', '123', 'trangiangzxc@gmail.com', '2024-11-27 05:04:41', '2024-11-27 05:04:41');
+(10, 607, 5, '123123', '123', 'trangiangzxc@gmail.com', '2024-11-27 05:04:41', '2024-11-27 05:04:41'),
+(11, 610, 4, '123', '123', 'trangiangzxc@gmail.com', '2024-11-28 11:58:06', '2024-11-28 11:58:06');
 
 -- --------------------------------------------------------
 
@@ -7951,8 +7973,8 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('KM3hq8w8RXr2vXoGsshLNg9N33h6Loh9aOfU06Vf', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoieW9TZnFSdUk2WjY4MnlxdmRuVnBobTNTTmhxeWxWdTRlMXprbU83USI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9naW9pLXRoaWV1Ijt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1732794665),
-('S3yJr3r5OQQFzr4fJizpeNyraxIioMXR0FMIQfxA', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiVng0OE9vbjBQUjZDczVxaHhyYURKUWtwSHhoaUJFZExVZ1dTSlJoSCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1732793058);
+('3fsBgf2Ih2FPNkK7GSSId3WtthRMaXsZnhddlGGC', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiT3JwcWFTeVBiQlBZcENNNnRWUU5mYUZrV0x2Z3ZBOWFscmRCUlM1WiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFuaC10b2FuIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1732802680),
+('KM3hq8w8RXr2vXoGsshLNg9N33h6Loh9aOfU06Vf', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo4OntzOjY6Il90b2tlbiI7czo0MDoieW9TZnFSdUk2WjY4MnlxdmRuVnBobTNTTmhxeWxWdTRlMXprbU83USI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFuaC10b2FuIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9czo2OiJ0YWJsZXMiO2E6MTp7czozMDoiTGlzdE9yZGVySXRlbXNfdG9nZ2xlZF9jb2x1bW5zIjthOjI6e3M6MTA6ImNyZWF0ZWRfYXQiO2I6MTtzOjEwOiJ1cGRhdGVkX2F0IjtiOjE7fX19', 1732804197);
 
 -- --------------------------------------------------------
 
@@ -8326,7 +8348,7 @@ ALTER TABLE `activity_history`
 -- AUTO_INCREMENT for table `addresses`
 --
 ALTER TABLE `addresses`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=85;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=91;
 
 --
 -- AUTO_INCREMENT for table `blogs`
@@ -8368,13 +8390,13 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `orders`
 --
 ALTER TABLE `orders`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=86;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=93;
 
 --
 -- AUTO_INCREMENT for table `order_items`
 --
 ALTER TABLE `order_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=94;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=99;
 
 --
 -- AUTO_INCREMENT for table `products`
@@ -8392,7 +8414,7 @@ ALTER TABLE `product_variants`
 -- AUTO_INCREMENT for table `reviews`
 --
 ALTER TABLE `reviews`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `settings`

@@ -94,13 +94,13 @@ class OrderResource extends Resource
                                 ->numeric() // Chuyển thành input dạng số
                                 ->required()
                                 ->default(0),
-                                
+
                             TextInput::make('grand_total')
                                 ->label('Tổng Cộng') // Đổi nhãn sang tiếng Việt
                                 ->numeric() // Chuyển thành input dạng số
                                 ->required()
                                 ->default(0),
-                                
+
 
                             ToggleButtons::make('status')
                                 ->inline()
@@ -140,10 +140,9 @@ class OrderResource extends Resource
                             Repeater::make('items')
                                 ->relationship()
                                 ->schema([
-                                    Select::make('product_variant_id')
+                                    Select::make('product_id')
                                         ->label('Sản Phẩm') // Đổi nhãn sang tiếng Việt
-                                        ->relationship('product_variant', 'sku')
-                                        ->searchable()
+                                        ->relationship('product', 'name')
                                         ->preload()
                                         ->required()
                                         ->distinct()
@@ -215,7 +214,7 @@ class OrderResource extends Resource
                     TextColumn::make('address.phone')
                     ->label('Số Điện Thoại')
                     ->searchable(),
-                
+
                 TextColumn::make('user.name')
                     ->label('Khách Hàng') // Đổi nhãn sang tiếng Việt
                     ->sortable()
@@ -227,15 +226,6 @@ class OrderResource extends Resource
                     ->sortable()
                     ->money('VND'),
 
-                TextColumn::make('profit_loss')
-                    ->label('Lợi nhuận') // Đổi nhãn sang tiếng Việt
-                    ->sortable()
-                    ->formatStateUsing(function ($state) {
-                        // Định dạng số thành tiền tệ Việt Nam
-                        $formattedAmount = number_format($state, 0, ',', ','); // Định dạng theo kiểu 000.000
-                        return "<span style='color: green;'>₫$formattedAmount</span>"; // Đổi màu chữ thành xanh
-                    })
-                    ->html(), // Cho phép HTML trong cột
 
                 TextColumn::make('payment_method')
                     ->label('Phương Thức Thanh Toán') // Đổi nhãn sang tiếng Việt
@@ -244,7 +234,7 @@ class OrderResource extends Resource
                     ->formatStateUsing(fn($state) => match ($state) {
                         'cod' => 'Giao hàng và thu tiền tại nhà (COD)',
                         'bank' => 'Ngân hàng',
-                  
+
                         default => 'Chưa xác định', // Xử lý trường hợp không hợp lệ
                     }),
 
@@ -265,15 +255,6 @@ class OrderResource extends Resource
                     ->searchable()
                     ->sortable(),
 
-                TextColumn::make('shipping_method')
-                    ->label('Phương Thức Vận Chuyển')
-                    ->sortable()
-                    ->searchable()
-                    ->formatStateUsing(fn($state) => match ($state) {
-                        'in_store_pickup' => 'Nhận tại cửa hàng',
-                        'home_delivery' => 'Giao hàng tận nơi',
-                        default => 'Chưa xác định',
-                    }),
 
                 TextColumn::make('shipping_amount')
                     ->label('Phí Vận Chuyển') // Đổi nhãn sang tiếng Việt

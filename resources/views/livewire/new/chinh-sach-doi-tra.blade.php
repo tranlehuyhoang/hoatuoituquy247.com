@@ -1090,7 +1090,7 @@
                                     <li>Các trường hợp bất khả kháng khác được sự đồng ý của cả 2 bên.</li>
                                 </ul>
                                 <p>Mọi thắc mắc của khách hàng chúng tôi sẽ cố gắng giải quyết một cách tốt nhất. bạn nên
-                                    liên hệ với chúng tôi ngay lập tức qua số điện thoại <strong>034 827 87 22</strong></p>
+                                    liên hệ với chúng tôi ngay lập tức qua số điện thoại <strong>085 311 41 14</strong></p>
                                 <p>Hoa Tươi Tứ Quý chân thành cảm ơn quý khách hàng đã tin tưởng và ủng hộ sản phẩm</p>
                             </div>
                         </div>
@@ -1215,7 +1215,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0348278722" target="_blank" rel="nofollow"></a>
+                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

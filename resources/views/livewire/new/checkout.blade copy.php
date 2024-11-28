@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Giới Thiệu - Hoa Tươi Tứ Quý</title>
+        <title>Thanh toán - Hoa Tươi Tứ Quý</title>
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
         <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=8e60d746741250b4dd4e' />
@@ -412,7 +412,6 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1041,81 +1040,469 @@
                 style="display:none;visibility:hidden"></iframe></noscript>
         <script type="text/javascript"
             src="data:text/javascript;base64,Z3RhZygiZXZlbnQiLCJwYWdlX3ZpZXciLHtzZW5kX3RvOiJHTEEifSk=" defer></script> <a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
-        <div id="wrapper">
-            @livewire('new.inc.header')
 
-            <main id="main" class="">
-                <div id="content" class="content-area page-wrapper" role="main">
-                    <div class="row row-main">
-                        <div class="large-12 col">
-                            <div class="col-inner">
-                                <div class="container section-title-container">
-                                    <h1 class="section-title section-title-center"><b></b><span
-                                            class="section-title-main">Liên Hệ</span><b></b></h1>
-                                </div>
-                                <div class="row" id="row-166819744">
-                                    <div id="col-668578789" class="col medium-8 small-12 large-8">
-                                        <div class="col-inner">
-                                            <p>Trường hợp có bất kỳ thắc mắc nào, bạn có thể liên hệ trực tiếp qua số
-                                                điện thoại bên dưới</p>
-                                            <p><strong><span style="text-decoration: underline;">Hotline:</span> <a
-                                                        href="tel:0853114114">085 311 4114</a> (Có Zalo /
-                                                    Viber)</strong></p>
-                                            <ul>
-                                                <li>Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a>
-                                                </li>
-                                                <li>Facebook: <a href="https://www.facebook.com/tramhoavn/"
-                                                        target="_blank"
-                                                        rel="noopener">https://www.facebook.com/tramhoavn/</a></li>
-                                                <li>Instagram: <a href="https://www.facebook.com/tramhoavn/"
-                                                        target="_blank"
-                                                        rel="noopener">https://www.instagram.com/tramhoavn/</a></li>
-                                            </ul>
-                                            <p><span style="text-decoration: underline;"><strong>Địa
-                                                        chỉ:</strong></span></p>
-                                            <ul>
-                                                <li><strong>VP TP.HCM:</strong> 443/56 Điện Biên Phủ, P.03, Q.3, TP.HCM
-                                                </li>
-                                                <li><strong>VP Đà Nẵng: </strong>55a Đống Đa, P. Thạch Thang, Q. Hải
-                                                    Châu, TP. Đà Nẵng<strong><br></strong></li>
-                                                <li><strong>VP Hà Nội: </strong>Số 7 Ngách 24 Ngõ 165 Đường Cầu Giấy,
-                                                    Q.Cầu Giấy, Hà Nội</li>
-                                            </ul>
-                                            <p><span style="text-decoration: underline;"><strong>Thời gian hoạt
-                                                        động:</strong></span></p>
-                                            <ul>
-                                                <li>Thứ 2 – Thứ 6: 7:00 đến 20:00</li>
-                                                <li>Thứ 7 – Chủ nhật: 8:00 đến 18:00</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div id="col-1792680663" class="col medium-4 small-12 large-4">
-                                        <div class="col-inner">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1789496914">
-                                                <div class="img-inner dark">
-                                                    <img loading="lazy" decoding="async" width="836"
-                                                        height="1024"
-                                                        src="https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-836x1024.jpg"
-                                                        class="attachment-large size-large" alt=""
-                                                        srcset="https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-836x1024.jpg 836w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-510x625.jpg 510w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-245x300.jpg 245w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-122x150.jpg 122w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-768x941.jpg 768w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-1254x1536.jpg 1254w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-1672x2048.jpg 1672w, https://tramhoa.com/wp-content/uploads/2020/08/439d2c7716d2ea8cb3c3-1000x1225.jpg 1000w"
-                                                        sizes="auto, (max-width: 836px) 100vw, 836px">
-                                                </div>
-                                                <style>
-                                                    #image_1789496914 {
-                                                        width: 100%;
-                                                    }
-                                                </style>
+            <div id="wrapper">
+
+
+                @livewire('new.inc.header')
+
+
+
+                <main id="main" class="">
+                    <div id="content" class="content-area page-wrapper" role="main">
+                        <div class="row row-main">
+                            <div class="large-12 col">
+                                <div class="col-inner">
+
+
+
+                                    <div class="woocommerce">
+                                        <div class="woocommerce-notices-wrapper"></div>
+                                        {{-- <div class="woocommerce-form-coupon-toggle">
+
+                                            <div class="woocommerce-info message-wrapper">
+                                                <div class="message-container container medium-text-center">
+                                                    Bạn có mã ưu đãi? <a href="#" class="showcoupon">Ấn vào đây để
+                                                        nhập
+                                                        mã</a> </div>
                                             </div>
-                                        </div>
+                                        </div> --}}
+
+                                        <form class="checkout_coupon woocommerce-form-coupon has-border is-dashed"
+                                            style="display:none">
+
+                                            <p>Nếu bạn có mã giảm giá, vui lòng điền vào phía bên dưới.</p>
+                                            <div class="coupon">
+                                                <div class="flex-row medium-flex-wrap">
+                                                    <div class="flex-col flex-grow">
+                                                        <label for="coupon_code" class="screen-reader-text">Ưu
+                                                            đãi:</label>
+                                                        <input type="text" name="coupon_code" class="input-text"
+                                                            placeholder="Mã ưu đãi" id="coupon_code"
+                                                            value="" />
+                                                    </div>
+                                                    <div class="flex-col">
+                                                        <button type="submit" class="button expand"
+                                                            name="apply_coupon" value="Áp dụng">Áp dụng</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        <div class="woocommerce-notices-wrapper"></div>
+                                        <form wire:submit.prevent="placeOrder" class="checkout woocommerce-checkout "
+                                            aria-label="Thanh toán">
+
+                                            <div class="row pt-0 ">
+                                                <div class="large-7 col  ">
+
+
+                                                    <div id="customer_details">
+                                                        <div class="clear">
+                                                            <wc-order-attribution-inputs></wc-order-attribution-inputs>
+                                                            <div class="woocommerce-billing-fields">
+
+                                                                <h3>Thông tin người đặt hàng</h3>
+
+
+
+                                                                <div class="woocommerce-billing-fields__field-wrapper">
+                                                                    <p class="form-row form-row-wide validate-required"
+                                                                        id="billing_last_name_field" data-priority="10">
+                                                                        <label for="billing_last_name" class="">Họ
+                                                                            và
+                                                                            tên&nbsp;<abbr class="required"
+                                                                                title="bắt buộc">*</abbr></label><span
+                                                                            class="woocommerce-input-wrapper"><input
+                                                                                type="text" class="input-text "
+                                                                                name="billing_last_name"
+                                                                                id="billing_last_name"
+                                                                                placeholder="Họ tên của bạn"
+                                                                                value="123"
+                                                                                aria-required="true" /></span>
+                                                                    </p>
+                                                                    <p class="form-row form-row-wide validate-required validate-required validate-phone"
+                                                                        id="billing_phone_field" data-priority="20"><label
+                                                                            for="billing_phone" class="">Số điện
+                                                                            thoại&nbsp;<abbr class="required"
+                                                                                title="bắt buộc">*</abbr></label><span
+                                                                            class="woocommerce-input-wrapper"><input
+                                                                                type="text" class="input-text "
+                                                                                name="billing_phone" id="billing_phone"
+                                                                                placeholder="Số điện thoại của bạn"
+                                                                                value="123123" aria-required="true"
+                                                                                autocomplete="tel" /></span></p>
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="clear">
+                                                            <div class="woocommerce-shipping-fields">
+
+                                                                <h3 id="ship-to-different-address">
+                                                                    <label
+                                                                        class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">
+                                                                        <input id="ship-to-different-address-checkbox"
+                                                                            class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox"
+                                                                            checked='checked' type="checkbox"
+                                                                            name="ship_to_different_address"
+                                                                            value="1" />
+                                                                        <span>Thông tin người nhận hoa</span>
+                                                                    </label>
+                                                                </h3>
+
+                                                                <div class="shipping_address">
+
+
+                                                                    <div
+                                                                        class="woocommerce-shipping-fields__field-wrapper">
+                                                                        <p class="form-row form-row-first validate-required"
+                                                                            id="shipping_last_name_field"
+                                                                            data-priority="10">
+                                                                            <label for="shipping_last_name"
+                                                                                class="">Họ
+                                                                                tên người nhận&nbsp;<abbr
+                                                                                    class="required"
+                                                                                    title="bắt buộc">*</abbr></label><span
+                                                                                class="woocommerce-input-wrapper"><input
+                                                                                    type="text" class="input-text "
+                                                                                    name="shipping_last_name"
+                                                                                    id="shipping_last_name"
+                                                                                    placeholder="Họ tên người nhận"
+                                                                                    value="123"
+                                                                                    aria-required="true" /></span>
+                                                                        </p>
+                                                                        <p class="form-row form-row-last"
+                                                                            id="shipping_phone_field"
+                                                                            data-priority="20">
+                                                                            <label for="shipping_phone"
+                                                                                class="">Số
+                                                                                điện
+                                                                                thoại của người nhận</label><span
+                                                                                class="woocommerce-input-wrapper"><input
+                                                                                    type="text" class="input-text "
+                                                                                    name="shipping_phone"
+                                                                                    id="shipping_phone"
+                                                                                    placeholder="Số điện thoại của người nhận"
+                                                                                    value="123" /></span>
+                                                                        </p>
+
+                                                                        <p class="form-row form-row-wide validate-required"
+                                                                            id="shipping_address_1_field"
+                                                                            data-priority="60">
+                                                                            <label for="shipping_address_1"
+                                                                                class="">Địa
+                                                                                chỉ&nbsp;<abbr class="required"
+                                                                                    title="bắt buộc">*</abbr></label><span
+                                                                                class="woocommerce-input-wrapper"><input
+                                                                                    type="text" class="input-text "
+                                                                                    name="shipping_address_1"
+                                                                                    id="shipping_address_1"
+                                                                                    placeholder="Ví dụ: 79-81, nguyễn huệ, Bình Long, Bình Phước. "
+                                                                                    value=""
+                                                                                    aria-required="true"
+                                                                                    autocomplete="address-line1" /></span>
+                                                                        </p>
+                                                                    </div>
+
+
+                                                                </div>
+
+                                                            </div>
+                                                            <div class="woocommerce-additional-fields">
+
+
+
+                                                                <div
+                                                                    class="woocommerce-additional-fields__field-wrapper">
+                                                                    <p data-priority=""
+                                                                        class="form-row form-row-first validate-required validate-required validate-required validate-required"
+                                                                        id="order_dates_field"><label
+                                                                            for="order_dates" class="">Ngày giao
+                                                                            hoa <abbr class="required"
+                                                                                title="required">*</abbr></label><input
+                                                                            readonly type="text"
+                                                                            class="checkout-date-picker input-text"
+                                                                            name="order_dates" id="order_dates"
+                                                                            placeholder="Điền vào ngày muốn giao hoa"
+                                                                            value="" />
+                                                                    </p>
+                                                                    <p class="form-row form-row-last validate-required validate-required"
+                                                                        id="order_time_field" data-priority="10">
+                                                                        <label for="order_time" class="">Khung
+                                                                            thời
+                                                                            gian
+                                                                            giao hoa&nbsp;<abbr class="required"
+                                                                                title="bắt buộc">*</abbr></label><span
+                                                                            class="woocommerce-input-wrapper"><select
+                                                                                name="order_time" id="order_time"
+                                                                                class="select " aria-required="true"
+                                                                                data-placeholder="Select option">
+                                                                                <option value="08:00 - 12:00">08:00 -
+                                                                                    12:00
+                                                                                </option>
+                                                                                <option value="13:00 - 17:00">13:00 -
+                                                                                    17:00
+                                                                                </option>
+                                                                                <option value="18:00 - 20:00">18:00 -
+                                                                                    20:00
+                                                                                </option>
+                                                                            </select></span></p>
+                                                                    <p class="form-row form-row-wide"
+                                                                        id="order_message_field" data-priority="20">
+                                                                        <label for="order_message" class="">Nội
+                                                                            dung
+                                                                            thông điệp</label><span
+                                                                            class="woocommerce-input-wrapper">
+                                                                            <textarea name="order_message" class="input-text " id="order_message"
+                                                                                placeholder="Nội dung thiệp chúc mừng / bảng chúc mừng / bảng chia buồn" rows="2" cols="5"></textarea>
+                                                                        </span></p>
+                                                                    <p class="form-row notes form-row-wide"
+                                                                        id="order_comments_field" data-priority="30">
+                                                                        <label for="order_comments" class="">Ghi
+                                                                            chú</label><span
+                                                                            class="woocommerce-input-wrapper">
+                                                                            <textarea name="order_comments" class="input-text " id="order_comments"
+                                                                                placeholder="Ghi chú dặn dò thêm về đơn hàng: Thời gian giao cụ thể, hướng dẫn giao hoa,... (Nếu có)"
+                                                                                rows="2" cols="5"></textarea>
+                                                                        </span>
+                                                                    </p>
+                                                                </div>
+
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+
+                                                <div class="large-5 col">
+
+                                                    <div class="col-inner has-border">
+                                                        <div class="checkout-sidebar sm-touch-scroll">
+
+
+                                                            <h3 id="order_review_heading">Đơn hàng của bạn</h3>
+
+
+                                                            <div id="order_review"
+                                                                class="woocommerce-checkout-review-order">
+                                                                <table
+                                                                    class="shop_table woocommerce-checkout-review-order-table">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th class="product-name">Sản phẩm</th>
+                                                                            <th class="product-total">Tạm tính</th>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                        @foreach ($cartItems as $item)
+                                                                            <tr class="cart_item">
+                                                                                <td class="product-name">
+                                                                                    {{ $item['name'] }}&nbsp;
+                                                                                    <strong
+                                                                                        class="product-quantity">&times;&nbsp;{{ $item['quantity'] }}</strong>
+                                                                                </td>
+                                                                                <td class="product-total">
+                                                                                    <span
+                                                                                        class="woocommerce-Price-amount amount">
+                                                                                        <bdi>{{ number_format($item['total_amount'], 0, ',', '.') }}&nbsp;
+                                                                                            <span
+                                                                                                class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                        </bdi>
+                                                                                    </span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        @endforeach
+                                                                    </tbody>
+                                                                    <tfoot>
+                                                                        <tr class="cart-subtotal">
+                                                                            <th>Tạm tính</th>
+                                                                            <td>
+                                                                                <span
+                                                                                    class="woocommerce-Price-amount amount">
+                                                                                    <bdi>{{ number_format(collect($cartItems)->sum('total_amount'), 0, ',', '.') }}&nbsp;
+                                                                                        <span
+                                                                                            class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                    </bdi>
+                                                                                </span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr
+                                                                            class="woocommerce-shipping-totals shipping">
+                                                                            <td class="shipping__inner"
+                                                                                colspan="2">
+                                                                                <table class="shipping__table">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <th>Miễn phí vận chuyển trong khu vực</th>
+                                                                                            <td data-title="Giao hàng">
+                                                                                                <ul id="shipping_method"
+                                                                                                    class="shipping__list woocommerce-shipping-methods">
+                                                                                                    <li
+                                                                                                        class="shipping__list_item">
+                                                                                                        <span
+                                                                                                            class="woocommerce-Price-amount amount">
+                                                                                                            <bdi> Thị xã bình long,</bdi>
+                                                                                                        </span>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr class="order-total">
+                                                                            <th>Tổng</th>
+                                                                            <td>
+                                                                                <strong>
+                                                                                    <span
+                                                                                        class="woocommerce-Price-amount amount">
+                                                                                        <bdi>{{ number_format(collect($cartItems)->sum('total_amount') , 0, ',', '.') }}&nbsp;
+                                                                                            <span
+                                                                                                class="woocommerce-Price-currencySymbol">VND</span>
+                                                                                        </bdi>
+                                                                                    </span>
+                                                                                </strong>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tfoot>
+                                                                </table>
+                                                                <div id="payment"
+                                                                    class="woocommerce-checkout-payment">
+                                                                    <ul
+                                                                        class="wc_payment_methods payment_methods methods">
+                                                                        <li
+                                                                            class="wc_payment_method payment_method_bacs">
+                                                                            <input id="payment_method_bacs"
+                                                                                type="radio" class="input-radio"
+                                                                                name="payment_method" value="bacs"
+                                                                                checked='checked'
+                                                                                data-order_button_text="" />
+
+                                                                            <label for="payment_method_bacs">
+                                                                                Chuyển khoản ngân hàng (Internet Banking
+                                                                                /
+                                                                                ATM)
+                                                                            </label>
+                                                                            <div
+                                                                                class="payment_box payment_method_bacs">
+                                                                                <p>Sau khi đơn hàng được xác nhận, quý
+                                                                                    khách
+                                                                                    vui
+                                                                                    lòng thanh toán cho Hoa Tươi Tứ Quý
+                                                                                    thông qua
+                                                                                    thông
+                                                                                    tin tài khoản ngân hàng được cung
+                                                                                    cấp
+                                                                                    (Internet Banking / ATM / Ngân hàng
+                                                                                    gần
+                                                                                    nhất)</p>
+                                                                            </div>
+                                                                        </li>
+
+
+                                                                        <li
+                                                                            class="wc_payment_method payment_method_cod">
+                                                                            <input id="payment_method_cod"
+                                                                                type="radio" class="input-radio"
+                                                                                name="payment_method" value="cod"
+                                                                                data-order_button_text="" />
+
+                                                                            <label for="payment_method_cod">
+                                                                                Trả tiền mặt khi nhận hoa (COD) </label>
+                                                                            <div class="payment_box payment_method_cod"
+                                                                                style="display:none;">
+                                                                                <p>Giao hoa xong mới thu tiền, dành cho
+                                                                                    trường
+                                                                                    hợp người đặt đồng thời là người
+                                                                                    nhận
+                                                                                    hoa.<br />
+                                                                                    Lưu ý: Quý khách cần thanh toán
+                                                                                    chuyển
+                                                                                    khoản
+                                                                                    cọc trước 50% để xác nhận đơn hàng.
+                                                                                </p>
+                                                                            </div>
+                                                                        </li>
+                                                                    </ul>
+                                                                    <div class="form-row place-order">
+                                                                        <noscript>
+                                                                            Trình duyệt của bạn không hỗ trợ JavaScript,
+                                                                            hoặc nó
+                                                                            bị vô hiệu hóa, hãy đảm bảo bạn nhấp vào
+                                                                            <em>Cập
+                                                                                nhật giỏ hàng</em> trước khi bạn thanh
+                                                                            toán.
+                                                                            Bạn
+                                                                            có thể phải trả nhiều hơn số tiền đã nói ở
+                                                                            trên,
+                                                                            nếu
+                                                                            bạn không làm như vậy. <br /><button
+                                                                                type="submit" class="button alt"
+                                                                                name="woocommerce_checkout_update_totals"
+                                                                                value="Cập nhật tổng">Cập nhật
+                                                                                tổng</button>
+                                                                        </noscript>
+
+                                                                        <div
+                                                                            class="woocommerce-terms-and-conditions-wrapper mb-half">
+
+                                                                        </div>
+
+
+                                                                        <button type="submit" class="button alt"
+                                                                            name="woocommerce_checkout_place_order"
+                                                                            id="place_order" value="Đặt hàng"
+                                                                            data-value="Đặt hàng">Đặt hàng</button>
+
+                                                                        <input type="hidden"
+                                                                            id="woocommerce-process-checkout-nonce"
+                                                                            name="woocommerce-process-checkout-nonce"
+                                                                            value="a63e81d86f" /><input type="hidden"
+                                                                            name="_wp_http_referer"
+                                                                            value="/thanh-toan/" />
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="woocommerce-privacy-policy-text">
+                                                                <p>Thông tin cá nhân của bạn sẽ được sử dụng để xử lý
+                                                                    đơn
+                                                                    hàng,
+                                                                    tăng trải nghiệm sử dụng website, và cho các mục
+                                                                    đích cụ
+                                                                    thể
+                                                                    khác đã được mô tả trong <a
+                                                                        href="https://tramhoa.com/chinh-sach-bao-mat/"
+                                                                        class="woocommerce-privacy-policy-link"
+                                                                        target="_blank">chính sách riêng tư</a>.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+                                        </form>
+
                                     </div>
+
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </main>
+
+
+                </main>
+
             @livewire('new.inc.footer')
-        </div>
+
+            </div>
         @livewire('new.inc.menu')
         <script type="text/javascript" src="data:text/javascript;base64,dmFyIHhsd2N0eV9pbmZvPVtd" defer></script>
         <script

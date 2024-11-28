@@ -11,7 +11,7 @@ use Jantinnerezo\LivewireAlert\LivewireAlert;
 
 class Checkout extends Component
 {
-    use LivewireAlert; // Thêm trait LivewireAlert
+    use LivewireAlert; // Thêm trait LivewireAler
 
     public $shipping_amount = 30000; // Set your shipping fee here
     public $shipping_method = 'home_delivery'; // Set your shipping fee here
@@ -21,6 +21,19 @@ class Checkout extends Component
     public $paymentMethod; // To hold the total amount including shipping
     public $total; // To hold the total amount including shipping
     public $cartItems = []; // Property to hold cart items
+    public $ho_ten_nguoi_nhan;
+    public $sdt_nguoi_nhan;
+    public $ngay_giao_hoa;
+    public $time_giao_hoa;
+    public $thong_diep;
+    public $shippingAddress = [
+        'full_name' => '',
+        'phone' => '',
+        'province' => '',
+        'district' => '',
+        'ward' => '',
+        'detailed_address' => '',
+    ];
     public function mount()
     {
         $this->cartItems = CartManagement::getCartItemsFromCookie(); // Retrieve cart items from cookie
@@ -40,22 +53,21 @@ class Checkout extends Component
         DB::transaction(function () {
             $order_code = $this->generateUniqueOrderCode();
 
-            // Tạo đơn hàng
-            if ($this->total > 800000) {
-                $this->shipping_amount = 0;
-            }
-
-            // Create the order
             $order = Order::create([
                 'user_id' => auth()->id() ?? 1,
                 'grand_total' => $this->total ,
                 'payment_method' => $this->paymentMethod ?? 'bank',
                 'payment_status' => 'pending',
                 'currency' => 'VND',
-                'shipping_method' => $this->shipping_method,
+                'shipping_method' => 'cod',
                 'order_code' => $order_code,
-                'notes' => $this->note,
-                'shipping_amount' => $this->shipping_method === 'in_store_pickup' ? 0 : $this->shipping_amount,
+                'notes' => $this->note ?? '$this->note',
+                'shipping_amount' => '0',
+                'ho_ten_nguoi_nhan' => $this->ho_ten_nguoi_nhan,
+                'sdt_nguoi_nhan' => $this->sdt_nguoi_nhan,
+                'ngay_giao_hoa' => $this->ngay_giao_hoa,
+                'time_giao_hoa' => $this->time_giao_hoa,
+                'thong_diep' => $this->thong_diep,
             ]);
 
             // Tạo địa chỉ giao hàng
@@ -63,12 +75,8 @@ class Checkout extends Component
                 'order_id' => $order->id,
                 'full_name' => $this->shippingAddress['full_name'] ?? '',
                 'phone' => $this->shippingAddress['phone'] ?? '',
-                'province' => $this->shippingAddress['province'] ?? '',
-                'district' => $this->shippingAddress['district'] ?? '',
-                'ward' => $this->shippingAddress['ward'] ?? '',
                 'detailed_address' => $this->shippingAddress['detailed_address'] ?? '',
             ]);
-                // dd($order);
             // Tạo mục đơn hàng cho từng sản phẩm trong giỏ
             foreach ($this->cartItems as $item) {
                 OrderItem::create([
@@ -84,7 +92,8 @@ class Checkout extends Component
             if($this->paymentMethod == 'bank'){
                 return redirect()->route('bank', ['orderCode' => $order->order_code]);
             }else{
-                return redirect()->route('thanks', ['orderCode' => $order->order_code]);
+                // return redirect('/thanks')->route('', ['orderCode' => $order->order_code]);
+                return redirect('/thanks');
             }
 
 

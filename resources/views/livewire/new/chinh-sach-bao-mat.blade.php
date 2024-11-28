@@ -1063,10 +1063,10 @@
                                     tôi cho đến khi khách hàng yêu cầu hủy lưu trữ thông tin.</p>
                                 <h2 class="wp-block-heading">Địa chỉ đơn vị thu thập và quản lí thông tin cá nhân</h2>
                                 <p>CÔNG TY TNHH HOA PHÚC NIÊN<br>Mã số thuế: 0318559939<br>Số điện thoại: 034 827 87
-                                    22<br>Email: <a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></p>
+                                    22<br>Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a></p>
                                 <h2 class="wp-block-heading">Phương tiện và công cụ để người dùng tiếp cận và chỉnh sửa dữ
                                     liệu cá nhân</h2>
-                                <p>Quý khách hàng có thể gọi điện thoại trực tiếp đến số hotline: 034 827 87 22 hoặc gửi tin
+                                <p>Quý khách hàng có thể gọi điện thoại trực tiếp đến số hotline: 085 311 41 14 hoặc gửi tin
                                     nhắn đến Facebook Messenger, Gmail để hỗ trợ chỉnh sửa hoặc xóa thông tin khách hàng.
                                 </p>
                                 <h2 class="wp-block-heading">Cam kết bảo mật thông tin khách hàng</h2>
@@ -1204,7 +1204,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0348278722" target="_blank" rel="nofollow"></a>
+                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

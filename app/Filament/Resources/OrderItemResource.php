@@ -27,7 +27,7 @@ class OrderItemResource extends Resource
     {
         return $form
             ->schema([
-            
+
             ]);
     }
 
@@ -35,11 +35,11 @@ class OrderItemResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\ImageColumn::make('product_variant.image') // ID biến thể sản phẩm
-                    ->label('Ảnh Biến Thể') // Thêm label
+                Tables\Columns\ImageColumn::make('product.images') // ID biến thể sản phẩm
+                    ->label('Ảnh Sản Phẩm') // Thêm label
                     ->sortable(),
-                Tables\Columns\TextColumn::make('product_variant.sku') // ID biến thể sản phẩm
-                    ->label('Mã Biến Thể') // Thêm label
+                Tables\Columns\TextColumn::make('product.code') // ID biến thể sản phẩm
+                    ->label('Mã Sản Phẩm') // Thêm label
                     ->numeric()
                     ->sortable()
                     ->searchable(),
@@ -79,22 +79,6 @@ class OrderItemResource extends Resource
                     ->searchable()
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
-                // Start of Selection
-                    // Start of Selection
-                    Tables\Columns\TextColumn::make('profit_loss') // Lợi nhuận/ lỗ
-                        ->label('Lợi Nhuận/Lỗ') // Thêm label
-                        ->money('VND')
-                        ->sortable()
-                        ->searchable()
-                        ->badge()
-                        ->color(fn ($state) => $state > 0 ? 'success' : 'danger'),
-                    // Start of Selection
-                    Tables\Columns\TextColumn::make('warranty') // Lợi nhuận/ lỗ
-                        ->label('Hạn Bảo Hành') // Thêm label
-                        ->dateTime()
-                        ->sortable()
-                        ->searchable()
-                        ->color(fn ($state) => $state < now() ? 'danger' : 'success'),
             ])
             ->filters([
                 // Filter by Order Code
@@ -110,7 +94,7 @@ class OrderItemResource extends Resource
                 //             $query->where('order_code', $data['order_code']);
                 //         });
                 //     }),
-                
+
                 // Filter by Product Variant SKU
                 // Tables\Filters\Filter::make('product_variant')
                 //     ->label('Lọc Theo Biến Thể Sản Phẩm')
@@ -124,7 +108,7 @@ class OrderItemResource extends Resource
                 //             $query->where('sku', $data['sku']);
                 //         });
                 //     }),
-    
+
                 // Filter by Quantity
                 // Tables\Filters\Filter::make('quantity')
                 //     ->label('Lọc Theo Số Lượng')
@@ -136,9 +120,9 @@ class OrderItemResource extends Resource
                 //     ->query(function (Builder $query, array $data): Builder {
                 //         return $query->where('quantity', '>=', $data['quantity']);
                 //     }),
-    
+
                 // Filter by Date Range
-            
+
             ])
             ->actions([
                 // View Order Action
@@ -147,7 +131,7 @@ class OrderItemResource extends Resource
                 ->url(fn ($record) => \App\Filament\Resources\OrderResource::getUrl('edit', ['record' => $record->order_id]))
                 ->icon('heroicon-o-eye')
                 ->openUrlInNewTab(),
-            
+
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([

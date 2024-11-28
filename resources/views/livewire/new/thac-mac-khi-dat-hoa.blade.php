@@ -1064,10 +1064,10 @@
                                                 thức sau:</p>
                                             <ul>
                                                 <li>Đặt hoa trực tiếp trên Website: <strong><a href="https://tramhoa.com">www.tramhoa.com</a></strong></li>
-                                                <li>Liên hệ qua Tổng đài tư vấn và hỗ trợ đặt hoa: <strong><a href="tel:0348278722">034 827 8722</a></strong></li>
-                                                <li>Liên hệ qua Email: <strong><a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></strong>
+                                                <li>Liên hệ qua Tổng đài tư vấn và hỗ trợ đặt hoa: <strong><a href="tel:0853114114">085 311 4114</a></strong></li>
+                                                <li>Liên hệ qua Email: <strong><a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a></strong>
                                                 </li>
-                                                <li>Liên hệ qua Zalo: <strong><a href="https://zalo.me/0348278722" target="_blank" rel="noopener">https://zalo.me/0348278722</a></strong></li>
+                                                <li>Liên hệ qua Zalo: <strong><a href="https://zalo.me/0853114114" target="_blank" rel="noopener">https://zalo.me/0853114114</a></strong></li>
                                                 <li>Liên hệ qua Fanpage Facebook: <strong><a href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">www.facebook.com/tramhoavn/</a></strong></li>
                                                 <li>Liên hệ qua Instagram: <strong><a href="https://www.instagram.com/tramhoavn/" target="_blank" rel="noopener">www.instagram.com/tramhoavn/</a></strong></li>
                                             </ul>
@@ -1136,7 +1136,7 @@
                                         <div id="accordion-3720192689-content" class="accordion-inner" aria-labelledby="accordion-3720192689-label">
                                             <p><strong><a href="https://tramhoa.com">Hoa Tươi Tứ Quý</a></strong> <strong>có hỗ
                                                     trợ xuất hóa đơn</strong> cho doanh nghiệp theo yêu cầu. Quý khách vui
-                                                lòng gửi thông tin doanh nghiệp / công ty đầy đủ về email <strong><a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></strong>
+                                                lòng gửi thông tin doanh nghiệp / công ty đầy đủ về email <strong><a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a></strong>
                                                 để <strong>Hoa Tươi Tứ Quý</strong> có thể tiến hành thực hiện.</p>
                                             <p><em><strong>Lưu ý:</strong> Giá hoa trên website hiện tại đã bao gồm phí xuất
                                                     hóa đơn.</em></p>
@@ -1202,7 +1202,7 @@
                                                     </div>
                                                 </div>
                                                 <div id="col-831628028" class="col medium-4 small-12 large-4">
-                                                    <div class="col-inner text-center"><a href="tel:0348278722" class="button primary expand" style="border-radius:60px;">
+                                                    <div class="col-inner text-center"><a href="tel:0853114114" class="button primary expand" style="border-radius:60px;">
                                                             <i class="icon-phone" aria-hidden="true"></i>
                                                             <span>034-827-8722</span>
                                                         </a></div>
@@ -1334,7 +1334,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0348278722" target="_blank" rel="nofollow"></a>
+                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

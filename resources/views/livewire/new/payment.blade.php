@@ -1445,7 +1445,7 @@
                                                         <img width="312" height="92"
                                                             src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
                                                             class="attachment-original size-original"
-                                                            alt="Hotline tư vấn đặt hoa nhanh 034 827 8722"
+                                                            alt="Hotline tư vấn đặt hoa nhanh 085 311 4114"
                                                             decoding="async"
                                                             srcset="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp 312w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-300x88.jpg.webp 300w, /assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh-150x44.jpg.webp 150w"
                                                             sizes="(max-width: 312px) 100vw, 312px" />
@@ -2055,8 +2055,8 @@
                             <div class="copyright-footer">
                                 <strong> CÔNG TY TNHH HOA PHÚC NIÊN </strong><br />
                                 <strong>MST 0318559939 </strong><br />
-                                Số điện thoại: <a href="tel:0348278722">034 827 87 22</a><br />
-                                Email: <a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a><br />
+                                Số điện thoại: <a href="tel:0853114114">085 311 41 14</a><br />
+                                Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a><br />
                                 Thời gian làm việc: 07:00 - 20:30, Thứ Hai - Chủ Nhật<br />
                             </div>
                         </div>
@@ -2362,7 +2362,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0348278722" target="_blank" rel="nofollow"></a>
+                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <noscript>

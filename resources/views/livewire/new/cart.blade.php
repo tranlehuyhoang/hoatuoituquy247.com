@@ -1119,7 +1119,7 @@
 
                                                                         <td class="product-price" data-title="Giá">
                                                                             <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($item['total_amount']) }}&nbsp;<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($item['price']) }}&nbsp;<span
                                                                                         class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
                                                                         </td>
 
@@ -1425,7 +1425,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0348278722" target="_blank" rel="nofollow"></a>
+                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">
