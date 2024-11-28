@@ -1,4 +1,7 @@
 <div>
+    @php
+        $settings = App\Models\Setting::first(); // Truy vấn model Settings
+    @endphp
 
     <head>
         <meta charset="UTF-8" />
@@ -412,14 +415,7 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
-            sizes="32x32" />
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
-            sizes="192x192" />
-        <link rel="apple-touch-icon"
-            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
-        <meta name="msapplication-TileImage"
-            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1050,21 +1046,59 @@
             src="data:text/javascript;base64,Z3RhZygiZXZlbnQiLCJwYWdlX3ZpZXciLHtzZW5kX3RvOiJHTEEifSk=" defer></script> <a class="skip-link screen-reader-text" href="#main">Bỏ qua nội dung</a>
         <div id="wrapper">
             @livewire('new.inc.header')
-            <main id="main" class=""><div id="content" class="content-area page-wrapper" role="main"><div class="row row-main"><div class="large-12 col"><div class="col-inner"><section class="section" id="section_1273139331"><div class="section-bg fill"></div><div class="section-content relative"><div class="row align-center" id="row-960744665"><div id="col-356527431" class="col medium-10 small-12 large-10"><div class="col-inner"><div class="row row-large align-center" id="row-1052924789"><div id="col-360689654" class="col small-12 large-12"><div class="col-inner"><div id="page-header-1752563654" class="page-header-wrapper"><div class="page-title light simple-title"><div class="page-title-inner container align-center text-center flex-row-col medium-flex-wrap"><div class="title-wrapper uppercase is-large flex-col"><h1 class="entry-title mb-0">
-                Quy Định Vận Chuyển</h1></div><div class="page-title-sub op-7 flex-col"><p class="lead">Chinh sách giao hoa tại Hoa Tươi Tứ Quý</p></div><div class="title-content flex-col"></div></div></div></div></div></div><div id="col-1621016483" class="col medium-6 small-10 large-6"><div class="col-inner"><h3><strong>Thời gian giao hàng</strong></h3><p>Chúng tôi cam kết giao hàng nhanh chóng, chính xác nhất nhằm đem lại sự hài lòng của quý khách hàng về chất lượng và dịch vụ khi đặt hàng tại&nbsp;<a href="https://tramhoa.com/"><strong>https://tramhoa.com</strong></a>.</p><p>Chúng tôi nhận giao hoa tươi chỉ trong vòng 2H đồng hồ kể từ khi nhận đặt hàng thành công và nhận giao hoa tươi theo thời gian Quý khách hàng yêu cầu trên pham vị toàn quốc. Trong trường hợp khẩn, cần giao hoa gấp Quý khách hàng vui lòng gọi ngay vào hotline.</p>
-                <a href="tel:+84348278722" class="button alert is-small" style="border-radius:99px;">
-                <i class="icon-phone" aria-hidden="true"></i>	<span>Hotline</span>
-                </a><a href="http://fb.com/tramhoavn" class="button secondary is-small" style="border-radius:99px;" target="_blank" rel="noopener">
-                <i class="icon-facebook" aria-hidden="true"></i>	<span>Facebook</span>
-                </a><a href="https://zalo.me/3588203683113605383" class="button primary is-small" style="border-radius:99px;" target="_blank" rel="noopener">
-                <i class="icon-envelop" aria-hidden="true"></i>	<span>Zalo Chat</span>
-                </a></div></div><div id="col-923894274" class="col medium-6 small-10 large-6"><div class="col-inner text-center"><div class="img has-hover x md-x lg-x y md-y lg-y" id="image_906664524"><div class="img-inner image-cover dark" style="padding-top:380px;">
-                <img loading="lazy" decoding="async" width="819" height="1024" src="https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-819x1024.jpg" class="attachment-large size-large" alt="" srcset="https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-819x1024.jpg 819w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-360x450.jpg 360w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-510x638.jpg 510w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-240x300.jpg 240w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-120x150.jpg 120w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-768x960.jpg 768w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim-150x188.jpg 150w, https://tramhoa.com/wp-content/uploads/2019/12/Gio-Hoa-TH-G026-Lang-Hoa-Trai-Tim.jpg 960w" sizes="auto, (max-width: 819px) 100vw, 819px"></div><style>#image_906664524 {
-                  width: 100%;
-                }</style></div></div></div></div><h3><strong>Khu vực giao hàng<br></strong></h3><ul><li>Hoa Tươi Tứ Quý cung cấp dịch vụ đặt hoa tươi và giao hoa tận nơi tại TP HCM và 63 tỉnh – thành phố tại Việt Nam.</li><li>Tuy nhiên, những địa điểm giao hàng đặc biệt như các tòa nhà có bảo vệ gây cản trở giao hàng , trung tâm hội nghị…chúng tôi sẽ liên lạc với người nhận để sắp xếp địa điểm giao hoa thuận lợi nhất với người nhận.</li></ul><h3><strong>Trường hợp không nhận được hàng</strong></h3><ul><li>Vào mùng 01 Tết Âm Lịch</li><li>Sau 22 giờ đêm hôm trước đến 6 giờ sáng hôm sau</li><li>Những khu vực không nhận giao hoa: khu vực cấm quân sự, khu vực nguy hiểm đối với nhân viên giao hoa, khu vực chiến sự, khu vực đang bị thiên tai, khu vực cách ly trong sân bay, ga tàu,…</li><li>Tất cả những trường hợp không thể giao hoa, chúng tôi sẽ thông báo đến Qúy khách hàng ngay khi có thể.</li></ul><h3><strong>Thời gian giao hàng không đảm bảo khi</strong></h3><ul><li>Vào những ngày Lễ, Tết: Valentine, Quốc tế phụ nữ, Phụ nữ Việt Nam, Nhà giáo Việt Nam,…</li><li>Trường hợp Qúy khách hàng cung cấp không đúng thông tin địa chỉ nơi giao, số điện thoại, nhân viên giao hàng không thể liên lạc được.</li><li>Trường hợp bất khả kháng.</li></ul></div></div></div></div><style>#section_1273139331 {
-                  padding-top: 30px;
-                  padding-bottom: 30px;
-                }</style></section></div></div></div></div></main>
+            <main id="main" class="">
+                <div id="content" class="content-area page-wrapper" role="main">
+                    <div class="row row-main">
+                        <div class="large-12 col">
+                            <div class="col-inner">
+                                <section class="section" id="section_1273139331">
+                                    <div class="section-bg fill"></div>
+                                    <div class="section-content relative">
+                                        <div class="row align-center" id="row-960744665">
+                                            <div id="col-356527431" class="col medium-10 small-12 large-10">
+                                                <div class="col-inner">
+                                                    <div class="row row-large align-center" id="row-1052924789">
+                                                        <div id="col-360689654" class="col small-12 large-12">
+                                                            <div class="col-inner">
+                                                                <div id="page-header-1752563654"
+                                                                    class="page-header-wrapper">
+                                                                    <div class="page-title light simple-title">
+                                                                        <div
+                                                                            class="page-title-inner container align-center text-center flex-row-col medium-flex-wrap">
+                                                                            <div
+                                                                                class="title-wrapper uppercase is-large flex-col">
+                                                                                <h1 class="entry-title mb-0">
+                                                                                    Quy Định Vận Chuyển</h1>
+                                                                            </div>
+                                                                            <div class="page-title-sub op-7 flex-col">
+                                                                                <p class="lead">Chinh sách giao hoa
+                                                                                    tại Hoa Tươi Tứ Quý</p>
+                                                                            </div>
+                                                                            <div class="title-content flex-col"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                    {!! $settings->shipping_policy !!}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <style>
+                                        #section_1273139331 {
+                                            padding-top: 30px;
+                                            padding-bottom: 30px;
+                                        }
+                                    </style>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
             @livewire('new.inc.footer')
         </div>
         @livewire('new.inc.menu')

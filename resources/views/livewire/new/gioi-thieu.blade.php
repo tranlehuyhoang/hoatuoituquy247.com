@@ -1,4 +1,7 @@
 <div>
+    @php
+        $settings = App\Models\Setting::first(); // Truy vấn model Settings
+    @endphp
 
     <head>
         <meta charset="UTF-8" />
@@ -412,14 +415,7 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
-            sizes="32x32" />
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
-            sizes="192x192" />
-        <link rel="apple-touch-icon"
-            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
-        <meta name="msapplication-TileImage"
-            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1059,57 +1055,17 @@
                             <div class="is-divider medium"></div>
                         </header>
                         <div class="entry-content">
-                            <figure class="wp-block-image aligncenter" style="
+                            <figure class="wp-block-image aligncenter"
+                                style="
                             display: flex;
                             justify-content: center;
-                        "><img decoding="async" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo-300x216.png" alt="" class="wp-image-9736"></figure>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một website thương mại điện tử hỗ trợ dịch vụ đặt hoa và giao
-                                hoa chuyên nghiệp khắp các tỉnh và thành phố trên toàn quốc. <strong>Hoa Tươi Tứ Quý</strong> không
-                                phải là công ty tốt nhất nhưng sẽ luôn nỗ lực hết mình để làm hài lòng quý khách hàng. Niềm
-                                vui của khách hàng cũng chính là niềm vui của <strong>Hoa Tươi Tứ Quý</strong></p>
-                            <p>Trường hợp có bất kỳ thắc mắc nào, bạn có thể liên hệ trực tiếp qua số điện thoại bên dưới
-                            </p>
-                            <p><strong>Số điện thoại:</strong> <a href="tel:0348278722"><strong>034 827 8722</strong></a>
-                                (Có Zalo / Viber)<br><strong>Zalo:</strong> <a href="https://zalo.me/3588203683113605383" target="_blank" rel="noreferrer noopener nofollow">https://zalo.me/3588203683113605383</a><br><strong>Google
-                                    Maps:</strong> <a href="https://g.page/tramhoavn" target="_blank" rel="noreferrer noopener nofollow">https://g.page/tramhoavn</a><br><strong>Email:
-                                </strong><a class="rank-math-link" href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></p>
-                            <p><strong>Theo dõi Mạng xã hội:</strong></p>
-                            <ul class="wp-block-list">
-                                <li>Facebook: <a class="rank-math-link" href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.facebook.com/tramhoavn/</a></li>
-                                <li>Instagram: <a href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">https://www.instagram.com/tramhoavn/</a></li>
-                                <li>Pinterest: <a class="rank-math-link" href="https://www.pinterest.com/tramhoavn/" target="_blank" rel="noopener">https://www.pinterest.com/tramhoavn/</a></li>
-                                <li>Tiktok: <a href="https://www.tiktok.com/@www.tramhoa.com">https://www.tiktok.com/@www.tramhoa.com</a>
-                                </li>
-                                <li>About.me: <a class="rank-math-link" href="https://about.me/tramhoavn/" target="_blank" rel="noopener">https://about.me/tramhoavn/</a></li>
-                                <li>Twitter: <a href="https://twitter.com/tramhoavn" target="_blank" rel="noopener">https://twitter.com/tramhoavn/</a></li>
-                                <li>Flickr: <a href="https://www.flickr.com/photos/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://www.flickr.com/photos/tramhoavn/</a>
-                                </li>
-                                <li>500px: <a href="https://500px.com/p/tramhoavn/" target="_blank" rel="noreferrer noopener nofollow">https://500px.com/p/tramhoavn/</a></li>
-                            </ul>
-                            <h2 class="wp-block-heading">Tại sao nên đặt hoa tại Hoa Tươi Tứ Quý?</h2>
-                            <ul class="wp-block-list">
-                                <li>Miễn phí giao hoa toàn quốc 63 tỉnh thành trong vòng 2 giờ</li>
-                                <li>Miễn phí thiệp chúc mừng, băng rôn, bảng treo theo thông điệp</li>
-                                <li>Đảm bảo chất lượng sản lượng sản phẩm, hoa tươi trên 3 ngày</li>
-                                <li>Chụp ảnh hoa thật trước khi giao để đảm bảo hài lòng khách hàng</li>
-                                <li>Nhiều ưu đãi cho khách hàng thành viên, đặt hoa tại Hoa Tươi Tứ Quý</li>
-                                <li>Giảm giá ngay 20K – 50K trong lần đầu tiên đặt hoa.</li>
-                            </ul>
-                            <h2 class="wp-block-heading">Định hướng hoạt động</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> là một công ty điện hoa uy tín số 1 tại Việt Nam. <strong>Trạm
-                                    Hoa</strong> liên kết các cửa hàng hoa trên toàn quốc (63 tỉnh thành) lại với nhau và
-                                xây dựng mạng lưới giao hoa chuyên nghiệp khắp cả nước. Dịch vụ điện hoa sẽ giúp giải quyết
-                                những vấn đề còn tồn đọng lâu nay của thị trường giao hoa tại việt Nam và mong muốn thị
-                                trường hoa tại Việt Nam có thể phát triển mạnh mẽ hơn nữa.</p>
-                            <h2 class="wp-block-heading">Mục tiêu – Nhiệm vụ</h2>
-                            <p><strong>Hoa Tươi Tứ Quý</strong> với mục tiêu tạo ra những trải nghiệm mua sắm qua mạng tuyệt vời,dễ
-                                dàng và tiện lợi, bên cạnh đó cũng không ngừng nâng cao chất lượng dịch vụ tốt nhất có thể.
-                                Chỉ với một cuộc điện thoại, chúng tôi có thể giao những bông hoa mà khách hàng mong muốn
-                                trên toàn quốc chỉ trong vòng 2 tiếng đồng hồ. Thay vì bỏ nhiều thời gian đến các cửa hàng
-                                hoa và những thủ tục rườm rà, dịch vụ của <strong>Hoa Tươi Tứ Quý</strong> với những chuyên viên tư
-                                vấn được đào tạo chuyên nghiệp sẽ tư vấn và giúp đỡ khách hàng lựa chọn và đặt những bó hoa
-                                tươi đẹp với thái độ thân thiện nhất.</p>
-                        </div>
+                        ">
+                                <img decoding="async"
+                                    src="/assets/wp-content/uploads/2019/12/tram-hoa-logo-300x216.png" alt=""
+                                    class="wp-image-9736"></figure>
+                                    {!! $settings->introduction !!}
+
+                              </div>
                     </div>
                 </div>
             </main>

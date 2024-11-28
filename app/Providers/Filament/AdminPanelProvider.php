@@ -62,6 +62,6 @@ class AdminPanelProvider extends PanelProvider
             ->plugin(
                 \Hasnayeen\Themes\ThemesPlugin::make()
             )
-            ->brandName('THEBABUSTORE.VN');
+            ->brandName('HOATUOITUQUY247.COM');
     }
 }

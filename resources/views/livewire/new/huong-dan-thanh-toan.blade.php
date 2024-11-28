@@ -1,5 +1,7 @@
 <div>
-
+    @php
+    $settings = App\Models\Setting::first(); // Truy vấn model Settings
+    @endphp
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -412,14 +414,7 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
-            sizes="32x32" />
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
-            sizes="192x192" />
-        <link rel="apple-touch-icon"
-            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
-        <meta name="msapplication-TileImage"
-            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1058,39 +1053,7 @@
                             <div class="is-divider medium"></div>
                         </header>
                         <div class="entry-content">
-                            <p>Hoa Tươi Tứ Quý&nbsp;cung cấp cho quý khách nhiều phương thức thanh toán khác nhau để dễ dàng
-                                lựa chọn phương thức phù hợp nhất:</p>
-                            <h4 class="wp-block-heading"><mark style="background-color:rgba(0, 0, 0, 0);color:#1bbc9b"
-                                    class="has-inline-color">Đối với khách hàng trong nước</mark></h4>
-                            <ul class="wp-block-list">
-                                <li><strong>Chuyển khoản ngân hàng:&nbsp;</strong>Quý khách có thể lựa chọn một trong
-                                    những tài khoản ngân hàng công ty hỗ trợ để thanh toán cho đơn hàng của mình.</li>
-                                <li><strong>Ví điện tử MoMo – Zalo Pay</strong>: Quý khách vui lòng thanh toán đơn hàng
-                                    thông qua ví <strong>0939 077 381 – Nguyễn Thành Phúc</strong></li>
-                                <li><strong>Thu tiền mặt (COD):&nbsp;</strong>Quý khách thanh toán đơn hàng của mình
-                                    trực tiếp cho nhân viên giao hàng khi đơn hàng được giao đến nơi.<br><em>Quý khách
-                                        vui lòng thành toán <strong>chuyển khoản trước 50% giá trị đơn hàng</strong> để
-                                        xác nhận, phần còn lại sẽ được hỗ trợ thu tiền mặt khi nhận hàng</em>.</li>
-                            </ul>
-                            <figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy"
-                                    decoding="async" width="778" height="1024"
-                                    src="https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg"
-                                    alt="Tài khoản Công ty TNHH Hoa Phúc Niên" class="wp-image-38950"
-                                    style="width:300px"
-                                    srcset="https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-778x1024.jpeg 778w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-228x300.jpeg 228w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-114x150.jpeg 114w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien-510x671.jpeg 510w, https://tramhoa.com/wp-content/uploads/2019/10/Techcombank-Hoa-Phuc-Nien.jpeg 798w"
-                                    sizes="auto, (max-width: 778px) 100vw, 778px"></figure>
-                            <p class="has-text-align-center"><strong>NGÂN HÀNG TMCP KỸ THƯƠNG VIỆT NAM
-                                    (TECHCOMBANK)</strong><br>Số Tài Khoản: <strong>345289</strong><br>Chủ Tài Khoản:
-                                <strong>HOA PHUC NIEN CO., LTD</strong></p>
-                            <h4 class="wp-block-heading"><mark style="background-color:rgba(0, 0, 0, 0);color:#1bbc9b"
-                                    class="has-inline-color">Đối với khách hàng ở nước ngoài</mark></h4>
-                            <ul class="wp-block-list">
-                                <li>Chuyển tiền qua <strong>Western Union – Money Gram</strong>:<br>Quý khách ở nước
-                                    ngoài có thể sử dụng dịch vụ chuyển tiền nhanh của Western Union / Money Gram để
-                                    thanh toán với thông tin nguời nhận là:<br>Tên: <strong>Nguyễn Thành
-                                        Phúc</strong><br>Địa chỉ: <strong>443/56 Điện Biên Phủ, Phường 3, Quận 3, Thành
-                                        phố Hồ Chí Minh</strong></li>
-                            </ul>
+                            {!! $settings->payment_guide !!}
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,7 @@
 <div>
-
+    @php
+    $settings = App\Models\Setting::first(); // Truy vấn model Settings
+    @endphp
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -412,14 +414,7 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
-            sizes="32x32" />
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
-            sizes="192x192" />
-        <link rel="apple-touch-icon"
-            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
-        <meta name="msapplication-TileImage"
-            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;
@@ -1107,13 +1102,8 @@
                                             </div>
                                             <p>Quý khách hàng có thể đặt hoa bằng các hình thức sau:</p>
                                             <ul>
-                                                <li class="bullet-arrow">Đặt hoa trực tiếp trên Website: <strong><a href="https://tramhoa.com">www.tramhoa.com</a></strong></li>
-                                                <li class="bullet-arrow">Đặt hoa nhanh qua Hotline: <strong><a href="tel:0348278722">034 827 8722</a></strong></li>
-                                                <li class="bullet-arrow">Liên hệ qua Email: <strong><a href="mailto:tramhoavn@gmail.com">tramhoavn@gmail.com</a></strong>
-                                                </li>
-                                                <li class="bullet-arrow">Liên hệ qua Zalo: <strong><a href="https://zalo.me/3588203683113605383" target="_blank" rel="noopener">https://zalo.me/3588203683113605383</a></strong>
-                                                </li>
-                                                <li class="bullet-arrow">Liên hệ qua Fanpage Facebook: <strong><a href="https://www.facebook.com/tramhoavn/" target="_blank" rel="noopener">www.facebook.com/tramhoavn/</a></strong></li>
+                                                {!! $settings->purchase_guide !!}
+
                                             </ul>
                                             <div class="container section-title-container" style="margin-top:40px;margin-bottom:50px;">
                                                 <h2 class="section-title section-title-center"><b></b><span class="section-title-main">Quy Trình Đặt Hoa</span><b></b></h2>

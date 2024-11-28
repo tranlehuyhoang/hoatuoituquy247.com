@@ -13,38 +13,38 @@
                 <div class="flex-col hide-for-medium flex-right">
                     <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
                         <li class="html header-social-icons ml-0">
-                            <div class="social-icons follow-icons"><a href="http://facebook.com/tramhoavn/"
+                            <div class="social-icons follow-icons"><a
                                     target="_blank" data-label="Facebook" class="icon plain facebook tooltip"
                                     title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
                                     rel="noopener nofollow"><i class="icon-facebook"></i></a><a
-                                    href="http://instagram.com/tramhoavn/" target="_blank" data-label="Instagram"
+                                      target="_blank" data-label="Instagram"
                                     class="icon plain instagram tooltip" title="Theo dõi trên Instagram"
                                     aria-label="Theo dõi trên Instagram" rel="noopener nofollow"><i
-                                        class="icon-instagram"></i></a><a href="https://www.tiktok.com/@www.tramhoa.com"
+                                        class="icon-instagram"></i></a><a
                                     target="_blank" data-label="TikTok" class="icon plain tiktok tooltip"
                                     title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok"
                                     rel="noopener nofollow"><i class="icon-tiktok"></i></a><a
-                                    href="https://twitter.com/tramhoavn/" data-label="Twitter" target="_blank"
+                                    data-label="Twitter" target="_blank"
                                     class="icon plain twitter tooltip" title="Theo dõi trên Twitter"
                                     aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i
-                                        class="icon-twitter"></i></a><a href="https://www.pinterest.com/tramhoavn/"
+                                        class="icon-twitter"></i></a><a
                                     data-label="Pinterest" target="_blank" class="icon plain pinterest tooltip"
                                     title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
                                     rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                    href="https://vn.linkedin.com/company/tramhoavn/" data-label="LinkedIn"
+                                   data-label="LinkedIn"
                                     target="_blank" class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
                                     aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
                                         class="icon-linkedin"></i></a><a
-                                    href="https://www.youtube.com/channel/UCruCBL76C_O-B7G8oXKIeMQ" data-label="YouTube"
+                                     data-label="YouTube"
                                     target="_blank" class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
                                     aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
-                                        class="icon-youtube"></i></a><a href="https://www.flickr.com/photos/tramhoavn/"
+                                        class="icon-youtube"></i></a><a
                                     data-label="Flickr" target="_blank" class="icon plain flickr tooltip" title="Flickr"
                                     aria-label="Flickr" rel="noopener nofollow"><i class="icon-flickr"></i></a><a
-                                    href="https://500px.com/p/tramhoavn" data-label="500px" target="_blank"
+                                  data-label="500px" target="_blank"
                                     class="icon plain px500 tooltip" title="Theo dõi trên 500px"
                                     aria-label="Theo dõi trên 500px" rel="noopener nofollow"><i
-                                        class="icon-500px"></i></a><a href="https://vk.com/tramhoavn"
+                                        class="icon-500px"></i></a><a
                                     data-label="VKontakte" target="_blank" class="icon plain vk tooltip"
                                     title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
                                     rel="noopener nofollow"><i class="icon-vk"></i></a></div>
@@ -62,9 +62,9 @@
             <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
                 <div id="logo" class="flex-col logo"><a href="/"
                         title="Hoa Tươi Tứ Quý - Shop Hoa Tươi | Đặt Hoa Online | Giao Hoa Tận Nơi" rel="home">
-                        <img width="200" height="90" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                        <img width="200" height="90" src="/assets/logo/Asset 6.png"
                             class="header_logo header-logo" alt="Hoa Tươi Tứ Quý" /><img width="200"
-                            height="90" src="/assets/wp-content/uploads/2019/12/tram-hoa-logo.png"
+                            height="90" src="/assets/logo/Asset 6.png"
                             class="header-logo-dark" alt="Hoa Tươi Tứ Quý" /></a></div>
                 <div class="flex-col show-for-medium flex-left">
                     <ul class="mobile-nav nav nav-left ">

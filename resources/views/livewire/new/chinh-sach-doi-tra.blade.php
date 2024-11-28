@@ -412,14 +412,7 @@
                 src: url('/assets/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');
             }
         </style>
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-32x32.png"
-            sizes="32x32" />
-        <link rel="icon" href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-192x192.png"
-            sizes="192x192" />
-        <link rel="apple-touch-icon"
-            href="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-180x180.png" />
-        <meta name="msapplication-TileImage"
-            content="/assets/wp-content/uploads/2019/12/cropped-tram-hoa-site-logo-11-270x270.png" />
+
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #1bbc9b;

@@ -30,115 +30,9 @@ class SettingResource extends Resource
             ->schema([
                 Forms\Components\Tabs::make('Cài đặt') // Đổi tên tab
                     ->tabs([
-                        Tabs\Tab::make('Thông Tin')
-    ->icon('heroicon-o-information-circle')
-    ->schema([
-        // Section: Thông Tin Liên Hệ
-        Forms\Components\Section::make('Thông Tin Liên Hệ')
-            ->schema([
-                Forms\Components\TextInput::make('address')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Địa chỉ'),
-                Forms\Components\TextInput::make('map')
-                    ->default(null)
-                    ->label('Link google map cửa hàng'),
 
-                Forms\Components\TextInput::make('hotline')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Hotline'),
 
-                Forms\Components\TextInput::make('email')
-                    ->email()
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Email'),
-
-                Forms\Components\TextInput::make('website')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Website'),
-
-                Forms\Components\TextInput::make('copyright')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Copyright'),
-            ]),
-
-        // Section: Logo
-        Forms\Components\Section::make('Logo')
-            ->schema([
-                Forms\Components\TextInput::make('web_name')
-                    ->default(null)
-                    ->label('Tên Website'),
-                Forms\Components\FileUpload::make('logo')
-                    ->default(null)
-                    ->label('Logo'),
-
-                Forms\Components\FileUpload::make('logo_light')
-                    ->default(null)
-                    ->label('Logo Ánh Sáng'),
-            ]),
-
-        // Section: Thông Tin Ngân Hàng
-        Forms\Components\Section::make('Thông Tin Ngân Hàng')
-            ->schema([
-                Forms\Components\TextInput::make('so_tai_khoan')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Số Tài Khoản'),
-
-                Forms\Components\TextInput::make('ngan_hang')
-                    ->maxLength(255)
-                    ->default(null)
-                    ->label('Ngân Hàng'),
-            ]),
-
-        // Section: Mạng Xã Hội
-        Forms\Components\Section::make('Mạng Xã Hội')
-            ->schema([
-                Forms\Components\TextInput::make('facebook')
-                    ->label('Facebook')
-                    ->placeholder('Nhập link Facebook'),
-
-                Forms\Components\TextInput::make('youtube')
-                    ->label('YouTube')
-                    ->placeholder('Nhập link YouTube'),
-
-                Forms\Components\TextInput::make('shopee')
-                    ->label('Shopee')
-                    ->placeholder('Nhập link Shopee'),
-
-                Forms\Components\TextInput::make('zalo')
-                    ->label('Zalo')
-                    ->placeholder('Nhập link Zalo'),
-                Forms\Components\TextInput::make('ministry_of_industry_and_trade_link')
-                    ->label('Bộ Công Thương')
-                    ->placeholder('Nhập link Bộ Công Thương'),
-
-                Forms\Components\FileUpload::make('web_icon')
-                    ->label('Icon Web')
-                    ->placeholder('Upload  icon'),
-                Forms\Components\FileUpload::make('banner_web')
-                    ->label('Banner Web')
-                    ->placeholder('Upload Banner Web'),
-                Forms\Components\Textarea::make('description_web')
-                    ->label('Mô tả Web')
-                    ->placeholder('Nhập mô tả Web'),
-            ]),
-
-        // Section: Mô Tả Công Ty
-        Forms\Components\Section::make('Mô Tả Công Ty')
-            ->schema([
-                Forms\Components\Textarea::make('company_description')
-                    ->label('Mô tả công ty')
-                    ->placeholder('Nhập mô tả về công ty')
-                    ->rows(5), // Số hàng hiển thị
-            ]),
-    ]),
-
-                        Tabs\Tab::make('Hướng dẫn')
+                        Tabs\Tab::make('Hướng dẫn đặt hoa')
                             ->icon('heroicon-o-information-circle')
                             ->schema([
                                 Forms\Components\RichEditor::make('purchase_guide')
@@ -146,7 +40,7 @@ class SettingResource extends Resource
                                     ->label('Hướng dẫn mua hàng'),
                             ]),
 
-                        Tabs\Tab::make('Thanh toán')
+                        Tabs\Tab::make('Hướng dẫn thanh toán')
                             ->icon('heroicon-o-credit-card')
                             ->schema([
                                 Forms\Components\RichEditor::make('payment_guide')
@@ -154,7 +48,7 @@ class SettingResource extends Resource
                                     ->label('Hướng dẫn thanh toán'),
                             ]),
 
-                        Tabs\Tab::make('Vận chuyển')
+                        Tabs\Tab::make('Quy định vận chuyển')
                             ->icon('heroicon-o-truck')
                             ->schema([
                                 Forms\Components\RichEditor::make('shipping_policy')
@@ -162,29 +56,7 @@ class SettingResource extends Resource
                                     ->label('Chính sách vận chuyển và giao nhận'),
                             ]),
 
-                        Tabs\Tab::make('Bảo hành')
-                            ->icon('heroicon-o-shield-check')
-                            ->schema([
-                                Forms\Components\RichEditor::make('warranty_policy')
-                                    ->columnSpanFull()
-                                    ->label('Chính sách bảo hành'),
-                            ]),
 
-                        Tabs\Tab::make('Bảo mật')
-                            ->icon('heroicon-o-lock-closed')
-                            ->schema([
-                                Forms\Components\RichEditor::make('privacy_policy')
-                                    ->columnSpanFull()
-                                    ->label('Chính sách bảo mật'),
-                            ]),
-
-                        Tabs\Tab::make('Đổi trả')
-                            ->icon('heroicon-o-check-circle')
-                            ->schema([
-                                Forms\Components\RichEditor::make('return_policy')
-                                    ->columnSpanFull()
-                                    ->label('Chính sách đổi trả hàng và hoàn tiền'),
-                            ]),
 
                         Tabs\Tab::make('Giới Thiệu')
                             ->icon('heroicon-o-information-circle')
@@ -193,10 +65,10 @@ class SettingResource extends Resource
                                     ->columnSpanFull()
                                     ->label('Giới thiệu'),
 
-                     
+
                             ]),
 
-                      
+
                     ])
                     ->columnSpanFull()
             ]);
