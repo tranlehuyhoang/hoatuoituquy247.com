@@ -13,19 +13,13 @@ class OrderSuccess extends Mailable
 {
     use Queueable, SerializesModels;
     public $order; // Thông tin đơn hàng
-    public $orderItems; // Danh sách sản phẩm
-    public $shippingAddress; // Địa chỉ giao hàng
-    public $orderCode; // Địa chỉ giao hàng
     /**
      * Create a new message instance.
      */
-    public function __construct($order, $orderItems, $shippingAddress, $orderCode)
+    public function __construct($order)
     {
         $this->order = $order;
-        $this->orderItems = $orderItems;
-        $this->shippingAddress = $shippingAddress;
-        $this->orderCode = $orderCode;
-        $this->from('hoangtlhps26819@fpt.edu.vn', 'THEBABUSTORE.VN');
+        $this->from('hoangtlhps26819@fpt.edu.vn', 'HOATUOITUQUY247.COM');
     }
 
     /**
@@ -34,7 +28,7 @@ class OrderSuccess extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Thông tin đơn hàng:  ' . $this->orderCode, // Sửa tiêu đề email
+            subject: 'Thông tin đơn hàng:  ' . $this->order->order_code, // Sửa tiêu đề email
         );
     }
 
@@ -47,8 +41,6 @@ class OrderSuccess extends Mailable
             view: 'emails.ordersuccess', // Đảm bảo rằng view này tồn tại
             with: [
                 'order' => $this->order,
-                'orderItems' => $this->orderItems,
-                'shippingAddress' => $this->shippingAddress,
             ]
         );
     }

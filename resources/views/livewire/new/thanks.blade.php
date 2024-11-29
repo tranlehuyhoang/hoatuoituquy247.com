@@ -1360,13 +1360,17 @@
                                     <div class="xlwcty_in_wrap">
                                         <div class="xlwcty_order_info">
                                             <div class="xlwcty_circle"><i class="xlwcty-fa xlwcty-fa-check"></i></div>
-                                            <div class="xlwcty_order_no">Đơn hàng #{{ $order->order_code}}</div>
+                                            <div class="xlwcty_order_no">Đơn hàng #{{ $order->order_code }}</div>
                                             <div class="xlwcty_userN">Cảm ơn vì đã tin tưởng Hoa Tươi Tứ Quý</div>
                                         </div>
                                         <div class="xlwcty_Box xlwcty_customer_info">
                                             <div class="xlwcty_title">Thông tin khách hàng</div>
                                             <div class="xlwcty_content xlwcty_clearfix">
                                                 <div class="xlwcty_2_colLeft"></div>
+                                                <div class="xlwcty_2_colRight">
+                                                    <p class="xlwcty_BSpace"><strong>Tên người đặt</strong></p>
+                                                    <p>{{ $order->full_name }}</p>
+                                                </div>
                                                 <div class="xlwcty_2_colRight">
                                                     <p class="xlwcty_BSpace"><strong>Số điện thoại</strong></p>
                                                     <p>{{ $order->phone }}</p>
@@ -1380,22 +1384,6 @@
                                                     </div>
 
                                                 </div>
-                                                <div class="xlwcty_2_colRight">
-                                                    <p class="xlwcty_BSpace"><strong>Nội dung thông điệp</strong></p>
-                                                    <div class="xlwcty_Dview">
-                                                        <p>
-                                                            {{ $order->thong_diep }} </p>
-                                                    </div>
-
-                                                </div>
-                                                <div class="xlwcty_2_colRight">
-                                                    <p class="xlwcty_BSpace"><strong>Ghi chú</strong></p>
-                                                    <div class="xlwcty_Dview">
-                                                        <p>
-                                                            {{ $order->note }} </p>
-                                                    </div>
-
-                                                </div>
                                             </div>
                                         </div>
                                         <div style="display: none;">
@@ -1403,54 +1391,69 @@
                                                 src="data:text/javascript;base64,dmFyIHhsd2N0eV9mYWJfZWNvbT17J3BpeGVsX2lkJzonJywnZmJfcGFfY291bnQnOicnLCdmYl9wYV9kYXRhJzonJywnZmFjZWJvb2tfdHJhY2tpbmdfZXZlbnQnOicnLCdmYWNlYm9va19wdXJjaGFzZV9ldmVudCc6JycsJ2ZhY2Vib29rX3B1cmNoYXNlX2FkdmFuY2VkX21hdGNoaW5nX2V2ZW50JzonJywnZmFjZWJvb2tfcHVyY2hhc2VfZXZlbnRfY29udmVyc2lvbic6JycsJ3Byb2R1Y3RzJzonJywnb3JkZXJfaWQnOiczOTE3OScsJ29yZGVyX3RvdGFsJzonJywnY3VycmVuY3knOidWTkQnLCdzaGlwcGluZ190b3RhbCc6JycsJ29yZGVyX3RheCc6JycsJ2FmZmlsaWF0aW9uJzonVHLhuqFtIEhvYScsJ2dwcm9kdWN0cyc6JycsfQ=="
                                                 defer></script>
                                         </div>
-                                        @if($order->payment_method === 'bank')
-                                        <div class="xlwcty_Box xlwcty_textBox xlwcty_textBox_1">
-                                            <div class="xlwcty_title">Thanh toán</div>
-                                            <div class="xlwcty_content">
-                                                <div class="row row-dashed" id="row-385171029">
-                                                    <div id="col-1473802412" class="col small-12 large-12">
-                                                        <div class="col-inner">
-                                                            <div class="container section-title-container" style="margin-bottom:0px;">
-                                                                <h3 class="section-title section-title-normal">
-                                                                    <b></b>
-                                                                    <span class="section-title-main">Quét Mã Qr để thanh toán:</span>
-                                                                    <b></b>
-                                                                </h3>
+                                        @if ($order->payment_method === 'bank')
+                                            <div class="xlwcty_Box xlwcty_textBox xlwcty_textBox_1">
+                                                <div class="xlwcty_title">Thanh toán</div>
+                                                <div class="xlwcty_content">
+                                                    <div class="row row-dashed" id="row-385171029">
+                                                        <div id="col-1473802412" class="col small-12 large-12">
+                                                            <div class="col-inner">
+                                                                <div class="container section-title-container"
+                                                                    style="margin-bottom:0px;">
+                                                                    <h3 class="section-title section-title-normal">
+                                                                        <b></b>
+                                                                        <span class="section-title-main">{{ $order->payment_status == 'pending' ? 'Quét Mã Qr để thanh toán:' : 'Thanh toán thành công' }}</span>
+                                                                        <b></b>
+                                                                    </h3>
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                    <div id="col-1148901591" class="col medium-12 small-12 large-12">
-                                                        <div class="col-inner">
-                                                            <div class="icon-box featured-box icon-box-center text-center is-large">
-                                                                <div class="icon-box-img" style="width: 200px">
-                                                                    <div class="icon">
-                                                                        <div class="icon-inner">
-                                                                            <img decoding="async" width="200" height="200"
-                                                                                 src="https://api.vietqr.io/mb/0966579217/{{number_format($order->grand_total, 0, ',', '')}}/{{ $order->order_code }}/vietqr_net_2.jpg?accountName=TRAN+LE+HOANG+GIANG"
-                                                                                 class="attachment-medium size-medium" alt=""
-                                                                                 sizes="(max-width: 200px) 100vw, 200px" />
+                                                        <div id="col-1148901591"
+                                                            class="col medium-12 small-12 large-12">
+                                                            <div class="col-inner">
+                                                                @if($order->payment_status == 'pending')
+                                                                <div
+                                                                    class="icon-box featured-box icon-box-center text-center is-large">
+                                                                    <div class="icon-box-img" style="width: 200px">
+                                                                        <div class="icon">
+                                                                            <div class="icon-inner">
+                                                                                <img decoding="async" width="200"
+                                                                                    height="200"
+                                                                                    src="https://api.vietqr.io/mb/0966579217/{{ number_format($order->grand_total, 0, ',', '') }}/{{ $order->order_code }}/vietqr_net_2.jpg?accountName=TRAN+LE+HOANG+GIANG"
+                                                                                    class="attachment-medium size-medium"
+                                                                                    alt=""
+                                                                                    sizes="(max-width: 200px) 100vw, 200px" />
+                                                                            </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>
-                                                                <div class="icon-box-text last-reset">
-                                                                    <h3>MBBANK</h3>
-                                                                    <p>Số Tài Khoản: <strong>0966579217</strong><br />Chủ Tài Khoản: TRAN LE HOANG GIANG</p>
-                                                                    <p>Số Tiền: <strong>{{ number_format($order->grand_total, 0, ',', '.') }} đ</strong><br />Nội dung chuyển khoản: <strong>{{ $order->order_code }}</strong></p>
-                                                                    <p>Trạng thái: <strong> {{$order->payment_status == 'pending' ? 'Chờ thanh toán' : 'Đã thanh toán' }}</strong><br /></p>
+                                                                    <div class="icon-box-text last-reset">
+                                                                        <h3>MBBANK</h3>
+                                                                        <p>Số Tài Khoản:
+                                                                            <strong>0966579217</strong><br />Chủ Tài
+                                                                            Khoản: TRAN LE HOANG GIANG</p>
+                                                                        <p>Số Tiền:
+                                                                            <strong>{{ number_format($order->grand_total, 0, ',', '.') }}
+                                                                                đ</strong><br />Nội dung chuyển khoản:
+                                                                            <strong>{{ $order->order_code }}</strong>
+                                                                        </p>
+                                                                        <p>Trạng thái: <strong>
+                                                                                {{ $order->payment_status == 'pending' ? 'Chờ thanh toán' : 'Đã thanh toán' }}</strong><br />
+                                                                        </p>
 
+                                                                    </div>
                                                                 </div>
+                                                                @endif
                                                             </div>
                                                         </div>
+                                                        <style>
+                                                            #row-385171029>.col>.col-inner {
+                                                                padding: 10px 10px 0px 15px;
+                                                            }
+                                                        </style>
                                                     </div>
-                                                    <style>
-                                                        #row-385171029 > .col > .col-inner {
-                                                            padding: 10px 10px 0px 15px;
-                                                        }
-                                                    </style>
                                                 </div>
                                             </div>
-                                        </div>
-                                    @endif
+                                        @endif
                                         <div class="xlwcty_Box xlwcty_order_details_2_col">
                                             <div class="xlwcty_title">Thông tin đơn hàng</div>
                                             <div class="xlwcty_pro_list xlwcty_clearfix">
@@ -1458,20 +1461,25 @@
                                                     <div class="xlwcty_leftDiv xlwcty_clearfix">
                                                         <div class="xlwcty_p_img">
                                                             <a href="/product/{{ $item->product->slug }}">
-                                                                <img decoding="async" width="100" height="100" src="{{ Storage::url($item->product->images[0]) }}" class="attachment-shop_thumbnail size-shop_thumbnail" alt="" />
+                                                                <img decoding="async" width="100" height="100"
+                                                                    src="{{ Storage::url($item->product->images[0]) }}"
+                                                                    class="attachment-shop_thumbnail size-shop_thumbnail"
+                                                                    alt="" />
                                                             </a>
                                                             <span class="xlwcty_qty">{{ $item->quantity }}</span>
                                                         </div>
                                                         <div class="xlwcty_p_name">
-                                                            <a href="/product/{{$item->product->slug  }}">
-                                                                <span class="xlwcty_t">{{ $item->product->name }}</span>
+                                                            <a href="/product/{{ $item->product->slug }}">
+                                                                <span
+                                                                    class="xlwcty_t">{{ $item->product->name }}</span>
                                                             </a>
                                                             <div class="xlwcty_info"></div>
                                                         </div>
                                                     </div>
                                                     <div class="xlwcty_rightDiv">
                                                         <span class="woocommerce-Price-amount amount">
-                                                            <bdi>{{ number_format($item->unit_amount, 0, ',', '.') }}&nbsp;<span class="woocommerce-Price-currencySymbol">VND</span></bdi>
+                                                            <bdi>{{ number_format($item->unit_amount, 0, ',', '.') }}&nbsp;<span
+                                                                    class="woocommerce-Price-currencySymbol">VND</span></bdi>
                                                         </span>
                                                     </div>
                                                 @endforeach
@@ -1482,19 +1490,22 @@
                                                         <th scope="row">Tổng số phụ:</th>
                                                         <td>
                                                             <span class="woocommerce-Price-amount amount">
-                                                                <bdi>{{ number_format($order->grand_total, 0, ',', '.') }}&nbsp;<span class="woocommerce-Price-currencySymbol">VND</span></bdi>
+                                                                <bdi>{{ number_format($order->grand_total, 0, ',', '.') }}&nbsp;<span
+                                                                        class="woocommerce-Price-currencySymbol">VND</span></bdi>
                                                             </span>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <th scope="row">Phương thức thanh toán:</th>
-                                                        <td>{{ $order->payment_method == 'cod' ? 'Thanh toán khi nhận hàng' : 'Thanh toán online' }}</td>
+                                                        <td>{{ $order->payment_method == 'cod' ? 'Thanh toán khi nhận hàng' : 'Thanh toán online' }}
+                                                        </td>
                                                     </tr>
                                                     <tr>
                                                         <th scope="row">Tổng cộng:</th>
                                                         <td>
                                                             <span class="woocommerce-Price-amount amount">
-                                                                <bdi>{{ number_format($order->grand_total, 0, ',', '.') }}&nbsp;<span class="woocommerce-Price-currencySymbol">VND</span></bdi>
+                                                                <bdi>{{ number_format($order->grand_total, 0, ',', '.') }}&nbsp;<span
+                                                                        class="woocommerce-Price-currencySymbol">VND</span></bdi>
                                                             </span>
                                                         </td>
                                                     </tr>
@@ -1508,7 +1519,7 @@
                     </div>
                 </div>
             </main>
-           @livewire('new.inc.footer')
+            @livewire('new.inc.footer')
         </div>
         @livewire('new.inc.menu')
         <script type="text/javascript"
@@ -2223,5 +2234,85 @@
             </li>
         </div>
     </body>
+    <script>
+        //             // Enable pusher logging - don't include this in production
+        //    Pusher.logToConsole = true;
 
+        //    var pusher = new Pusher('827c74b29880dbe97c43', {
+        //      cluster: 'ap1'
+        //    });
+
+        //    var channel = pusher.subscribe('notification');
+        //    channel.bind('notification.' + {{ Auth::user()->id }}, function(data) {
+        //     var content = data.invitation_code; // Adjust this field according to the actual structure of data.bank
+        //     Swal.fire({
+        //                 icon: 'success', // Change the icon type based on your needs (e.g., 'info', 'warning', 'error')
+        //                 title: 'Thông báo',
+        //                 text: 'Thanh toán thành công đơn hàng ' + content + '!',
+        //                 confirmButtonText: 'OK'
+        //             }).then((result) => {
+        //                 if (result.isConfirmed) {
+        //                     window.location.href = '/thanks/{{ $order->order_code }}';
+        //                 }
+        //             });
+        //    });
+        // Function to make the HTTP request
+        function fetchCronData() {
+            fetch('/checkpayment/{{ $order->order_code }}', {
+                    method: 'GET', // HTTP method
+                    headers: {
+                        'Content-Type': 'application/json' // Optional, depending on your backend requirements
+                    }
+                })
+                .then(response => response.json()) // Assuming the response is JSON
+                .then(data => {
+                    // console.log('Data from cron endpoint:', data);
+                    if (data.payment_status == 'paid') {
+                        Swal.fire({
+                            icon: 'success', // Change the icon type based on your needs (e.g., 'info', 'warning', 'error')
+                            title: 'Thông báo',
+                            text: 'Thanh toán thành công đơn hàng ' + data.invitation_code + '!',
+                            confirmButtonText: 'OK'
+                        }).then((result) => {
+                            if (result.isConfirmed) {
+                                window.location.href = '/thanks/{{ $order->order_code }}';
+                            }
+                        });
+                    } else {
+                        fetchCronData();
+                    }
+
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+
+                    // Handle errors if needed, continue fetching in case of failure
+                    fetchCronData();
+                });
+        }
+
+        // Call fetchCronData once to start the process
+        fetchCronData();
+
+
+        function fetchCronTransactions() {
+            fetch('/transactions', {
+                    method: 'GET', // HTTP method
+                    headers: {
+                        'Content-Type': 'application/json' // Optional, depending on your backend requirements
+                    }
+                })
+                .then(response => response.json()) // Assuming the response is JSON
+                .then(data => {
+                    fetchCronTransactions();
+
+                })
+                .catch(error => {
+                    fetchCronTransactions();
+                });
+        }
+
+        // Call fetchCronData once to start the process
+        fetchCronTransactions();
+    </script>
 </div>

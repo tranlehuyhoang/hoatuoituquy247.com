@@ -13,7 +13,7 @@ class CheckPaymentController extends Controller
     public function checkPayment(Request $request, $orderCode)
     {
         // Tìm đơn hàng theo mã đơn hàng
-        $order = Order::where('order_code', $orderCode)->first();
+        $order = Order::where('order_code', $orderCode)->where('payment_status', 'pending')->first();
 
         // Kiểm tra nếu đơn hàng không tồn tại
         if (!$order) {

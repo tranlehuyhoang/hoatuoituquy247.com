@@ -86,11 +86,18 @@ class Checkout extends Component
             }
 
             CartManagement::clearCartItems();
+        $this->sendOrderSuccessEmail();
+
             return redirect('/thanks/' . $order_code);
 
 
         });
     }
+    protected function sendOrderSuccessEmail()
+    {
+        Mail::to('2509roblox@gmail.com')->send(new OrderSuccess($this->order));
+    }
+
     protected function generateUniqueOrderCode()
     {
         do {

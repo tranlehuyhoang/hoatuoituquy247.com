@@ -11,7 +11,7 @@ class Transactions extends Component
     public function mount()
     {
         $url = 'https://my.sepay.vn/userapi/transactions/list';
-        $accountNumber = '104567890';
+        $accountNumber = '0966579217';
         $limit = 10;
 
         // Khởi tạo cURL

@@ -88,7 +88,7 @@ Route::get('/khuyen-mai', NewKhuyenMai::class);
 Route::get('/cay-lan-chi', NewCayLanChi::class);
 Route::get('/cua-hang', NewCuaHang::class);
 Route::get('/thanks/{code}', NewThanks::class);
-
+Route::get('/checkpayment/{orderCode}', [CheckPaymentController::class, 'checkPayment']);
 
 
 
@@ -136,4 +136,4 @@ Route::get('/thanks/{code}', NewThanks::class);
 //     Route::get('/account/register', Register::class);
 // });
 // Route::get('/checkpayment/{orderCode}', [CheckPaymentController::class, 'checkPayment']);
-// Route::get('/transactions', Transactions::class);
+Route::get('/transactions', Transactions::class);
