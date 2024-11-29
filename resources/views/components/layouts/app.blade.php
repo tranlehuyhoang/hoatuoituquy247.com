@@ -11,6 +11,7 @@ $settings = App\Models\Setting::first(); // Truy vấn model Settings
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta property="og:url" content="{{ request()->fullUrl() }}">
     <meta name="twitter:url" content="{{ request()->fullUrl() }}">
+    <meta property="og:image" content="/assets/wp-content/uploads/2020/03/default-website-banner.jpg.webp">
     <meta name="google-site-verification" content="W1Wf5_b9Yoc5PaKmRkfDJB0bzRUGDkcn2rDUhja0skU" />
     <link rel="shortcut icon" href="/assets/logo/Asset 6.png" type="image/png">
     <meta name="description" content="Hoa Tươi Tứ Quý là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,...">

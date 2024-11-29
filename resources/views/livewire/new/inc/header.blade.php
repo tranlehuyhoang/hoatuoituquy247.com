@@ -118,7 +118,7 @@
                                     <a class="" href="tel:+84348278722">
                                         <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                             <img width="312" height="92"
-                                                src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
+                                                src="/image.png"
                                                 class="attachment-original size-original"
                                                 alt="Hotline tư vấn đặt hoa nhanh 085 311 4114"
                                                 sizes="(max-width: 312px) 100vw, 312px" />
@@ -161,7 +161,7 @@
                                                     phẩm trong giỏ hàng.</p>
                                                 <p class="return-to-shop">
                                                     <a class="button primary wc-backward"
-                                                        href="https://tramhoa.com/cua-hang/">
+                                                        href="/cua-hang/">
                                                         Quay trở lại cửa hàng </a>
                                                 </p>
                                             </div>

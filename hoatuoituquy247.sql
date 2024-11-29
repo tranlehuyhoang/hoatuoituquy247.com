@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 28, 2024 at 03:30 PM
+-- Generation Time: Nov 29, 2024 at 01:10 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -6989,15 +6989,6 @@ CREATE TABLE `addresses` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `addresses`
---
-
-INSERT INTO `addresses` (`id`, `full_name`, `phone`, `detailed_address`, `order_id`, `created_at`, `updated_at`) VALUES
-(88, '', '', '', 89, '2024-11-28 13:02:26', '2024-11-28 13:02:26'),
-(89, '', '', '', 90, '2024-11-28 13:30:54', '2024-11-28 13:30:54'),
-(90, '', '', 'Trần Lê Huy Hoàng', 92, '2024-11-28 14:28:41', '2024-11-28 14:28:41');
-
 -- --------------------------------------------------------
 
 --
@@ -7069,6 +7060,14 @@ CREATE TABLE `cache` (
   `value` mediumtext NOT NULL,
   `expiration` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `cache`
+--
+
+INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
+('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1732836326),
+('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1732836326;', 1732836326);
 
 -- --------------------------------------------------------
 
@@ -7786,7 +7785,7 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 
 CREATE TABLE `orders` (
   `id` bigint(20) UNSIGNED NOT NULL,
-  `user_id` bigint(20) UNSIGNED NOT NULL,
+  `user_id` bigint(20) UNSIGNED DEFAULT 1,
   `grand_total` decimal(30,2) NOT NULL DEFAULT 0.00,
   `payment_method` varchar(255) DEFAULT NULL,
   `payment_status` varchar(255) DEFAULT NULL,
@@ -7803,17 +7802,20 @@ CREATE TABLE `orders` (
   `sdt_nguoi_nhan` varchar(255) NOT NULL,
   `ngay_giao_hoa` varchar(255) NOT NULL,
   `time_giao_hoa` varchar(255) NOT NULL,
-  `thong_diep` varchar(255) DEFAULT NULL
+  `thong_diep` varchar(255) DEFAULT NULL,
+  `full_name` varchar(255) NOT NULL,
+  `phone` varchar(255) NOT NULL,
+  `detailed_address` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `orders`
 --
 
-INSERT INTO `orders` (`id`, `user_id`, `grand_total`, `payment_method`, `payment_status`, `status`, `currency`, `shipping_amount`, `shipping_method`, `notes`, `created_at`, `updated_at`, `order_code`, `profit_loss`, `ho_ten_nguoi_nhan`, `sdt_nguoi_nhan`, `ngay_giao_hoa`, `time_giao_hoa`, `thong_diep`) VALUES
-(89, 1, 3000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', '$this->note', '2024-11-28 13:02:26', '2024-11-28 13:02:26', 'WEB036725068793', 0.00, '', '', '', '', NULL),
-(90, 1, 3000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'việt nam', '2024-11-28 13:30:54', '2024-11-28 13:30:54', 'WEB032313914686', 0.00, '', '', '', '', NULL),
-(92, 1, 15000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'Trần Lê Huy Hoàng', '2024-11-28 14:28:41', '2024-11-28 14:28:41', 'WEB035894622162', 0.00, 'Trần Lê Huy Hoàng', 'Trần Lê Huy Hoàng', '2024-11-21', '13:00 - 17:00', '123123');
+INSERT INTO `orders` (`id`, `user_id`, `grand_total`, `payment_method`, `payment_status`, `status`, `currency`, `shipping_amount`, `shipping_method`, `notes`, `created_at`, `updated_at`, `order_code`, `profit_loss`, `ho_ten_nguoi_nhan`, `sdt_nguoi_nhan`, `ngay_giao_hoa`, `time_giao_hoa`, `thong_diep`, `full_name`, `phone`, `detailed_address`) VALUES
+(93, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'Ghi chú', '2024-11-28 23:36:10', '2024-11-28 23:36:10', 'WEB031061562392', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-11-30', '13:00 - 17:00', 'Nội dung thông điệp', '', '', 'Địa chỉ *'),
+(94, 1, 5000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:44:13', '2024-11-28 23:44:13', 'WEB039520980174', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-07', '18:00 - 20:00', 'Nội dung thông điệp\n', 'Trần Lê Huy Hoàng', '123123', 'Địa chỉ *'),
+(96, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:48:35', '2024-11-29 00:09:29', 'WEB034476556239', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-06', '13:00 - 17:00', 'Nội dung thông điệp\n', 'Họ và tên *', 'Số điện thoại *', 'Địa chỉ *');
 
 -- --------------------------------------------------------
 
@@ -7837,9 +7839,9 @@ CREATE TABLE `order_items` (
 --
 
 INSERT INTO `order_items` (`id`, `order_id`, `quantity`, `unit_amount`, `total_amount`, `created_at`, `updated_at`, `product_id`) VALUES
-(96, 89, 1, 3000.00, 3000.00, '2024-11-28 13:02:26', '2024-11-28 13:02:26', 630),
-(97, 90, 1, 3000.00, 3000.00, '2024-11-28 13:30:54', '2024-11-28 13:30:54', 605),
-(98, 92, 5, 3000.00, 15000.00, '2024-11-28 14:28:41', '2024-11-28 14:28:41', 605);
+(99, 93, 1, 10000.00, 10000.00, '2024-11-28 23:36:10', '2024-11-28 23:36:10', 612),
+(100, 94, 1, 5000.00, 5000.00, '2024-11-28 23:44:13', '2024-11-28 23:44:13', 607),
+(102, 96, 1, 10000.00, 10000.00, '2024-11-28 23:48:35', '2024-11-28 23:48:35', 612);
 
 -- --------------------------------------------------------
 
@@ -7973,8 +7975,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('3fsBgf2Ih2FPNkK7GSSId3WtthRMaXsZnhddlGGC', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiT3JwcWFTeVBiQlBZcENNNnRWUU5mYUZrV0x2Z3ZBOWFscmRCUlM1WiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFuaC10b2FuIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1732802680),
-('KM3hq8w8RXr2vXoGsshLNg9N33h6Loh9aOfU06Vf', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo4OntzOjY6Il90b2tlbiI7czo0MDoieW9TZnFSdUk2WjY4MnlxdmRuVnBobTNTTmhxeWxWdTRlMXprbU83USI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFuaC10b2FuIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9czo2OiJ0YWJsZXMiO2E6MTp7czozMDoiTGlzdE9yZGVySXRlbXNfdG9nZ2xlZF9jb2x1bW5zIjthOjI6e3M6MTA6ImNyZWF0ZWRfYXQiO2I6MTtzOjEwOiJ1cGRhdGVkX2F0IjtiOjE7fX19', 1732804197);
+('iNJShzjL43eR4xkv6rRa9tn37hMVph7QnM5tkCVU', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiOWFWR2lrS0VCajNaVmpXZ1NqaDlpVk5tYzBnUkFDS1Z4MkhTaU05ciI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6NDQ6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFua3MvV0VCMDM0NDc2NTU2MjM5Ijt9czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1732839014);
 
 -- --------------------------------------------------------
 
@@ -8390,13 +8391,13 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `orders`
 --
 ALTER TABLE `orders`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=93;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
 
 --
 -- AUTO_INCREMENT for table `order_items`
 --
 ALTER TABLE `order_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=99;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=103;
 
 --
 -- AUTO_INCREMENT for table `products`

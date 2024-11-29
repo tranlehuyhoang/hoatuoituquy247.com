@@ -1325,7 +1325,7 @@
                                                                 sản phẩm trong giỏ hàng.</p>
                                                             <p class="return-to-shop">
                                                                 <a class="button primary wc-backward"
-                                                                    href="https://tramhoa.com/cua-hang/">
+                                                                    href="/cua-hang/">
                                                                     Quay trở lại cửa hàng </a>
                                                             </p>
                                                         </div>
@@ -1389,7 +1389,7 @@
                                                             phẩm trong giỏ hàng.</p>
                                                         <p class="return-to-shop">
                                                             <a class="button primary wc-backward"
-                                                                href="https://tramhoa.com/cua-hang/">
+                                                                href="/cua-hang/">
                                                                 Quay trở lại cửa hàng </a>
                                                         </p>
                                                     </div>

@@ -1164,7 +1164,7 @@
                                                                         <div
                                                                             class="continue-shopping pull-left text-left">
                                                                             <a class="button-continue-shopping button primary is-outline"
-                                                                                href="https://tramhoa.com/cua-hang/">
+                                                                                href="/cua-hang/">
                                                                                 &#8592;&nbsp;Tiếp tục xem sản phẩm </a>
                                                                         </div>
 
@@ -1216,49 +1216,6 @@
                                                                                 class="woocommerce-Price-currencySymbol">VND</span></bdi></span>
                                                                 </td>
                                                             </tr>
-
-
-
-
-                                                            <tr class="woocommerce-shipping-totals shipping ">
-                                                                <td class="shipping__inner" colspan="2">
-                                                                    <table class="shipping__table ">
-                                                                        <tbody>
-                                                                            <tr>
-                                                                                <th>Giao hàng</th>
-                                                                                <td data-title="Giao hàng">
-                                                                                    <ul id="shipping_method"
-                                                                                        class="shipping__list woocommerce-shipping-methods">
-                                                                                        <li
-                                                                                            class="shipping__list_item">
-                                                                                            <input type="hidden"
-                                                                                                name="shipping_method[0]"
-                                                                                                data-index="0"
-                                                                                                id="shipping_method_0_devvn_district_zone_shipping_19"
-                                                                                                value="devvn_district_zone_shipping_19"
-                                                                                                class="shipping_method" /><label
-                                                                                                class="shipping__list_label"
-                                                                                                for="shipping_method_0_devvn_district_zone_shipping_19">
-                                                                                                <span
-                                                                                                    class="woocommerce-Price-amount amount"><bdi>Miễn phí</span></bdi></span></label>
-                                                                                        </li>
-                                                                                    </ul>
-
-
-
-
-                                                                                </td>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-
-
-
-
-
-
                                                             <tr class="order-total">
                                                                 <th>Tổng</th>
                                                                 <td data-title="Tổng"><strong><span

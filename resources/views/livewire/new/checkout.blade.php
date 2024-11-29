@@ -544,8 +544,8 @@
                     "customerBillingFirstName": "",
                     "customerBillingLastName": "",
                     "customerBillingCompany": "",
-                    "customerBillingAddress1": "",
-                    "customerBillingAddress2": "",
+                    "customershippingAddress1": "",
+                    "customershippingAddress2": "",
                     "customerBillingCity": "",
                     "customerBillingState": "",
                     "customerBillingPostcode": "",
@@ -1415,7 +1415,7 @@
                                                                                 type="text" class="input-text "
                                                                                 name="billing_last_name"
                                                                                 id="billing_last_name"
-                                                                                wire:model="billingAddress.full_name"
+                                                                                wire:model="shippingAddress.full_name"
                                                                                 placeholder="Họ tên của bạn"
                                                                                 value=""
                                                                                 aria-required="true" /></span>
@@ -1429,7 +1429,7 @@
                                                                                 type="text" class="input-text "
                                                                                 name="billing_phone" id="billing_phone"
                                                                                 placeholder="Số điện thoại của bạn"
-                                                                                wire:model="billingAddress.phone"
+                                                                                wire:model="shippingAddress.phone"
                                                                                 value="" aria-required="true"
                                                                                 autocomplete="tel" /></span></p>
                                                                 </div>
@@ -1654,7 +1654,7 @@
                                                                                                         class="shipping__list_item">
                                                                                                         <span
                                                                                                             class="woocommerce-Price-amount amount">
-                                                                                                            <bdi> Thị xã bình long,</bdi>
+                                                                                                            <bdi> Thị xã Bình Long, Bình Phước</bdi>
                                                                                                         </span>
                                                                                                     </li>
                                                                                                 </ul>
@@ -1688,7 +1688,8 @@
                                                                             class="wc_payment_method payment_method_bacs">
                                                                             <input id="payment_method_bacs"
                                                                                 type="radio" class="input-radio"
-                                                                                name="payment_method" value="bacs"
+                                                                                name="payment_method" value="bank"
+                                                                                wire:model="paymentMethod"
                                                                                 checked='checked'
                                                                                 data-order_button_text="" />
 
@@ -1719,6 +1720,7 @@
                                                                             <input id="payment_method_cod"
                                                                                 type="radio" class="input-radio"
                                                                                 name="payment_method" value="cod"
+                                                                                wire:model="paymentMethod"
                                                                                 data-order_button_text="" />
 
                                                                             <label for="payment_method_cod">

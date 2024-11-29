@@ -1054,7 +1054,7 @@
                                 <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_175530373">
                                     <div class="img-inner image-cover dark" style="padding-top:20em;">
                                         <img fetchpriority="high" decoding="async" width="1280" height="520"
-                                            src="https://tramhoa.com//wp-content/uploads/2020/03/default-website-banner.jpg.webp"
+                                            src="/assets/wp-content/uploads/2020/03/default-website-banner.jpg.webp"
                                             class="attachment-original size-original" alt=""
                                             sizes="(max-width: 1280px) 100vw, 1280px" />
                                     </div>

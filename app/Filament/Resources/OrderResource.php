@@ -52,88 +52,106 @@ class OrderResource extends Resource
             ->schema([
                 Group::make()->schema([
                     Section::make('Thông Tin Đơn Hàng') // Tiêu đề section
-                        ->schema([
-                            Select::make('user_id')
-                                ->label('Khách Hàng') // Đổi nhãn sang tiếng Việt
-                                ->relationship('user', 'name')
-                                ->searchable()
-                                ->preload()
-                                ->required(),
+                    ->schema([
+                        Select::make('payment_method')
+                            ->label('Phương Thức Thanh Toán')
+                            ->options([
+                                'cod' => '(COD)',
+                                'bank' => 'Ngân hàng',
+                                'appotabank' => 'AppotaBank',
+                            ])
+                            ->required(),
 
-                            Select::make('payment_method')
-                                ->label('Phương Thức Thanh Toán') // Đổi nhãn sang tiếng Việt
-                                ->options([
-                                    'cod' => '(COD)',
-                                    'bank' => 'Ngân hàng',
-                                    'appotabank' => 'AppotaBank',
-                                ])
-                                ->required(),
+                        Select::make('payment_status')
+                            ->label('Trạng Thái Thanh Toán')
+                            ->options([
+                                'pending' => 'Đang Chờ',
+                                'paid'    => 'Đã Thanh Toán',
+                                'failed'  => 'Thất Bại'
+                            ])
+                            ->default('pending')
+                            ->required(),
 
-                            Select::make('payment_status')
-                                ->label('Trạng Thái Thanh Toán') // Đổi nhãn sang tiếng Việt
-                                ->options([
-                                    'pending' => 'Đang Chờ',
-                                    'paid'    => 'Đã Thanh Toán',
-                                    'failed'  => 'Thất Bại'
-                                ])
-                                ->default('pending')
-                                ->required(),
+                        Select::make('shipping_method')
+                            ->label('Phương Thức Vận Chuyển')
+                            ->options([
 
-                            // Thêm Shipping Method và Shipping Amount ở đây
-                            Select::make('shipping_method')
-                                ->label('Phương Thức Vận Chuyển') // Đổi nhãn sang tiếng Việt
-                                ->options([
-                                    'in_store_pickup' => 'Nhận tại cửa hàng',
-                                    'home_delivery' => 'Giao hàng tận nơi',
-                                ])
-                                ->required()
-                                ->reactive(),
+                                'home_delivery'   => 'Giao hàng tận nơi',
+                            ])
+                            ->required()
+                            ->reactive(),
 
-                            TextInput::make('shipping_amount')
-                                ->label('Phí Vận Chuyển') // Đổi nhãn sang tiếng Việt
-                                ->numeric() // Chuyển thành input dạng số
-                                ->required()
-                                ->default(0),
+                        TextInput::make('shipping_amount')
+                            ->label('Phí Vận Chuyển')
+                            ->numeric()
+                            ->required()
+                            ->default(0),
 
-                            TextInput::make('grand_total')
-                                ->label('Tổng Cộng') // Đổi nhãn sang tiếng Việt
-                                ->numeric() // Chuyển thành input dạng số
-                                ->required()
-                                ->default(0),
+                        TextInput::make('grand_total')
+                            ->label('Tổng Cộng')
+                            ->numeric()
+                            ->required()
+                            ->default(0),
 
+                        ToggleButtons::make('status')
+                            ->inline()
+                            ->default('new')
+                            ->required()
+                            ->label('Trạng Thái Đơn Hàng')
+                            ->options([
+                                'new'        => 'Mới',
+                                'processing' => 'Đang Xử Lý',
+                                'shipped'    => 'Đã Gửi',
+                                'delivered'  => 'Đã Giao',
+                                'cancelled'  => 'Đã Hủy'
+                            ])
+                            ->colors([
+                                'new'        => 'info',
+                                'processing' => 'warning',
+                                'shipped'    => 'success',
+                                'delivered'  => 'success',
+                                'cancelled'  => 'danger'
+                            ])
+                            ->icons([
+                                'new'        => 'heroicon-m-sparkles',
+                                'processing' => 'heroicon-m-arrow-path',
+                                'shipped'    => 'heroicon-m-truck',
+                                'delivered'  => 'heroicon-m-check-badge',
+                                'cancelled'  => 'heroicon-m-x-circle'
+                            ]),
 
-                            ToggleButtons::make('status')
-                                ->inline()
-                                ->default('new')
-                                ->required()
-                                ->label('Trạng Thái Đơn Hàng') // Đổi nhãn sang tiếng Việt
-                                ->options([
-                                    'new' => 'Mới',
-                                    'processing' => 'Đang Xử Lý',
-                                    'shipped'    => 'Đã Gửi',
-                                    'delivered' => 'Đã Giao',
-                                    'cancelled'  => 'Đã Hủy'
-                                ])
-                                ->colors([
-                                    'new' => 'info',
-                                    'processing' => 'warning',
-                                    'shipped'    => 'success',
-                                    'delivered' => 'success',
-                                    'cancelled'  => 'danger'
-                                ])->icons([
-                                    'new' => 'heroicon-m-sparkles',
-                                    'processing' => 'heroicon-m-arrow-path',
-                                    'shipped'    => 'heroicon-m-truck',
-                                    'delivered' => 'heroicon-m-check-badge',
-                                    'cancelled'  => 'heroicon-m-x-circle'
-                                ]),
+                        TextInput::make('ho_ten_nguoi_nhan')
+                            ->label('Họ Tên Người Nhận')
+                            ->required(),
 
+                        TextInput::make('sdt_nguoi_nhan')
+                            ->label('Số Điện Thoại Người Nhận')
+                            ->required(),
 
+                        TextInput::make('ngay_giao_hoa')
+                            ->label('Ngày Giao Hàng')
+                            ->required(),
 
-                            Textarea::make('notes')
-                                ->label('Ghi Chú') // Đổi nhãn sang tiếng Việt
-                                ->columnSpanFull()
-                        ])->columns(2),
+                        TextInput::make('time_giao_hoa')
+                            ->label('Thời Gian Giao Hàng')
+                            ->required(),
+
+                        Textarea::make('thong_diep')
+                            ->label('Thông Điệp')
+                            ->columnSpanFull(),
+
+                        TextInput::make('full_name')
+                            ->label('Họ Tên Người Đặt Hàng')
+                            ->columnSpanFull(),
+
+                        TextInput::make('phone')
+                            ->label('Số Điện Thoại Người Đặt Hàng')
+                            ->columnSpanFull(),
+
+                        Textarea::make('detailed_address')
+                            ->label('Địa Chỉ Giao Hàng')
+                            ->columnSpanFull()
+                    ])->columns(2),
 
                     Section::make('Sản Phẩm Đơn Hàng') // Tiêu đề section
                         ->schema([
@@ -142,7 +160,7 @@ class OrderResource extends Resource
                                 ->schema([
                                     Select::make('product_id')
                                         ->label('Sản Phẩm') // Đổi nhãn sang tiếng Việt
-                                        ->relationship('product', 'name')
+                                        ->relationship('product', 'code')
                                         ->preload()
                                         ->required()
                                         ->distinct()
@@ -165,6 +183,7 @@ class OrderResource extends Resource
                                             $unitAmount = $get('unit_amount');
                                             $set('total_amount', $state * $unitAmount);
                                         }),
+
                                     TextInput::make('unit_amount')
                                         ->label('Đơn Giá') // Đổi nhãn sang tiếng Việt
                                         ->numeric()
@@ -211,12 +230,12 @@ class OrderResource extends Resource
                     ->label('Mã Đơn Hàng') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->searchable(),
-                    TextColumn::make('address.phone')
-                    ->label('Số Điện Thoại')
+                    TextColumn::make('phone')
+                    ->label('Số Điện Thoại Người Đặt Hàng')
                     ->searchable(),
 
-                TextColumn::make('user.name')
-                    ->label('Khách Hàng') // Đổi nhãn sang tiếng Việt
+                TextColumn::make('full_name')
+                    ->label('Người Đặt Hàng') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->searchable(),
 
@@ -260,13 +279,33 @@ class OrderResource extends Resource
                     ->label('Phí Vận Chuyển') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->money('VND'),
-
+                TextColumn::make('detailed_address')
+                    ->label('Địa Chỉ Giao Hàng') // Đổi nhãn sang tiếng Việt
+                    ->sortable()
+                    ->searchable(),
                 TextColumn::make('created_at')
                     ->label('Ngày Đặt Hàng') // Đổi nhãn sang tiếng Việt
                     ->dateTime()
                     ->sortable()
                     ,
-
+                TextColumn::make('ho_ten_nguoi_nhan')
+                    ->label('Họ Tên Người Nhận') // Đổi nhãn sang tiếng Việt
+                    ->sortable()
+                    ->searchable(),
+                TextColumn::make('sdt_nguoi_nhan')
+                    ->label('Số Điện Thoại Người Nhận') // Đổi nhãn sang tiếng Việt
+                    ->sortable()
+                    ->searchable(),
+                    TextColumn::make('ngay_giao_hoa')
+                    ->label('Ngày Giao Hàng') // Đổi nhãn sang tiếng Việt
+                    ->sortable(),
+                TextColumn::make('time_giao_hoa')
+                    ->label('Thời Gian Giao Hàng') // Đổi nhãn sang tiếng Việt
+                    ->sortable(),
+                TextColumn::make('thong_diep')
+                    ->label('Thông Điệp') // Đổi nhãn sang tiếng Việt
+                    ->sortable()
+                    ->searchable(),
                 TextColumn::make('updated_at')
                     ->label('Ngày Cập Nhật') // Đổi nhãn sang tiếng Việt
                     ->dateTime()
@@ -294,12 +333,7 @@ class OrderResource extends Resource
             ]);
     }
 
-    public static function getRelations(): array
-    {
-        return [
-            AddressRelationManager::class
-        ];
-    }
+
 
     public static function getNavigationBadge(): ?string
     {

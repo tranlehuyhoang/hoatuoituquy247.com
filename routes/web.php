@@ -51,6 +51,7 @@ use App\Livewire\New\DanhGiaHinhAnhThucTe as NewDanhGiaHinhAnhThucTe;
 use App\Livewire\New\KhuyenMai as NewKhuyenMai;
 use App\Livewire\New\CayLanChi as NewCayLanChi;
 use App\Livewire\New\CuaHang as NewCuaHang;
+use App\Livewire\New\Thanks as NewThanks;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -86,7 +87,7 @@ Route::get('/danh-gia-hinh-anh-thuc-te', NewDanhGiaHinhAnhThucTe::class);
 Route::get('/khuyen-mai', NewKhuyenMai::class);
 Route::get('/cay-lan-chi', NewCayLanChi::class);
 Route::get('/cua-hang', NewCuaHang::class);
-
+Route::get('/thanks/{code}', NewThanks::class);
 
 
 

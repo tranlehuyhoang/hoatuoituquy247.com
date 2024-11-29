@@ -59,7 +59,7 @@ class Checkout extends Component
                 'payment_method' => $this->paymentMethod ?? 'bank',
                 'payment_status' => 'pending',
                 'currency' => 'VND',
-                'shipping_method' => 'cod',
+                'shipping_method' => 'home_delivery',
                 'order_code' => $order_code,
                 'notes' => $this->note ?? '$this->note',
                 'shipping_amount' => '0',
@@ -68,15 +68,12 @@ class Checkout extends Component
                 'ngay_giao_hoa' => $this->ngay_giao_hoa,
                 'time_giao_hoa' => $this->time_giao_hoa,
                 'thong_diep' => $this->thong_diep,
+                'full_name' => $this->shippingAddress['full_name'],
+                'phone' => $this->shippingAddress['phone'],
+                'detailed_address' => $this->shippingAddress['detailed_address'],
             ]);
 
             // Tạo địa chỉ giao hàng
-            Address::create([
-                'order_id' => $order->id,
-                'full_name' => $this->shippingAddress['full_name'] ?? '',
-                'phone' => $this->shippingAddress['phone'] ?? '',
-                'detailed_address' => $this->shippingAddress['detailed_address'] ?? '',
-            ]);
             // Tạo mục đơn hàng cho từng sản phẩm trong giỏ
             foreach ($this->cartItems as $item) {
                 OrderItem::create([
@@ -90,7 +87,7 @@ class Checkout extends Component
 
             CartManagement::clearCartItems();
             if($this->paymentMethod == 'bank'){
-                return redirect()->route('bank', ['orderCode' => $order->order_code]);
+                return redirect('bank');
             }else{
                 // return redirect('/thanks')->route('', ['orderCode' => $order->order_code]);
                 return redirect('/thanks');
