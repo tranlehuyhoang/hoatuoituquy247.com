@@ -1380,6 +1380,22 @@
                                                     </div>
 
                                                 </div>
+                                                <div class="xlwcty_2_colRight">
+                                                    <p class="xlwcty_BSpace"><strong>Nội dung thông điệp</strong></p>
+                                                    <div class="xlwcty_Dview">
+                                                        <p>
+                                                            {{ $order->thong_diep }} </p>
+                                                    </div>
+
+                                                </div>
+                                                <div class="xlwcty_2_colRight">
+                                                    <p class="xlwcty_BSpace"><strong>Ghi chú</strong></p>
+                                                    <div class="xlwcty_Dview">
+                                                        <p>
+                                                            {{ $order->note }} </p>
+                                                    </div>
+
+                                                </div>
                                             </div>
                                         </div>
                                         <div style="display: none;">
@@ -1410,16 +1426,18 @@
                                                                     <div class="icon">
                                                                         <div class="icon-inner">
                                                                             <img decoding="async" width="200" height="200"
-                                                                                 src="/assets/wp-content/uploads/2022/11/vietcombank-qr.jpg"
+                                                                                 src="https://api.vietqr.io/mb/0966579217/{{number_format($order->grand_total, 0, ',', '')}}/{{ $order->order_code }}/vietqr_net_2.jpg?accountName=TRAN+LE+HOANG+GIANG"
                                                                                  class="attachment-medium size-medium" alt=""
-                                                                                 srcset="/assets/wp-content/uploads/2022/11/vietcombank-qr.jpg 200w, /assets/wp-content/uploads/2022/11/vietcombank-qr-100x100.jpg 100w, /assets/wp-content/uploads/2022/11/vietcombank-qr-150x150.jpg 150w"
                                                                                  sizes="(max-width: 200px) 100vw, 200px" />
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="icon-box-text last-reset">
-                                                                    <h3>Vietcombank</h3>
-                                                                    <p>Số Tài Khoản: <strong>0061 000 99 4027</strong><br />Chủ Tài Khoản: Nguyễn Thành Phúc</p>
+                                                                    <h3>MBBANK</h3>
+                                                                    <p>Số Tài Khoản: <strong>0966579217</strong><br />Chủ Tài Khoản: TRAN LE HOANG GIANG</p>
+                                                                    <p>Số Tiền: <strong>{{ number_format($order->grand_total, 0, ',', '.') }} đ</strong><br />Nội dung chuyển khoản: <strong>{{ $order->order_code }}</strong></p>
+                                                                    <p>Trạng thái: <strong> {{$order->payment_status == 'pending' ? 'Chờ thanh toán' : 'Đã thanh toán' }}</strong><br /></p>
+
                                                                 </div>
                                                             </div>
                                                         </div>

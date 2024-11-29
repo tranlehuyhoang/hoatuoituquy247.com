@@ -86,12 +86,7 @@ class Checkout extends Component
             }
 
             CartManagement::clearCartItems();
-            if($this->paymentMethod == 'bank'){
-                return redirect('bank');
-            }else{
-                // return redirect('/thanks')->route('', ['orderCode' => $order->order_code]);
-                return redirect('/thanks');
-            }
+            return redirect('/thanks/' . $order_code);
 
 
         });
