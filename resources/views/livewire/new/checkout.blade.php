@@ -418,16 +418,15 @@
                 /* ]]> */
             </script>
             <script type="text/javascript" id="wc-add-to-cart-js-extra">
-                /* <![CDATA[ */
-                var wc_add_to_cart_params = {
-                    "ajax_url": "\/wp-admin\/admin-ajax.php",
-                    "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-                    "i18n_view_cart": "Xem gi\u1ecf h\u00e0ng",
-                    "cart_url": "https:\/\/tramhoa.com\/gio-hang\/",
-                    "is_cart": "",
-                    "cart_redirect_after_add": "yes"
-                };
-                /* ]]> */
+                // var wc_add_to_cart_params = {
+                //     "ajax_url": "\/wp-admin\/admin-ajax.php",
+                //     "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
+                //     "i18n_view_cart": "Xem gi\u1ecf h\u00e0ng",
+                //     "cart_url": "https:\/\/tramhoa.com\/gio-hang\/",
+                //     "is_cart": "",
+                //     "cart_redirect_after_add": "yes"
+                // };
+
             </script>
             <script type="text/javascript" src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js"
                 id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
@@ -1432,6 +1431,17 @@
                                                                                 wire:model="shippingAddress.phone"
                                                                                 value="" aria-required="true"
                                                                                 autocomplete="tel" /></span></p>
+                                                                    <p class="form-row form-row-wide validate-required validate-required validate-phone"
+                                                                        id="billing_email_field" data-priority="30"><label
+                                                                            for="billing_email" class="">Email&nbsp;<abbr class="required"
+                                                                                title="bắt buộc">*</abbr></label><span
+                                                                            class="woocommerce-input-wrapper"><input
+                                                                                type="text" class="input-text "
+                                                                                name="billing_email" id="billing_email"
+                                                                                placeholder="Email của bạn"
+                                                                                wire:model="shippingAddress.email"
+                                                                                value="" aria-required="true"
+                                                                                autocomplete="email" /></span></p>
                                                                 </div>
 
                                                             </div>
@@ -2402,7 +2412,7 @@
             <script type="text/javascript"
                 src="/assets/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js"
                 id="wc-jquery-ui-touchpunch-js"></script>
-            <script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+            {{-- <script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
                 /* <![CDATA[ */
                 var wc_add_to_cart_variation_params = {
                     "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
@@ -2411,7 +2421,7 @@
                     "i18n_unavailable_text": "R\u1ea5t ti\u1ebfc, s\u1ea3n ph\u1ea9m n\u00e0y hi\u1ec7n kh\u00f4ng t\u1ed3n t\u1ea1i. H\u00e3y ch\u1ecdn m\u1ed9t ph\u01b0\u01a1ng th\u1ee9c k\u1ebft h\u1ee3p kh\u00e1c."
                 };
                 /* ]]> */
-            </script>
+            </script> --}}
             <script type="text/javascript"
                 src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js"
                 id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
@@ -2690,7 +2700,7 @@
             </script>
             <script type="text/javascript" src="/assets/wp-content/plugins/woocommerce-checkout-field-editor/dist/js/frontend.js"
                 id="wc-checkout-editor-frontend-js"></script>
-            <script type="text/javascript" id="yith_wccl_frontend-js-extra">
+            {{-- <script type="text/javascript" id="yith_wccl_frontend-js-extra">
                 /* <![CDATA[ */
                 var yith_wccl_general = {
                     "ajaxurl": "\/?wc-ajax=%%endpoint%%",
@@ -2713,7 +2723,7 @@
                     "single_gallery_selector": ".product-gallery"
                 };
                 /* ]]> */
-            </script>
+            </script> --}}
             <script type="text/javascript"
                 src="/assets/wp-content/plugins/yith-woocommerce-color-label-variations-premium/assets/js/yith-wccl.min.js"
                 id="yith_wccl_frontend-js"></script>
@@ -2801,7 +2811,7 @@
             </script>
             <script type="text/javascript" src="/assets/wp-content/themes/flatsome/assets/js/woocommerce.js"
                 id="flatsome-theme-woocommerce-js-js"></script>
-            <script type="text/javascript" id="wc-cart-fragments-js-extra">
+            {{-- <script type="text/javascript" id="wc-cart-fragments-js-extra">
                 /* <![CDATA[ */
                 var wc_cart_fragments_params = {
                     "ajax_url": "\/wp-admin\/admin-ajax.php",
@@ -2811,7 +2821,7 @@
                     "request_timeout": "5000"
                 };
                 /* ]]> */
-            </script>
+            </script> --}}
             <script type="text/javascript" src="/assets/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js"
                 id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
             <script type="text/javascript" id="gla-gtag-events-js-extra">

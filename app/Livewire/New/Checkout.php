@@ -6,6 +6,8 @@ use Livewire\Component;
 use App\Helpers\CartManagement;
 use App\Models\Order;
 use App\Models\OrderItem;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\OrderSuccess;
 use App\Models\Address;
 use Jantinnerezo\LivewireAlert\LivewireAlert;
 
@@ -28,6 +30,7 @@ class Checkout extends Component
     public $thong_diep;
     public $shippingAddress = [
         'full_name' => '',
+        'email' => '',
         'phone' => '',
         'province' => '',
         'district' => '',
@@ -48,6 +51,20 @@ class Checkout extends Component
             $this->alert('error', 'Giỏ hàng của bạn đang trống. Vui lòng thêm sản phẩm trước khi đặt hàng.');
             return; // Ngừng thực hiện nếu giỏ hàng trống
         }
+        if (empty($this->shippingAddress['full_name']) ||
+        empty($this->shippingAddress['email']) ||
+        empty($this->shippingAddress['phone']) ||
+        empty($this->ho_ten_nguoi_nhan) ||
+        empty($this->sdt_nguoi_nhan) ||
+        empty($this->ngay_giao_hoa) ||
+        empty($this->time_giao_hoa) ||
+        empty($this->note) ||
+        empty($this->paymentMethod) ||
+        empty($this->thong_diep)) {
+
+        $this->alert('error', 'Vui lòng điền đầy đủ thông tin!');
+        return; // Ngừng thực hiện nếu thông tin không đầy đủ
+    }
 
         // Thực hiện giao dịch cơ sở dữ liệu để đảm bảo tính nhất quán
         DB::transaction(function () {
@@ -60,6 +77,7 @@ class Checkout extends Component
                 'payment_status' => 'pending',
                 'currency' => 'VND',
                 'shipping_method' => 'home_delivery',
+                'email' => $this->shippingAddress['email'],
                 'order_code' => $order_code,
                 'notes' => $this->note ?? '$this->note',
                 'shipping_amount' => '0',
@@ -86,16 +104,16 @@ class Checkout extends Component
             }
 
             CartManagement::clearCartItems();
-        $this->sendOrderSuccessEmail();
+        $this->sendOrderSuccessEmail($order);
 
             return redirect('/thanks/' . $order_code);
 
 
         });
     }
-    protected function sendOrderSuccessEmail()
+    protected function sendOrderSuccessEmail($order)
     {
-        Mail::to('2509roblox@gmail.com')->send(new OrderSuccess($this->order));
+        Mail::to('2509roblox@gmail.com')->send(new OrderSuccess($order));
     }
 
     protected function generateUniqueOrderCode()

@@ -323,16 +323,6 @@
         <script data-optimized="1" type="text/javascript"
             src="/assets/wp-content/litespeed/js/54db9ab6109b87c40e195b8eb1215d69.js?ver=15d69" id="wp-util-js" defer
             data-deferred="1"></script>
-        <link rel="https://api.w.org/" href="https://tramhoa.com/wp-json/" />
-        <link rel="alternate" title="JSON" type="application/json"
-            href="https://tramhoa.com/wp-json/wp/v2/pages/193" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tramhoa.com/xmlrpc.php?rsd" />
-        <meta name="generator" content="WordPress 6.7.1" />
-        <link rel='shortlink' href='https://tramhoa.com/' />
-        <link rel="alternate" title="oNhúng (JSON)" type="application/json+oembed"
-            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2F" />
-        <link rel="alternate" title="oNhúng (XML)" type="text/xml+oembed"
-            href="https://tramhoa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftramhoa.com%2F&#038;format=xml" />
         <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
             var dataLayer_content = {
                 "pagePostType": "frontpage",
@@ -1255,7 +1245,7 @@
                                             <div id="show_product_box">
                                                 <div id="text-83697608" class="text">
                                                     <h3><a class="uppercase"
-                                                            href="https://tramhoa.com/bo-hoa-tuoi/">{{ $category->name }}</a>
+                                                            href="/categories/{{ $category->slug }}">{{ $category->name }}</a>
                                                     </h3>
                                                     <style>
                                                         #text-83697608 {
@@ -1339,7 +1329,7 @@
                         <div id="col-1315691535" class="col hide-for-small medium-6 small-12 large-6">
                             <div class="col-inner">
                                 <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1205751990">
-                                    <a class="" href="https://tramhoa.com/huong-dan-thanh-toan/">
+                                    <a class="" >
                                         <div class="img-inner box-shadow-1 dark">
                                             <img loading="lazy" decoding="async" width="640" height="210"
                                                 src="/assets/wp-content/uploads/2019/11/phuong-thuc-thanh-toan.jpg.webp"
@@ -1358,7 +1348,7 @@
                         <div id="col-1838275918" class="col medium-6 small-12 large-6">
                             <div class="col-inner">
                                 <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_322394903">
-                                    <a class="" href="https://tramhoa.com/danh-gia-hinh-anh-thuc-te">
+                                    <a class="" >
                                         <div class="img-inner box-shadow-1 dark">
                                             <img loading="lazy" decoding="async" width="640" height="210"
                                                 src="/assets/wp-content/uploads/2019/11/hinh-hoa-tu-khach-hang.jpg.webp"
@@ -1434,7 +1424,7 @@
                                             <h2>Dịch vụ điện hoa toàn quốc</h2>
                                             <p>Với hệ thống chi nhánh cửa hàng hoa tươi liên kết trên toàn quốc, Trạm
                                                 Hoa
-                                                cung cấp dịch vụ <a href="https://tramhoa.com/dien-hoa/"><strong>điện
+                                                cung cấp dịch vụ <a  ><strong>điện
                                                         hoa
                                                         toàn quốc</strong></a> cho quý khách hàng cá nhân và doanh
                                                 nghiệp.
@@ -1462,21 +1452,20 @@
                                             <p>Nhờ vào nguồn hoa tươi dồi dào, phong phú và thợ cắm hoa lành nghề, Trạm
                                                 Hoa
                                                 cung cấp sản phẩm hoa tươi phù hợp với mọi dịp trong năm như: <a
-                                                    href="https://tramhoa.com/hoa-sinh-nhat/">Hoa sinh nhật</a>, <a
-                                                    href="https://tramhoa.com/hoa-khai-truong/">Hoa khai trương</a>, <a
-                                                    href="https://tramhoa.com/hoa-chia-buon/">Hoa chia buồn đám
+                                                    >Hoa sinh nhật</a>, <a
+                                                    >Hoa khai trương</a>, <a
+                                                    >Hoa chia buồn đám
                                                     tang</a>,
-                                                <a href="https://tramhoa.com/hoa-chuc-mung-le-tot-nghiep/">Hoa chúc
+                                                <a  >Hoa chúc
                                                     mừng
-                                                    tốt nghiệp</a>, <a href="https://tramhoa.com/hoa-cau-hon/"
+                                                    tốt nghiệp</a>, <a
                                                     target="_blank" rel="nofollow noopener">Hoa cầu hôn</a>,&#8230;
                                                 Hoa
                                                 tươi thành phẩm cũng được hoàn thiện theo nhiều kiểu dáng, thiết kế khác
-                                                nhau như: <a href="https://tramhoa.com/bo-hoa-tuoi/">Bó hoa</a>, <a
-                                                    href="https://tramhoa.com/gio-hoa-tuoi/"
-                                                    data-wplink-edit="true">Giỏ
-                                                    hoa</a>, <a href="https://tramhoa.com/lang-hoa-de-ban/">Lẵng hoa để
-                                                    bàn</a>, <a href="https://tramhoa.com/ke-hoa-chuc-mung/">Kệ hoa
+                                                nhau như: <a>Bó hoa</a>, <a
+                                                   >Giỏ
+                                                    hoa</a>, <a>Lẵng hoa để
+                                                    bàn</a>, <a>Kệ hoa
                                                     chúc
                                                     mừng</a>,&#8230;
                                             </p>
@@ -1605,21 +1594,21 @@
         </style>
         <ul class="tramhoavn-pc-contact-bar">
             <li class="facebook">
-                <a href="https://www.messenger.com/t/tramhoavn" target="_blank" rel="nofollow"></a>
+                <a    target="_blank" rel="nofollow"></a>
             </li>
             <li class="zalo">
-                <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
+                <a  target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <ul class="tramhoavn-mobile-contact-bar">
             <li class="facebook">
-                <a href="https://www.messenger.com/t/tramhoavn" target="_blank" rel="nofollow"></a>
+                <a   target="_blank" rel="nofollow"></a>
             </li>
             <li class="zalo">
-                <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
+                <a  target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a  target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">
@@ -1662,7 +1651,7 @@
                                             name="login" value="Đăng nhập">Đăng nhập</button>
                                     </p>
                                     <p class="woocommerce-LostPassword lost_password">
-                                        <a href="https://tramhoa.com/tai-khoan/quen-mat-khau/">Quên mật khẩu?</a>
+                                        <a  >Quên mật khẩu?</a>
                                     </p>
                                 </form>
                             </div>
@@ -1695,7 +1684,7 @@
                                             website,
                                             quản lý truy cập vào tài khoản của bạn, và cho các mục đích cụ thể khác được
                                             mô
-                                            tả trong <a href="https://tramhoa.com/chinh-sach-bao-mat/"
+                                            tả trong <a
                                                 class="woocommerce-privacy-policy-link" target="_blank">chính sách
                                                 riêng
                                                 tư</a>.</p>

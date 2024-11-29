@@ -48,7 +48,13 @@ class ProductDetail extends Component
     }
     public function submitReview()
     {
-        // Create a review in the database
+        // Kiểm tra xem tất cả các trường đã được nhập đầy đủ chưa
+        if (empty($this->author) || empty($this->email) || empty($this->comment) || empty($this->rating)) {
+            $this->alert('error', 'Vui lòng điền đầy đủ thông tin!');
+            return; // Dừng thực hiện nếu thông tin không đầy đủ
+        }
+
+        // Tạo một đánh giá trong cơ sở dữ liệu
         Review::create([
             'product_id' => $this->product->id,
             'email' => $this->email,
@@ -58,7 +64,7 @@ class ProductDetail extends Component
         ]);
 
         $this->alert('success', 'Cảm ơn bạn đã đánh giá sản phẩm!');
-        $this->reset(['author', 'email', 'comment', 'rating']); // Reset form fields
+        $this->reset(['author', 'email', 'comment', 'rating']); // Reset các trường trong form
     }
     public function render()
     {
