@@ -68,44 +68,19 @@
                             class="header-logo-dark" alt="Hoa Tươi Tứ Quý" /></a></div>
                 <div class="flex-col show-for-medium flex-left">
                     <ul class="mobile-nav nav nav-left ">
-                        <li class="cart-item has-icon" data-icon-label="2">
+                        <li class="cart-item has-icon"  >
 
                             <a href="https://tramhoa.com/gio-hang/" class="header-cart-link is-small"
                                 title="Giỏ hàng">
 
 
-                                <i class="icon-shopping-cart" data-icon-label="2">
+                                <i class="icon-shopping-cart"  >
                                 </i>
                             </a>
 
 
                         </li>
-                        <style>
-                            [data-icon-label]:after {
-                                background-color: var(--fs-color-secondary);
-                                border-radius: 99px;
-                                box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, .3);
-                                color: #fff;
-                                content: attr(data-icon-label);
-                                font-family: Arial, Sans-serif !important;
-                                font-size: 11px;
-                                font-style: normal;
-                                font-weight: bolder;
-                                height: 17px;
-                                letter-spacing: -.5px;
-                                line-height: 17px;
-                                min-width: 17px;
-                                opacity: .9;
-                                padding-left: 2px;
-                                padding-right: 2px;
-                                position: absolute;
-                                right: -10px;
-                                text-align: center;
-                                top: -10px;
-                                transition: transform .2s;
-                                z-index: 1;
-                            }
-                        </style>
+
 
                     </ul>
                 </div>
@@ -255,10 +230,12 @@
                                     <li id="menu-item-22021"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-22021 nav-dropdown-col">
                                         <ul class="sub-menu nav-column nav-dropdown-simple">
+                                            @foreach ($category->subCategories as $subCategory)
                                             <li id="menu-item-31278"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
-                                                <a href=" "> 123123123</a>
-                                            </li>
+                                                    <a href=""> {{ $subCategory->name }}</a>
+                                                </li>
+                                            @endforeach
                                         </ul>
                                     </li>
                                 </ul>
