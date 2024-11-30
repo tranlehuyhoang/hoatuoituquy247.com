@@ -2235,28 +2235,7 @@
         </div>
     </body>
     <script>
-        //             // Enable pusher logging - don't include this in production
-        //    Pusher.logToConsole = true;
 
-        //    var pusher = new Pusher('827c74b29880dbe97c43', {
-        //      cluster: 'ap1'
-        //    });
-
-        //    var channel = pusher.subscribe('notification');
-        //    channel.bind('notification.' + {{ Auth::user()->id }}, function(data) {
-        //     var content = data.invitation_code; // Adjust this field according to the actual structure of data.bank
-        //     Swal.fire({
-        //                 icon: 'success', // Change the icon type based on your needs (e.g., 'info', 'warning', 'error')
-        //                 title: 'Thông báo',
-        //                 text: 'Thanh toán thành công đơn hàng ' + content + '!',
-        //                 confirmButtonText: 'OK'
-        //             }).then((result) => {
-        //                 if (result.isConfirmed) {
-        //                     window.location.href = '/thanks/{{ $order->order_code }}';
-        //                 }
-        //             });
-        //    });
-        // Function to make the HTTP request
         function fetchCronData() {
             fetch('/checkpayment/{{ $order->order_code }}', {
                     method: 'GET', // HTTP method

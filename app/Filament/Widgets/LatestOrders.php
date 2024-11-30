@@ -12,7 +12,7 @@ use Filament\Widgets\TableWidget as BaseWidget;
 
 class LatestOrders extends BaseWidget
 {
-   
+
     protected static ?string $heading = 'Đơn Hàng Mới Nhất'; // Tiêu đề tiếng Việt
     protected int | string | array  $columnSpan = 'full';
     protected static ?int $sort = 2;
@@ -26,25 +26,22 @@ class LatestOrders extends BaseWidget
                 TextColumn::make('id')
                     ->label('ID') // Đổi nhãn sang tiếng Việt
                     ->searchable(),
-    
+
                 TextColumn::make('order_code')
                     ->label('Mã Đơn Hàng') // Đổi nhãn sang tiếng Việt
                     ->searchable(),
-                    TextColumn::make('address.phone')
+                    TextColumn::make('phone')
                     ->label('Số Điện Thoại')
                     ->searchable(),
-                
-                TextColumn::make('user.name')
+
+                TextColumn::make('full_name')
                     ->label('Khách Hàng') // Đổi nhãn sang tiếng Việt
                     ->searchable(),
-    
+
                 TextColumn::make('grand_total')
                     ->label('Tổng Tiền') // Đổi nhãn sang tiếng Việt
                     ->money('VND'),
-                TextColumn::make('profit_loss')
-                    ->label('Lợi nhuận') // Đổi nhãn sang tiếng Việt
-                    ->money('VND'),
-    
+
                 TextColumn::make('status')
                     ->label('Trạng Thái') // Đổi nhãn sang tiếng Việt
                     ->badge()
@@ -63,18 +60,18 @@ class LatestOrders extends BaseWidget
                         'canceled' => 'heroicon-m-x-circle'
                     })
                     ->sortable(),
-    
+
                 TextColumn::make('payment_method')
                     ->label('Phương Thức Thanh Toán') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->searchable(),
-    
+
                 TextColumn::make('payment_status')
                     ->label('Trạng Thái Thanh Toán') // Đổi nhãn sang tiếng Việt
                     ->sortable()
                     ->searchable()
                     ->badge(),
-    
+
                     TextColumn::make('shipping_method')
                     ->label('Phương Thức Vận Chuyển')
                     ->sortable()
@@ -85,11 +82,11 @@ class LatestOrders extends BaseWidget
                         default => 'Chưa xác định',
                     }),
 
-    
+
                 TextColumn::make('shipping_amount') // Thêm tiền vận chuyển
                     ->label('Phí Vận Chuyển') // Nhãn tiếng Việt
                     ->money('VND'),
-    
+
                 TextColumn::make('created_at')
                     ->label('Ngày Đặt Hàng') // Đổi nhãn sang tiếng Việt
                     ->dateTime('d/m/Y H:i:s') // Định dạng ngày giờ (ngày/tháng/năm giờ:phút:giây)

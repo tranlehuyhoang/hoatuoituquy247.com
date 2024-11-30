@@ -233,7 +233,7 @@
                                             @foreach ($category->subCategories as $subCategory)
                                             <li id="menu-item-31278"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
-                                                    <a href=""> {{ $subCategory->name }}</a>
+                                                    <a href="/categories/{{ $subCategory->slug }}">{{ $subCategory->name }}</a>
                                                 </li>
                                             @endforeach
                                         </ul>

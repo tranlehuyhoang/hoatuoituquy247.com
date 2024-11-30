@@ -5,6 +5,7 @@ namespace App\Livewire\New\Inc;
 use Livewire\Component;
 use App\Models\Category; // Đảm bảo đường dẫn đúng với model của bạn
 use App\Helpers\CartManagement;
+use App\Models\ActivityHistory;
 class Header extends Component
 {
     public $categories ;
@@ -17,6 +18,10 @@ class Header extends Component
         $this->total_amount = CartManagement::calculateGrandTotal($this->cartItems);
         $categories = Category::with('subCategories')->where('by_cat', 0)->get();
         $this->categories = $categories;
+        ActivityHistory::create([
+            'time' => now(), // Thời gian hiện tại
+            'device' => request()->header('User-Agent'), // Thiết bị người dùng
+        ]);
     }
     public function removeItem($productId)
     {

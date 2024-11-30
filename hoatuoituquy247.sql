@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 29, 2024 at 01:10 AM
+-- Generation Time: Nov 30, 2024 at 04:08 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -6971,7 +6971,8 @@ INSERT INTO `activity_history` (`id`, `time`, `device`, `created_at`, `updated_a
 (6901, '2024-11-26 13:32:16', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:16', '2024-11-26 13:32:16'),
 (6902, '2024-11-26 13:32:16', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:16', '2024-11-26 13:32:16'),
 (6903, '2024-11-26 13:32:17', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:17', '2024-11-26 13:32:17'),
-(6904, '2024-11-26 13:32:17', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:17', '2024-11-26 13:32:17');
+(6904, '2024-11-26 13:32:17', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:17', '2024-11-26 13:32:17'),
+(6905, '2024-11-30 03:08:06', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 03:08:06', '2024-11-30 03:08:06');
 
 -- --------------------------------------------------------
 
@@ -7066,8 +7067,8 @@ CREATE TABLE `cache` (
 --
 
 INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1732836326),
-('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1732836326;', 1732836326);
+('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1732935985),
+('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1732935985;', 1732935985);
 
 -- --------------------------------------------------------
 
@@ -7106,7 +7107,7 @@ CREATE TABLE `categories` (
 
 INSERT INTO `categories` (`id`, `name`, `banner`, `slug`, `image`, `is_active`, `created_at`, `updated_at`, `description`, `by_cat`) VALUES
 (45, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat', NULL, 1, '2024-11-26 13:37:15', '2024-11-26 13:37:15', 'Hoa Sinh Nhật', 0),
-(46, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat1', NULL, 1, '2024-11-26 13:37:15', '2024-11-27 04:03:10', 'Hoa Sinh Nhật', 46);
+(46, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat1', NULL, 1, '2024-11-26 13:37:15', '2024-11-27 04:03:10', 'Hoa Sinh Nhật', 45);
 
 -- --------------------------------------------------------
 
@@ -7805,17 +7806,23 @@ CREATE TABLE `orders` (
   `thong_diep` varchar(255) DEFAULT NULL,
   `full_name` varchar(255) NOT NULL,
   `phone` varchar(255) NOT NULL,
-  `detailed_address` varchar(255) NOT NULL
+  `detailed_address` varchar(255) NOT NULL,
+  `email` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `orders`
 --
 
-INSERT INTO `orders` (`id`, `user_id`, `grand_total`, `payment_method`, `payment_status`, `status`, `currency`, `shipping_amount`, `shipping_method`, `notes`, `created_at`, `updated_at`, `order_code`, `profit_loss`, `ho_ten_nguoi_nhan`, `sdt_nguoi_nhan`, `ngay_giao_hoa`, `time_giao_hoa`, `thong_diep`, `full_name`, `phone`, `detailed_address`) VALUES
-(93, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'Ghi chú', '2024-11-28 23:36:10', '2024-11-28 23:36:10', 'WEB031061562392', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-11-30', '13:00 - 17:00', 'Nội dung thông điệp', '', '', 'Địa chỉ *'),
-(94, 1, 5000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:44:13', '2024-11-28 23:44:13', 'WEB039520980174', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-07', '18:00 - 20:00', 'Nội dung thông điệp\n', 'Trần Lê Huy Hoàng', '123123', 'Địa chỉ *'),
-(96, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:48:35', '2024-11-29 00:09:29', 'WEB034476556239', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-06', '13:00 - 17:00', 'Nội dung thông điệp\n', 'Họ và tên *', 'Số điện thoại *', 'Địa chỉ *');
+INSERT INTO `orders` (`id`, `user_id`, `grand_total`, `payment_method`, `payment_status`, `status`, `currency`, `shipping_amount`, `shipping_method`, `notes`, `created_at`, `updated_at`, `order_code`, `profit_loss`, `ho_ten_nguoi_nhan`, `sdt_nguoi_nhan`, `ngay_giao_hoa`, `time_giao_hoa`, `thong_diep`, `full_name`, `phone`, `detailed_address`, `email`) VALUES
+(93, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'cod', 'Ghi chú', '2024-11-28 23:36:10', '2024-11-28 23:36:10', 'WEB031061562392', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-11-30', '13:00 - 17:00', 'Nội dung thông điệp', '', '', 'Địa chỉ *', NULL),
+(94, 1, 5000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:44:13', '2024-11-28 23:44:13', 'WEB039520980174', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-07', '18:00 - 20:00', 'Nội dung thông điệp\n', 'Trần Lê Huy Hoàng', '123123', 'Địa chỉ *', NULL),
+(96, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', 'Ghi chú\n', '2024-11-28 23:48:35', '2024-11-29 00:09:29', 'WEB034476556239', 0.00, 'Họ tên người nhận *', 'Số điện thoại của người nhận', '2024-12-06', '13:00 - 17:00', 'Nội dung thông điệp\n', 'Họ và tên *', 'Số điện thoại *', 'Địa chỉ *', NULL),
+(97, 1, 10000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', '123123', '2024-11-29 02:12:36', '2024-11-29 02:12:36', 'WEB039226204143', 0.00, 'Trần Lê Huy Hoàng', 'Số điện thoại của người nhận', '2024-11-22', '13:00 - 17:00', '123123', 'Trần Lê Huy Hoàng', '123123', 'Địa chỉ *', NULL),
+(98, 1, 2000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', '123123', '2024-11-29 02:16:37', '2024-11-29 02:16:37', 'WEB032057987348', 0.00, 'Trần Lê Huy Hoàng', 'Số điện thoại của người nhận', '2024-11-30', '13:00 - 17:00', '123123', '', 'Trần Lê Huy Hoàng', 'Địa chỉ', NULL),
+(99, 1, 4000.00, 'bank', 'paid', 'new', 'VND', 0.00, 'home_delivery', '12', '2024-11-29 02:17:32', '2024-11-29 02:36:01', 'WEB034677107351', 0.00, 'ngay_giao_hoa', '123', '2024-12-06', '13:00 - 17:00', '123123', '', 'Trần Lê Huy Hoàng', '123', NULL),
+(102, 1, 5000.00, 'bank', 'pending', 'new', 'VND', 0.00, 'home_delivery', '123', '2024-11-29 03:33:46', '2024-11-29 03:33:46', 'WEB039101527533', 0.00, 'Trần Lê Huy Hoàng', 'Số điện thoại của người nhận', '2024-12-06', '18:00 - 20:00', '312', 'Trần Lê Huy Hoàng', 'Trần Lê Huy Hoàng', '123', 'hoangtlhps26819@fpt.edu.vn'),
+(103, 1, 3000.00, 'bank', 'paid', 'new', 'VND', 0.00, 'home_delivery', '123', '2024-11-30 03:01:51', '2024-11-30 03:04:28', 'WEB036915673191', 0.00, 'Trần Lê Huy Hoàng', '123', '2024-11-28', '13:00 - 17:00', '123', 'Trần Lê Huy Hoàng', 'Trần Lê Huy Hoàng', 'Trần Lê Huy Hoàng', 'hoangtlhps26819@fpt.edu.vn');
 
 -- --------------------------------------------------------
 
@@ -7841,7 +7848,12 @@ CREATE TABLE `order_items` (
 INSERT INTO `order_items` (`id`, `order_id`, `quantity`, `unit_amount`, `total_amount`, `created_at`, `updated_at`, `product_id`) VALUES
 (99, 93, 1, 10000.00, 10000.00, '2024-11-28 23:36:10', '2024-11-28 23:36:10', 612),
 (100, 94, 1, 5000.00, 5000.00, '2024-11-28 23:44:13', '2024-11-28 23:44:13', 607),
-(102, 96, 1, 10000.00, 10000.00, '2024-11-28 23:48:35', '2024-11-28 23:48:35', 612);
+(102, 96, 1, 10000.00, 10000.00, '2024-11-28 23:48:35', '2024-11-28 23:48:35', 612),
+(103, 97, 1, 10000.00, 10000.00, '2024-11-29 02:12:36', '2024-11-29 02:12:36', 612),
+(104, 98, 1, 2000.00, 2000.00, '2024-11-29 02:16:37', '2024-11-29 02:16:37', 626),
+(105, 99, 2, 2000.00, 4000.00, '2024-11-29 02:17:32', '2024-11-29 02:17:32', 626),
+(108, 102, 1, 5000.00, 5000.00, '2024-11-29 03:33:46', '2024-11-29 03:33:46', 607),
+(109, 103, 1, 3000.00, 3000.00, '2024-11-30 03:01:51', '2024-11-30 03:01:51', 627);
 
 -- --------------------------------------------------------
 
@@ -7975,7 +7987,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('iNJShzjL43eR4xkv6rRa9tn37hMVph7QnM5tkCVU', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiOWFWR2lrS0VCajNaVmpXZ1NqaDlpVk5tYzBnUkFDS1Z4MkhTaU05ciI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6NDQ6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC90aGFua3MvV0VCMDM0NDc2NTU2MjM5Ijt9czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1732839014);
+('AGQ18UUHCYUqKsEQhCyAq6BuOgELyVhbyf4wfutt', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo2OntzOjY6Il90b2tlbiI7czo0MDoiQ0RTemdFS29zT0UzYUJzaFpDZWtBbEZjRWR3MkFXUVRiVkdIbXJsRCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mzg6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hZG1pbi9jYXRlZ29yaWVzIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7fQ==', 1732936106);
 
 -- --------------------------------------------------------
 
@@ -8115,28 +8127,24 @@ CREATE TABLE `transactions` (
 --
 
 INSERT INTO `transactions` (`id`, `bank_brand_name`, `account_number`, `transaction_date`, `amount_out`, `amount_in`, `accumulated`, `transaction_content`, `reference_number`, `code`, `sub_account`, `bank_account_id`, `created_at`, `updated_at`) VALUES
-(1, 'MBBank', '104567890', '2024-11-14 07:26:03', 0.00, 60000.00, 0.00, 'NGUYEN VAN AN LOC SON chuyen tien den TRAN LE HUY HOANG   104567890Ma giao dich  Trace396203 Trace 396203', 'FT24319629306924', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(2, 'MBBank', '104567890', '2024-11-13 19:20:04', 320000.00, 0.00, 0.00, 'TRAN LE HUY HOANG chuyen tien', 'FT24318968936726', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(3, 'MBBank', '104567890', '2024-11-13 19:03:02', 0.00, 10000.00, 0.00, 'INVPEKZCI6G', 'FT24318919017022', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(4, 'MBBank', '104567890', '2024-11-13 18:58:58', 0.00, 10000.00, 0.00, 'INVK4FKOEJ7', 'FT24318027966719', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(5, 'MBBank', '104567890', '2024-11-13 18:56:35', 0.00, 10000.00, 0.00, 'INVBVS87CNH', 'FT24318338055749', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(6, 'MBBank', '104567890', '2024-11-13 18:55:17', 0.00, 10000.00, 0.00, 'INVYEQCRRUZ', 'FT24318410405680', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(7, 'MBBank', '104567890', '2024-11-13 18:52:44', 0.00, 11000.00, 0.00, 'INVDIXF0QKU', 'FT24318036749863', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(8, 'MBBank', '104567890', '2024-11-13 18:46:24', 0.00, 10000.00, 0.00, 'INV0HBHVIUW', 'FT24318049114020', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(9, 'MBBank', '104567890', '2024-11-13 18:45:03', 0.00, 10000.00, 0.00, 'INVUH4LQJFI', 'FT24318940905300', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(10, 'MBBank', '104567890', '2024-11-13 18:43:42', 0.00, 10000.00, 0.00, 'INVKT0L8KSG', 'FT24318536755022', NULL, NULL, 3622, '2024-11-14 03:13:48', '2024-11-14 03:13:48'),
-(11, 'MBBank', '104567890', '2024-11-14 10:54:03', 0.00, 5000.00, 0.00, 'WEB035074095898', 'FT24319418376840', NULL, NULL, 3622, '2024-11-14 03:54:10', '2024-11-14 03:54:10'),
-(12, 'MBBank', '104567890', '2024-11-14 11:05:34', 0.00, 5555.00, 0.00, 'WEB035074095898', 'FT24319577601118', NULL, NULL, 3622, '2024-11-14 04:05:41', '2024-11-14 04:05:41'),
-(13, 'MBBank', '104567890', '2024-11-14 11:08:10', 0.00, 5555.00, 0.00, 'WEB035074095897', 'FT24319001324839', NULL, NULL, 3622, '2024-11-14 04:08:15', '2024-11-14 04:08:15'),
-(14, 'MBBank', '104567890', '2024-11-14 11:12:03', 0.00, 5555.00, 0.00, 'WEB035074095807', 'FT24319380519762', NULL, NULL, 3622, '2024-11-14 04:12:08', '2024-11-14 04:12:08'),
-(15, 'MBBank', '104567890', '2024-11-14 11:12:36', 0.00, 5555.00, 0.00, 'WEB0350740958070', 'FT24319028864860', NULL, NULL, 3622, '2024-11-14 04:12:40', '2024-11-14 04:12:40'),
-(16, 'MBBank', '104567890', '2024-11-14 11:18:18', 0.00, 5000.00, 0.00, 'WEB039332319759', 'FT24319396333992', NULL, NULL, 3622, '2024-11-14 04:18:22', '2024-11-14 04:18:22'),
-(17, 'MBBank', '104567890', '2024-11-14 11:46:02', 0.00, 35000.00, 0.00, 'WEB037692350742', 'FT24319812739068', NULL, NULL, 3622, '2024-11-14 11:46:29', '2024-11-14 11:46:29'),
-(18, 'MBBank', '104567890', '2024-11-14 11:56:12', 0.00, 35000.00, 0.00, 'WEB035767750529', 'FT24319714187536', NULL, NULL, 3622, '2024-11-14 11:56:46', '2024-11-14 11:56:46'),
-(19, 'MBBank', '104567890', '2024-11-14 11:58:51', 100000.00, 0.00, 0.00, 'TRAN LE HUY HOANG chuyen tien', 'FT24319907958571', NULL, NULL, 3622, '2024-11-14 11:59:04', '2024-11-14 11:59:04'),
-(20, 'MBBank', '104567890', '2024-11-14 12:13:09', 0.00, 35000.00, 0.00, '71418700713-WEB031386987447-CHUYENTIEN-OQCH29143067-MOMO71418700713MOMO', 'FT24319708858739', NULL, NULL, 3622, '2024-11-14 12:14:11', '2024-11-14 12:14:11'),
-(21, 'MBBank', '104567890', '2024-11-14 12:17:44', 0.00, 35000.00, 0.00, '71419126388-WEB034703577986-CHUYENTIEN-OQCH29144940-MOMO71419126388MOMO', 'FT24319408307306', NULL, NULL, 3622, '2024-11-14 12:19:15', '2024-11-14 12:19:15'),
-(22, 'MBBank', '104567890', '2024-11-14 12:20:01', 0.00, 35000.00, 0.00, '71419366509-WEB033095637700-CHUYENTIEN-OQCH29145889-MOMO71419366509MOMO', 'FT24319937000414', NULL, NULL, 3622, '2024-11-14 12:20:31', '2024-11-14 12:20:31');
+(33, 'MBBank', '0966579217', '2024-11-28 20:41:12', 0.00, 500000.00, 0.00, 'LE THANH LOI chuyen tien FT24333109076806   Ma giao dich  Trace753997Trace 753997', 'FT24333947654576', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(34, 'MBBank', '0966579217', '2024-11-28 19:59:39', 0.00, 500000.00, 0.00, 'TRAN QUANG NGHIA chuyen tien', 'FT24333539807899', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(35, 'MBBank', '0966579217', '2024-11-28 08:19:21', 5000.00, 0.00, 0.00, 'MVPAS642FZWk6 - Ma giao dich/ Trace388911', 'FT24333100185856', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(36, 'MBBank', '0966579217', '2024-11-27 23:08:01', 0.00, 400000.00, 0.00, 'TRAN QUANG NGHIA chuyen tien', 'FT24333870602284', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(37, 'MBBank', '0966579217', '2024-11-27 21:10:55', 0.00, 210000.00, 0.00, 'TRAN QUANG NGHIA chuyen tien', 'FT24332442844539', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(38, 'MBBank', '0966579217', '2024-11-27 21:00:04', 100000.00, 0.00, 0.00, 'TRAN LE HOANG GIANG chuyen tien', 'FT24332554507207', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(39, 'MBBank', '0966579217', '2024-11-27 20:28:35', 0.00, 2000.00, 0.00, 'NF M8UHSL2XQ2', 'FT24332309213300', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(40, 'MBBank', '0966579217', '2024-11-27 19:12:21', 0.00, 10000.00, 0.00, 'NF HOaNG TRaN   Ma giao dich  Trace633731 Trace 633731', 'FT24332776958660', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(41, 'MBBank', '0966579217', '2024-11-27 19:12:14', 13365.00, 0.00, 0.00, 'MOMO-CASHIN-0966579217-OQCIzfTveaem-72485813433', 'FT24332092067001', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(42, 'MBBank', '0966579217', '2024-11-27 16:07:15', 0.00, 350000.00, 0.00, 'TRAN QUANG NGHIA chuyen tien FT24332065338042   Ma giao dich  Trace024449 Trace 024449', 'FT24332505661607', NULL, NULL, 4230, '2024-11-29 02:35:10', '2024-11-29 02:35:10'),
+(43, 'MBBank', '0966579217', '2024-11-29 09:35:47', 0.00, 4000.00, 0.00, 'WEB034677107351', 'FT24334834738988', NULL, NULL, 4230, '2024-11-29 02:36:00', '2024-11-29 02:36:00'),
+(44, 'MBBank', '0966579217', '2024-11-30 09:34:52', 76000.00, 0.00, 0.00, 'TRAN LE HOANG GIANG chuyen tien - Ma giao dich/ Trace 500687', 'FT24335002600998', NULL, NULL, 4230, '2024-11-30 03:02:47', '2024-11-30 03:02:47'),
+(45, 'MBBank', '0966579217', '2024-11-30 08:29:31', 20000.00, 0.00, 0.00, 'TRAN LE HOANG GIANG chuyen tien - Ma giao dich/ Trace 525124', 'FT24335550901152', NULL, NULL, 4230, '2024-11-30 03:02:47', '2024-11-30 03:02:47'),
+(46, 'MBBank', '0966579217', '2024-11-29 21:33:37', 0.00, 500000.00, 0.00, '72666087238-LE VIET YEN chuyen tienqua MoMo-CHUYEN TIEN-OQCH33772070-MOMO72666087238MOMO', 'FT24334025043314', NULL, NULL, 4230, '2024-11-30 03:02:47', '2024-11-30 03:02:47'),
+(47, 'MBBank', '0966579217', '2024-11-29 19:55:54', 0.00, 8000000.00, 0.00, 'MB 0966579217 TRAN ANH TUAN chuyentien- Ma GD ACSP/ H4065306', 'FT24334513065724', NULL, NULL, 4230, '2024-11-30 03:02:47', '2024-11-30 03:02:47'),
+(48, 'MBBank', '0966579217', '2024-11-29 16:11:28', 210000.00, 0.00, 0.00, 'TRAN LE HOANG GIANG chuyen tien - Ma giao dich/ Trace 598648', 'FT24334088599057', NULL, NULL, 4230, '2024-11-30 03:02:47', '2024-11-30 03:02:47'),
+(49, 'MBBank', '0966579217', '2024-11-30 10:03:23', 10000.00, 0.00, 0.00, 'MOMO-CASHIN-0966579217-OQCIEeLRvcec-72692803088', 'FT24335509793462', NULL, NULL, 4230, '2024-11-30 03:03:39', '2024-11-30 03:03:39'),
+(50, 'MBBank', '0966579217', '2024-11-30 10:04:08', 0.00, 3000.00, 0.00, 'WEB036915673191', 'FT24335432009230', NULL, NULL, 4230, '2024-11-30 03:04:27', '2024-11-30 03:04:27');
 
 -- --------------------------------------------------------
 
@@ -8343,7 +8351,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `activity_history`
 --
 ALTER TABLE `activity_history`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6905;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6906;
 
 --
 -- AUTO_INCREMENT for table `addresses`
@@ -8391,13 +8399,13 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `orders`
 --
 ALTER TABLE `orders`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=104;
 
 --
 -- AUTO_INCREMENT for table `order_items`
 --
 ALTER TABLE `order_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=103;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=110;
 
 --
 -- AUTO_INCREMENT for table `products`
@@ -8445,7 +8453,7 @@ ALTER TABLE `tb_transactions`
 -- AUTO_INCREMENT for table `transactions`
 --
 ALTER TABLE `transactions`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=51;
 
 --
 -- AUTO_INCREMENT for table `users`

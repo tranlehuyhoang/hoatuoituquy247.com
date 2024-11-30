@@ -25,12 +25,10 @@ class OrderStatistics extends ChartWidget
         $months = range(1, 12);
         $orderCounts = array_fill(0, 12, 0);
         $totalGrands = array_fill(0, 12, 0);
-        $totalProfits = array_fill(0, 12, 0);
 
         foreach ($orders as $order) {
             $orderCounts[$order->month - 1] = $order->order_count; // Lưu số đơn hàng
             $totalGrands[$order->month - 1] = $order->total_grand; // Lưu tổng tiền
-            $totalProfits[$order->month - 1] = $order->total_profit; // Lưu lợi nhuận
         }
 
         return [
@@ -46,12 +44,6 @@ class OrderStatistics extends ChartWidget
                     'data' => $totalGrands,
                     'borderColor' => 'rgba(255, 99, 132, 1)',
                     'backgroundColor' => 'rgba(255, 99, 132, 0.2)',
-                ],
-                [
-                    'label' => 'Lợi Nhuận (Profit/Loss)',
-                    'data' => $totalProfits,
-                    'borderColor' => 'rgba(54, 162, 235, 1)',
-                    'backgroundColor' => 'rgba(54, 162, 235, 0.2)',
                 ],
             ],
             'labels' => array_map(function ($month) {
