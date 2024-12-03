@@ -113,7 +113,7 @@ class Checkout extends Component
     }
     protected function sendOrderSuccessEmail($order)
     {
-        Mail::to('2509roblox@gmail.com')->send(new OrderSuccess($order));
+        Mail::to('hoatuquy24.7@gmail.com')->send(new OrderSuccess($order));
     }
 
     protected function generateUniqueOrderCode()

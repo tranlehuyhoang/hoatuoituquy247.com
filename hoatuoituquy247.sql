@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 30, 2024 at 04:08 AM
+-- Generation Time: Dec 03, 2024 at 04:10 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -6972,7 +6972,33 @@ INSERT INTO `activity_history` (`id`, `time`, `device`, `created_at`, `updated_a
 (6902, '2024-11-26 13:32:16', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:16', '2024-11-26 13:32:16'),
 (6903, '2024-11-26 13:32:17', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:17', '2024-11-26 13:32:17'),
 (6904, '2024-11-26 13:32:17', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-26 13:32:17', '2024-11-26 13:32:17'),
-(6905, '2024-11-30 03:08:06', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 03:08:06', '2024-11-30 03:08:06');
+(6905, '2024-11-30 03:08:06', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 03:08:06', '2024-11-30 03:08:06'),
+(6906, '2024-11-30 10:36:40', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 10:36:40', '2024-11-30 10:36:40'),
+(6907, '2024-11-30 10:37:15', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 10:37:15', '2024-11-30 10:37:15'),
+(6908, '2024-11-30 10:37:31', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 10:37:31', '2024-11-30 10:37:31'),
+(6909, '2024-11-30 10:37:38', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 10:37:38', '2024-11-30 10:37:38'),
+(6910, '2024-11-30 10:37:57', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-11-30 10:37:57', '2024-11-30 10:37:57'),
+(6911, '2024-12-03 02:46:44', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:46:44', '2024-12-03 02:46:44'),
+(6912, '2024-12-03 02:47:55', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:47:55', '2024-12-03 02:47:55'),
+(6913, '2024-12-03 02:51:27', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:51:27', '2024-12-03 02:51:27'),
+(6914, '2024-12-03 02:51:53', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:51:53', '2024-12-03 02:51:53'),
+(6915, '2024-12-03 02:56:14', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:56:14', '2024-12-03 02:56:14'),
+(6916, '2024-12-03 02:56:22', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:56:22', '2024-12-03 02:56:22'),
+(6917, '2024-12-03 02:56:55', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:56:55', '2024-12-03 02:56:55'),
+(6918, '2024-12-03 02:57:14', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:57:14', '2024-12-03 02:57:14'),
+(6919, '2024-12-03 02:57:20', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:57:20', '2024-12-03 02:57:20'),
+(6920, '2024-12-03 02:57:24', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:57:24', '2024-12-03 02:57:24'),
+(6921, '2024-12-03 02:57:26', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:57:26', '2024-12-03 02:57:26'),
+(6922, '2024-12-03 02:58:07', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:58:07', '2024-12-03 02:58:07'),
+(6923, '2024-12-03 02:58:33', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:58:33', '2024-12-03 02:58:33'),
+(6924, '2024-12-03 02:58:59', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 02:58:59', '2024-12-03 02:58:59'),
+(6925, '2024-12-03 03:02:30', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:02:30', '2024-12-03 03:02:30'),
+(6926, '2024-12-03 03:02:49', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:02:49', '2024-12-03 03:02:49'),
+(6927, '2024-12-03 03:02:53', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:02:53', '2024-12-03 03:02:53'),
+(6928, '2024-12-03 03:02:55', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:02:55', '2024-12-03 03:02:55'),
+(6929, '2024-12-03 03:03:11', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:03:11', '2024-12-03 03:03:11'),
+(6930, '2024-12-03 03:03:18', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:03:18', '2024-12-03 03:03:18'),
+(6931, '2024-12-03 03:07:12', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '2024-12-03 03:07:12', '2024-12-03 03:07:12');
 
 -- --------------------------------------------------------
 
@@ -7067,8 +7093,9 @@ CREATE TABLE `cache` (
 --
 
 INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1732935985),
-('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1732935985;', 1732935985);
+('a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1733194540),
+('a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1733194540;', 1733194540),
+('theme', 's:6:\"sunset\";', 2048555261);
 
 -- --------------------------------------------------------
 
@@ -7098,7 +7125,7 @@ CREATE TABLE `categories` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   `description` longtext DEFAULT NULL,
-  `by_cat` int(11) NOT NULL
+  `by_cat` int(11) DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
@@ -7106,8 +7133,8 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`id`, `name`, `banner`, `slug`, `image`, `is_active`, `created_at`, `updated_at`, `description`, `by_cat`) VALUES
-(45, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat', NULL, 1, '2024-11-26 13:37:15', '2024-11-26 13:37:15', 'Hoa Sinh Nhật', 0),
-(46, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat1', NULL, 1, '2024-11-26 13:37:15', '2024-11-27 04:03:10', 'Hoa Sinh Nhật', 45);
+(45, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat', NULL, 1, '2024-11-26 13:37:15', '2024-11-26 13:37:15', 'Hoa Sinh Nhật', NULL),
+(46, 'Hoa Sinh Nhật', 'category_banners/01JDMB1HA3580PXCR82EK17YPM.webp', 'hoa-sinh-nhat1', NULL, 1, '2024-11-26 13:37:15', '2024-12-03 03:03:07', 'Hoa Sinh Nhật', NULL);
 
 -- --------------------------------------------------------
 
@@ -7987,7 +8014,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('AGQ18UUHCYUqKsEQhCyAq6BuOgELyVhbyf4wfutt', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo2OntzOjY6Il90b2tlbiI7czo0MDoiQ0RTemdFS29zT0UzYUJzaFpDZWtBbEZjRWR3MkFXUVRiVkdIbXJsRCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mzg6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hZG1pbi9jYXRlZ29yaWVzIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQ3ZkpaSy9vMThxMVY4VFZCQ0lsVC9lbEcvbjI2Ty4ybHBoWmlSVTVNeDBaQWZKcUhZLndWdSI7fQ==', 1732936106);
+('1qY2UeOhS1406HKT4yKGczSwB82nNF9I1Dug5L2C', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiWkg0ampRNGN2SjhFZTZDTW0yalZkRTJldmVyZm9HVW1MS2E0dFhlRCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mjc6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hZG1pbiI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6MzoidXJsIjthOjA6e31zOjUwOiJsb2dpbl93ZWJfNTliYTM2YWRkYzJiMmY5NDAxNTgwZjAxNGM3ZjU4ZWE0ZTMwOTg5ZCI7aToxO3M6MTc6InBhc3N3b3JkX2hhc2hfd2ViIjtzOjYwOiIkMnkkMTIka2VlRG95VFRMS3dKeXZyLlNOQnZ3ZVpNLlJKM1VzVzMycFhwYkxSSjJkSVhtZmh0OExjclMiO3M6ODoiZmlsYW1lbnQiO2E6MDp7fX0=', 1733195424);
 
 -- --------------------------------------------------------
 
@@ -8175,7 +8202,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `phone`, `province`, `district`, `ward`, `detailed_address`, `theme`, `theme_color`) VALUES
-(1, 'Trần Lê Huy Hoàng', 'admin@gmail.com', NULL, '$2y$12$7fJZK/o18q1V8TVBCIlT/elG/n26O.2lphZiRU5Mx0ZAfJqHY.wVu', NULL, '2024-10-06 20:14:41', '2024-10-21 10:24:43', '0335139450', 'HCM', 'Quận 12', 'Đông Hưng Thuận', '67 ĐHT 22', 'default', NULL),
+(1, 'Trần Lê Huy Hoàng', 'admin@gmail.com', NULL, '$2y$12$keeDoyTTLKwJyvr.SNBvweZM.RJ3UsW32pXpbLRJ2dIXmfht8LcrS', NULL, '2024-10-06 20:14:41', '2024-12-03 02:54:40', '0335139450', 'HCM', 'Quận 12', 'Đông Hưng Thuận', '67 ĐHT 22', 'default', NULL),
 (2, '12312333', '2509roblox@gmail.com', NULL, '$2y$12$dme16d08JrFYxU5uh9rtxefGm9wq7q28IIn3KwCE6bFgnu29Occky', NULL, '2024-10-07 06:45:05', '2024-10-30 09:18:46', '03351394590', 'HCM', 'Quận 12', 'Đông Hưng Thuận', '67 ĐHT 22', 'default', NULL);
 
 --
@@ -8351,7 +8378,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `activity_history`
 --
 ALTER TABLE `activity_history`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6906;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6932;
 
 --
 -- AUTO_INCREMENT for table `addresses`

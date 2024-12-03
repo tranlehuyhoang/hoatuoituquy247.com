@@ -1342,7 +1342,7 @@
                                     <li class="header-block">
                                         <div class="header-block-block-1">
                                             <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_985380188">
-                                                <a class="" href="tel:+84348278722">
+                                                <a class="" href="tel:+84853114114">
                                                     <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                                         <img width="312" height="92"
                                                             src="/assets/wp-content/uploads/2019/10/hotline-dat-hoa-nhanh.jpg.webp"
@@ -1820,7 +1820,7 @@
                                         <p>Hoa Tươi Tứ Quý là shop hoa tươi hỗ trợ khách hàng đặt hoa online, giao hoa tận nơi miễn
                                             phí khu vực nội thành.</p>
                                         <p>Website: <a href="/">https://tramhoa.com/</a><br>Điện thoại:
-                                            <a href="tel:0853114114">085 311 41 14</a><br>Zalo: <a
+                                            <a href="tel:+84853114114">085 311 41 14</a><br>Zalo: <a
                                                 href="https://zalo.me/3588203683113605383" target="_blank"
                                                 rel="noopener">https://zalo.me/3588203683113605383</a><br>Google Maps: <a
                                                 href="https://g.page/tramhoavn"
@@ -1979,7 +1979,7 @@
                             <div class="copyright-footer">
                                 <strong> CÔNG TY TNHH HOA PHÚC NIÊN </strong><br />
                                 <strong>MST 0318559939 </strong><br />
-                                Số điện thoại: <a href="tel:0853114114">085 311 41 14</a><br />
+                                Số điện thoại: <a href="tel:+84853114114">085 311 41 14</a><br />
                                 Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a><br />
                                 Thời gian làm việc: 07:00 - 20:30, Thứ Hai - Chủ Nhật<br />
                             </div>
@@ -2282,7 +2282,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a href="tel:+84853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

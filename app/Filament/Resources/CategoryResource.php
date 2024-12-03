@@ -63,8 +63,8 @@ class CategoryResource extends Resource
                             ->helperText('Slug tự động được tạo từ tên danh mục. Không cần nhập thủ công.'),
 
                             Select::make('by_cat')
-                            ->required()
                             ->label('Danh Mục')
+                            ->default(0)
                             ->options(Category::all()->pluck('name', 'id'))
                             ->placeholder('Chọn danh mục cha'),
 

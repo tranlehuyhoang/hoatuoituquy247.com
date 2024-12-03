@@ -1390,8 +1390,7 @@
                                                 trực
                                                 tiếp trên website một cách dễ dàng. Ngoài ra, quý khách còn có thể đặt
                                                 hoa
-                                                thông qua hotline <a href="tel:+84348278722"><strong>034 827
-                                                        8722</strong></a>, nhân viên tư vấn sẽ hỗ trợ khách hàng một
+                                                thông qua hotline <a href="tel:+84853114114"><strong>085 311 41 14</strong></a>, nhân viên tư vấn sẽ hỗ trợ khách hàng một
                                                 cách
                                                 nhanh nhất. Đơn hàng sẽ được thực hiện khi được nhân viên xác nhận thông
                                                 tin

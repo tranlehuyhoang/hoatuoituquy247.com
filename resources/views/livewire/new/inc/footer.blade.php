@@ -66,7 +66,7 @@
                 <div class="copyright-footer">
                     <strong> SHOP HOA TƯƠI TỨ QUÝ </strong><br />
 
-                    Số điện thoại: <a href="tel:0853114114">085 311 41 14</a><br />
+                    Số điện thoại: <a href="tel:+84853114114">085 311 41 14</a><br />
                     Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a><br />
                     Thời gian làm việc: 07:00 - 20:30, Thứ Hai - Chủ Nhật<br />
                 </div>

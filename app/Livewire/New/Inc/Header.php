@@ -16,7 +16,7 @@ class Header extends Component
     {
         $this->cartItems = CartManagement::getCartItemsFromCookie(); // Retrieve cart items from cookie
         $this->total_amount = CartManagement::calculateGrandTotal($this->cartItems);
-        $categories = Category::with('subCategories')->where('by_cat', 0)->get();
+        $categories = Category::with('subCategories')->where('by_cat', null)->get();
         $this->categories = $categories;
         ActivityHistory::create([
             'time' => now(), // Thời gian hiện tại

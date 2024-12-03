@@ -1064,7 +1064,7 @@
                                                 thức sau:</p>
                                             <ul>
                                                 <li>Đặt hoa trực tiếp trên Website: <strong><a href="https://tramhoa.com">www.tramhoa.com</a></strong></li>
-                                                <li>Liên hệ qua Tổng đài tư vấn và hỗ trợ đặt hoa: <strong><a href="tel:0853114114">085 311 4114</a></strong></li>
+                                                <li>Liên hệ qua Tổng đài tư vấn và hỗ trợ đặt hoa: <strong><a href="tel:+84853114114">085 311 4114</a></strong></li>
                                                 <li>Liên hệ qua Email: <strong><a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a></strong>
                                                 </li>
                                                 <li>Liên hệ qua Zalo: <strong><a href="https://zalo.me/0853114114" target="_blank" rel="noopener">https://zalo.me/0853114114</a></strong></li>
@@ -1202,7 +1202,7 @@
                                                     </div>
                                                 </div>
                                                 <div id="col-831628028" class="col medium-4 small-12 large-4">
-                                                    <div class="col-inner text-center"><a href="tel:0853114114" class="button primary expand" style="border-radius:60px;">
+                                                    <div class="col-inner text-center"><a href="tel:+84853114114" class="button primary expand" style="border-radius:60px;">
                                                             <i class="icon-phone" aria-hidden="true"></i>
                                                             <span>034-827-8722</span>
                                                         </a></div>
@@ -1334,7 +1334,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a href="tel:+84853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

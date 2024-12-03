@@ -9,7 +9,7 @@ class Menu extends Component
     public $categories;
     public function mount()
     {
-        $categories = Category::with('subCategories')->where('by_cat', 0)->get();
+        $categories = Category::with('subCategories')->where('by_cat', null)->get();
         $this->categories = $categories;
     }
     public function render()

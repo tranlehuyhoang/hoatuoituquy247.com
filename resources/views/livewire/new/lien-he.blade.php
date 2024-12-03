@@ -1059,7 +1059,7 @@
                                             <p>Trường hợp có bất kỳ thắc mắc nào, bạn có thể liên hệ trực tiếp qua số
                                                 điện thoại bên dưới</p>
                                             <p><strong><span style="text-decoration: underline;">Hotline:</span> <a
-                                                        href="tel:0853114114">085 311 4114</a> (Có Zalo /
+                                                        href="tel:+84853114114">085 311 4114</a> (Có Zalo /
                                                     Viber)</strong></p>
                                             <ul>
                                                 <li>Email: <a href="mailto:hoatuquy24.7@gmail.com">hoatuquy24.7@gmail.com</a>
@@ -1232,7 +1232,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a href="tel:+84853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

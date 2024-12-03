@@ -24,39 +24,6 @@
                     </li>
                 @endforeach
 
-            <li class="html header-social-icons ml-0">
-                <div class="social-icons follow-icons"><a  target="_blank"
-                        data-label="Facebook" class="icon plain facebook tooltip" title="Theo dõi trên Facebook"
-                        aria-label="Theo dõi trên Facebook" rel="noopener nofollow"><i
-                            class="icon-facebook"></i></a><a   target="_blank"
-                        data-label="Instagram" class="icon plain instagram tooltip" title="Theo dõi trên Instagram"
-                        aria-label="Theo dõi trên Instagram" rel="noopener nofollow"><i
-                            class="icon-instagram"></i></a><a
-                        target="_blank" data-label="TikTok" class="icon plain tiktok tooltip"
-                        title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok" rel="noopener nofollow"><i
-                            class="icon-tiktok"></i></a><a data-label="Twitter"
-                        target="_blank" class="icon plain twitter tooltip" title="Theo dõi trên Twitter"
-                        aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i class="icon-twitter"></i></a><a
-                       data-label="Pinterest" target="_blank"
-                        class="icon plain pinterest tooltip" title="Theo dõi trên Pinterest"
-                        aria-label="Theo dõi trên Pinterest" rel="noopener nofollow"><i
-                            class="icon-pinterest"></i></a><a
-                        data-label="LinkedIn" target="_blank" class="icon plain linkedin tooltip"
-                        title="Theo dõi trên LinkedIn" aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
-                            class="icon-linkedin"></i></a><a
-                        data-label="YouTube"
-                        target="_blank" class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
-                        aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i class="icon-youtube"></i></a><a
-                         data-label="Flickr" target="_blank"
-                        class="icon plain flickr tooltip" title="Flickr" aria-label="Flickr"
-                        rel="noopener nofollow"><i class="icon-flickr"></i></a><a
-                         data-label="500px" target="_blank"
-                        class="icon plain px500 tooltip" title="Theo dõi trên 500px" aria-label="Theo dõi trên 500px"
-                        rel="noopener nofollow"><i class="icon-500px"></i></a><a
-                        data-label="VKontakte" target="_blank" class="icon plain vk tooltip"
-                        title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
-                        rel="noopener nofollow"><i class="icon-vk"></i></a></div>
-            </li>
             <li class="header-search-form search-form html relative has-icon">
                 <div class="header-search-form-wrapper">
                     <div class="searchform-wrapper ux-search-box relative form-flat is-normal">

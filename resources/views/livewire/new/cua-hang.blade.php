@@ -1280,7 +1280,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a href="tel:+84853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

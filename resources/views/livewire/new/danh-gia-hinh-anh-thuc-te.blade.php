@@ -1625,7 +1625,7 @@
                                                                 <h3><span style="font-size: 130%;"><strong>Đặt Hoa
                                                                             Ngay<br></strong></span></h3>
                                                                 <p>Hoa Tươi Tứ Quý đang chờ để được phục vụ quý khách</p>
-                                                                <a href="tel:0853114114" class="button white is-outline"
+                                                                <a href="tel:+84853114114" class="button white is-outline"
                                                                     style="border-radius:99px;">
                                                                     <span>Hotline 085 311 4114</span>
                                                                 </a><a href="https://zalo.me/0853114114"
@@ -1786,7 +1786,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
             <li class="hotline">
-                <a href="tel:0853114114" target="_blank" rel="nofollow"></a>
+                <a href="tel:+84853114114" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
         <div id="login-form-popup" class="lightbox-content mfp-hide">

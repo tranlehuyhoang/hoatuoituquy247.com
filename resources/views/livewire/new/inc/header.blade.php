@@ -11,45 +11,7 @@
                     </ul>
                 </div>
                 <div class="flex-col hide-for-medium flex-right">
-                    <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
-                        <li class="html header-social-icons ml-0">
-                            <div class="social-icons follow-icons"><a
-                                    target="_blank" data-label="Facebook" class="icon plain facebook tooltip"
-                                    title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
-                                    rel="noopener nofollow"><i class="icon-facebook"></i></a><a
-                                      target="_blank" data-label="Instagram"
-                                    class="icon plain instagram tooltip" title="Theo dõi trên Instagram"
-                                    aria-label="Theo dõi trên Instagram" rel="noopener nofollow"><i
-                                        class="icon-instagram"></i></a><a
-                                    target="_blank" data-label="TikTok" class="icon plain tiktok tooltip"
-                                    title="Theo dõi trên TikTok" aria-label="Theo dõi trên TikTok"
-                                    rel="noopener nofollow"><i class="icon-tiktok"></i></a><a
-                                    data-label="Twitter" target="_blank"
-                                    class="icon plain twitter tooltip" title="Theo dõi trên Twitter"
-                                    aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i
-                                        class="icon-twitter"></i></a><a
-                                    data-label="Pinterest" target="_blank" class="icon plain pinterest tooltip"
-                                    title="Theo dõi trên Pinterest" aria-label="Theo dõi trên Pinterest"
-                                    rel="noopener nofollow"><i class="icon-pinterest"></i></a><a
-                                   data-label="LinkedIn"
-                                    target="_blank" class="icon plain linkedin tooltip" title="Theo dõi trên LinkedIn"
-                                    aria-label="Theo dõi trên LinkedIn" rel="noopener nofollow"><i
-                                        class="icon-linkedin"></i></a><a
-                                     data-label="YouTube"
-                                    target="_blank" class="icon plain youtube tooltip" title="Theo dõi trên YouTube"
-                                    aria-label="Theo dõi trên YouTube" rel="noopener nofollow"><i
-                                        class="icon-youtube"></i></a><a
-                                    data-label="Flickr" target="_blank" class="icon plain flickr tooltip" title="Flickr"
-                                    aria-label="Flickr" rel="noopener nofollow"><i class="icon-flickr"></i></a><a
-                                  data-label="500px" target="_blank"
-                                    class="icon plain px500 tooltip" title="Theo dõi trên 500px"
-                                    aria-label="Theo dõi trên 500px" rel="noopener nofollow"><i
-                                        class="icon-500px"></i></a><a
-                                    data-label="VKontakte" target="_blank" class="icon plain vk tooltip"
-                                    title="Theo dõi trên VKontakte" aria-label="Theo dõi trên VKontakte"
-                                    rel="noopener nofollow"><i class="icon-vk"></i></a></div>
-                        </li>
-                    </ul>
+
                 </div>
                 <div class="flex-col show-for-medium flex-grow">
                     <ul class="nav nav-center nav-small mobile-nav  nav-divided">
@@ -90,7 +52,7 @@
                         <li class="header-block">
                             <div class="header-block-block-1">
                                 <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1859607507">
-                                    <a class="" href="tel:+84348278722">
+                                    <a class="" href="tel:+84853114114">
                                         <div class="img-inner dark" style="margin:20px 0px 20px 0px;">
                                             <img width="312" height="92"
                                                 src="/image.png"
@@ -221,26 +183,31 @@
                 <div class="flex-col hide-for-medium flex-center">
                     <ul class="nav header-nav header-bottom-nav nav-center  nav-spacing-xlarge nav-uppercase">
                         @foreach ($categories as $category)
-                            <li id="menu-item-38354"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-38354 menu-item-design-default has-dropdown">
-                                <a href="/categories/{{ $category->slug }}" class="nav-top-link"
-                                    aria-expanded="false" aria-haspopup="menu">{{ $category->name }}<i
-                                        class="icon-angle-down"></i></a>
+                        <li id="menu-item-38354"
+                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-38354 menu-item-design-default {{ $category->subCategories->isNotEmpty() ? 'has-dropdown' : '' }}">
+                            <a href="/categories/{{ $category->slug }}" class="nav-top-link"
+                                aria-expanded="false" aria-haspopup="menu">{{ $category->name }}
+                                @if ($category->subCategories->isNotEmpty())
+                                    <i class="icon-angle-down"></i>
+                                @endif
+                            </a>
+                            @if ($category->subCategories->isNotEmpty())
                                 <ul class="sub-menu nav-dropdown nav-dropdown-simple">
                                     <li id="menu-item-22021"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-22021 nav-dropdown-col">
                                         <ul class="sub-menu nav-column nav-dropdown-simple">
                                             @foreach ($category->subCategories as $subCategory)
-                                            <li id="menu-item-31278"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
+                                                <li id="menu-item-31278"
+                                                    class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-31278">
                                                     <a href="/categories/{{ $subCategory->slug }}">{{ $subCategory->name }}</a>
                                                 </li>
                                             @endforeach
                                         </ul>
                                     </li>
                                 </ul>
-                            </li>
-                        @endforeach
+                            @endif
+                        </li>
+                    @endforeach
                     </ul>
                 </div>
                 <div class="flex-col hide-for-medium flex-right flex-grow">
