@@ -1196,7 +1196,7 @@
                 <a href="https://zalo.me/3588203683113605383" target="_blank" rel="nofollow"></a>
             </li>
         </ul>
-        <ul class="tramhoavn-mobile-contact-bar">
+        <ul class="tramhoavn-mobile-contact-bar" hidden>
             <li class="facebook">
                 <a href="https://www.messenger.com/t/tramhoavn" target="_blank" rel="nofollow"></a>
             </li>

@@ -18,6 +18,11 @@
         content="Hoa Tươi Tứ Quý là shop hoa tươi hỗ trợ đặt hoa online, giao hoa tận nơi miễn phí vào các dịp: Hoa sinh nhật, Hoa khai trương, hoa chia buồn đám tang,...">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     @livewireStyles
+    <style>
+        .tramhoavn-mobile-contact-bar {
+  display: none !important;
+}
+    </style>
 </head>
 
 <body>
@@ -283,6 +288,9 @@
 }
 #zalo-vr .phone-vr-img-circle {
     background-color: #2196F3;
+}
+.tramhoavn-mobile-contact-bar {
+  display: none !important;
 }
 </style>
 </html>
