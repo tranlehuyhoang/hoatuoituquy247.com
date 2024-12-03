@@ -1419,28 +1419,46 @@
                                                                             <div class="icon-inner">
                                                                                 <img decoding="async" width="200"
                                                                                     height="200"
-                                                                                    src="https://api.vietqr.io/mb/0966579217/{{ number_format($order->grand_total, 0, ',', '') }}/{{ $order->order_code }}/vietqr_net_2.jpg?accountName=TRAN+LE+HOANG+GIANG"
+                                                                                    src="https://api.vietqr.io/acb/43161327/{{ number_format($order->grand_total, 0, ',', '') }}/{{ $order->order_code }}/vietqr_net_2.jpg?accountName=NGUYEN+THI+MINH+THAO"
                                                                                     class="attachment-medium size-medium"
                                                                                     alt=""
                                                                                     sizes="(max-width: 200px) 100vw, 200px" />
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="icon-box-text last-reset">
-                                                                        <h3>MBBANK</h3>
-                                                                        <p>Số Tài Khoản:
-                                                                            <strong>0966579217</strong><br />Chủ Tài
-                                                                            Khoản: TRAN LE HOANG GIANG</p>
-                                                                        <p>Số Tiền:
-                                                                            <strong>{{ number_format($order->grand_total, 0, ',', '.') }}
-                                                                                đ</strong><br />Nội dung chuyển khoản:
-                                                                            <strong>{{ $order->order_code }}</strong>
-                                                                        </p>
-                                                                        <p>Trạng thái: <strong>
-                                                                                {{ $order->payment_status == 'pending' ? 'Chờ thanh toán' : 'Đã thanh toán' }}</strong><br />
-                                                                        </p>
+                                                                    <div class="icon-box-text last-reset" id="copy-content">
+                                                                        <h3>ACB</h3>
+                                                                        <p>
+                                                                            Số Tài Khoản:
+                                                                            <strong id="account-number" onclick="copyToClipboard('43161327')">43161327</strong>
 
+                                                                            <br />Chủ Tài Khoản: NGUYEN THI MINH THAO
+                                                                        </p>
+                                                                        <p>
+                                                                            Số Tiền:
+                                                                            <strong>{{ number_format($order->grand_total, 0, ',', '.') }} đ</strong><br />
+                                                                            Nội dung chuyển khoản:
+                                                                            <strong id="transaction-content" onclick="copyToClipboard('{{ $order->order_code }}')">{{ $order->order_code }}</strong>
+                                                                        </p>
+                                                                        <p>
+                                                                            Trạng thái: <strong>{{ $order->payment_status == 'pending' ? 'Chờ thanh toán' : 'Đã thanh toán' }}</strong><br />
+                                                                        </p>
                                                                     </div>
+
+                                                                    <button id="copy-transaction">Sao chép nội dung giao dịch</button>
+
+                                                                    <script>
+                                                                        function copyToClipboard(text) {
+                                                                            const textarea = document.createElement('textarea');
+                                                                            textarea.value = text;
+                                                                            document.body.appendChild(textarea);
+                                                                            textarea.select();
+                                                                            document.execCommand('copy');
+                                                                            document.body.removeChild(textarea);
+                                                                            alert('Đã sao chép!');
+                                                                        }
+
+                                                                    </script>
                                                                 </div>
                                                                 @endif
                                                             </div>
@@ -1626,7 +1644,7 @@
                 }
             }
         </style>
-        <ul class="tramhoavn-pc-contact-bar">
+        <ul class="tramhoavn-pc-contact-bar" hidden>
             <li class="facebook">
                 <a href="https://www.messenger.com/t/tramhoavn" target="_blank" rel="nofollow"></a>
             </li>

@@ -1160,7 +1160,7 @@
                 }
             }
         </style>
-        <ul class="tramhoavn-pc-contact-bar">
+        <ul class="tramhoavn-pc-contact-bar" hidden>
             <li class="facebook">
                 <a href="https://www.messenger.com/t/tramhoavn" target="_blank" rel="nofollow"></a>
             </li>
